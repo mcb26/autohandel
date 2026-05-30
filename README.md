@@ -67,7 +67,80 @@ Danach Seite neu laden (Hard-Reload). Der Server erkennt Änderungen an `leads/d
 - `/danke/` Danke-Seite
 - `/datenschutz/` Datenschutz
 - `/impressum/` Impressum
+- `/dashboard/` Händler-Dashboard (Login nötig)
 - `/admin/` Django-Admin
+
+## Deployment auf dem Server
+
+Repository: [github.com/mcb26/autohandel](https://github.com/mcb26/autohandel)
+
+### 1. Code holen
+
+```bash
+cd /var/www   # oder ein anderer Zielordner
+git clone https://github.com/mcb26/autohandel.git
+cd autohandel
+```
+
+### 2. Python-Umgebung & Abhängigkeiten
+
+```bash
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+```
+
+### 3. Konfiguration (`.env`)
+
+```bash
+cp .env.example .env
+nano .env
+```
+
+Wichtig für Produktion:
+
+```env
+DJANGO_DEBUG=False
+DJANGO_ALLOWED_HOSTS=ihre-domain.de,www.ihre-domain.de
+DJANGO_SECRET_KEY=ein-langer-zufälliger-string
+SITE_BASE_URL=https://ihre-domain.de
+
+TELEGRAM_BOT_TOKEN=...
+TELEGRAM_NOTIFY_CHAT_ID=...
+```
+
+Die `.env` liegt nur auf dem Server – nie ins Git committen.
+
+### 4. Datenbank & Admin-Benutzer
+
+```bash
+source venv/bin/activate
+python manage.py migrate
+python manage.py createsuperuser
+python manage.py collectstatic --noinput
+```
+
+Damit werden Tabellen angelegt und statische Dateien nach `staticfiles/` kopiert.
+
+### 5. Test starten
+
+```bash
+python manage.py runserver 0.0.0.0:8000
+```
+
+Für Dauerbetrieb z. B. **Gunicorn** + **Nginx** (Reverse Proxy). `media/` muss beschreibbar sein (hochgeladene Fahrzeugbilder).
+
+### 6. Updates vom GitHub holen
+
+```bash
+cd /var/www/autohandel
+git pull
+source venv/bin/activate
+pip install -r requirements.txt
+python manage.py migrate
+python manage.py collectstatic --noinput
+# Gunicorn/Systemd-Dienst neu starten
+```
 
 ## Rechtlicher Hinweis
 
