@@ -1,4 +1,4 @@
-# Django Autohandler Landingpage
+# Autohandel
 
 Dieses Projekt ist eine Django-Webapp für einen Autohändler mit Lead-Formular. Kunden können Fahrzeuge anbieten, und Anfragen werden in SQLite gespeichert sowie im Django-Admin verwaltet.
 
