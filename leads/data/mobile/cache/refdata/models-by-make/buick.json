@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Century",
+    "description": "Century",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BUICK/model/Century"
+  },
+  {
+    "name": "Electra",
+    "description": "Electra",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BUICK/model/Electra"
+  },
+  {
+    "name": "Enclave",
+    "description": "Enclave",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BUICK/model/Enclave"
+  },
+  {
+    "name": "La Crosse",
+    "description": "La Crosse",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BUICK/model/La%20Crosse"
+  },
+  {
+    "name": "Le Sabre",
+    "description": "Le Sabre",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BUICK/model/Le%20Sabre"
+  },
+  {
+    "name": "Park Avenue",
+    "description": "Park Avenue",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BUICK/model/Park%20Avenue"
+  },
+  {
+    "name": "Regal",
+    "description": "Regal",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BUICK/model/Regal"
+  },
+  {
+    "name": "Riviera",
+    "description": "Riviera",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BUICK/model/Riviera"
+  },
+  {
+    "name": "Roadmaster",
+    "description": "Roadmaster",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BUICK/model/Roadmaster"
+  },
+  {
+    "name": "Skylark",
+    "description": "Skylark",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BUICK/model/Skylark"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BUICK/model/ANDERE"
+  }
+]

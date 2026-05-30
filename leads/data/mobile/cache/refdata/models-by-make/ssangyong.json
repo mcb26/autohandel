@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Actyon",
+    "description": "Actyon",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SSANGYONG/model/Actyon"
+  },
+  {
+    "name": "Family",
+    "description": "Family",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SSANGYONG/model/Family"
+  },
+  {
+    "name": "Korando",
+    "description": "Korando",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SSANGYONG/model/Korando"
+  },
+  {
+    "name": "Kyron",
+    "description": "Kyron",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SSANGYONG/model/Kyron"
+  },
+  {
+    "name": "MUSSO",
+    "description": "MUSSO",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SSANGYONG/model/MUSSO"
+  },
+  {
+    "name": "REXTON",
+    "description": "REXTON",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SSANGYONG/model/REXTON"
+  },
+  {
+    "name": "Rodius",
+    "description": "Rodius",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SSANGYONG/model/Rodius"
+  },
+  {
+    "name": "Tivoli",
+    "description": "Tivoli",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SSANGYONG/model/Tivoli"
+  },
+  {
+    "name": "Torres",
+    "description": "Torres",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SSANGYONG/model/Torres"
+  },
+  {
+    "name": "XLV",
+    "description": "XLV",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SSANGYONG/model/XLV"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SSANGYONG/model/ANDERE"
+  }
+]

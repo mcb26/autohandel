@@ -1,0 +1,297 @@
+[
+  {
+    "name": "100",
+    "description": "100",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/AUDI/model/100"
+  },
+  {
+    "name": "200",
+    "description": "200",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/AUDI/model/200"
+  },
+  {
+    "name": "80",
+    "description": "80",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/AUDI/model/80"
+  },
+  {
+    "name": "90",
+    "description": "90",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/AUDI/model/90"
+  },
+  {
+    "name": "A1",
+    "description": "A1",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/AUDI/model/A1"
+  },
+  {
+    "name": "A2",
+    "description": "A2",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/AUDI/model/A2"
+  },
+  {
+    "name": "A3",
+    "description": "A3",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/AUDI/model/A3"
+  },
+  {
+    "name": "A4",
+    "description": "A4",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/AUDI/model/A4"
+  },
+  {
+    "name": "A4 Allroad",
+    "description": "A4 Allroad",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/AUDI/model/A4%20Allroad"
+  },
+  {
+    "name": "A5",
+    "description": "A5",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/AUDI/model/A5"
+  },
+  {
+    "name": "A6",
+    "description": "A6",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/AUDI/model/A6"
+  },
+  {
+    "name": "A6 Allroad",
+    "description": "A6 Allroad",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/AUDI/model/A6%20Allroad"
+  },
+  {
+    "name": "A6 e-tron",
+    "description": "A6 e-tron",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/AUDI/model/A6%20e-tron"
+  },
+  {
+    "name": "A7",
+    "description": "A7",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/AUDI/model/A7"
+  },
+  {
+    "name": "A8",
+    "description": "A8",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/AUDI/model/A8"
+  },
+  {
+    "name": "Cabriolet",
+    "description": "Cabriolet",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/AUDI/model/Cabriolet"
+  },
+  {
+    "name": "Coupé",
+    "description": "Coupé",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/AUDI/model/Coup%C3%A9"
+  },
+  {
+    "name": "Q2",
+    "description": "Q2",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/AUDI/model/Q2"
+  },
+  {
+    "name": "Q3",
+    "description": "Q3",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/AUDI/model/Q3"
+  },
+  {
+    "name": "Q4",
+    "description": "Q4",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/AUDI/model/Q4"
+  },
+  {
+    "name": "Q4 e-tron",
+    "description": "Q4 e-tron",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/AUDI/model/Q4%20e-tron"
+  },
+  {
+    "name": "Q5",
+    "description": "Q5",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/AUDI/model/Q5"
+  },
+  {
+    "name": "Q6 e-tron",
+    "description": "Q6 e-tron",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/AUDI/model/Q6%20e-tron"
+  },
+  {
+    "name": "Q7",
+    "description": "Q7",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/AUDI/model/Q7"
+  },
+  {
+    "name": "Q8",
+    "description": "Q8",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/AUDI/model/Q8"
+  },
+  {
+    "name": "Q8 e-tron",
+    "description": "Q8 e-tron",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/AUDI/model/Q8%20e-tron"
+  },
+  {
+    "name": "QUATTRO",
+    "description": "quattro",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/AUDI/model/QUATTRO"
+  },
+  {
+    "name": "R8",
+    "description": "R8",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/AUDI/model/R8"
+  },
+  {
+    "name": "RS e-tron GT",
+    "description": "RS e-tron GT",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/AUDI/model/RS%20e-tron%20GT"
+  },
+  {
+    "name": "RS2",
+    "description": "RS2",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/AUDI/model/RS2"
+  },
+  {
+    "name": "RS3",
+    "description": "RS3",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/AUDI/model/RS3"
+  },
+  {
+    "name": "RS4",
+    "description": "RS4",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/AUDI/model/RS4"
+  },
+  {
+    "name": "RS5",
+    "description": "RS5",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/AUDI/model/RS5"
+  },
+  {
+    "name": "RS6",
+    "description": "RS6",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/AUDI/model/RS6"
+  },
+  {
+    "name": "RS7",
+    "description": "RS7",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/AUDI/model/RS7"
+  },
+  {
+    "name": "RSQ3",
+    "description": "RSQ3",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/AUDI/model/RSQ3"
+  },
+  {
+    "name": "RSQ8",
+    "description": "RSQ8",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/AUDI/model/RSQ8"
+  },
+  {
+    "name": "S1",
+    "description": "S1",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/AUDI/model/S1"
+  },
+  {
+    "name": "S2",
+    "description": "S2",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/AUDI/model/S2"
+  },
+  {
+    "name": "S3",
+    "description": "S3",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/AUDI/model/S3"
+  },
+  {
+    "name": "S4",
+    "description": "S4",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/AUDI/model/S4"
+  },
+  {
+    "name": "S5",
+    "description": "S5",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/AUDI/model/S5"
+  },
+  {
+    "name": "S6",
+    "description": "S6",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/AUDI/model/S6"
+  },
+  {
+    "name": "S6 e-tron",
+    "description": "S6 e-tron",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/AUDI/model/S6%20e-tron"
+  },
+  {
+    "name": "S7",
+    "description": "S7",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/AUDI/model/S7"
+  },
+  {
+    "name": "S8",
+    "description": "S8",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/AUDI/model/S8"
+  },
+  {
+    "name": "SQ2",
+    "description": "SQ2",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/AUDI/model/SQ2"
+  },
+  {
+    "name": "SQ5",
+    "description": "SQ5",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/AUDI/model/SQ5"
+  },
+  {
+    "name": "SQ6 e-tron",
+    "description": "SQ6 e-tron",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/AUDI/model/SQ6%20e-tron"
+  },
+  {
+    "name": "SQ7",
+    "description": "SQ7",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/AUDI/model/SQ7"
+  },
+  {
+    "name": "SQ8",
+    "description": "SQ8",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/AUDI/model/SQ8"
+  },
+  {
+    "name": "SQ8 e-tron",
+    "description": "SQ8 e-tron",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/AUDI/model/SQ8%20e-tron"
+  },
+  {
+    "name": "TT",
+    "description": "TT",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/AUDI/model/TT"
+  },
+  {
+    "name": "TT RS",
+    "description": "TT RS",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/AUDI/model/TT%20RS"
+  },
+  {
+    "name": "TTS",
+    "description": "TTS",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/AUDI/model/TTS"
+  },
+  {
+    "name": "V8",
+    "description": "V8",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/AUDI/model/V8"
+  },
+  {
+    "name": "e-tron",
+    "description": "e-tron",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/AUDI/model/e-tron"
+  },
+  {
+    "name": "e-tron GT",
+    "description": "e-tron GT",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/AUDI/model/e-tron%20GT"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/AUDI/model/ANDERE"
+  }
+]

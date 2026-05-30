@@ -1,0 +1,52 @@
+[
+  {
+    "label": "A5 Coupe 35 TFSI S tronic (Benzin, 150 PS)",
+    "fuel": "benzin",
+    "hp": 150
+  },
+  {
+    "label": "A5 Coupe 35 TFSI (Benzin, 150 PS)",
+    "fuel": "benzin",
+    "hp": 150
+  },
+  {
+    "label": "A5 Coupe 40 TFSI S tronic (Benzin, 204 PS)",
+    "fuel": "benzin",
+    "hp": 204
+  },
+  {
+    "label": "A5 Coupe 40 TFSI quattro S tronic (Benzin, 204 PS)",
+    "fuel": "benzin",
+    "hp": 204
+  },
+  {
+    "label": "A5 Coupe 45 TFSI quattro S tronic (Benzin, 265 PS)",
+    "fuel": "benzin",
+    "hp": 265
+  },
+  {
+    "label": "RS5 Coupe TFSI quattro tiptronic (Benzin, 450 PS)",
+    "fuel": "benzin",
+    "hp": 450
+  },
+  {
+    "label": "A5 Coupe 35 TDI S tronic (Diesel, 163 PS)",
+    "fuel": "diesel",
+    "hp": 163
+  },
+  {
+    "label": "A5 Coupe 40 TDI S tronic (Diesel, 204 PS)",
+    "fuel": "diesel",
+    "hp": 204
+  },
+  {
+    "label": "A5 Coupe 40 TDI quattro S tronic (Diesel, 204 PS)",
+    "fuel": "diesel",
+    "hp": 204
+  },
+  {
+    "label": "A5 Coupe 50 TDI quattro tiptronic (Diesel, 286 PS)",
+    "fuel": "diesel",
+    "hp": 286
+  }
+]

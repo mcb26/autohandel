@@ -1,0 +1,57 @@
+[
+  {
+    "label": "316i (Benzin, 102 PS)",
+    "fuel": "benzin",
+    "hp": 102
+  },
+  {
+    "label": "316I (Benzin, 102 PS)",
+    "fuel": "benzin",
+    "hp": 102
+  },
+  {
+    "label": "318is (Benzin, 140 PS)",
+    "fuel": "benzin",
+    "hp": 140
+  },
+  {
+    "label": "318is/2 (Benzin, 140 PS)",
+    "fuel": "benzin",
+    "hp": 140
+  },
+  {
+    "label": "320i (Benzin, 150 PS)",
+    "fuel": "benzin",
+    "hp": 150
+  },
+  {
+    "label": "323i (Benzin, 170 PS)",
+    "fuel": "benzin",
+    "hp": 170
+  },
+  {
+    "label": "325i/2 (Benzin, 192 PS)",
+    "fuel": "benzin",
+    "hp": 192
+  },
+  {
+    "label": "325i (Benzin, 192 PS)",
+    "fuel": "benzin",
+    "hp": 192
+  },
+  {
+    "label": "328i (Benzin, 193 PS)",
+    "fuel": "benzin",
+    "hp": 193
+  },
+  {
+    "label": "M3 (Benzin, 286 PS)",
+    "fuel": "benzin",
+    "hp": 286
+  },
+  {
+    "label": "M3 (Benzin, 321 PS)",
+    "fuel": "benzin",
+    "hp": 321
+  }
+]

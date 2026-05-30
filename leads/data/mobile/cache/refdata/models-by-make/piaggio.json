@@ -1,0 +1,22 @@
+[
+  {
+    "name": "APE",
+    "description": "APE",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/PIAGGIO/model/APE"
+  },
+  {
+    "name": "APE TM",
+    "description": "APE TM",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/PIAGGIO/model/APE%20TM"
+  },
+  {
+    "name": "Porter",
+    "description": "Porter",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/PIAGGIO/model/Porter"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/PIAGGIO/model/ANDERE"
+  }
+]

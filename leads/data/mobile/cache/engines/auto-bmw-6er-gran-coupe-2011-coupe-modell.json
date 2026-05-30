@@ -1,0 +1,47 @@
+[
+  {
+    "label": "640i Gran Coupe (Benzin, 320 PS)",
+    "fuel": "benzin",
+    "hp": 320
+  },
+  {
+    "label": "640i xDrive Gran Coupe (Benzin, 320 PS)",
+    "fuel": "benzin",
+    "hp": 320
+  },
+  {
+    "label": "650i Gran Coupe (Benzin, 449 PS)",
+    "fuel": "benzin",
+    "hp": 449
+  },
+  {
+    "label": "650i xDrive Gran Coupe (Benzin, 449 PS)",
+    "fuel": "benzin",
+    "hp": 449
+  },
+  {
+    "label": "M6 Gran Coupe (Benzin, 560 PS)",
+    "fuel": "benzin",
+    "hp": 560
+  },
+  {
+    "label": "M6 Gran Coupe Competition (Benzin, 575 PS)",
+    "fuel": "benzin",
+    "hp": 575
+  },
+  {
+    "label": "M6 Gran Coupe Competition (Benzin, 600 PS)",
+    "fuel": "benzin",
+    "hp": 600
+  },
+  {
+    "label": "640d Gran Coupe (Diesel, 313 PS)",
+    "fuel": "diesel",
+    "hp": 313
+  },
+  {
+    "label": "640d xDrive Gran Coupe (Diesel, 313 PS)",
+    "fuel": "diesel",
+    "hp": 313
+  }
+]

@@ -1,0 +1,2826 @@
+{
+  "label": "Dodge",
+  "models": {
+    "avenger": {
+      "label": "Avenger",
+      "series": {
+        "dodge-avenger-sedan-facelift-2010": {
+          "label": "Dodge Avenger Sedan (facelift 2010)",
+          "engines": [
+            {
+              "label": "3.6 V6 (283 Hp) Autostick (2010 - 2014)",
+              "hp": 283,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 (173 Hp) Autostick (2010 - 2014)",
+              "hp": 173,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 (173 Hp) Automatic (2010 - 2014)",
+              "hp": 173,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dodge-avenger-sedan": {
+          "label": "Dodge Avenger Sedan",
+          "engines": [
+            {
+              "label": "3.5 V6 (235 Hp) AWD Autostick (2007 - 2009)",
+              "hp": 235,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.5 V6 (235 Hp) Autostick (2007 - 2010)",
+              "hp": 235,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.7 V6 (189 Hp) Flex Fuel Automatic (2007 - 2010)",
+              "hp": 189,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 16V (170 Hp) Automatic (2007 - 2010)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0i 16V (156 Hp) Automatic (2007 - 2010)",
+              "hp": 156,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0i 16V (156 Hp) (2007 - 2010)",
+              "hp": 156,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 CRD (140 Hp) DCT (2007 - 2010)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 CRD (140 Hp) (2007 - 2010)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dodge-avenger-coupe": {
+          "label": "Dodge Avenger Coupe",
+          "engines": [
+            {
+              "label": "2.5 V6 (166 Hp) (1994 - 2000)",
+              "hp": 166,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (141 Hp) Automatic (1994 - 2000)",
+              "hp": 141,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (141 Hp) (1994 - 2000)",
+              "hp": 141,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "caliber": {
+      "label": "Caliber",
+      "series": {
+        "dodge-caliber": {
+          "label": "Dodge Caliber",
+          "engines": [
+            {
+              "label": "SRT4 2.4 16V (303 Hp) (2007 - 2007)",
+              "hp": 303,
+              "fuel": "benzin"
+            },
+            {
+              "label": "SRT4 2.4 16V (295 Hp) (2008 - 2010)",
+              "hp": 295,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 16V (174 Hp) (2006 - 2007)",
+              "hp": 174,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 16V (159 Hp) (2006 - 2010)",
+              "hp": 159,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 16V CRD (140 Hp) (2006 - 2010)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 16V (150 Hp) (2006 - 2011)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "caravan": {
+      "label": "Caravan",
+      "series": {
+        "dodge-caravan-v-facelift-2011": {
+          "label": "Dodge Caravan V (facelift 2011)",
+          "engines": [
+            {
+              "label": "3.6 V6 (287 Hp) Automatic (2011 - 2020)",
+              "hp": 287,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dodge-caravan-v": {
+          "label": "Dodge Caravan V",
+          "engines": [
+            {
+              "label": "4.0 V6 (257 Hp) Automatic (2008 - 2010)",
+              "hp": 257,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.8 V6 (200 Hp) Automatic (2008 - 2010)",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.8 V6 (193 Hp) Automatic (2008 - 2010)",
+              "hp": 193,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.3 V6 (178 Hp) Automatic (2008 - 2010)",
+              "hp": 178,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dodge-caravan-iv-lwb": {
+          "label": "Dodge Caravan IV LWB",
+          "engines": [
+            {
+              "label": "3.8 V6 (218 Hp) Automatic (2000 - 2007)",
+              "hp": 218,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.8 V6 (218 Hp) 4x4 Automatic (2000 - 2007)",
+              "hp": 218,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.8 V6 (208 Hp) Automatic (2000 - 2007)",
+              "hp": 208,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.5 V6 (233 Hp) Automatic (2000 - 2007)",
+              "hp": 233,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.5 V6 (233 Hp) 4x4 Automatic (2000 - 2007)",
+              "hp": 233,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.3 V6 (182 Hp) Automatic (2000 - 2007)",
+              "hp": 182,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.3 V6 (182 Hp) 4x4 Automatic (2000 - 2007)",
+              "hp": 182,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dodge-caravan-iv-swb": {
+          "label": "Dodge Caravan IV SWB",
+          "engines": [
+            {
+              "label": "3.8 V6 (218 Hp) Automatic (2000 - 2007)",
+              "hp": 218,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.3 V6 (182 Hp) (2000 - 2007)",
+              "hp": 182,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 (152 Hp) Automatic (2000 - 2007)",
+              "hp": 152,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dodge-caravan-iii-lwb": {
+          "label": "Dodge Caravan III LWB",
+          "engines": [
+            {
+              "label": "3.8 V6 (166 Hp) Automatic (1996 - 2000)",
+              "hp": 166,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.8 V6 (166 Hp) 4x4 Automatic (1996 - 2000)",
+              "hp": 166,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.3 V6 (158 Hp) Automatic (1996 - 2000)",
+              "hp": 158,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.3 V6 (158 Hp) 4x4 Automatic (1996 - 2000)",
+              "hp": 158,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 (152 Hp) Automatic (1996 - 2000)",
+              "hp": 152,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 (152 Hp) 4x4 Automatic (1996 - 2000)",
+              "hp": 152,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dodge-caravan-iii-swb": {
+          "label": "Dodge Caravan III SWB",
+          "engines": [
+            {
+              "label": "3.8 V6 (166 Hp) Automatic (1996 - 2000)",
+              "hp": 166,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.8 V6 (166 Hp) 4x4 Automatic (1996 - 2000)",
+              "hp": 166,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.3 V6 (158 Hp) Automatic (1996 - 2000)",
+              "hp": 158,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 (152 Hp) Automatic (1996 - 2000)",
+              "hp": 152,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 (152 Hp) 4x4 Automatic (1996 - 2000)",
+              "hp": 152,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5d (116 Hp) (1996 - 2000)",
+              "hp": 116,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 (152 Hp) Automatic (1996 - 2000)",
+              "hp": 152,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 (152 Hp) 4x4 Automatic (1996 - 2000)",
+              "hp": 152,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 (152 Hp) 4x4 (1996 - 2000)",
+              "hp": 152,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 (152 Hp) (1996 - 2000)",
+              "hp": 152,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dodge-caravan-ii-lwb": {
+          "label": "Dodge Caravan II LWB",
+          "engines": [
+            {
+              "label": "3.8 V6 (164 Hp) Automatic (1991 - 1995)",
+              "hp": 164,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.3 V6 (164 Hp) Automatic (1991 - 1995)",
+              "hp": 164,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.3 V6 (164 Hp) 4x4 Automatic (1991 - 1995)",
+              "hp": 164,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.3 V6 (152 Hp) Automatic (1991 - 1995)",
+              "hp": 152,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.3 V6 (152 Hp) 4x4 Automatic (1991 - 1995)",
+              "hp": 152,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 (144 Hp) Automatic (1991 - 1995)",
+              "hp": 144,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 (144 Hp) (1991 - 1995)",
+              "hp": 144,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dodge-caravan-ii-swb": {
+          "label": "Dodge Caravan II SWB",
+          "engines": [
+            {
+              "label": "3.3 V6(165 Hp) Automatic (1991 - 1995)",
+              "hp": 165,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.3 V6 (165 Hp) 4x4 Automatic (1991 - 1995)",
+              "hp": 165,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.3 V6 (152 Hp) Automatic (1991 - 1995)",
+              "hp": 152,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.3 V6 (152 Hp) 4x4 Automatic (1991 - 1995)",
+              "hp": 152,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 (144 Hp) Automatic (1991 - 1995)",
+              "hp": 144,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 (144 Hp) 4x4 Automatic (1991 - 1995)",
+              "hp": 144,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 (102 Hp) Automatic (1991 - 1995)",
+              "hp": 102,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 (102 Hp) 4x4 Automatic (1991 - 1995)",
+              "hp": 102,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 (102 Hp) 4x4 (1991 - 1995)",
+              "hp": 102,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 (102 Hp) (1991 - 1995)",
+              "hp": 102,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dodge-caravan-i": {
+          "label": "Dodge Caravan I",
+          "engines": [
+            {
+              "label": "3.3L (150 Hp) (1990 - 1990)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0L (141 Hp) (1990 - 1990)",
+              "hp": 141,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0L (136 Hp) (1987 - 1989)",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.6L (114 Hp) (1984 - 1987)",
+              "hp": 114,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5L (150 Hp) (1989 - 1990)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5L (100 Hp) (1987 - 1990)",
+              "hp": 100,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2L (84 Hp) (1984 - 1987)",
+              "hp": 84,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "challenger": {
+      "label": "Challenger",
+      "series": {
+        "dodge-challenger-iii-facelift-2014": {
+          "label": "Dodge Challenger III (facelift 2014)",
+          "engines": [
+            {
+              "label": "SXT 3.6 Pentastar V6 (305 Hp) AWD Automatic (2018 - 2023)",
+              "hp": 305,
+              "fuel": "benzin"
+            },
+            {
+              "label": "SXT 3.6 Pentastar V6 (305 Hp) Automatic (2014 - 2023)",
+              "hp": 305,
+              "fuel": "benzin"
+            },
+            {
+              "label": "SRT Super Stock 6.2 HEMI V8 (807 Hp) TorqueFlite (2019 - 2023)",
+              "hp": 807,
+              "fuel": "benzin"
+            },
+            {
+              "label": "SRT Hellcat Redeye 6.2 HEMI V8 (797 Hp) Widebody Automatic (2018 - 2023)",
+              "hp": 797,
+              "fuel": "benzin"
+            },
+            {
+              "label": "SRT Hellcat Redeye 6.2 HEMI V8 (797 Hp) Automatic (2018 - 2023)",
+              "hp": 797,
+              "fuel": "benzin"
+            },
+            {
+              "label": "SRT Hellcat 6.2 HEMI V8 (717 Hp) Automatic (2018 - 2023)",
+              "hp": 717,
+              "fuel": "benzin"
+            },
+            {
+              "label": "SRT Hellcat 6.2 HEMI V8 (717 Hp) (2022 - 2023)",
+              "hp": 717,
+              "fuel": "benzin"
+            },
+            {
+              "label": "SRT Hellcat 6.2 HEMI V8 (707 Hp) Automatic (2015 - 2018)",
+              "hp": 707,
+              "fuel": "benzin"
+            },
+            {
+              "label": "SRT Hellcat 6.2 HEMI V8 (707 Hp) (2015 - 2018)",
+              "hp": 707,
+              "fuel": "benzin"
+            },
+            {
+              "label": "SRT Demon 170 6.2 HEMI V8 (900/1025 Hp) Ethanol TorqueFlite (2023 - 2023)",
+              "hp": 1025,
+              "fuel": "benzin"
+            },
+            {
+              "label": "SRT Demon 6.2 HEMI V8 (808 Hp) Automatic (2017 - 2018)",
+              "hp": 808,
+              "fuel": "benzin"
+            },
+            {
+              "label": "R/T Scat Pack 6.4 HEMI V8 (485 Hp) Automatic (2015 - 2023)",
+              "hp": 485,
+              "fuel": "benzin"
+            },
+            {
+              "label": "R/T Scat Pack 6.4 HEMI V8 (485 Hp) (2015 - 2023)",
+              "hp": 485,
+              "fuel": "benzin"
+            },
+            {
+              "label": "R/T 5.7 HEMI V8 (375 Hp) (2014 - 2023)",
+              "hp": 375,
+              "fuel": "benzin"
+            },
+            {
+              "label": "R/T 5.7 HEMI V8 (372 Hp) Automatic (2014 - 2023)",
+              "hp": 372,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dodge-challenger-iii": {
+          "label": "Dodge Challenger III",
+          "engines": [
+            {
+              "label": "SRT8 6.4 HEMI V8 (470 Hp) Automatic (2011 - 2014)",
+              "hp": 470,
+              "fuel": "benzin"
+            },
+            {
+              "label": "SRT8 6.1 HEMI V8 (425 Hp) Automatic (2008 - 2010)",
+              "hp": 425,
+              "fuel": "benzin"
+            },
+            {
+              "label": "R/T 5.7 HEMI V8 (372 Hp) Automatic (2009 - 2014)",
+              "hp": 372,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6 Pentastar V6 (305 Hp) Automatic (2011 - 2014)",
+              "hp": 305,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.5 V6 (250 Hp) Automatic (2009 - 2010)",
+              "hp": 250,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dodge-challenger": {
+          "label": "Dodge Challenger",
+          "engines": [
+            {
+              "label": "R/T 6.3 V8 (300 Hp) (1969 - 1974)",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "R/T 6.3 V8 (275 Hp) (1969 - 1974)",
+              "hp": 275,
+              "fuel": "benzin"
+            },
+            {
+              "label": "7.2 V8 (385 Hp) (1969 - 1974)",
+              "hp": 385,
+              "fuel": "benzin"
+            },
+            {
+              "label": "7.0 V8 Hemi (425 Hp) (1969 - 1974)",
+              "hp": 425,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.6 V8 (275 Hp) (1969 - 1974)",
+              "hp": 275,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.2 V8 (230 Hp) (1969 - 1974)",
+              "hp": 230,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.7 (145 Hp) (1969 - 1974)",
+              "hp": 145,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.2 (125 Hp) (1969 - 1974)",
+              "hp": 125,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "charger": {
+      "label": "Charger",
+      "series": {
+        "dodge-charger-viii-4-door": {
+          "label": "Dodge Charger VIII 4-Door",
+          "engines": [
+            {
+              "label": "SIXPACK 3.0L (550 Hp) AWD Automatic",
+              "hp": 550,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Daytona Scat Pack 100.5 kWh (680 Hp) AWD Electric",
+              "hp": 680,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dodge-charger-viii-2-door": {
+          "label": "Dodge Charger VIII 2-Door",
+          "engines": [
+            {
+              "label": "SIXPACK 3.0L (550 Hp) AWD Automatic",
+              "hp": 550,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Daytona Scat Pack 100.5 kWh (680 Hp) AWD Electric",
+              "hp": 680,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Daytona R/T 100.5 kWh (503 Hp) AWD Electric",
+              "hp": 503,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dodge-charger-vii-ld-facelift-2019": {
+          "label": "Dodge Charger VII (LD, facelift 2019)",
+          "engines": [
+            {
+              "label": "SXT 3.6 Pentastar V6 (300 Hp) AWD Automatic (2019 - 2023)",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "SXT 3.6 Pentastar V6 (292 Hp) Automatic (2019 - 2023)",
+              "hp": 292,
+              "fuel": "benzin"
+            },
+            {
+              "label": "SRT Hellcat Redeye 6.2 V8 (797 Hp) Widebody Automatic (2020 - 2023)",
+              "hp": 797,
+              "fuel": "benzin"
+            },
+            {
+              "label": "SRT Hellcat Daytona 6.2 HEMI V8 (717 Hp) Automatic (2019 - 2023)",
+              "hp": 717,
+              "fuel": "benzin"
+            },
+            {
+              "label": "SRT Hellcat 6.2 HEMI V8 (707 Hp) Automatic (2019 - 2023)",
+              "hp": 707,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Scat Pack 6.4 HEMI V8 (485 Hp) WideBody Automatic (2019 - 2023)",
+              "hp": 485,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Scat Pack 6.4 HEMI V8 (485 Hp) Automatic (2019 - 2023)",
+              "hp": 485,
+              "fuel": "benzin"
+            },
+            {
+              "label": "R/T 5.7 HEMI V8 (370 Hp) Automatic (2019 - 2023)",
+              "hp": 370,
+              "fuel": "benzin"
+            },
+            {
+              "label": "GT 3.6 V6 (300 Hp) Automatic (2019 - 2023)",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "GT 3.6 Pentastar V6 (300 Hp) AWD Automatic (2019 - 2023)",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dodge-charger-vii-ld-facelift-2015": {
+          "label": "Dodge Charger VII (LD, facelift 2015)",
+          "engines": [
+            {
+              "label": "SXT 3.6 Pentastar V6 (292 Hp) AWD Automatic (2015 - 2017)",
+              "hp": 292,
+              "fuel": "benzin"
+            },
+            {
+              "label": "SXT 3.6 Pentastar V6 (292 Hp) Automatic (2015 - 2019)",
+              "hp": 292,
+              "fuel": "benzin"
+            },
+            {
+              "label": "SRT Hellcat 6.2 HEMI V8 (707 Hp) Automatic (2015 - 2019)",
+              "hp": 707,
+              "fuel": "benzin"
+            },
+            {
+              "label": "SRT 392 6.4 HEMI V8 (485 Hp) Automatic (2015 - 2018)",
+              "hp": 485,
+              "fuel": "benzin"
+            },
+            {
+              "label": "SE 3.6 Pentastar V6 (292 Hp) AWD Automatic (2015 - 2017)",
+              "hp": 292,
+              "fuel": "benzin"
+            },
+            {
+              "label": "SE 3.6 Pentastar V6 (292 Hp) Automatic (2015 - 2017)",
+              "hp": 292,
+              "fuel": "benzin"
+            },
+            {
+              "label": "R/T Scat Pack 6.4 HEMI V8 (485 Hp) Automatic (2015 - 2018)",
+              "hp": 485,
+              "fuel": "benzin"
+            },
+            {
+              "label": "R/T Road & Track 5.7 HEMI V8 (370 Hp) Automatic (2015 - 2017)",
+              "hp": 370,
+              "fuel": "benzin"
+            },
+            {
+              "label": "R/T 5.7 HEMI V8 (370 Hp) Automatic (2015 - 2018)",
+              "hp": 370,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dodge-charger-vii-ld": {
+          "label": "Dodge Charger VII (LD)",
+          "engines": [
+            {
+              "label": "SXT 3.6 (305 Hp) AWD Automatic (2013 - 2014)",
+              "hp": 305,
+              "fuel": "benzin"
+            },
+            {
+              "label": "SXT 3.6 (305 Hp) Automatic (2013 - 2014)",
+              "hp": 305,
+              "fuel": "benzin"
+            },
+            {
+              "label": "SXT 3.6 (296 Hp) AWD Automatic (2012 - 2014)",
+              "hp": 296,
+              "fuel": "benzin"
+            },
+            {
+              "label": "SXT 3.6 (296 Hp) Automatic (2012 - 2014)",
+              "hp": 296,
+              "fuel": "benzin"
+            },
+            {
+              "label": "SRT8 6.4 (477 Hp) Automatic (2012 - 2014)",
+              "hp": 477,
+              "fuel": "benzin"
+            },
+            {
+              "label": "SE 3.6 (296 Hp) Automatic (2011 - 2014)",
+              "hp": 296,
+              "fuel": "benzin"
+            },
+            {
+              "label": "R/T 5.7 (375 Hp) AWD Automatic (2011 - 2014)",
+              "hp": 375,
+              "fuel": "benzin"
+            },
+            {
+              "label": "R/T 5.7 (375 Hp) Automatic (2011 - 2014)",
+              "hp": 375,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dodge-charger-vi-lx": {
+          "label": "Dodge Charger VI (LX)",
+          "engines": [
+            {
+              "label": "SXT 3.5 (254 Hp) AWD Automatic (2007 - 2010)",
+              "hp": 254,
+              "fuel": "benzin"
+            },
+            {
+              "label": "SXT 3.5 (254 Hp) Automatic (2006 - 2010)",
+              "hp": 254,
+              "fuel": "benzin"
+            },
+            {
+              "label": "STR8 6.1 (432 Hp) Automatic (2006 - 2010)",
+              "hp": 432,
+              "fuel": "benzin"
+            },
+            {
+              "label": "SE 2.7 (192 Hp) Automatic (2007 - 2007)",
+              "hp": 192,
+              "fuel": "benzin"
+            },
+            {
+              "label": "SE 2.7 (181 Hp) Automatic (2008 - 2010)",
+              "hp": 181,
+              "fuel": "benzin"
+            },
+            {
+              "label": "R/T 5.7 (375 Hp) AWD Automatic (2009 - 2010)",
+              "hp": 375,
+              "fuel": "benzin"
+            },
+            {
+              "label": "R/T 5.7 (375 Hp) Automatic (2009 - 2010)",
+              "hp": 375,
+              "fuel": "benzin"
+            },
+            {
+              "label": "R/T 5.7 (355 Hp) Automatic (2006 - 2008)",
+              "hp": 355,
+              "fuel": "benzin"
+            },
+            {
+              "label": "R/T 5.7 (345 Hp) AWD Automatic (2007 - 2008)",
+              "hp": 345,
+              "fuel": "benzin"
+            },
+            {
+              "label": "R/T 5.7 (345 Hp) Automatic (2006 - 2008)",
+              "hp": 345,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "dakota": {
+      "label": "Dakota",
+      "series": {
+        "dodge-dakota-iii-facelift-2007": {
+          "label": "Dodge Dakota III (facelift 2007)",
+          "engines": [
+            {
+              "label": "4.7 V8 (238 Hp) Automatic (2007 - 2011)",
+              "hp": 238,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.7 V8 (238 Hp) 4x4 Automatic (2007 - 2011)",
+              "hp": 238,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.7 V8 (238 Hp) 4x4 (2007 - 2011)",
+              "hp": 238,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.7 V8 (238 Hp) (2007 - 2011)",
+              "hp": 238,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.7 V6 (214 Hp) Automatic (2007 - 2011)",
+              "hp": 214,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.7 V6 (214 Hp) 4x4 Automatic (2007 - 2011)",
+              "hp": 214,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.7 V6 (214 Hp) 4x4 (2007 - 2011)",
+              "hp": 214,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.7 V6 (214 Hp) (2007 - 2011)",
+              "hp": 214,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dodge-dakota-iii": {
+          "label": "Dodge Dakota III",
+          "engines": [
+            {
+              "label": "4.7 V8 (238 Hp) Automatic (2005 - 2007)",
+              "hp": 238,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.7 V8 (238 Hp) 4x4 Automatic (2005 - 2007)",
+              "hp": 238,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.7 V8 (238 Hp) 4x4 (2005 - 2007)",
+              "hp": 238,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.7 V8 (238 Hp) (2005 - 2007)",
+              "hp": 238,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.7 V6 (214 Hp) Automatic (2005 - 2007)",
+              "hp": 214,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.7 V6 (214 Hp) 4x4 Automatic (2005 - 2007)",
+              "hp": 214,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.7 V6 (214 Hp) 4x4 (2005 - 2007)",
+              "hp": 214,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.7 V6 (214 Hp) (2005 - 2007)",
+              "hp": 214,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dodge-dakota-ii": {
+          "label": "Dodge Dakota II",
+          "engines": [
+            {
+              "label": "5.9 V8 (250 Hp) Automatic (1999 - 2005)",
+              "hp": 250,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.9 V8 (250 Hp) (1999 - 2005)",
+              "hp": 250,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.7 V8 (238 Hp) Automatic (1999 - 2005)",
+              "hp": 238,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.7 V8 (238 Hp) (1999 - 2005)",
+              "hp": 238,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.9 i (177 Hp) Automatic (1997 - 2005)",
+              "hp": 177,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.9 i (177 Hp) (1997 - 2005)",
+              "hp": 177,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.7 V6 (214 Hp) Automatic (1997 - 2005)",
+              "hp": 214,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.7 V6 (214 Hp) (1997 - 2005)",
+              "hp": 214,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dodge-dakota": {
+          "label": "Dodge Dakota",
+          "engines": [
+            {
+              "label": "5.2L V8 (230 Hp) (1991 - 1993)",
+              "hp": 230,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.2L V8 (225 Hp) (1994 - 1996)",
+              "hp": 225,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.2L V8 (170 Hp) (1991 - 1991)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.9L V6 (180 Hp) (1992 - 1993)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.9L V6 (175 Hp) (1994 - 1996)",
+              "hp": 175,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.9L V6 (125 Hp) (1987 - 1991)",
+              "hp": 125,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5L (120 Hp) (1996 - 1996)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5L (99 Hp) (1989 - 1995)",
+              "hp": 99,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2L (96 Hp) (1987 - 1988)",
+              "hp": 96,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "dart": {
+      "label": "Dart",
+      "series": {
+        "dodge-dart-pf": {
+          "label": "Dodge Dart (PF)",
+          "engines": [
+            {
+              "label": "2.4 MultiAir II (184 Hp) Automatic (2013 - 2016)",
+              "hp": 184,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 MultiAir II (184 Hp) (2013 - 2016)",
+              "hp": 184,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (160 Hp) Automatic (2012 - 2016)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (160 Hp) (2012 - 2016)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 MultiAir Turbo (160 Hp) DDCT (2012 - 2016)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 MultiAir Turbo (160 Hp) (2012 - 2016)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dodge-dart-iv-swinger-hardtop-facelift-1974": {
+          "label": "Dodge Dart IV Swinger Hardtop (facelift 1974)",
+          "engines": [
+            {
+              "label": "Keine exakte Motorliste verfügbar – bitte genaue Motorisierung im Freitext angeben"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dodge-dart-iv-swinger-hardtop-facelift-1970": {
+          "label": "Dodge Dart IV Swinger Hardtop (facelift 1970)",
+          "engines": [
+            {
+              "label": "5.2 V8 (230 Hp) (1970 - 1973)",
+              "hp": 230,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dodge-dart-iv-swinger-hardtop": {
+          "label": "Dodge Dart IV Swinger Hardtop",
+          "engines": [
+            {
+              "label": "Keine exakte Motorliste verfügbar – bitte genaue Motorisierung im Freitext angeben"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "daytona": {
+      "label": "Daytona",
+      "series": {
+        "dodge-daytona": {
+          "label": "Dodge Daytona",
+          "engines": [
+            {
+              "label": "3.0 V6 (141 Hp) (1990 - 1993)",
+              "hp": 141,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5L (152 Hp) (1990 - 1993)",
+              "hp": 152,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5L (150 Hp) (1989 - 1989)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5L (100 Hp) (1989 - 1993)",
+              "hp": 100,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5L (96 Hp) (1986 - 1988)",
+              "hp": 96,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2L (142 Hp) Turbo (1984 - 1990)",
+              "hp": 142,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2L (94 Hp) (1984 - 1993)",
+              "hp": 94,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2i (174 Hp) Turbo II (1989 - 1989)",
+              "hp": 174,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 Turbo III (224 Hp) (1992 - 1993)",
+              "hp": 224,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 L VNT (174 Hp) Turbo IV (1990 - 1990)",
+              "hp": 174,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "durango": {
+      "label": "Durango",
+      "series": {
+        "dodge-durango-iii-wd-facelift-2021": {
+          "label": "Dodge Durango III (WD, facelift 2021)",
+          "engines": [
+            {
+              "label": "HELLCAT 6.2 HEMI V8 (710 Hp) AWD TORQUEFLITE",
+              "hp": 710,
+              "fuel": "benzin"
+            },
+            {
+              "label": "SRT 392 6.4 HEMI V8 (475 Hp) AWD TORQUEFLITE",
+              "hp": 475,
+              "fuel": "benzin"
+            },
+            {
+              "label": "R/T 5.7 HEMI V8 (360 Hp) TORQUEFLITE",
+              "hp": 360,
+              "fuel": "benzin"
+            },
+            {
+              "label": "R/T 5.7 HEMI V8 (360 Hp) AWD TORQUEFLITE",
+              "hp": 360,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6 PENTASTAR V6 (295 Hp) TORQUEFLITE",
+              "hp": 295,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6 PENTASTAR V6 (295 Hp) AWD TORQUEFLITE",
+              "hp": 295,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6 PENTASTAR V6 (293 Hp) TORQUEFLITE",
+              "hp": 293,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6 PENTASTAR V6 (293 Hp) AWD TORQUEFLITE",
+              "hp": 293,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dodge-durango-iii-wd-facelift-2014": {
+          "label": "Dodge Durango III (WD, facelift 2014)",
+          "engines": [
+            {
+              "label": "SRT 6.4 V8 (481 Hp) 4WD Automatic (2018 - 2020)",
+              "hp": 481,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.7 V8 (360 Hp) HEMI (2014 - 2020)",
+              "hp": 360,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.7 V8 (360 Hp) AWD HEMI (2014 - 2020)",
+              "hp": 360,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6 V6 (293 Hp) AWD (2014 - 2020)",
+              "hp": 293,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6 V6 (293 Hp) (2014 - 2020)",
+              "hp": 293,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dodge-durango-iii-wd": {
+          "label": "Dodge Durango III (WD)",
+          "engines": [
+            {
+              "label": "5.7 V8 (360 Hp) AWD (2010 - 2014)",
+              "hp": 360,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.7 V8 (360 Hp) (2010 - 2014)",
+              "hp": 360,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6 V6 (290 Hp) AWD (2010 - 2014)",
+              "hp": 290,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6 V6 (290 Hp) (2010 - 2014)",
+              "hp": 290,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dodge-durango-ii-hb-facelift-2006": {
+          "label": "Dodge Durango II (HB, facelift 2006)",
+          "engines": [
+            {
+              "label": "5.7 HEMI V8 (335 Hp) AWD Automatic (2006 - 2008)",
+              "hp": 335,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.7 HEMI V8 (335 Hp) Automatic (2006 - 2008)",
+              "hp": 335,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.7 Magnum V8 (303 Hp) AWD Automatic (2007 - 2008)",
+              "hp": 303,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.7 Magnum V8 (303 Hp) Automatic (2007 - 2008)",
+              "hp": 303,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.7 Magnum V6 (210 Hp) Automatic (2006 - 2008)",
+              "hp": 210,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dodge-durango-ii-hb": {
+          "label": "Dodge Durango II (HB)",
+          "engines": [
+            {
+              "label": "5.7 i V8 AWD (350 Hp) (2004 - 2006)",
+              "hp": 350,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.7 i V8 (350 Hp) (2004 - 2006)",
+              "hp": 350,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.7 i V8 AWD (238 Hp) (2004 - 2006)",
+              "hp": 238,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.7 i V8 (238 Hp) (2004 - 2006)",
+              "hp": 238,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.7 i V6 (214 Hp) (2004 - 2006)",
+              "hp": 214,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dodge-durango-i-dn": {
+          "label": "Dodge Durango I (DN)",
+          "engines": [
+            {
+              "label": "5.9 SLT AWD (250 Hp) (1998 - 2004)",
+              "hp": 250,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.9 (250 Hp) (1998 - 2004)",
+              "hp": 250,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.2 AWD (236 Hp) (1998 - 2001)",
+              "hp": 236,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.2 (236 Hp) (1998 - 2001)",
+              "hp": 236,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.7 i V8 AWD (238 Hp) (2000 - 2004)",
+              "hp": 238,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.7 i V8 (238 Hp) (2000 - 2004)",
+              "hp": 238,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.9 (177 Hp) (1998 - 2001)",
+              "hp": 177,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "hornet": {
+      "label": "Hornet",
+      "series": {
+        "dodge-hornet": {
+          "label": "Dodge Hornet",
+          "engines": [
+            {
+              "label": "R/T 1.3 Turbo (288 Hp) eAWD Plug-in Hybrid Automatic",
+              "hp": 288,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "GT 2.0 Turbo (268 Hp) AWD Automatic",
+              "hp": 268,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "intrepid": {
+      "label": "Intrepid",
+      "series": {
+        "dodge-intrepid-ii": {
+          "label": "Dodge Intrepid II",
+          "engines": [
+            {
+              "label": "3.5 i V6 24V R/T (247 Hp) (2000 - 2003)",
+              "hp": 247,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.5 i V6 24V ES (237 Hp) (2002 - 2004)",
+              "hp": 237,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.2 i V6 24V ES (228 Hp) (1998 - 2002)",
+              "hp": 228,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.7 i V6 24V SE (203 Hp) (1998 - 2003)",
+              "hp": 203,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dodge-intrepid-i": {
+          "label": "Dodge Intrepid I",
+          "engines": [
+            {
+              "label": "3.5 i V6 24V (218 Hp) (1992 - 1998)",
+              "hp": 218,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.3 i V6 (163 Hp) (1993 - 1998)",
+              "hp": 163,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "journey": {
+      "label": "Journey",
+      "series": {
+        "dodge-journey-facelift-2010": {
+          "label": "Dodge Journey (facelift 2010)",
+          "engines": [
+            {
+              "label": "3.6 V6 (283 Hp) Automatic (2010 - 2019)",
+              "hp": 283,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 (173 Hp) Automatic (2010 - 2020)",
+              "hp": 173,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dodge-journey": {
+          "label": "Dodge Journey",
+          "engines": [
+            {
+              "label": "3.5 V6 (235 Hp) AWD Automatic 7-Seat (2009 - 2010)",
+              "hp": 235,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.5 V6 (235 Hp) AWD Automatic (2009 - 2010)",
+              "hp": 235,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.5 V6 (235 Hp) Automatic (2009 - 2010)",
+              "hp": 235,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.7 (185 Hp) (2008 - 2010)",
+              "hp": 185,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 i 16V (170 Hp) (2008 - 2010)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 CRD (140 Hp) DCT (2008 - 2010)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 CRD (140 Hp) (2008 - 2010)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "magnum": {
+      "label": "Magnum",
+      "series": {
+        "dodge-magnum": {
+          "label": "Dodge Magnum",
+          "engines": [
+            {
+              "label": "6.1 i V8 SRT-8 (432 Hp) (2005 - 2008)",
+              "hp": 432,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.7 i V8 AWD (345 Hp) (2003 - 2008)",
+              "hp": 345,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.7 i V8 (345 Hp) (2003 - 2008)",
+              "hp": 345,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.5 i V6 24V AWD (254 Hp) (2003 - 2008)",
+              "hp": 254,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.5 i V6 24V (254 Hp) (2003 - 2008)",
+              "hp": 254,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.7 i V6 24V (193 Hp) (2003 - 2008)",
+              "hp": 193,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "monaco": {
+      "label": "Monaco",
+      "series": {
+        "dodge-monaco": {
+          "label": "Dodge Monaco",
+          "engines": [
+            {
+              "label": "3.0 i V6 (152 Hp) (1990 - 1993)",
+              "hp": 152,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "neon": {
+      "label": "Neon",
+      "series": {
+        "dodge-neon-iii": {
+          "label": "Dodge Neon III",
+          "engines": [
+            {
+              "label": "1.6 (110 Hp) Automatic (2016 - 2021)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 (95 Hp) (2016 - 2021)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dodge-neon-ii": {
+          "label": "Dodge Neon II",
+          "engines": [
+            {
+              "label": "2.4 i 16V SRT-4 (234 Hp) (2004 - 2005)",
+              "hp": 234,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 i 16V SRT-4 (215 Hp) (2002 - 2004)",
+              "hp": 215,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0i (133 Hp) Automatic (1999 - 2005)",
+              "hp": 133,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0i (133 Hp) (1999 - 2005)",
+              "hp": 133,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 i (152 Hp) (1999 - 2005)",
+              "hp": 152,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dodge-neon-coupe": {
+          "label": "Dodge Neon Coupe",
+          "engines": [
+            {
+              "label": "2.0 i (147 Hp) (1996 - 1999)",
+              "hp": 147,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 i (132 Hp) (1996 - 2001)",
+              "hp": 132,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dodge-neon": {
+          "label": "Dodge Neon",
+          "engines": [
+            {
+              "label": "2.0 i (147 Hp) (1996 - 1999)",
+              "hp": 147,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 i (132 Hp) (1994 - 1999)",
+              "hp": 132,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "nitro": {
+      "label": "Nitro",
+      "series": {
+        "dodge-nitro": {
+          "label": "Dodge Nitro",
+          "engines": [
+            {
+              "label": "4.0 i V6 24V 4WD (258 Hp) (2007 - 2011)",
+              "hp": 258,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.0 i V6 24V (258 Hp) (2007 - 2011)",
+              "hp": 258,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.7 i V6 12V 4WD (213 Hp) (2007 - 2011)",
+              "hp": 213,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.7 i V6 12V (213 Hp) (2007 - 2011)",
+              "hp": 213,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.8 CRD (177 Hp) (2007 - 2011)",
+              "hp": 177,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "ram": {
+      "label": "RAM",
+      "series": {
+        "dodge-ram-1500-iii-dr-dh": {
+          "label": "Dodge Ram 1500 III (DR/DH)",
+          "engines": [
+            {
+              "label": "SRT10 8.3 V10 (500 Hp) Automatic (2004 - 2006)",
+              "hp": 500,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.7 (345 Hp) Automatic (2001 - 2009)",
+              "hp": 345,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.7 (345 Hp) 4WD Automatic (2001 - 2009)",
+              "hp": 345,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.7 (345 Hp) 4WD (2001 - 2009)",
+              "hp": 345,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.7 (345 Hp) (2001 - 2009)",
+              "hp": 345,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.7 V8 (238 Hp) Automatic (2001 - 2009)",
+              "hp": 238,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.7 V8 (238 Hp) 4WD Automatic (2001 - 2009)",
+              "hp": 238,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.7 V8 (238 Hp) 4WD (2001 - 2009)",
+              "hp": 238,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.7 V8 (238 Hp) (2001 - 2009)",
+              "hp": 238,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dodge-ram-3500-club-cab-long-bed-br-be": {
+          "label": "Dodge Ram 3500 Club Cab Long Bed (BR/BE)",
+          "engines": [
+            {
+              "label": "DRW 8.0 V10 (300 Hp) Automatic (1994 - 1998)",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "DRW 8.0 V10 (300 Hp) 4x4 Automatic (1994 - 1998)",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "DRW 8.0 V10 (300 Hp) 4x4 (1994 - 1998)",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "DRW 8.0 V10 (300 Hp) (1994 - 1998)",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "DRW 5.9 V8 (230 Hp) Automatic (1994 - 1998)",
+              "hp": 230,
+              "fuel": "benzin"
+            },
+            {
+              "label": "DRW 5.9 V8 (230 Hp) 4x4 Automatic (1994 - 1998)",
+              "hp": 230,
+              "fuel": "benzin"
+            },
+            {
+              "label": "DRW 5.9 V8 (230 Hp) 4x4 (1994 - 1998)",
+              "hp": 230,
+              "fuel": "benzin"
+            },
+            {
+              "label": "DRW 5.9 V8 (230 Hp) (1994 - 1998)",
+              "hp": 230,
+              "fuel": "benzin"
+            },
+            {
+              "label": "DRW 5.9 Cummins TD (175 Hp) 4x4 (1994 - 1998)",
+              "hp": 175,
+              "fuel": "benzin"
+            },
+            {
+              "label": "DRW 5.9 Cummins TD (175 Hp) (1994 - 1998)",
+              "hp": 175,
+              "fuel": "benzin"
+            },
+            {
+              "label": "DRW 5.9 Cummins TD (160 Hp) Automatic (1994 - 1998)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "DRW 5.9 Cummins TD (160 Hp) 4x4 Automatic (1994 - 1998)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dodge-ram-3500-regular-cab-long-bed-br-be": {
+          "label": "Dodge Ram 3500 Regular Cab Long Bed (BR/BE)",
+          "engines": [
+            {
+              "label": "DRW 8.0 V10 (300 Hp) Automatic (1994 - 1998)",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "DRW 8.0 V10 (300 Hp) 4x4 Automatic (1994 - 1998)",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "DRW 8.0 V10 (300 Hp) 4x4 (1994 - 1998)",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "DRW 8.0 V10 (300 Hp) (1994 - 1998)",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "DRW 5.9 V8 (230 Hp) Automatic (1994 - 1998)",
+              "hp": 230,
+              "fuel": "benzin"
+            },
+            {
+              "label": "DRW 5.9 V8 (230 Hp) 4x4 Automatic (1994 - 1998)",
+              "hp": 230,
+              "fuel": "benzin"
+            },
+            {
+              "label": "DRW 5.9 V8 (230 Hp) 4x4 (1994 - 1998)",
+              "hp": 230,
+              "fuel": "benzin"
+            },
+            {
+              "label": "DRW 5.9 V8 (230 Hp) (1994 - 1998)",
+              "hp": 230,
+              "fuel": "benzin"
+            },
+            {
+              "label": "DRW 5.9 Cummins TD (175 Hp) 4x4 (1994 - 1998)",
+              "hp": 175,
+              "fuel": "benzin"
+            },
+            {
+              "label": "DRW 5.9 Cummins TD (175 Hp) (1994 - 1998)",
+              "hp": 175,
+              "fuel": "benzin"
+            },
+            {
+              "label": "DRW 5.9 Cummins TD (160 Hp) Automatic (1994 - 1998)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "DRW 5.9 Cummins TD (160 Hp) 4x4 Automatic (1994 - 1998)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dodge-ram-2500hd-club-cab-long-bed-br-be": {
+          "label": "Dodge Ram 2500HD Club Cab Long Bed (BR/BE)",
+          "engines": [
+            {
+              "label": "8.0 V10 (300 Hp) Automatic (1994 - 1998)",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "8.0 V10 (300 Hp) 4x4 Automatic (1994 - 1998)",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "8.0 V10 (300 Hp) 4x4 (1994 - 1998)",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "8.0 V10 (300 Hp) (1994 - 1998)",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.9 V8 (230 Hp) Automatic (1994 - 1998)",
+              "hp": 230,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.9 V8 (230 Hp) 4x4 Automatic (1994 - 1998)",
+              "hp": 230,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.9 V8 (230 Hp) 4x4 (1994 - 1998)",
+              "hp": 230,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.9 V8 (230 Hp) (1994 - 1998)",
+              "hp": 230,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.9 Cummins TD (175 Hp) 4x4 (1994 - 1998)",
+              "hp": 175,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.9 Cummins TD (175 Hp) (1994 - 1998)",
+              "hp": 175,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.9 Cummins TD (160 Hp) Automatic (1994 - 1998)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.9 Cummins TD (160 Hp) 4x4 Automatic (1994 - 1998)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dodge-ram-2500hd-club-cab-short-bed-br-be": {
+          "label": "Dodge Ram 2500HD Club Cab Short Bed (BR/BE)",
+          "engines": [
+            {
+              "label": "5.9 V8 (230 Hp) Automatic (1994 - 1998)",
+              "hp": 230,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.9 V8 (230 Hp) 4x4 Automatic (1994 - 1998)",
+              "hp": 230,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.9 V8 (230 Hp) 4x4 (1994 - 1998)",
+              "hp": 230,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.9 V8 (230 Hp) (1994 - 1998)",
+              "hp": 230,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dodge-ram-2500hd-regular-cab-long-bed-br-be": {
+          "label": "Dodge Ram 2500HD Regular Cab Long Bed (BR/BE)",
+          "engines": [
+            {
+              "label": "8.0 V10 (300 Hp) Automatic (1994 - 1998)",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "8.0 V10 (300 Hp) 4x4 Automatic (1994 - 1998)",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "8.0 V10 (300 Hp) 4x4 (1994 - 1998)",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "8.0 V10 (300 Hp) (1994 - 1998)",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.9 V8 (230 Hp) Automatic (1994 - 1998)",
+              "hp": 230,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.9 V8 (230 Hp) 4x4 Automatic (1994 - 1998)",
+              "hp": 230,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.9 V8 (230 Hp) 4x4 (1994 - 1998)",
+              "hp": 230,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.9 V8 (230 Hp) (1994 - 1998)",
+              "hp": 230,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.9 Cummins TD (175 Hp) 4x4 (1994 - 1998)",
+              "hp": 175,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.9 Cummins TD (175 Hp) (1994 - 1998)",
+              "hp": 175,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.9 Cummins TD (160 Hp) Automatic (1994 - 1998)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.9 Cummins TD (160 Hp) 4x4 Automatic (1994 - 1998)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dodge-ram-2500-regular-cab-long-bed-br-be": {
+          "label": "Dodge Ram 2500 Regular Cab Long Bed (BR/BE)",
+          "engines": [
+            {
+              "label": "5.9 V8 (230 Hp) Automatic (1994 - 1998)",
+              "hp": 230,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.9 V8 (230 Hp) 4x4 Automatic (1994 - 1998)",
+              "hp": 230,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.9 V8 (230 Hp) 4x4 (1994 - 1998)",
+              "hp": 230,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.9 V8 (230 Hp) (1994 - 1998)",
+              "hp": 230,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.2 V8 (220 Hp) Automatic (1994 - 1998)",
+              "hp": 220,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.2 V8 (220 Hp) 4x4 Automatic (1994 - 1998)",
+              "hp": 220,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.2 V8 (220 Hp) 4x4 (1994 - 1998)",
+              "hp": 220,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.2 V8 (220 Hp) (1994 - 1998)",
+              "hp": 220,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dodge-ram-1500-club-cab-long-bed-br-be": {
+          "label": "Dodge Ram 1500 Club Cab Long Bed (BR/BE)",
+          "engines": [
+            {
+              "label": "5.9L V8 (245 Hp) (1998 - 1998)",
+              "hp": 245,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.9 V8 (230 Hp) Automatic (1994 - 1998)",
+              "hp": 230,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.9 V8 (230 Hp) 4x4 Automatic (1994 - 1998)",
+              "hp": 230,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.2 V8 (220 Hp) Automatic (1994 - 1998)",
+              "hp": 220,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.2 V8 (220 Hp) 4x4 Automatic (1994 - 1998)",
+              "hp": 220,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.2 V8 (220 Hp) 4x4 (1994 - 1998)",
+              "hp": 220,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.2 V8 (220 Hp) (1994 - 1998)",
+              "hp": 220,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dodge-ram-1500-regular-cab-long-bed-br-be": {
+          "label": "Dodge Ram 1500 Regular Cab Long Bed (BR/BE)",
+          "engines": [
+            {
+              "label": "5.9 V8 (230 Hp) Automatic (1994 - 1998)",
+              "hp": 230,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.9 V8 (230 Hp) 4x4 Automatic (1994 - 1998)",
+              "hp": 230,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.2 V8 (220 Hp) Automatic (1993 - 1998)",
+              "hp": 220,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.2 V8 (220 Hp) 4x4 Automatic (1993 - 1998)",
+              "hp": 220,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.2 V8 (220 Hp) 4x4 (1993 - 1998)",
+              "hp": 220,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.2 V8 (220 Hp) (1993 - 1998)",
+              "hp": 220,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.9 V6 (175 Hp) Automatic (1993 - 1998)",
+              "hp": 175,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.9 V6 (175 Hp) (1993 - 1998)",
+              "hp": 175,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dodge-ram-1500-club-cab-short-bed-br-be": {
+          "label": "Dodge Ram 1500 Club Cab Short Bed (BR/BE)",
+          "engines": [
+            {
+              "label": "5.9 V8 (230 Hp) Automatic (1993 - 1998)",
+              "hp": 230,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.9 V8 (230 Hp) 4x4 Automatic (1993 - 1998)",
+              "hp": 230,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.2 V8 (220 Hp) Automatic (1993 - 1998)",
+              "hp": 220,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.2 V8 (220 Hp) 4x4 Automatic (1993 - 1998)",
+              "hp": 220,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.2 V8 (220 Hp) 4x4 (1993 - 1998)",
+              "hp": 220,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.2 V8 (220 Hp) (1993 - 1998)",
+              "hp": 220,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dodge-ram-1500-regular-cab-short-bed-br-be": {
+          "label": "Dodge Ram 1500 Regular Cab Short Bed (BR/BE)",
+          "engines": [
+            {
+              "label": "5.9 V8 (230 Hp) Automatic (1994 - 1998)",
+              "hp": 230,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.9 V8 (230 Hp) 4x4 Automatic (1994 - 1998)",
+              "hp": 230,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.2 V8 (220 Hp) Automatic (1994 - 1998)",
+              "hp": 220,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.2 V8 (220 Hp) 4x4 Automatic (1994 - 1998)",
+              "hp": 220,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.2 V8 (220 Hp) 4x4 (1994 - 1998)",
+              "hp": 220,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.2 V8 (220 Hp) (1994 - 1998)",
+              "hp": 220,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.9 V6 (175 Hp) Automatic (1994 - 1998)",
+              "hp": 175,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.9 V6 (175 Hp) (1994 - 1998)",
+              "hp": 175,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dodge-ram-150-conventional-cab-d-w-facelift-1990": {
+          "label": "Dodge Ram 150 Conventional Cab (D/W, facelift 1990)",
+          "engines": [
+            {
+              "label": "Magnum 5.2L V8 (235 Hp) (1992 - 1993)",
+              "hp": 235,
+              "fuel": "benzin"
+            },
+            {
+              "label": "D150 S 3.9 V6 (125 Hp) (1990 - 1992)",
+              "hp": 125,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dodge-ram-250-crew-cab-d-w": {
+          "label": "Dodge Ram 250 Crew Cab (D/W)",
+          "engines": [
+            {
+              "label": "D250 5.9 V8 (175 Hp) (1981 - 1989)",
+              "hp": 175,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dodge-ram-250-club-cab-d-w": {
+          "label": "Dodge Ram 250 Club Cab (D/W)",
+          "engines": [
+            {
+              "label": "D250 5.9 V8 (175 Hp) (1981 - 1982)",
+              "hp": 175,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dodge-ram-250-conventional-cab-long-bed--d-w": {
+          "label": "Dodge Ram 250 Conventional Cab Long Bed  (D/W)",
+          "engines": [
+            {
+              "label": "D250 5.9 V8 (175 Hp) (1981 - 1988)",
+              "hp": 175,
+              "fuel": "benzin"
+            },
+            {
+              "label": "D250 5.2 V8 (170 Hp) (1981 - 1989)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dodge-ram-150-conventional-cab-short-bed-d-w": {
+          "label": "Dodge Ram 150 Conventional Cab Short Bed (D/W)",
+          "engines": [
+            {
+              "label": "D150 5.2 V8 (135 Hp) (1981 - 1987)",
+              "hp": 135,
+              "fuel": "benzin"
+            },
+            {
+              "label": "D150 3.7 (95 Hp) (1981 - 1987)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "ramcharger": {
+      "label": "Ramcharger",
+      "series": {
+        "dodge-ramcharger": {
+          "label": "Dodge Ramcharger",
+          "engines": [
+            {
+              "label": "5.9 i V8 (193 Hp) (1987 - 1993)",
+              "hp": 193,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.2 i V8 (172 Hp) (1988 - 1993)",
+              "hp": 172,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "shadow": {
+      "label": "Shadow",
+      "series": {
+        "dodge-shadow-convertible": {
+          "label": "Dodge Shadow Convertible",
+          "engines": [
+            {
+              "label": "2.5 i Turbo (152 Hp) (1990 - 1995)",
+              "hp": 152,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 i (102 Hp) (1989 - 1995)",
+              "hp": 102,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 i (94 Hp) (1986 - 1994)",
+              "hp": 94,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "spirit": {
+      "label": "Spirit",
+      "series": {
+        "dodge-spirit": {
+          "label": "Dodge Spirit",
+          "engines": [
+            {
+              "label": "3.0 (143 Hp) (1988 - 1995)",
+              "hp": 143,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 (102 Hp) Automatic (1988 - 1995)",
+              "hp": 102,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 (102 Hp) (1988 - 1995)",
+              "hp": 102,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "stealth": {
+      "label": "Stealth",
+      "series": {
+        "dodge-stealth": {
+          "label": "Dodge Stealth",
+          "engines": [
+            {
+              "label": "3.0 V6 24V (226 Hp) Automatic (1990 - 1996)",
+              "hp": 226,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 24V (226 Hp) (1990 - 1996)",
+              "hp": 226,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 R/T (320 Hp) (1992 - 1996)",
+              "hp": 320,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 (166 Hp) Automatic (1990 - 1996)",
+              "hp": 166,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 (166 Hp) (1990 - 1996)",
+              "hp": 166,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "stratus": {
+      "label": "Stratus",
+      "series": {
+        "dodge-stratus-ii": {
+          "label": "Dodge Stratus II",
+          "engines": [
+            {
+              "label": "2.7 L (203 Hp) (2001 - 2006)",
+              "hp": 203,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 (152 Hp) Automatic (2001 - 2006)",
+              "hp": 152,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 (152 Hp) (2001 - 2006)",
+              "hp": 152,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (132 Hp) Automatic (2001 - 2006)",
+              "hp": 132,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (132 Hp) (2001 - 2006)",
+              "hp": 132,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dodge-stratus-ii-coupe": {
+          "label": "Dodge Stratus II Coupe",
+          "engines": [
+            {
+              "label": "3.0i V6 24V R/T (203 Hp) Automatic (2001 - 2006)",
+              "hp": 203,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0i V6 24V R/T (203 Hp) (2001 - 2006)",
+              "hp": 203,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4i 16V (149 Hp) Automatic (2001 - 2006)",
+              "hp": 149,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4i 16V (149 Hp) (2001 - 2006)",
+              "hp": 149,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dodge-stratus-i": {
+          "label": "Dodge Stratus I",
+          "engines": [
+            {
+              "label": "2.5 (170 Hp) (1995 - 2001)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 (152 Hp) (1995 - 2001)",
+              "hp": 152,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (133 Hp) (1995 - 2001)",
+              "hp": 133,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "viper": {
+      "label": "Viper",
+      "series": {
+        "dodge-viper-vx": {
+          "label": "Dodge Viper VX",
+          "engines": [
+            {
+              "label": "SRT 8.4i V10 20V (649 Hp) (2013 - 2017)",
+              "hp": 649,
+              "fuel": "benzin"
+            },
+            {
+              "label": "GTS 8.4i V10 20V (649 Hp) (2013 - 2017)",
+              "hp": 649,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dodge-viper-zb-ii-coupe": {
+          "label": "Dodge Viper ZB II Coupe",
+          "engines": [
+            {
+              "label": "SRT10 ACR 8.4 V10 (600 Hp) (2009 - 2010)",
+              "hp": 600,
+              "fuel": "benzin"
+            },
+            {
+              "label": "SRT10 8.4 V10 (600 Hp) (2009 - 2010)",
+              "hp": 600,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dodge-viper-zb-ii-convertible": {
+          "label": "Dodge Viper ZB II Convertible",
+          "engines": [
+            {
+              "label": "8.4i V10 20V SRT-10 (600 Hp) (2007 - 2010)",
+              "hp": 600,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dodge-viper-zb-i-coupe": {
+          "label": "Dodge Viper ZB I Coupe",
+          "engines": [
+            {
+              "label": "SRT10 8.3 V10 (510 Hp) (2005 - 2007)",
+              "hp": 510,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dodge-viper-zb-i-convertible": {
+          "label": "Dodge Viper ZB I Convertible",
+          "engines": [
+            {
+              "label": "8.3 i V10 20V SRT-10 (517 Hp) (2006 - 2007)",
+              "hp": 517,
+              "fuel": "benzin"
+            },
+            {
+              "label": "8.3 i V10 20V SRT-10 (506 Hp) (2002 - 2007)",
+              "hp": 506,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dodge-viper-sr-ii-coupe": {
+          "label": "Dodge Viper SR II Coupe",
+          "engines": [
+            {
+              "label": "GTS 8.0 V10 (450 Hp) (1996 - 2002)",
+              "hp": 450,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dodge-viper-sr-ii-convertible": {
+          "label": "Dodge Viper SR II Convertible",
+          "engines": [
+            {
+              "label": "8.0 V10 (450 Hp) (1997 - 2002)",
+              "hp": 450,
+              "fuel": "benzin"
+            },
+            {
+              "label": "8.0 V10 (420 Hp) (1995 - 1997)",
+              "hp": 420,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dodge-viper-sr-i": {
+          "label": "Dodge Viper SR I",
+          "engines": [
+            {
+              "label": "8.0 V10 (406 Hp) (1991 - 1995)",
+              "hp": 406,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

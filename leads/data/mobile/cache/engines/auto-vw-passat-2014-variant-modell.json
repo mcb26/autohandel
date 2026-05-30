@@ -1,0 +1,42 @@
+[
+  {
+    "label": "Passat Variant 1.5 TSI OPF DSG (Benzin, 150 PS)",
+    "fuel": "benzin",
+    "hp": 150
+  },
+  {
+    "label": "Passat Variant 1.5 TSI OPF (Benzin, 150 PS)",
+    "fuel": "benzin",
+    "hp": 150
+  },
+  {
+    "label": "Passat Variant 1.4 TSI Plug-In-Hybrid DSG (Benzin/Elektro-PlugIn, 156 PS)",
+    "fuel": "benzin/elektro-plugin",
+    "hp": 156
+  },
+  {
+    "label": "Passat Variant 2.0 TDI SCR DSG (Diesel, 122 PS)",
+    "fuel": "diesel",
+    "hp": 122
+  },
+  {
+    "label": "Passat Variant 2.0 TDI SCR DSG (Diesel, 150 PS)",
+    "fuel": "diesel",
+    "hp": 150
+  },
+  {
+    "label": "Passat Variant 2.0 TDI SCR (Diesel, 150 PS)",
+    "fuel": "diesel",
+    "hp": 150
+  },
+  {
+    "label": "Passat Variant 2.0 TDI SCR DSG 4Motion (Diesel, 200 PS)",
+    "fuel": "diesel",
+    "hp": 200
+  },
+  {
+    "label": "Passat Variant 2.0 TDI SCR DSG (Diesel, 200 PS)",
+    "fuel": "diesel",
+    "hp": 200
+  }
+]

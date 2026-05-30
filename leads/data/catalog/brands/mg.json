@@ -1,0 +1,1808 @@
+{
+  "label": "MG",
+  "models": {
+    "mg-4x": {
+      "label": "MG 4X",
+      "series": {
+        "mg-4x": {
+          "label": "MG 4X",
+          "engines": [
+            {
+              "label": "64.2 kWh (204 Hp)",
+              "hp": 204,
+              "fuel": "benzin"
+            },
+            {
+              "label": "53.9 kWh (170 Hp)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "mg-astor": {
+      "label": "MG Astor",
+      "series": {
+        "mg-astor": {
+          "label": "MG Astor",
+          "engines": [
+            {
+              "label": "1.5 VTi-Tech (110 Hp) CVT",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 VTi-Tech (110 Hp)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 220Turbo (140 Hp) Automatic",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "mg-comet-ev": {
+      "label": "MG Comet EV",
+      "series": {
+        "mg-comet-ev": {
+          "label": "MG Comet EV",
+          "engines": [
+            {
+              "label": "17.3 kWh (42 Hp)",
+              "hp": 42,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "mg-cyberster": {
+      "label": "MG Cyberster",
+      "series": {
+        "mg-cyberster": {
+          "label": "MG Cyberster",
+          "engines": [
+            {
+              "label": "77 kWh (544 Hp) Electric 4WD",
+              "hp": 544,
+              "fuel": "elektro"
+            },
+            {
+              "label": "77 kWh (510 Hp) Electric 4WD",
+              "hp": 510,
+              "fuel": "elektro"
+            },
+            {
+              "label": "77 kWh (340 Hp) Electric",
+              "hp": 340,
+              "fuel": "elektro"
+            },
+            {
+              "label": "64 kWh (314 Hp) Electric",
+              "hp": 314,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "mg-es5": {
+      "label": "MG ES5",
+      "series": {
+        "mg-es5": {
+          "label": "MG ES5",
+          "engines": [
+            {
+              "label": "62.2 kWh (170 Hp) Electric",
+              "hp": 170,
+              "fuel": "elektro"
+            },
+            {
+              "label": "49.1 kWh (170 Hp) Electric",
+              "hp": 170,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "mg-gloster": {
+      "label": "MG Gloster",
+      "series": {
+        "mg-gloster": {
+          "label": "MG Gloster",
+          "engines": [
+            {
+              "label": "2.0 Twin Turbo D (216 Hp) 4WD Automatic",
+              "hp": 216,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Turbo D (161 Hp) Automatic",
+              "hp": 161,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "mg-gt": {
+      "label": "MG GT",
+      "series": {
+        "mg-gt-ii": {
+          "label": "MG GT II",
+          "engines": [
+            {
+              "label": "1.5L Turbo (162 Hp) DCT",
+              "hp": 162,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5L (114 Hp) iCVT",
+              "hp": 114,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mg-gt-i": {
+          "label": "MG GT I",
+          "engines": [
+            {
+              "label": "1.5T (129 Hp) Automatic (2014 - 2019)",
+              "hp": 129,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5T (129 Hp) (2014 - 2019)",
+              "hp": 129,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5L (109 Hp) Automatic (2014 - 2019)",
+              "hp": 109,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5L (109 Hp) (2014 - 2019)",
+              "hp": 109,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4T (156 Hp) DCT (2014 - 2019)",
+              "hp": 156,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "mg-hs": {
+      "label": "MG HS",
+      "series": {
+        "mg-hs-ii": {
+          "label": "MG HS II",
+          "engines": [
+            {
+              "label": "1.5T GS6 (170 Hp) DCT",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5T GS6 (170 Hp)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5T (299 Hp) Plug-in Hybrid Automatic",
+              "hp": 299,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.5T (224 Hp) Hybrid+ Automatic",
+              "hp": 224,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mg-hs-i-facelift-2020": {
+          "label": "MG HS I (facelift 2020)",
+          "engines": [
+            {
+              "label": "1.5 T-GDI (258 Hp) Plug-in Hybrid Automatic (2020 - 2024)",
+              "hp": 258,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.5 T-GDi (162 Hp) DCT (2020 - 2024)",
+              "hp": 162,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 T-GDi (162 Hp) (2020 - 2024)",
+              "hp": 162,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mg-hs-i": {
+          "label": "MG HS I",
+          "engines": [
+            {
+              "label": "EHS 1.5 T-GDI (258 Hp) Plug-in Hybrid Automatic (2020 - 2020)",
+              "hp": 258,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "30T 2.0 (231 Hp) DCT (2018 - 2020)",
+              "hp": 231,
+              "fuel": "benzin"
+            },
+            {
+              "label": "20T 1.5 (169 Hp) DCT (2018 - 2020)",
+              "hp": 169,
+              "fuel": "benzin"
+            },
+            {
+              "label": "20T 1.5 (169 Hp) (2018 - 2020)",
+              "hp": 169,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 T-GDi (162 Hp) DCT (2019 - 2020)",
+              "hp": 162,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 T-GDi (162 Hp) (2019 - 2020)",
+              "hp": 162,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "mg-im5": {
+      "label": "MG IM5",
+      "series": {
+        "mg-im5": {
+          "label": "MG IM5",
+          "engines": [
+            {
+              "label": "75 kWh (295 Hp)",
+              "hp": 295
+            },
+            {
+              "label": "100 kWh (751 Hp) Dual Motor AWD",
+              "hp": 751
+            },
+            {
+              "label": "100 kWh (407 Hp)",
+              "hp": 407
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "mg-im6": {
+      "label": "MG IM6",
+      "series": {
+        "mg-im6": {
+          "label": "MG IM6",
+          "engines": [
+            {
+              "label": "75 kWh (295 Hp)",
+              "hp": 295
+            },
+            {
+              "label": "100 kWh (778 Hp) Dual Motor AWD",
+              "hp": 778
+            },
+            {
+              "label": "100 kWh (407 Hp)",
+              "hp": 407
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "mg-k-type-magnette": {
+      "label": "MG K-Type Magnette",
+      "series": {
+        "mg-k3": {
+          "label": "MG K3",
+          "engines": [
+            {
+              "label": "Keine exakte Motorliste verfügbar – bitte genaue Motorisierung im Freitext angeben"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "mg-m9": {
+      "label": "MG M9",
+      "series": {
+        "mg-m9-ev": {
+          "label": "MG M9 EV",
+          "engines": [
+            {
+              "label": "90 kWh (245 Hp)",
+              "hp": 245
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "mg-maestro": {
+      "label": "MG Maestro",
+      "series": {
+        "mg-maestro": {
+          "label": "MG Maestro",
+          "engines": [
+            {
+              "label": "2.0 Turbo (152 Hp) (1988 - 1990)",
+              "hp": 152,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 EFi (117 Hp) (1984 - 1990)",
+              "hp": 117,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1600 (104 Hp) (1983 - 1984)",
+              "hp": 104
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "mg-marvel-r": {
+      "label": "MG Marvel R",
+      "series": {
+        "mg-marvel-r": {
+          "label": "MG Marvel R",
+          "engines": [
+            {
+              "label": "70 kWh (288 Hp) 4WD Electric",
+              "hp": 288,
+              "fuel": "elektro"
+            },
+            {
+              "label": "70 kWh (180 Hp) Electric",
+              "hp": 180,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "mg-maxus-7": {
+      "label": "MG Maxus 7",
+      "series": {
+        "mg-maxus-7": {
+          "label": "MG Maxus 7",
+          "engines": [
+            {
+              "label": "90 kWh (245 Hp) Electric",
+              "hp": 245,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "mg-metro": {
+      "label": "MG Metro",
+      "series": {
+        "mg-metro": {
+          "label": "MG Metro",
+          "engines": [
+            {
+              "label": "Turbo (94 Hp) (1982 - 1990)",
+              "hp": 94
+            },
+            {
+              "label": "6R4 3.0 (253 Hp) (1985 - 1986)",
+              "hp": 253,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1300 (73 Hp) (1982 - 1990)",
+              "hp": 73
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "mg-mg3": {
+      "label": "MG MG3",
+      "series": {
+        "mg-mg3-iii": {
+          "label": "MG MG3 III",
+          "engines": [
+            {
+              "label": "1.5 (116 Hp)",
+              "hp": 116,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 (194 Hp) Full Hybrid+ Automatic",
+              "hp": 194,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mg-mg3-ii-facelift-2018": {
+          "label": "MG MG3 II (facelift 2018)",
+          "engines": [
+            {
+              "label": "1.5 VTi-Tech (106 Hp) (2018 - 2024)",
+              "hp": 106,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mg-mg3-ii-facelift-2013": {
+          "label": "MG MG3 II (facelift 2013)",
+          "engines": [
+            {
+              "label": "1.5 VTI-TECH (106 Hp) (2013 - 2018)",
+              "hp": 106,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "mg-mg4": {
+      "label": "MG MG4",
+      "series": {
+        "mg-mg4-ev-ii": {
+          "label": "MG MG4 EV II",
+          "engines": [
+            {
+              "label": "53.95 kWh (163 Hp) Semi-solid",
+              "hp": 163,
+              "fuel": "benzin"
+            },
+            {
+              "label": "53.95 kWh (163 Hp)",
+              "hp": 163,
+              "fuel": "benzin"
+            },
+            {
+              "label": "42.8 kWh (163 Hp)",
+              "hp": 163,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mg-mg4-ev-i": {
+          "label": "MG MG4 EV I",
+          "engines": [
+            {
+              "label": "77 kWh (245 Hp) Extended Range",
+              "hp": 245
+            },
+            {
+              "label": "64 kWh (435 Hp) XPower AWD",
+              "hp": 435
+            },
+            {
+              "label": "64 kWh (204 Hp) Long Range",
+              "hp": 204
+            },
+            {
+              "label": "51 kWh (170 Hp) Standard Range",
+              "hp": 170
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "mg-mg4-urban": {
+      "label": "MG MG4 Urban",
+      "series": {
+        "mg-mg4-urban-ev": {
+          "label": "MG MG4 Urban EV",
+          "engines": [
+            {
+              "label": "54 kWh (160 Hp)",
+              "hp": 160
+            },
+            {
+              "label": "54 kWh (135 Hp)",
+              "hp": 135
+            },
+            {
+              "label": "43 kWh (150 Hp)",
+              "hp": 150
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "mg-mg5": {
+      "label": "MG MG5",
+      "series": {
+        "mg-mg5-ii-facelift-2023": {
+          "label": "MG MG5 II (facelift 2023)",
+          "engines": [
+            {
+              "label": "Long Range 61.1 kWh (156 Hp)",
+              "hp": 156,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mg-mg5-ii": {
+          "label": "MG MG5 II",
+          "engines": [
+            {
+              "label": "Scorpio 1.5T (181 Hp) DCT",
+              "hp": 181,
+              "fuel": "benzin"
+            },
+            {
+              "label": "300TGI (173 Hp) DCT",
+              "hp": 173
+            },
+            {
+              "label": "180DVVT (120 Hp) CVT",
+              "hp": 120
+            },
+            {
+              "label": "180DVVT (120 Hp)",
+              "hp": 120
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mg-mg5-ev": {
+          "label": "MG MG5 EV",
+          "engines": [
+            {
+              "label": "Long Range 61.1 kWh (156 Hp) (2021 - 2022)",
+              "hp": 156,
+              "fuel": "benzin"
+            },
+            {
+              "label": "52.5 kWh (156 Hp) (2020 - 2021)",
+              "hp": 156,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "mg-mg6": {
+      "label": "MG MG6",
+      "series": {
+        "mg-mg6-ii-facelift-2021": {
+          "label": "MG MG6 II (facelift 2021)",
+          "engines": [
+            {
+              "label": "Pro 1.5 TGI (181 Hp) DCT",
+              "hp": 181,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mg-mg6-ii-facelift-2020": {
+          "label": "MG MG6 II (facelift 2020)",
+          "engines": [
+            {
+              "label": "1.5 TGI (181 Hp) DCT (2020 - 2021)",
+              "hp": 181,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 50T (305 Hp) Plug-in Hybrid Automatic (2020 - 2021)",
+              "hp": 305,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mg-mg6-ii": {
+          "label": "MG MG6 II",
+          "engines": [
+            {
+              "label": "45T (228 Hp) Plug-in Hybrid E-DRIVE (2018 - 2019)",
+              "hp": 228,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.5 TGI (169 Hp) DCT (2017 - 2020)",
+              "hp": 169,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 TGI (169 Hp) (2017 - 2020)",
+              "hp": 169,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mg-mg6-i-facelift-2015": {
+          "label": "MG MG6 I (facelift 2015)",
+          "engines": [
+            {
+              "label": "1.9 DTi-TECH (150 Hp) (2015 - 2017)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mg-mg6-i": {
+          "label": "MG MG6 I",
+          "engines": [
+            {
+              "label": "1.8 TCI Tech (160 Hp) (2009 - 2015)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "mg-mg7": {
+      "label": "MG MG7",
+      "series": {
+        "mg-mg7-ii": {
+          "label": "MG MG7 II",
+          "engines": [
+            {
+              "label": "2.0T (261 Hp) Automatic",
+              "hp": 261,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5T (188 Hp) DCT",
+              "hp": 188,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "mg-mg9": {
+      "label": "MG MG9",
+      "series": {
+        "mg-mg9-ev": {
+          "label": "MG MG9 EV",
+          "engines": [
+            {
+              "label": "Keine exakte Motorliste verfügbar – bitte genaue Motorisierung im Freitext angeben"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "mg-mga": {
+      "label": "MG MGA",
+      "series": {
+        "mg-mga-roadster-mk1": {
+          "label": "MG MGA Roadster (Mk1)",
+          "engines": [
+            {
+              "label": "Keine exakte Motorliste verfügbar – bitte genaue Motorisierung im Freitext angeben"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "mg-mgb": {
+      "label": "MG MGB",
+      "series": {
+        "mg-mgb-cabrio": {
+          "label": "MG MGB Cabrio",
+          "engines": [
+            {
+              "label": "1.8 (95 Hp) (1962 - 1980)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 (92 Hp) (1966 - 1980)",
+              "hp": 92,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mg-mgb-gt": {
+          "label": "MG MGB GT",
+          "engines": [
+            {
+              "label": "3.5 (137 Hp) (1973 - 1976)",
+              "hp": 137,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 (95 Hp) (1966 - 1980)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 (92 Hp) (1966 - 1980)",
+              "hp": 92,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "mg-mgf": {
+      "label": "MG MGF",
+      "series": {
+        "mg-mgf": {
+          "label": "MG MGF",
+          "engines": [
+            {
+              "label": "1.8 i 16V (145 Hp) (1995 - 2000)",
+              "hp": 145,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 i 16V (120 Hp) (1995 - 2000)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "mg-mgr": {
+      "label": "MG MGR",
+      "series": {
+        "mg-mgr-v8": {
+          "label": "MG MGR V8",
+          "engines": [
+            {
+              "label": "3.9 i V8 (190 Hp) (1992 - 1995)",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "mg-mgs5": {
+      "label": "MG MGS5",
+      "series": {
+        "mg-mgs5-ev": {
+          "label": "MG MGS5 EV",
+          "engines": [
+            {
+              "label": "64 kWh (231 Hp) Trophy Long Range",
+              "hp": 231
+            },
+            {
+              "label": "64 kWh (231 Hp) Long Range",
+              "hp": 231
+            },
+            {
+              "label": "49 kWh (170 Hp) Standard Range",
+              "hp": 170
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "mg-mgs6": {
+      "label": "MG MGS6",
+      "series": {
+        "mg-mgs6-ev": {
+          "label": "MG MGS6 EV",
+          "engines": [
+            {
+              "label": "77 kWh (362 Hp) Dual Motor AWD",
+              "hp": 362
+            },
+            {
+              "label": "77 kWh (245 Hp) Long Range",
+              "hp": 245
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "mg-mgs9": {
+      "label": "MG MGS9",
+      "series": {
+        "mg-mgs9-phev": {
+          "label": "MG MGS9 PHEV",
+          "engines": [
+            {
+              "label": "1.5T (299 Hp) Plug-in Hybrid Automatic",
+              "hp": 299,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mg-mgs9-ev": {
+          "label": "MG MGS9 EV",
+          "engines": [
+            {
+              "label": "Keine exakte Motorliste verfügbar – bitte genaue Motorisierung im Freitext angeben"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "mg-midget": {
+      "label": "MG Midget",
+      "series": {
+        "mg-midget": {
+          "label": "MG Midget",
+          "engines": [
+            {
+              "label": "1.5 (66 Hp) (1974 - 1980)",
+              "hp": 66,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 (65 Hp) (1967 - 1974)",
+              "hp": 65,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.1 (56 Hp) (1964 - 1966)",
+              "hp": 56,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "mg-montego": {
+      "label": "MG Montego",
+      "series": {
+        "mg-montego": {
+          "label": "MG Montego",
+          "engines": [
+            {
+              "label": "2.0 Turbo (150 Hp) (1984 - 1990)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 EFi (117 Hp) (1984 - 1990)",
+              "hp": 117,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "mg-mulan": {
+      "label": "MG Mulan",
+      "series": {
+        "mg-mulan": {
+          "label": "MG Mulan",
+          "engines": [
+            {
+              "label": "64 kWh (428 Hp) AWD BEV",
+              "hp": 428
+            },
+            {
+              "label": "64 kWh (204 Hp) BEV",
+              "hp": 204
+            },
+            {
+              "label": "51 kWh (170 Hp) BEV",
+              "hp": 170
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "mg-one": {
+      "label": "MG One",
+      "series": {
+        "mg-one": {
+          "label": "MG One",
+          "engines": [
+            {
+              "label": "1.5T (181 Hp) CVT",
+              "hp": 181,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "mg-pilot": {
+      "label": "MG Pilot",
+      "series": {
+        "mg-pilot": {
+          "label": "MG Pilot",
+          "engines": [
+            {
+              "label": "400TGI (231 Hp) DCT",
+              "hp": 231
+            },
+            {
+              "label": "400TGI (231 Hp) AWD DCT",
+              "hp": 231
+            },
+            {
+              "label": "300TGI (173 Hp) DCT",
+              "hp": 173
+            },
+            {
+              "label": "300TGI (173 Hp)",
+              "hp": 173
+            },
+            {
+              "label": "1.5T (291 Hp) Plug-in Hybrid Automatic",
+              "hp": 291,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "mg-qs": {
+      "label": "MG QS",
+      "series": {
+        "mg-qs": {
+          "label": "MG QS",
+          "engines": [
+            {
+              "label": "2.0 (208 Hp) AWD Automatic",
+              "hp": 208,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (208 Hp) Automatic",
+              "hp": 208,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "mg-rx5": {
+      "label": "MG RX5",
+      "series": {
+        "mg-rx5-facelift-2023": {
+          "label": "MG RX5 (facelift (2023)",
+          "engines": [
+            {
+              "label": "1.5T (170 Hp) DCT",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5T (170 Hp)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mg-rx5": {
+          "label": "MG RX5",
+          "engines": [
+            {
+              "label": "2.0T (220 Hp) TST (2018 - 2023)",
+              "hp": 220,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0T (220 Hp) AWD TST (2018 - 2023)",
+              "hp": 220,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5T (169 Hp) TST (2018 - 2023)",
+              "hp": 169,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "mg-rx8": {
+      "label": "MG RX8",
+      "series": {
+        "mg-rx8": {
+          "label": "MG RX8",
+          "engines": [
+            {
+              "label": "2.0T (220 Hp) Automatic",
+              "hp": 220,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0T (220 Hp) 4WD Automatic",
+              "hp": 220,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "mg-rx9": {
+      "label": "MG RX9",
+      "series": {
+        "mg-rx9": {
+          "label": "MG RX9",
+          "engines": [
+            {
+              "label": "2.0T (204 Hp) ZF",
+              "hp": 204,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0T (204 Hp) 4WD ZF",
+              "hp": 204,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "mg-td-midget": {
+      "label": "MG TD Midget",
+      "series": {
+        "mg-td-midget": {
+          "label": "MG TD Midget",
+          "engines": [
+            {
+              "label": "1.25 (54 Hp) (1949 - 1953)",
+              "hp": 54,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "mg-tf": {
+      "label": "MG TF",
+      "series": {
+        "mg-tf": {
+          "label": "MG TF",
+          "engines": [
+            {
+              "label": "1.8 i 16V (160 Hp) (2002 - 2005)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 i 16V (136 Hp) (2002 - 2005)",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 i 16V Stepspeed (120 Hp) (2002 - 2005)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 i 16V (116 Hp) (2002 - 2005)",
+              "hp": 116,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "mg-u9": {
+      "label": "MG U9",
+      "series": {
+        "mg-u9": {
+          "label": "MG U9",
+          "engines": [
+            {
+              "label": "2.5L (218 Hp) 4x4 ZF",
+              "hp": 218,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "mg-whale": {
+      "label": "MG Whale",
+      "series": {
+        "mg-whale": {
+          "label": "MG Whale",
+          "engines": [
+            {
+              "label": "2.0T (231 Hp) Automatic",
+              "hp": 231,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "mg-windsor-ev": {
+      "label": "MG Windsor EV",
+      "series": {
+        "mg-windsor-ev": {
+          "label": "MG Windsor EV",
+          "engines": [
+            {
+              "label": "38 kWh (136 Hp)",
+              "hp": 136
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "mg-xpower-sv": {
+      "label": "MG Xpower SV",
+      "series": {
+        "mg-xpower-sv": {
+          "label": "MG Xpower SV",
+          "engines": [
+            {
+              "label": "5.0 i V8 32V SV-R (400 Hp) (2004 - 2005)",
+              "hp": 400,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.6 i V8 32V (320 Hp) (2003 - 2005)",
+              "hp": 320,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "mg-zr": {
+      "label": "MG ZR",
+      "series": {
+        "mg-zr-facelift-2004": {
+          "label": "MG ZR (facelift 2004)",
+          "engines": [
+            {
+              "label": "1.8 16V VVC (160 Hp) (2004 - 2005)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mg-zr": {
+          "label": "MG ZR",
+          "engines": [
+            {
+              "label": "2.0 TDi (113 Hp) (2002 - 2003)",
+              "hp": 113,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDi (101 Hp) (2001 - 2003)",
+              "hp": 101,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.8 i 16V (160 Hp) (2001 - 2003)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 i 16V (117 Hp) CVT (2001 - 2003)",
+              "hp": 117,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 i 16V (117 Hp) (2001 - 2003)",
+              "hp": 117,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 i 16V (103 Hp) (2001 - 2003)",
+              "hp": 103,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "mg-zs": {
+      "label": "MG ZS",
+      "series": {
+        "mg-zs-2024": {
+          "label": "MG ZS (2024)",
+          "engines": [
+            {
+              "label": "1.5T (170 Hp) CVT",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5L (116 Hp)",
+              "hp": 116,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5L (110 Hp) CVT",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5L (215 Hp) Hybrid+ Automatic",
+              "hp": 215,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.5L (197 Hp) Hybrid Automatic",
+              "hp": 197,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mg-zs-ev-facelift-2021": {
+          "label": "MG ZS EV (facelift 2021)",
+          "engines": [
+            {
+              "label": "Long Range 72.6 kWh (156 Hp)",
+              "hp": 156,
+              "fuel": "benzin"
+            },
+            {
+              "label": "51.1 kWh (176 Hp)",
+              "hp": 176,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mg-zs-2017-facelift-2020": {
+          "label": "MG ZS (2017) (facelift 2020)",
+          "engines": [
+            {
+              "label": "ZST 1.3i (156 Hp) Automatic (2020 - 2024)",
+              "hp": 156,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 VTi-Tech (106 Hp) (2020 - 2024)",
+              "hp": 106,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 T-GDI (111 Hp) Automatic (2020 - 2024)",
+              "hp": 111,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mg-zs-ev": {
+          "label": "MG ZS EV",
+          "engines": [
+            {
+              "label": "44.5 kWh (143 Hp) (2019 - 2021)",
+              "hp": 143,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mg-zs-2017": {
+          "label": "MG ZS (2017)",
+          "engines": [
+            {
+              "label": "1.5 (106 Hp) (2017 - 2020)",
+              "hp": 106,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 T GDI (111 Hp) Automatic (2017 - 2020)",
+              "hp": 111,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mg-zs": {
+          "label": "MG ZS",
+          "engines": [
+            {
+              "label": "2.5 V6 24V (177 Hp) (2001 - 2005)",
+              "hp": 177,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TDi (113 Hp) (2002 - 2005)",
+              "hp": 113,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDi (101 Hp) (2001 - 2005)",
+              "hp": 101,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.8 16V (117 Hp) CVT (2001 - 2005)",
+              "hp": 117,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 16V (117 Hp) (2001 - 2005)",
+              "hp": 117,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mg-zs-hatchback": {
+          "label": "MG ZS Hatchback",
+          "engines": [
+            {
+              "label": "2.5 V6 24V (177 Hp) (2001 - 2005)",
+              "hp": 177,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TDi (113 Hp) (2002 - 2005)",
+              "hp": 113,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDi (101 Hp) (2001 - 2005)",
+              "hp": 101,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.8 16V (117 Hp) CVT (2001 - 2005)",
+              "hp": 117,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 16V (117 Hp) (2001 - 2005)",
+              "hp": 117,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "mg-zt": {
+      "label": "MG ZT",
+      "series": {
+        "mg-zt-t-facelift-2004": {
+          "label": "MG ZT-T (facelift 2004)",
+          "engines": [
+            {
+              "label": "4.6 V8 (260 Hp) (2004 - 2005)",
+              "hp": 260,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 V6 (190 Hp) (2004 - 2005)",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 V6 (177 Hp) Automatic (2004 - 2005)",
+              "hp": 177,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 CDTi (131 Hp) Automatic (2004 - 2005)",
+              "hp": 131,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 CDTi (131 Hp) (2004 - 2005)",
+              "hp": 131,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 CDTi (116 Hp) Automatic (2004 - 2005)",
+              "hp": 116,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 CDTi (116 Hp) (2004 - 2005)",
+              "hp": 116,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 T (160 Hp) (2004 - 2005)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 (120 Hp) (2004 - 2005)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mg-zt-facelift-2004": {
+          "label": "MG ZT (facelift 2004)",
+          "engines": [
+            {
+              "label": "4.6 V8 (260 Hp) (2004 - 2005)",
+              "hp": 260,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 V6 (190 Hp) (2004 - 2005)",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 V6 (177 Hp) Automatic (2004 - 2005)",
+              "hp": 177,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 CDTi (131 Hp) Automatic (2004 - 2005)",
+              "hp": 131,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 CDTi (131 Hp) (2004 - 2005)",
+              "hp": 131,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 CDTi (116 Hp) Automatic (2004 - 2005)",
+              "hp": 116,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 CDTi (116 Hp) (2004 - 2005)",
+              "hp": 116,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 T (160 Hp) (2004 - 2005)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 (120 Hp) (2004 - 2005)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mg-zt-t": {
+          "label": "MG ZT-T",
+          "engines": [
+            {
+              "label": "4.6 V8 (260 Hp) (2003 - 2005)",
+              "hp": 260,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 i V6 24V (190 Hp) (2002 - 2005)",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 i V6 24V (177 Hp) (2003 - 2005)",
+              "hp": 177,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 i V6 24V (160 Hp) (2002 - 2003)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 CDTi (131 Hp) Automatic (2003 - 2005)",
+              "hp": 131,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 CDTi (131 Hp) (2003 - 2005)",
+              "hp": 131,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 CDTi (116 Hp) Automatic (2003 - 2005)",
+              "hp": 116,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 CDTi (116 Hp) (2003 - 2005)",
+              "hp": 116,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 i 16V Turbo (160 Hp) (2003 - 2005)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 i 16V (120 Hp) Automatic (2003 - 2005)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 i 16V (120 Hp) (2003 - 2005)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mg-zt": {
+          "label": "MG ZT",
+          "engines": [
+            {
+              "label": "4.6 V8 (260 Hp) (2003 - 2005)",
+              "hp": 260,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 i V6 24V (190 Hp) (2001 - 2005)",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 i V6 24V (177 Hp) (2001 - 2005)",
+              "hp": 177,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 i V6 24V (160 Hp) (2001 - 2005)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 CDTi (131 Hp) Automatic (2003 - 2005)",
+              "hp": 131,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 CDTi (131 Hp) (2003 - 2005)",
+              "hp": 131,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 CDTi (116 Hp) Automatic (2003 - 2005)",
+              "hp": 116,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 CDTi (116 Hp) (2003 - 2005)",
+              "hp": 116,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 i 16V Turbo (160 Hp) (2003 - 2005)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 i 16V (120 Hp) Automatic (2003 - 2005)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 i 16V (120 Hp) (2003 - 2005)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

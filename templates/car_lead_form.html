@@ -1,0 +1,89 @@
+<div class="lead-form-panel">
+    <div class="form-header text-center text-md-start mb-4">
+        <h2 class="form-header-title font-heading mb-0">
+            <span class="text-brand">KOSTENLOSES</span> ANGEBOT ANFORDERN
+        </h2>
+    </div>
+
+    <form method="post" enctype="multipart/form-data" novalidate class="lead-form">
+        {% csrf_token %}
+        {% if form.errors %}
+            <div class="alert alert-warning lead-form-validation-hint" role="status">
+                Bitte prüfen Sie die markierten Felder. Bei Kontaktdaten: Feld einmal anklicken oder
+                Vorschlag aus der Liste wählen, dann erneut absenden.
+            </div>
+        {% endif %}
+        {% if form.non_field_errors %}
+            <div class="alert alert-danger">
+                {% for error in form.non_field_errors %}
+                    <div>{{ error }}</div>
+                {% endfor %}
+            </div>
+        {% endif %}
+
+        <div class="hp-field" aria-hidden="true">
+            <label class="form-label" for="{{ form.website.id_for_label }}">{{ form.website.label }}</label>
+            {{ form.website }}
+        </div>
+
+        <fieldset class="form-section">
+            <legend class="form-section-title form-section-title-green">Fahrzeug</legend>
+            <div id="catalog-loading" class="catalog-loading d-none" role="status" aria-live="polite">
+                <span class="catalog-loading-spinner" aria-hidden="true"></span>
+                <span>Modelle werden geladen …</span>
+            </div>
+            <div class="row g-3 vehicle-catalog-row">
+                {% include "includes/form_field.html" with field=form.brand col_class="col-12 col-md-6 col-lg-3" %}
+                {% include "includes/form_field.html" with field=form.model col_class="col-12 col-md-6 col-lg-3" %}
+                {% include "includes/form_field.html" with field=form.series col_class="col-12 col-md-6 col-lg-3" %}
+                {% include "includes/form_field.html" with field=form.engine_choice col_class="col-12 col-md-6 col-lg-3" %}
+                {% include "includes/form_field.html" with field=form.first_registration col_class="col-12 col-md-6 col-lg-3" %}
+                {% include "includes/form_field.html" with field=form.mileage col_class="col-12 col-md-6 col-lg-3" %}
+            </div>
+        </fieldset>
+
+        <fieldset class="form-section">
+            <legend class="form-section-title form-section-title-green">Zustand &amp; Preis</legend>
+            <div class="row g-3">
+                {% include "includes/form_field.html" with field=form.vehicle_condition col_class="col-12 col-md-6 col-lg-3" %}
+                {% include "includes/form_field.html" with field=form.expected_price col_class="col-12 col-md-6 col-lg-3" %}
+            </div>
+        </fieldset>
+
+        <fieldset class="form-section">
+            <legend class="form-section-title form-section-title-green">Ihre Kontaktdaten</legend>
+            <div class="row g-3">
+                {% include "includes/form_field.html" with field=form.customer_name col_class="col-12 col-md-6 col-lg-3" %}
+                {% include "includes/form_field.html" with field=form.email col_class="col-12 col-md-6 col-lg-3" %}
+                {% include "includes/form_field.html" with field=form.phone col_class="col-12 col-md-6 col-lg-3" %}
+                {% include "includes/form_field.html" with field=form.postal_code col_class="col-12 col-md-6 col-lg-3" %}
+                {% include "includes/form_field.html" with field=form.message col_class="col-12" %}
+            </div>
+        </fieldset>
+
+        <fieldset class="form-section form-section-legal">
+            <div class="row g-3">
+                {% include "includes/form_field.html" with field=form.privacy_accepted %}
+                {% include "includes/form_field.html" with field=form.marketing_consent %}
+            </div>
+        </fieldset>
+
+        <fieldset class="form-section">
+            <legend class="form-section-title form-section-title-green">Fahrzeugbilder (optional)</legend>
+            <div class="row g-3">
+                {% include "includes/form_field.html" with field=form.images col_class="col-12" %}
+            </div>
+        </fieldset>
+
+        <div class="lead-form-submit-wrap">
+            <button type="submit" class="btn btn-success btn-lg w-100 btn-submit-offer">
+                <span class="btn-submit-icon" aria-hidden="true">&#9992;</span>
+                Angebot anfordern
+            </button>
+            <p class="form-trust-note text-center text-muted small mt-2 mb-0">
+                <span class="form-trust-icon" aria-hidden="true">&#128737;</span>
+                Ihre Daten werden vertraulich behandelt und nicht an Dritte weitergegeben.
+            </p>
+        </div>
+    </form>
+</div>

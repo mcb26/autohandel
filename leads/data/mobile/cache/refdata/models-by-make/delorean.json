@@ -1,0 +1,12 @@
+[
+  {
+    "name": "DMC-12",
+    "description": "DMC-12",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DELOREAN/model/DMC-12"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DELOREAN/model/ANDERE"
+  }
+]

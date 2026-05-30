@@ -1,0 +1,30 @@
+[
+  {
+    "label": "Limousine Mercedes-AMG A 45 / CLA 45 / GLA 45 (W176/C117/X117/X156) 2013 – 2018",
+    "href": "https://www.mobile.de/auto/mercedes/amg-a-klasse/2013/schraegheck/modell/",
+    "modell_url": "https://www.mobile.de/auto/mercedes/amg-a-klasse/2013/schraegheck/modell/",
+    "model_slug": "a-klasse",
+    "brand_slug": "mercedes"
+  },
+  {
+    "label": "Limousine Mercedes A-Klasse (W176) 2012 – 2018",
+    "href": "https://www.mobile.de/auto/mercedes/a-klasse/2012/schraegheck/modell/",
+    "modell_url": "https://www.mobile.de/auto/mercedes/a-klasse/2012/schraegheck/modell/",
+    "model_slug": "a-klasse",
+    "brand_slug": "mercedes"
+  },
+  {
+    "label": "Limousine Mercedes A-Klasse (W169) 2008 – 2011",
+    "href": "https://www.mobile.de/auto/mercedes/a-klasse/2004/fuenftuerer/modell/",
+    "modell_url": "https://www.mobile.de/auto/mercedes/a-klasse/2004/fuenftuerer/modell/",
+    "model_slug": "a-klasse",
+    "brand_slug": "mercedes"
+  },
+  {
+    "label": "Limousine Mercedes A-Klasse (W168) 1997 – 2004",
+    "href": "https://www.mobile.de/auto/mercedes/a-klasse/1997/fuenftuerer/modell/",
+    "modell_url": "https://www.mobile.de/auto/mercedes/a-klasse/1997/fuenftuerer/modell/",
+    "model_slug": "a-klasse",
+    "brand_slug": "mercedes"
+  }
+]

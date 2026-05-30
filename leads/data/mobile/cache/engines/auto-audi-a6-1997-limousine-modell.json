@@ -1,0 +1,137 @@
+[
+  {
+    "label": "A6 1.8 (Benzin, 125 PS)",
+    "fuel": "benzin",
+    "hp": 125
+  },
+  {
+    "label": "A6 2.0 (Benzin, 130 PS)",
+    "fuel": "benzin",
+    "hp": 130
+  },
+  {
+    "label": "A6 1.8 T (Benzin, 150 PS)",
+    "fuel": "benzin",
+    "hp": 150
+  },
+  {
+    "label": "A6 1.8 T quattro (Benzin, 150 PS)",
+    "fuel": "benzin",
+    "hp": 150
+  },
+  {
+    "label": "A6 2.4 quattro (Benzin, 165 PS)",
+    "fuel": "benzin",
+    "hp": 165
+  },
+  {
+    "label": "A6 2.4 (Benzin, 165 PS)",
+    "fuel": "benzin",
+    "hp": 165
+  },
+  {
+    "label": "A6 2.4 quattro (Benzin, 170 PS)",
+    "fuel": "benzin",
+    "hp": 170
+  },
+  {
+    "label": "A6 2.4 (Benzin, 170 PS)",
+    "fuel": "benzin",
+    "hp": 170
+  },
+  {
+    "label": "A6 2.8 quattro (Benzin, 193 PS)",
+    "fuel": "benzin",
+    "hp": 193
+  },
+  {
+    "label": "A6 2.8 (Benzin, 193 PS)",
+    "fuel": "benzin",
+    "hp": 193
+  },
+  {
+    "label": "A6 3.0 quattro (Benzin, 220 PS)",
+    "fuel": "benzin",
+    "hp": 220
+  },
+  {
+    "label": "A6 3.0 (Benzin, 220 PS)",
+    "fuel": "benzin",
+    "hp": 220
+  },
+  {
+    "label": "A6 2.7 T quattro (Benzin, 230 PS)",
+    "fuel": "benzin",
+    "hp": 230
+  },
+  {
+    "label": "A6 2.7 T (Benzin, 230 PS)",
+    "fuel": "benzin",
+    "hp": 230
+  },
+  {
+    "label": "A6 2.7 T quattro (Benzin, 250 PS)",
+    "fuel": "benzin",
+    "hp": 250
+  },
+  {
+    "label": "A6 4.2 quattro (Benzin, 300 PS)",
+    "fuel": "benzin",
+    "hp": 300
+  },
+  {
+    "label": "S6 4.2 quattro (Benzin, 340 PS)",
+    "fuel": "benzin",
+    "hp": 340
+  },
+  {
+    "label": "RS 6 (Benzin, 450 PS)",
+    "fuel": "benzin",
+    "hp": 450
+  },
+  {
+    "label": "A6 1.9 TDI (Diesel, 110 PS)",
+    "fuel": "diesel",
+    "hp": 110
+  },
+  {
+    "label": "A6 1.9 TDI (Diesel, 115 PS)",
+    "fuel": "diesel",
+    "hp": 115
+  },
+  {
+    "label": "A6 1.9 TDI (Diesel, 130 PS)",
+    "fuel": "diesel",
+    "hp": 130
+  },
+  {
+    "label": "A6 2.5 TDI quattro (Diesel, 150 PS)",
+    "fuel": "diesel",
+    "hp": 150
+  },
+  {
+    "label": "A6 2.5 TDI (Diesel, 150 PS)",
+    "fuel": "diesel",
+    "hp": 150
+  },
+  {
+    "label": "A6 2.5 TDI (Diesel, 155 PS)",
+    "fuel": "diesel",
+    "hp": 155
+  },
+  {
+    "label": "A6 2.5 TDI (Diesel, 163 PS)",
+    "fuel": "diesel",
+    "hp": 163
+  },
+  {
+    "label": "A6 2.5 TDI (Diesel, 180 PS)",
+    "fuel": "diesel",
+    "hp": 180
+  },
+  {
+    "label": "A6 2.5 TDI quattro (Diesel, 180 PS)",
+    "fuel": "diesel",
+    "hp": 180
+  }
+]

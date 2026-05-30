@@ -1,0 +1,22 @@
+[
+  {
+    "label": "TT Roadster 45 TFSI S tronic (Benzin, 245 PS) TTS Roadster TFSI quattro S tronic (Benzin, 306 PS) TT RS Roadster S tronic (Benzin, 400 PS)",
+    "fuel": "benzin",
+    "hp": 400
+  },
+  {
+    "label": "TT Roadster 45 TFSI S tronic (Benzin, 245 PS)",
+    "fuel": "benzin",
+    "hp": 245
+  },
+  {
+    "label": "TTS Roadster TFSI quattro S tronic (Benzin, 306 PS)",
+    "fuel": "benzin",
+    "hp": 306
+  },
+  {
+    "label": "TT RS Roadster S tronic (Benzin, 400 PS)",
+    "fuel": "benzin",
+    "hp": 400
+  }
+]

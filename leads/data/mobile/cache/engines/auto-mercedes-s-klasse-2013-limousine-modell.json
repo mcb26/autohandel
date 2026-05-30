@@ -1,0 +1,347 @@
+[
+  {
+    "label": "S 400 4Matic 7G-TRONIC (Benzin, 333 PS)",
+    "fuel": "benzin",
+    "hp": 333
+  },
+  {
+    "label": "S 400 L 4Matic 7G-TRONIC (Benzin, 333 PS)",
+    "fuel": "benzin",
+    "hp": 333
+  },
+  {
+    "label": "S 450 4Matic 9G-TRONIC (Benzin, 367 PS)",
+    "fuel": "benzin",
+    "hp": 367
+  },
+  {
+    "label": "S 450 4Matic L 9G-TRONIC (Benzin, 367 PS)",
+    "fuel": "benzin",
+    "hp": 367
+  },
+  {
+    "label": "S 450 9G-TRONIC (Benzin, 367 PS)",
+    "fuel": "benzin",
+    "hp": 367
+  },
+  {
+    "label": "S 450 L 9G-TRONIC (Benzin, 367 PS)",
+    "fuel": "benzin",
+    "hp": 367
+  },
+  {
+    "label": "S 500 9G-TRONIC (Benzin, 435 PS)",
+    "fuel": "benzin",
+    "hp": 435
+  },
+  {
+    "label": "S 500 L 9G-TRONIC (Benzin, 435 PS)",
+    "fuel": "benzin",
+    "hp": 435
+  },
+  {
+    "label": "S 500 4Matic 7G-TRONIC (Benzin, 455 PS)",
+    "fuel": "benzin",
+    "hp": 455
+  },
+  {
+    "label": "S 500 7G-TRONIC (Benzin, 455 PS)",
+    "fuel": "benzin",
+    "hp": 455
+  },
+  {
+    "label": "S 500 L 4Matic 7G-TRONIC (Benzin, 455 PS)",
+    "fuel": "benzin",
+    "hp": 455
+  },
+  {
+    "label": "S 500 L 7G-TRONIC (Benzin, 455 PS)",
+    "fuel": "benzin",
+    "hp": 455
+  },
+  {
+    "label": "Maybach S 500 4Matic 9G-TRONIC (Benzin, 455 PS)",
+    "fuel": "benzin",
+    "hp": 455
+  },
+  {
+    "label": "Maybach S 500 9G-TRONIC (Benzin, 455 PS)",
+    "fuel": "benzin",
+    "hp": 455
+  },
+  {
+    "label": "S 500 4Matic 9-TRONIC (Benzin, 455 PS)",
+    "fuel": "benzin",
+    "hp": 455
+  },
+  {
+    "label": "S 500 9G-TRONIC (Benzin, 455 PS)",
+    "fuel": "benzin",
+    "hp": 455
+  },
+  {
+    "label": "S 500 L 4Matic 9G-TRONIC (Benzin, 455 PS)",
+    "fuel": "benzin",
+    "hp": 455
+  },
+  {
+    "label": "S 500 L 9G-TRONIC (Benzin, 455 PS)",
+    "fuel": "benzin",
+    "hp": 455
+  },
+  {
+    "label": "Maybach S 560 4Matic 9G-TRONIC (Benzin, 469 PS)",
+    "fuel": "benzin",
+    "hp": 469
+  },
+  {
+    "label": "Maybach S 560 9G-TRONIC (Benzin, 469 PS)",
+    "fuel": "benzin",
+    "hp": 469
+  },
+  {
+    "label": "S 560 4Matic 9G-TRONIC (Benzin, 469 PS)",
+    "fuel": "benzin",
+    "hp": 469
+  },
+  {
+    "label": "S 560 9G-TRONIC (Benzin, 469 PS)",
+    "fuel": "benzin",
+    "hp": 469
+  },
+  {
+    "label": "S 560 L 4Matic 9G-TRONIC (Benzin, 469 PS)",
+    "fuel": "benzin",
+    "hp": 469
+  },
+  {
+    "label": "S 560 L 9G-TRONIC (Benzin, 469 PS)",
+    "fuel": "benzin",
+    "hp": 469
+  },
+  {
+    "label": "S 600 L 7G-TRONIC (Benzin, 530 PS)",
+    "fuel": "benzin",
+    "hp": 530
+  },
+  {
+    "label": "Maybach S 600 7G-TRONIC (Benzin, 530 PS)",
+    "fuel": "benzin",
+    "hp": 530
+  },
+  {
+    "label": "S 63 AMG AMG Speedshift MCT (Benzin, 585 PS)",
+    "fuel": "benzin",
+    "hp": 585
+  },
+  {
+    "label": "S 63 AMG L 4Matic AMG Speedshift MCT (Benzin, 585 PS)",
+    "fuel": "benzin",
+    "hp": 585
+  },
+  {
+    "label": "S 63 AMG L 4Matic+ AMG Speedshift 9G-MCT (Benzin, 612 PS)",
+    "fuel": "benzin",
+    "hp": 612
+  },
+  {
+    "label": "S 63 AMG L 4Matic+ 9G-TRONIC (Benzin, 612 PS)",
+    "fuel": "benzin",
+    "hp": 612
+  },
+  {
+    "label": "Maybach S 650 7G-TRONIC (Benzin, 630 PS)",
+    "fuel": "benzin",
+    "hp": 630
+  },
+  {
+    "label": "S 65 AMG L AMG Speedshift 7G-TRONIC (Benzin, 630 PS)",
+    "fuel": "benzin",
+    "hp": 630
+  },
+  {
+    "label": "S 65 AMG L AMG Speedshift TCT 7G (Benzin, 630 PS)",
+    "fuel": "benzin",
+    "hp": 630
+  },
+  {
+    "label": "S 400 (HYBRID) h 7G-TRONIC (Benzin/Elektro, 306 PS)",
+    "fuel": "hybrid) h 7g-tronic (benzin/elektro",
+    "hp": 306
+  },
+  {
+    "label": "S 400 (HYBRID) h L 7G-TRONIC (Benzin/Elektro, 306 PS)",
+    "fuel": "hybrid) h l 7g-tronic (benzin/elektro",
+    "hp": 306
+  },
+  {
+    "label": "S 400 HYBRID 7G-TRONIC (Benzin/Elektro, 306 PS)",
+    "fuel": "benzin/elektro",
+    "hp": 306
+  },
+  {
+    "label": "S 400 HYBRID L 7G-TRONIC (Benzin/Elektro, 306 PS)",
+    "fuel": "benzin/elektro",
+    "hp": 306
+  },
+  {
+    "label": "S 450 4Matic 9G-TRONIC EQ Boost (Benzin/Elektro, 367 PS)",
+    "fuel": "benzin/elektro",
+    "hp": 367
+  },
+  {
+    "label": "S 450 9G-TRONIC EQ Boost (Benzin/Elektro, 367 PS)",
+    "fuel": "benzin/elektro",
+    "hp": 367
+  },
+  {
+    "label": "S 450 L 4Matic 9G-TRONIC EQ Boost (Benzin/Elektro, 367 PS)",
+    "fuel": "benzin/elektro",
+    "hp": 367
+  },
+  {
+    "label": "S 450 L 9G-TRONIC EQ Boost (Benzin/Elektro, 367 PS)",
+    "fuel": "benzin/elektro",
+    "hp": 367
+  },
+  {
+    "label": "S 500 9G-TRONIC EQ Boost (Benzin/Elektro, 435 PS)",
+    "fuel": "benzin/elektro",
+    "hp": 435
+  },
+  {
+    "label": "S 500 L 9G-TRONIC EQ Boost (Benzin/Elektro, 435 PS)",
+    "fuel": "benzin/elektro",
+    "hp": 435
+  },
+  {
+    "label": "S 500 (PLUG-IN HYBRID) e L 7G-TRONIC (Benzin/Elektro-PlugIn, 333 PS)",
+    "fuel": "plug-in hybrid) e l 7g-tronic (benzin/elektro-plugin",
+    "hp": 333
+  },
+  {
+    "label": "S 560 e L 9G-TRONIC (Benzin/Elektro-PlugIn, 367 PS)",
+    "fuel": "benzin/elektro-plugin",
+    "hp": 367
+  },
+  {
+    "label": "S 350 (BlueTEC) d 4Matic 7G-TRONIC (Diesel, 258 PS)",
+    "fuel": "bluetec) d 4matic 7g-tronic (diesel",
+    "hp": 258
+  },
+  {
+    "label": "S 350 (BlueTEC) d 7G-TRONIC (Diesel, 258 PS)",
+    "fuel": "bluetec) d 7g-tronic (diesel",
+    "hp": 258
+  },
+  {
+    "label": "S 350 (BlueTEC) d L 4Matic 7G-TRONIC (Diesel, 258 PS)",
+    "fuel": "bluetec) d l 4matic 7g-tronic (diesel",
+    "hp": 258
+  },
+  {
+    "label": "S 350 (BlueTEC) d L 7G-TRONIC (Diesel, 258 PS)",
+    "fuel": "bluetec) d l 7g-tronic (diesel",
+    "hp": 258
+  },
+  {
+    "label": "S 350 BlueTEC 4Matic 7G-TRONIC (Diesel, 258 PS)",
+    "fuel": "diesel",
+    "hp": 258
+  },
+  {
+    "label": "S 350 BlueTEC 7G-TRONIC (Diesel, 258 PS)",
+    "fuel": "diesel",
+    "hp": 258
+  },
+  {
+    "label": "S 350 BlueTEC L 4Matic 7G-TRONIC (Diesel, 258 PS)",
+    "fuel": "diesel",
+    "hp": 258
+  },
+  {
+    "label": "S 350 BlueTEC L 7G-TRONIC (Diesel, 258 PS)",
+    "fuel": "diesel",
+    "hp": 258
+  },
+  {
+    "label": "S 350 d 4Matic 9G-TRONIC (Diesel, 258 PS)",
+    "fuel": "diesel",
+    "hp": 258
+  },
+  {
+    "label": "S 350 d 9G-TRONIC (Diesel, 258 PS)",
+    "fuel": "diesel",
+    "hp": 258
+  },
+  {
+    "label": "S 350 d L 4Matic 9G-TRONIC (Diesel, 258 PS)",
+    "fuel": "diesel",
+    "hp": 258
+  },
+  {
+    "label": "S 350 d L 9G-TRONIC (Diesel, 258 PS)",
+    "fuel": "diesel",
+    "hp": 258
+  },
+  {
+    "label": "S 350 d 4Matic 9G-TRONIC (Diesel, 286 PS)",
+    "fuel": "diesel",
+    "hp": 286
+  },
+  {
+    "label": "S 350 d 9G-TRONIC (Diesel, 286 PS)",
+    "fuel": "diesel",
+    "hp": 286
+  },
+  {
+    "label": "S 350 d L 4Matic 9G-TRONIC (Diesel, 286 PS)",
+    "fuel": "diesel",
+    "hp": 286
+  },
+  {
+    "label": "S 350 d L 9G-TRONIC (Diesel, 286 PS)",
+    "fuel": "diesel",
+    "hp": 286
+  },
+  {
+    "label": "S 400 d 4Matic 9G-TRONIC (Diesel, 340 PS)",
+    "fuel": "diesel",
+    "hp": 340
+  },
+  {
+    "label": "S 400 d 9G-TRONIC (Diesel, 340 PS)",
+    "fuel": "diesel",
+    "hp": 340
+  },
+  {
+    "label": "S 400 d L 4Matic 9G-TRONIC (Diesel, 340 PS)",
+    "fuel": "diesel",
+    "hp": 340
+  },
+  {
+    "label": "S 400 d L 9G-TRONIC (Diesel, 340 PS)",
+    "fuel": "diesel",
+    "hp": 340
+  },
+  {
+    "label": "S 300 (BlueTEC HYBRID) h 7G-TRONIC (Diesel/Elektro, 204 PS)",
+    "fuel": "bluetec hybrid) h 7g-tronic (diesel/elektro",
+    "hp": 204
+  },
+  {
+    "label": "S 300 (BlueTEC HYBRID) h L 7G-TRONIC (Diesel/Elektro, 204 PS)",
+    "fuel": "bluetec hybrid) h l 7g-tronic (diesel/elektro",
+    "hp": 204
+  },
+  {
+    "label": "S 300 BlueTEC HYBRID 7G-TRONIC (Diesel/Elektro, 204 PS)",
+    "fuel": "diesel/elektro",
+    "hp": 204
+  },
+  {
+    "label": "S 300 BlueTEC HYBRID L 7G-TRONIC (Diesel/Elektro, 204 PS)",
+    "fuel": "diesel/elektro",
+    "hp": 204
+  }
+]

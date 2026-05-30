@@ -1,0 +1,12 @@
+[
+  {
+    "name": "T8",
+    "description": "8 Pro",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/JAC/model/T8"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/JAC/model/ANDERE"
+  }
+]

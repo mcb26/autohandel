@@ -1,0 +1,551 @@
+{
+  "label": "NIO",
+  "models": {
+    "nio-ec6": {
+      "label": "NIO EC6",
+      "series": {
+        "nio-ec6-ii-facelift-2025": {
+          "label": "NIO EC6 II (facelift 2025)",
+          "engines": [
+            {
+              "label": "Ultra Long 150 kWh (490 Hp) 4WD Electric",
+              "hp": 490,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Standard 75 kWh (490 Hp) 4WD Electric",
+              "hp": 490,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Long 100 kWh (490 Hp) 4WD Electric",
+              "hp": 490,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "nio-ec6-ii": {
+          "label": "NIO EC6 II",
+          "engines": [
+            {
+              "label": "75 kWh (490 Hp) 4WD Electric (2023 - 2025)",
+              "hp": 490,
+              "fuel": "elektro"
+            },
+            {
+              "label": "100 kWh (490 Hp) 4WD Electric (2023 - 2025)",
+              "hp": 490,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "nio-ec6-i": {
+          "label": "NIO EC6 I",
+          "engines": [
+            {
+              "label": "70 kWh (544 Hp) 4WD Electric (2020 - 2023)",
+              "hp": 544,
+              "fuel": "elektro"
+            },
+            {
+              "label": "70 kWh (435 Hp) 4WD Electric (2020 - 2023)",
+              "hp": 435,
+              "fuel": "elektro"
+            },
+            {
+              "label": "100 kWh (544 Hp) 4WD Electric (2020 - 2023)",
+              "hp": 544,
+              "fuel": "elektro"
+            },
+            {
+              "label": "100 kWh (435 Hp) 4WD Electric (2020 - 2023)",
+              "hp": 435,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "nio-ec7": {
+      "label": "NIO EC7",
+      "series": {
+        "nio-ec7": {
+          "label": "NIO EC7",
+          "engines": [
+            {
+              "label": "Ultra Long Range 150 kWh (653 Hp) i4WD Electric",
+              "hp": 653,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Standard Range 75 kWh (653 Hp) i4WD Electric",
+              "hp": 653,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Long Range 100 kWh (653 Hp) i4WD Electric",
+              "hp": 653,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "nio-el6": {
+      "label": "NIO EL6",
+      "series": {
+        "nio-el6": {
+          "label": "NIO EL6",
+          "engines": [
+            {
+              "label": "Standard Range 75 kWh (490 Hp) AWD Electric",
+              "hp": 490,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Long Range 100 kWh (490 Hp) AWD Electric",
+              "hp": 490,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "nio-el7": {
+      "label": "NIO EL7",
+      "series": {
+        "nio-el7": {
+          "label": "NIO EL7",
+          "engines": [
+            {
+              "label": "75 kWh (653 Hp) BEV e-AWD",
+              "hp": 653
+            },
+            {
+              "label": "100 kWh (653 Hp) BEV e-AWD",
+              "hp": 653
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "nio-el8": {
+      "label": "NIO EL8",
+      "series": {
+        "nio-el8": {
+          "label": "NIO EL8",
+          "engines": [
+            {
+              "label": "Standard Range 73.5 kWh (653 Hp) E-AWD",
+              "hp": 653,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Long Range 90 kWh (653 Hp) E-AWD",
+              "hp": 653
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "nio-ep9": {
+      "label": "NIO EP9",
+      "series": {
+        "nio-ep9": {
+          "label": "NIO EP9",
+          "engines": [
+            {
+              "label": "(1360 Hp) 4WD Electric (2016 - 2019)",
+              "hp": 1360,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "nio-es6": {
+      "label": "NIO ES6",
+      "series": {
+        "nio-es6-ii-facelift-2025": {
+          "label": "NIO ES6 II (facelift 2025)",
+          "engines": [
+            {
+              "label": "Ulta Long 150 kWh (490 Hp) 4WD Electric",
+              "hp": 490,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Standard 75 kWh (490 Hp) 4WD Electric",
+              "hp": 490,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Long 100 kWh (490 Hp) 4WD Electric",
+              "hp": 490,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "nio-es6-ii": {
+          "label": "NIO ES6 II",
+          "engines": [
+            {
+              "label": "Ultra Long Range 150 kWh (490 Hp) i4WD Electric (2023 - 2025)",
+              "hp": 490,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Standard Range 75 kWh (490 Hp) i4WD Electric (2023 - 2025)",
+              "hp": 490,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Long Range 100 kWh (490 Hp) i4WD Electric (2023 - 2025)",
+              "hp": 490,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "nio-es6-i": {
+          "label": "NIO ES6 I",
+          "engines": [
+            {
+              "label": "84 kWh (544 Hp) 4WD Electric (2019 - 2023)",
+              "hp": 544,
+              "fuel": "elektro"
+            },
+            {
+              "label": "84 kWh (435 Hp) 4WD Electric (2019 - 2023)",
+              "hp": 435,
+              "fuel": "elektro"
+            },
+            {
+              "label": "70 kWh (544 Hp) 4WD Electric (2019 - 2023)",
+              "hp": 544,
+              "fuel": "elektro"
+            },
+            {
+              "label": "70 kWh (435 Hp) 4WD Electric (2019 - 2023)",
+              "hp": 435,
+              "fuel": "elektro"
+            },
+            {
+              "label": "100 kWh (544 Hp) 4WD Electric (2019 - 2023)",
+              "hp": 544,
+              "fuel": "elektro"
+            },
+            {
+              "label": "100 kWh (435 Hp) 4WD Electric (2019 - 2023)",
+              "hp": 435,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "nio-es7": {
+      "label": "NIO ES7",
+      "series": {
+        "nio-es7": {
+          "label": "NIO ES7",
+          "engines": [
+            {
+              "label": "Ultra Long Range 150 kWh (653 Hp) i4WD Electric (2024 - 2025)",
+              "hp": 653,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Standard Range 75 kWh (653 Hp) i4WD Electric (2022 - 2025)",
+              "hp": 653,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Long Range 100 kWh (653 Hp) i4WD Electric (2022 - 2025)",
+              "hp": 653,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "nio-es8": {
+      "label": "NIO ES8",
+      "series": {
+        "nio-es8-iii": {
+          "label": "NIO ES8 III",
+          "engines": [
+            {
+              "label": "102 kWh (707 Hp) 4WD Electric",
+              "hp": 707,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "nio-es8-ii": {
+          "label": "NIO ES8 II",
+          "engines": [
+            {
+              "label": "Ultra Long Range 150 kWh (653 Hp) i4WD Electric (2023 - 2025)",
+              "hp": 653,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Standard Range 75 kWh (653 Hp) i4WD Electric (2023 - 2025)",
+              "hp": 653,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Long Range 100 kWh (653 Hp) i4WD Electric (2023 - 2025)",
+              "hp": 653,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "nio-es8-i-facelift-2020": {
+          "label": "NIO ES8 I (facelift 2020)",
+          "engines": [
+            {
+              "label": "84 kWh (544 Hp) 4WD Electric (2020 - 2023)",
+              "hp": 544,
+              "fuel": "elektro"
+            },
+            {
+              "label": "70 kWh (544 Hp) 4WD Electric (2020 - 2023)",
+              "hp": 544,
+              "fuel": "elektro"
+            },
+            {
+              "label": "100 kWh (544 Hp) 4WD Electric (2020 - 2023)",
+              "hp": 544,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "nio-es8-i": {
+          "label": "NIO ES8 I",
+          "engines": [
+            {
+              "label": "84 kWh (653 Hp) 4WD Electric (2018 - 2020)",
+              "hp": 653,
+              "fuel": "elektro"
+            },
+            {
+              "label": "70 kWh (653 Hp) 4WD Electric (2018 - 2020)",
+              "hp": 653,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "nio-es9": {
+      "label": "NIO ES9",
+      "series": {
+        "nio-es9": {
+          "label": "NIO ES9",
+          "engines": [
+            {
+              "label": "102 kWh (707 Hp) 4WD Electric",
+              "hp": 707,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "nio-et5": {
+      "label": "NIO ET5",
+      "series": {
+        "nio-et5t-facelift-2025": {
+          "label": "NIO ET5T (facelift 2025)",
+          "engines": [
+            {
+              "label": "Standard 75 kWh (490 Hp) 4WD Electric",
+              "hp": 490,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Long 100 kWh (490 Hp) 4WD Electric",
+              "hp": 490,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Extra Long 150 kWh (490 Hp) 4WD Electric",
+              "hp": 490,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "nio-et5-facelift-2025": {
+          "label": "NIO ET5 (facelift 2025)",
+          "engines": [
+            {
+              "label": "Standard 75 kWh (490 Hp) 4WD Electric",
+              "hp": 490,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Long 100 kWh (490 Hp) 4WD Electric",
+              "hp": 490,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Extra Long 150 kWh (490 Hp) 4WD Electric",
+              "hp": 490,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "nio-et5t": {
+          "label": "NIO ET5T",
+          "engines": [
+            {
+              "label": "Ultra Long Range 150 kWh (490 Hp) i4WD Electric (2023 - 2025)",
+              "hp": 490,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Standard Range 75 kWh (490 Hp) i4WD Electric (2023 - 2025)",
+              "hp": 490,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Long Range 100 kWh (490 Hp) i4WD Electric (2023 - 2025)",
+              "hp": 490,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "nio-et5": {
+          "label": "NIO ET5",
+          "engines": [
+            {
+              "label": "75 kWh (490 Hp) 4WD Electric (2022 - 2025)",
+              "hp": 490,
+              "fuel": "elektro"
+            },
+            {
+              "label": "150 kWh (490 Hp) 4WD Electric (2022 - 2025)",
+              "hp": 490,
+              "fuel": "elektro"
+            },
+            {
+              "label": "100 kWh (490 Hp) 4WD Electric (2022 - 2025)",
+              "hp": 490,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "nio-et7": {
+      "label": "NIO ET7",
+      "series": {
+        "nio-et7": {
+          "label": "NIO ET7",
+          "engines": [
+            {
+              "label": "70 kWh (653 Hp) 4WD Electric",
+              "hp": 653,
+              "fuel": "elektro"
+            },
+            {
+              "label": "150 kWh (653 Hp) 4WD Electric",
+              "hp": 653,
+              "fuel": "elektro"
+            },
+            {
+              "label": "100 kWh (653 Hp) 4WD Electric",
+              "hp": 653,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "nio-et9": {
+      "label": "NIO ET9",
+      "series": {
+        "nio-et9": {
+          "label": "NIO ET9",
+          "engines": [
+            {
+              "label": "100 kWh (707 Hp) Electric 4WD",
+              "hp": 707,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

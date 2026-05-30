@@ -1,0 +1,6522 @@
+{
+  "label": "Fiat",
+  "models": {
+    "124": {
+      "label": "124",
+      "series": {
+        "fiat-124-spider-2016": {
+          "label": "Fiat 124 Spider (2016)",
+          "engines": [
+            {
+              "label": "1.4 MultiAir (140 Hp) Automatic",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 MultiAir (140 Hp)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-124-familiare": {
+          "label": "Fiat 124 Familiare",
+          "engines": [
+            {
+              "label": "1200 (65 Hp) (1973 - 1975)",
+              "hp": 65
+            },
+            {
+              "label": "1200 (60 Hp) (1967 - 1973)",
+              "hp": 60
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-124-coupe": {
+          "label": "Fiat 124 Coupe",
+          "engines": [
+            {
+              "label": "1800 Sport (CC1) (118 Hp) (1972 - 1976)",
+              "hp": 118
+            },
+            {
+              "label": "1800 Sport (114 Hp) (1973 - 1976)",
+              "hp": 114
+            },
+            {
+              "label": "1600 Sport (108 Hp) (1972 - 1975)",
+              "hp": 108
+            },
+            {
+              "label": "1600 Sport (104 Hp) (1972 - 1975)",
+              "hp": 104
+            },
+            {
+              "label": "1600 (BC 1) (110 Hp) (1970 - 1973)",
+              "hp": 110
+            },
+            {
+              "label": "1600 (BC 1) (100 Hp) (1971 - 1973)",
+              "hp": 100
+            },
+            {
+              "label": "1400 Sport (90 Hp) (1967 - 1972)",
+              "hp": 90
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-124": {
+          "label": "Fiat 124",
+          "engines": [
+            {
+              "label": "1600 Special T (95 Hp) (1973 - 1975)",
+              "hp": 95
+            },
+            {
+              "label": "1500 Special T (80 Hp) (1971 - 1975)",
+              "hp": 80
+            },
+            {
+              "label": "1500 Special (75 Hp) (1973 - 1975)",
+              "hp": 75
+            },
+            {
+              "label": "1400 Special (70 Hp) (1968 - 1972)",
+              "hp": 70
+            },
+            {
+              "label": "1200 (65 Hp) (1973 - 1975)",
+              "hp": 65
+            },
+            {
+              "label": "1200 (TA) (60 Hp) (1966 - 1973)",
+              "hp": 60
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-124-spider": {
+          "label": "Fiat 124 Spider",
+          "engines": [
+            {
+              "label": "2000 Europa Volumex (135 Hp) (1980 - 1982)",
+              "hp": 135
+            },
+            {
+              "label": "2000 Europa (124DS) (105 Hp) (1980 - 1982)",
+              "hp": 105
+            },
+            {
+              "label": "2000 Europa (103 Hp) (1985 - 1985)",
+              "hp": 103
+            },
+            {
+              "label": "1800 Sport CS1 (118 Hp) (1972 - 1977)",
+              "hp": 118
+            },
+            {
+              "label": "1800 Sport CS1 (114 Hp) (1972 - 1977)",
+              "hp": 114
+            },
+            {
+              "label": "1800 Sport (CS 1) (112 Hp) (1973 - 1975)",
+              "hp": 112
+            },
+            {
+              "label": "1800 Rally Abarth (128 Hp) (1973 - 1975)",
+              "hp": 128
+            },
+            {
+              "label": "1600 Sport (110 Hp) (1969 - 1973)",
+              "hp": 110
+            },
+            {
+              "label": "1600 Sport BS1 (108 Hp) (1969 - 1974)",
+              "hp": 108
+            },
+            {
+              "label": "1600 Sport BS1 (104 Hp) (1969 - 1974)",
+              "hp": 104
+            },
+            {
+              "label": "1600 Sport BS1 (100 Hp) (1969 - 1973)",
+              "hp": 100
+            },
+            {
+              "label": "1400 Sport (90 Hp) (1966 - 1969)",
+              "hp": 90
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "126": {
+      "label": "126",
+      "series": {
+        "fiat-126": {
+          "label": "Fiat 126",
+          "engines": [
+            {
+              "label": "700 (26 Hp) (1987 - 1996)",
+              "hp": 26
+            },
+            {
+              "label": "650 (24 Hp) (1977 - 1987)",
+              "hp": 24
+            },
+            {
+              "label": "600 (23 Hp) (1972 - 1977)",
+              "hp": 23
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "127": {
+      "label": "127",
+      "series": {
+        "fiat-127-panorama": {
+          "label": "Fiat 127 Panorama",
+          "engines": [
+            {
+              "label": "1.3 Diesel (45 Hp) (1983 - 1986)",
+              "hp": 45,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.0 (50 Hp) (1977 - 1982)",
+              "hp": 50,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-127": {
+          "label": "Fiat 127",
+          "engines": [
+            {
+              "label": "900 L (45 Hp) (1978 - 1979)",
+              "hp": 45
+            },
+            {
+              "label": "1050 L (50 Hp) (1977 - 1979)",
+              "hp": 50
+            },
+            {
+              "label": "1.3 Sport (75 Hp) (1981 - 1983)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 Diesel (45 Hp) (1981 - 1986)",
+              "hp": 45,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.0 Sport (70 Hp) (1978 - 1982)",
+              "hp": 70,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.9 (40 Hp) (1971 - 1983)",
+              "hp": 40,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "128": {
+      "label": "128",
+      "series": {
+        "fiat-128-coupe": {
+          "label": "Fiat 128 Coupe",
+          "engines": [
+            {
+              "label": "1300 3P (73 Hp) (1973 - 1975)",
+              "hp": 73
+            },
+            {
+              "label": "1.3 (AC) (75 Hp) (1972 - 1979)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.1 (AC 5) (65 Hp) (1972 - 1975)",
+              "hp": 65,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.1 (AC 5) (64 Hp) (1972 - 1981)",
+              "hp": 64,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-128-familiare": {
+          "label": "Fiat 128 Familiare",
+          "engines": [
+            {
+              "label": "1.3 (AF1) (60 Hp) (1974 - 1982)",
+              "hp": 60,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.1 (AF) (55 Hp) (1969 - 1982)",
+              "hp": 55,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.1 (AF) (45 Hp) (1975 - 1981)",
+              "hp": 45,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-128": {
+          "label": "Fiat 128",
+          "engines": [
+            {
+              "label": "1.3 Sport (60 Hp) (1974 - 1984)",
+              "hp": 60,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 Rally (AR) (67 Hp) (1971 - 1976)",
+              "hp": 67,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.1 (55 Hp) (1969 - 1984)",
+              "hp": 55,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.1 (45 Hp) (1975 - 1981)",
+              "hp": 45,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "130": {
+      "label": "130",
+      "series": {
+        "fiat-130": {
+          "label": "Fiat 130",
+          "engines": [
+            {
+              "label": "3.2 (B) (165 Hp) (1971 - 1978)",
+              "hp": 165,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.9 (160 Hp) (1970 - 1971)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.9 (140 Hp) (1969 - 1971)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-130-coupe": {
+          "label": "Fiat 130 Coupe",
+          "engines": [
+            {
+              "label": "3.2 (BC) (165 Hp) Automatic (1971 - 1978)",
+              "hp": 165,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.2 (BC) (165 Hp) (1971 - 1978)",
+              "hp": 165,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "131": {
+      "label": "131",
+      "series": {
+        "fiat-131": {
+          "label": "Fiat 131",
+          "engines": [
+            {
+              "label": "2.5 Diesel (72 Hp) (1978 - 1984)",
+              "hp": 72,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 Super (113 Hp) (1981 - 1984)",
+              "hp": 113,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Racing (115 Hp) (1978 - 1981)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 D (60 Hp) (1978 - 1984)",
+              "hp": 60,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Abarth Rally (140 Hp) (1976 - 1980)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 Super (97 Hp) (1978 - 1984)",
+              "hp": 97,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 Super Mirafiori (96 Hp) (1979 - 1982)",
+              "hp": 96,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 Mirafiori (85 Hp) (1976 - 1984)",
+              "hp": 85,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (S) (75 Hp) (1974 - 1981)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 Super Mirafiori (75 Hp) (1979 - 1983)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 Mirafiori (70 Hp) (1980 - 1984)",
+              "hp": 70,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 Super Mirafiori (78 Hp) (1978 - 1980)",
+              "hp": 78,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 Mirafiori (65 Hp) (1974 - 1982)",
+              "hp": 65,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 Mirafiori (55 Hp) (1974 - 1981)",
+              "hp": 55,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-131-familiare-panorama": {
+          "label": "Fiat 131 Familiare/panorama",
+          "engines": [
+            {
+              "label": "2.5 Super Diesel (AF) (72 Hp) (1979 - 1984)",
+              "hp": 72,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 D (60 Hp) (1978 - 1984)",
+              "hp": 60,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 Super (97 Hp) (1979 - 1981)",
+              "hp": 97,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 Mirafiori (85 Hp) (1980 - 1985)",
+              "hp": 85,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 CL (AF1) (75 Hp) (1975 - 1978)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 Mirafiori (70 Hp) (1981 - 1984)",
+              "hp": 70,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 Mirafiori (AF) (65 Hp) (1975 - 1982)",
+              "hp": 65,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 Mirafiori (AF) (54 Hp) (1975 - 1978)",
+              "hp": 54,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "132": {
+      "label": "132",
+      "series": {
+        "fiat-132": {
+          "label": "Fiat 132",
+          "engines": [
+            {
+              "label": "2.5 D (72 Hp) (1978 - 1982)",
+              "hp": 72,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 i.e. (122 Hp) (1980 - 1982)",
+              "hp": 122,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 GLS (115 Hp) (1976 - 1976)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 D (60 Hp) (1978 - 1982)",
+              "hp": 60,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (112 Hp) (1977 - 1981)",
+              "hp": 112,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.7 Special (A1) (105 Hp) (1972 - 1974)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.7 GLS (A1) (111 Hp) (1975 - 1977)",
+              "hp": 111,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.7 GLS (A1) (107 Hp) (1974 - 1975)",
+              "hp": 107,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (98 Hp) (1976 - 1982)",
+              "hp": 98,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (90 Hp) (1977 - 1981)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (88 Hp) (1977 - 1982)",
+              "hp": 88,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "238": {
+      "label": "238",
+      "series": {
+        "fiat-238-serie": {
+          "label": "Fiat 238-serie",
+          "engines": [
+            {
+              "label": "1.4 (52 Hp) (1976 - 1982)",
+              "hp": 52,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 (46 Hp) (1966 - 1976)",
+              "hp": 46,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "500": {
+      "label": "500",
+      "series": {
+        "fiat-500-332-31": {
+          "label": "Fiat 500 (332) 3+1",
+          "engines": [
+            {
+              "label": "e 42 kWh (118 Hp)",
+              "hp": 118
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-500-332-cabrio": {
+          "label": "Fiat 500 (332) Cabrio",
+          "engines": [
+            {
+              "label": "e 42 kWh (118 Hp)",
+              "hp": 118
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-500-332": {
+          "label": "Fiat 500 (332)",
+          "engines": [
+            {
+              "label": "e 42 kWh (118 Hp)",
+              "hp": 118
+            },
+            {
+              "label": "e 23.8 kWh (95 Hp)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 GSE (65 Hp) Mild Hybrid",
+              "hp": 65,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-500-c-312-facelift-2015": {
+          "label": "Fiat 500 C (312, facelift 2015)",
+          "engines": [
+            {
+              "label": "1.3 MultiJet (95 Hp) (2015 - 2018)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 (69 Hp) S&S (2015 - 2018)",
+              "hp": 69,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 (69 Hp) Dualogic (2018 - 2019)",
+              "hp": 69,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 (69 Hp) Automatic (2015 - 2018)",
+              "hp": 69,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 (69 Hp) (2018 - 2019)",
+              "hp": 69,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 (70 Hp) Mild Hybrid",
+              "hp": 70,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "0.9 TwinAir (105 Hp) (2015 - 2018)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.9 TwinAir (85 Hp) Automatic (2015 - 2018)",
+              "hp": 85,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.9 TwinAir (85 Hp) (2018 - 2020)",
+              "hp": 85,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-500-312-facelift-2015": {
+          "label": "Fiat 500 (312, facelift 2015)",
+          "engines": [
+            {
+              "label": "1.4 MultiAir (135 Hp) Automatic (2015 - 2019)",
+              "hp": 135,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 MultiAir (135 Hp) (2015 - 2019)",
+              "hp": 135,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 MultiJet (95 Hp) (2015 - 2018)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 S&S (69 Hp) Automatic (2015 - 2018)",
+              "hp": 69,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 S&S (69 Hp) (2015 - 2018)",
+              "hp": 69,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 (69 Hp) EasyPower LPG (2018 - 2020)",
+              "hp": 69,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 (69 Hp) Dualogic (2018 - 2019)",
+              "hp": 69,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 (69 Hp) Automatic (2015 - 2018)",
+              "hp": 69,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 (69 Hp) (2019 - 2020)",
+              "hp": 69,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 (70 Hp) Mild Hybrid",
+              "hp": 70,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "0.9 TwinAir (105 Hp) (2015 - 2018)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.9 TwinAir (85 Hp) Automatic (2018 - 2018)",
+              "hp": 85,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.9 TwinAir (85 Hp) (2019 - 2019)",
+              "hp": 85,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-500e-312": {
+          "label": "Fiat 500e (312)",
+          "engines": [
+            {
+              "label": "24 kWh (113 Hp) Electric (2013 - 2019)",
+              "hp": 113,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-500-c-312": {
+          "label": "Fiat 500 C (312)",
+          "engines": [
+            {
+              "label": "1.4 16V (100 Hp) Start & Stop (2010 - 2013)",
+              "hp": 100,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 16V (100 Hp) (2009 - 2013)",
+              "hp": 100,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 MultiJet (75 Hp) (2009 - 2010)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 8V (69 Hp) (2009 - 2015)",
+              "hp": 69,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.9 TWIN AIR (85 Hp) Start & Stop (2011 - 2015)",
+              "hp": 85,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-500-312": {
+          "label": "Fiat 500 (312)",
+          "engines": [
+            {
+              "label": "1.4 16V (100 Hp) Start & Stop (2010 - 2013)",
+              "hp": 100,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 Multijet 16V (75 Hp) (2010 - 2010)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 8V (69 Hp) (2010 - 2015)",
+              "hp": 69,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.9 TWIN AIR (85 Hp) Start & Stop (2011 - 2015)",
+              "hp": 85,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-500-nuova": {
+          "label": "Fiat 500 Nuova",
+          "engines": [
+            {
+              "label": "0.6 (18 Hp) (1973 - 1976)",
+              "hp": 18,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.5 (18 Hp) (1965 - 1975)",
+              "hp": 18,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.5 (15 Hp) (1957 - 1961)",
+              "hp": 15,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "500l": {
+      "label": "500L",
+      "series": {
+        "fiat-500l-trekking-cross-facelift-2017": {
+          "label": "Fiat 500L Trekking/Cross (facelift 2017)",
+          "engines": [
+            {
+              "label": "1.6 MultiJetII (120 Hp) (2017 - 2018)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 T-Jet (120 Hp) LPG (2017 - 2018)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 (95 Hp) (2017 - 2018)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 MultiJetII (95 Hp) Dualogic (2017 - 2018)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 MultiJetII (95 Hp) (2017 - 2018)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-500l-living-wagon-facelift-2017": {
+          "label": "Fiat 500L Living/Wagon (facelift 2017)",
+          "engines": [
+            {
+              "label": "1.6 MultiJetII (120 Hp) (2018 - 2018)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 (95 Hp) (2017 - 2018)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 MultiJetII (95 Hp) Dualogic (2017 - 2018)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 MultiJetII (95 Hp) (2017 - 2018)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.9 TwinAir (85/80 Hp) Turbo Methane (2017 - 2018)",
+              "hp": 80,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-500l-facelift-2017": {
+          "label": "Fiat 500L (facelift 2017)",
+          "engines": [
+            {
+              "label": "1.6 MultiJetII (120 Hp) (2017 - 2018)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 T-Jet (120 Hp) LPG (2017 - 2018)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 MultiAir (160 Hp) Automatic (2017 - 2020)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 (95 Hp) (2017 - 2018)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 MultiJetII (95 Hp) Dualogic (2017 - 2018)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 MultiJetII (95 Hp) (2017 - 2018)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.9 TwinAir (85/80 Hp) Turbo Methane (2017 - 2018)",
+              "hp": 80,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-500l-trekking-cross": {
+          "label": "Fiat 500L Trekking/Cross",
+          "engines": [
+            {
+              "label": "1.6 MultiJetII (120 Hp) (2014 - 2018)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 16V MULTIJET (105 Hp) (2013 - 2014)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 T-Jet (120 Hp) LPG (2013 - 2018)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 T-Jet (120 Hp) (2013 - 2018)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 16V FIRE (95 Hp) (2013 - 2018)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 16V MULTIJETII (85 Hp) (2013 - 2014)",
+              "hp": 85,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 16V MULTIJET (85 Hp) DUALOGIC (2013 - 2014)",
+              "hp": 85,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.9 TwinAir (105 Hp) Turbo (2013 - 2018)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-500l-living-wagon": {
+          "label": "Fiat 500L Living/Wagon",
+          "engines": [
+            {
+              "label": "1.6 MultiJetII (120 Hp) 7 Seat (2014 - 2018)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 MultiJetII (120 Hp) (2014 - 2018)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 MultiJetII (105 Hp) 7 Seat (2013 - 2014)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 MultiJetII (105 Hp) (2013 - 2014)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 T-Jet (120 Hp) 7 Seat (2014 - 2018)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 T-Jet (120 Hp) (2014 - 2018)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 MultiJetII (85 Hp) Dualogic 7 Seat (2013 - 2014)",
+              "hp": 85,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 MultiJetII (85 Hp) Dualogic (2013 - 2014)",
+              "hp": 85,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 MultiJetII (85 Hp) 7 Seat (2013 - 2014)",
+              "hp": 85,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 MultiJetII (85 Hp) (2013 - 2014)",
+              "hp": 85,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.9 TwinAir (105 Hp) Turbo 7 Seat (2013 - 2018)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.9 TwinAir (105 Hp) Turbo (2013 - 2018)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.9 TwinAir (80 Hp) Turbo Methane (2013 - 2018)",
+              "hp": 80,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-500l": {
+          "label": "Fiat 500L",
+          "engines": [
+            {
+              "label": "1.6 MultiJetII (120 Hp) (2014 - 2018)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 MultiJetII (105 Hp) (2013 - 2014)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 T-Jet (120 Hp) LPG (2014 - 2018)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 T-Jet (120 Hp) (2014 - 2018)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 (95 Hp) (2012 - 2018)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 MultiJetII (85 Hp) Dualogic (2012 - 2014)",
+              "hp": 85,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 MultiJetII (85 Hp) (2012 - 2014)",
+              "hp": 85,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.9 TwinAir (105 Hp) Turbo (2012 - 2018)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.9 TwinAir (80 Hp) Turbo Methane (2013 - 2018)",
+              "hp": 80,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "500x": {
+      "label": "500X",
+      "series": {
+        "fiat-500x-dolcevita-facelift-2022": {
+          "label": "Fiat 500X Dolcevita (facelift 2022)",
+          "engines": [
+            {
+              "label": "Keine exakte Motorliste verfügbar – bitte genaue Motorisierung im Freitext angeben"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-500x-facelift-2022": {
+          "label": "Fiat 500X (facelift 2022)",
+          "engines": [
+            {
+              "label": "1.5 GSE (130 Hp) Mild Hybrid DCT",
+              "hp": 130,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.3 MultiAir (177 Hp) AWD Automatic",
+              "hp": 177,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-500x-cross-city-cross-facelift-2018": {
+          "label": "Fiat 500X Cross/City Cross (facelift 2018)",
+          "engines": [
+            {
+              "label": "2.0 MultiJet II (150 Hp) AWD Automatic (2018 - 2019)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 MultiJet II (120 Hp) DCT (2018 - 2020)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 MultiJet II (120 Hp) (2018 - 2020)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 e TorQ (110 Hp) (2018 - 2019)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 MultiJet II (95 Hp) (2018 - 2021)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 FireFly Turbo (150 Hp) (2018 - 2022)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 FireFly Turbo (120 Hp) (2018 - 2022)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-500x-urban-facelift-2018": {
+          "label": "Fiat 500X Urban (facelift 2018)",
+          "engines": [
+            {
+              "label": "2.0 MultiJet II (150 Hp) AWD Automatic (2018 - 2019)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 MultiJet II (120 Hp) DCT (2018 - 2020)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 MultiJet II (120 Hp) (2018 - 2020)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 e TorQ (110 Hp) (2018 - 2019)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 Turbo (177 Hp) AWD Automatic (2018 - 2022)",
+              "hp": 177,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 MultiJet II (95 Hp) (2018 - 2021)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 FireFly Turbo (150 Hp) (2018 - 2022)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 FireFly Turbo (120 Hp) (2018 - 2022)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-500x-cross-off-road": {
+          "label": "Fiat 500X Cross/Off-Road",
+          "engines": [
+            {
+              "label": "2.0 MultiJetII (140 Hp) AWD (2017 - 2018)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (140 Hp) AWD Automatic (2014 - 2018)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (120 Hp) (2014 - 2018)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 MultiAir II (170 Hp) AWD Automatic (2017 - 2018)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 MultiAir II (140 Hp) Automatic (2017 - 2018)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 MultiAir II (140 Hp) (2014 - 2018)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 EasyPower (120 Hp) LPG (2017 - 2018)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 MultiJetII (95 Hp) AWD (2017 - 2018)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-500x": {
+          "label": "Fiat 500X",
+          "engines": [
+            {
+              "label": "2.4 MultiAir2 Tigershark (180 Hp) AWD Automatic (2015 - 2018)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 MultiAir2 Tigershark (180 Hp) Automatic (2015 - 2018)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (140 Hp) AWD Automatic (2014 - 2018)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 E-Torq (110 Hp) (2017 - 2018)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (120 Hp) (2014 - 2018)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 MultiAir II (140 Hp) DCT (2017 - 2018)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 MultiAir II (140 Hp) (2017 - 2018)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 EasyPower (120 Hp) LPG (2017 - 2018)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 MultiJetII (95 Hp) (2017 - 2018)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "600": {
+      "label": "600",
+      "series": {
+        "fiat-600-2023": {
+          "label": "Fiat 600 (2023)",
+          "engines": [
+            {
+              "label": "600e 54 kWh (156 Hp)",
+              "hp": 156
+            },
+            {
+              "label": "1.2 T3 (145 Hp) Hybrid DCT",
+              "hp": 145,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.2 T3 (136 Hp) Hybrid DCT (2024 - 2025)",
+              "hp": 136,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.2 T3 (110 Hp) Hybrid DCT",
+              "hp": 110,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.2 T3 (100 Hp) Hybrid DCT (2024 - 2025)",
+              "hp": 100,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.2 T3 (100 Hp)",
+              "hp": 100,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-600-187": {
+          "label": "Fiat 600 (187)",
+          "engines": [
+            {
+              "label": "1.1i (40 Hp) (2005 - 2010)",
+              "hp": 40,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.1 i 8V (54 Hp) (2006 - 2010)",
+              "hp": 54,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "900---t-e": {
+      "label": "900   T/E",
+      "series": {
+        "fiat-900-t-e-panorama": {
+          "label": "Fiat 900 T/E Panorama",
+          "engines": [
+            {
+              "label": "0.9 (35 Hp) (1978 - 1986)",
+              "hp": 35,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-900-t-e-pulmino": {
+          "label": "Fiat 900 T/E Pulmino",
+          "engines": [
+            {
+              "label": "0.9 (35 Hp) (1978 - 1986)",
+              "hp": 35,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "albea": {
+      "label": "Albea",
+      "series": {
+        "fiat-albea": {
+          "label": "Fiat Albea",
+          "engines": [
+            {
+              "label": "1.6 i 16V (103 Hp) (2003 - 2012)",
+              "hp": 103,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 i (77 Hp) (2003 - 2012)",
+              "hp": 77,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 m-jet (70 Hp) (2009 - 2012)",
+              "hp": 70,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 i 16V (80 Hp) (2004 - 2012)",
+              "hp": 80,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 i (60 Hp) (2003 - 2012)",
+              "hp": 60,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "argenta": {
+      "label": "Argenta",
+      "series": {
+        "fiat-argenta-132a": {
+          "label": "Fiat Argenta (132A)",
+          "engines": [
+            {
+              "label": "2500 Turbodiesel (90 Hp) (1983 - 1986)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2500 Diesel (72 Hp) (1981 - 1986)",
+              "hp": 72,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2000 Volumex (135 Hp) (1984 - 1985)",
+              "hp": 135
+            },
+            {
+              "label": "2000 i.e. (122 Hp) (1981 - 1986)",
+              "hp": 122
+            },
+            {
+              "label": "2000 (113 Hp) (1981 - 1985)",
+              "hp": 113
+            },
+            {
+              "label": "1600 i.e (90 Hp) (1981 - 1986)",
+              "hp": 90
+            },
+            {
+              "label": "1600 (98 Hp) (1983 - 1986)",
+              "hp": 98
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "argo": {
+      "label": "Argo",
+      "series": {
+        "fiat-argo": {
+          "label": "Fiat Argo",
+          "engines": [
+            {
+              "label": "1.8 E-Torq (139 Hp)",
+              "hp": 139,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 E-Torq (135 Hp)",
+              "hp": 135,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 E-Torq (130 Hp) Automatic",
+              "hp": 130,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 E-Torq (130 Hp)",
+              "hp": 130,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 FireFly (109 Hp)",
+              "hp": 109,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 FireFly (101 Hp)",
+              "hp": 101,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 FireFly (99 Hp)",
+              "hp": 99,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 FireFly (77 Hp)",
+              "hp": 77,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 FireFly (72 Hp)",
+              "hp": 72,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "barchetta": {
+      "label": "Barchetta",
+      "series": {
+        "fiat-barchetta-183": {
+          "label": "Fiat Barchetta (183)",
+          "engines": [
+            {
+              "label": "1.8 16V (130 Hp) (1995 - 2005)",
+              "hp": 130,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "brava": {
+      "label": "Brava",
+      "series": {
+        "fiat-brava-182": {
+          "label": "Fiat Brava (182)",
+          "engines": [
+            {
+              "label": "1.9 TD 100 S (101 Hp) (1996 - 2001)",
+              "hp": 101,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 TD 75S (75 Hp) (1996 - 2000)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 JTD 105 (105 Hp) (1998 - 2001)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 D (65 Hp) (1995 - 1997)",
+              "hp": 65,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 GT 16V (113 Hp) (1995 - 2001)",
+              "hp": 113,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 16V (103 Hp) Automatic (1996 - 2002)",
+              "hp": 103,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 16V (103 Hp) (1996 - 2002)",
+              "hp": 103,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 16V (90 Hp) (1995 - 1998)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 12V (80 Hp) (1995 - 1998)",
+              "hp": 80,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 (75 Hp) (1995 - 1999)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 16V 80 (82 Hp) (1998 - 2001)",
+              "hp": 82,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "bravo": {
+      "label": "Bravo",
+      "series": {
+        "fiat-bravo-ii-198": {
+          "label": "Fiat Bravo II (198)",
+          "engines": [
+            {
+              "label": "2.0 Multijet (165 Hp) (2008 - 2012)",
+              "hp": 165,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 MultiJet (150 Hp) (2007 - 2008)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 MultiJet (120 Hp) (2007 - 2008)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 Multijet (120 Hp) Dualogic (2008 - 2014)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 Multijet (120 Hp) (2008 - 2014)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 Multijet (105 Hp) (2008 - 2012)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 Multijet (90 Hp) (2009 - 2014)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 T-Jet (150 Hp) (2007 - 2010)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 T-Jet (120 Hp) Dualogic (2008 - 2010)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 T-Jet (120 Hp) (2007 - 2014)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 MultiAir (140 Hp) Turbo (2010 - 2014)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 (90 Hp) (2007 - 2010)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-bravo-182": {
+          "label": "Fiat Bravo (182)",
+          "engines": [
+            {
+              "label": "2.0 HGT 20V (154 Hp) (1998 - 2001)",
+              "hp": 154,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 HGT 20V (147 Hp) (1995 - 1998)",
+              "hp": 147,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 TD 100 S (100 Hp) (1996 - 2000)",
+              "hp": 100,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 TD 75 S (75 Hp) (1996 - 2000)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 JTD 105 (105 Hp) (1998 - 2000)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 JTD 100 (100 Hp) (2001 - 2002)",
+              "hp": 100,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 GT (113 Hp) (1995 - 2000)",
+              "hp": 113,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 16V (103 Hp) Automatic (1996 - 2000)",
+              "hp": 103,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 16V (103 Hp) (1996 - 2000)",
+              "hp": 103,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 16V (90 Hp) (1995 - 2000)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 (80 Hp) (1995 - 2001)",
+              "hp": 80,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 (75 Hp) (1995 - 2001)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 16V 80 (82 Hp) (1998 - 2001)",
+              "hp": 82,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "centoventi": {
+      "label": "Centoventi",
+      "series": {
+        "fiat-centoventi-concept": {
+          "label": "Fiat Centoventi Concept",
+          "engines": [
+            {
+              "label": "Keine exakte Motorliste verfügbar – bitte genaue Motorisierung im Freitext angeben"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "cinquecento": {
+      "label": "Cinquecento",
+      "series": {
+        "fiat-cinquecento": {
+          "label": "Fiat Cinquecento",
+          "engines": [
+            {
+              "label": "1.1 Sporting (54 Hp) (1994 - 1998)",
+              "hp": 54,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.9 i.e. S (40 Hp) (1991 - 1998)",
+              "hp": 40,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.9 (41 Hp) (1991 - 1993)",
+              "hp": 41,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.7 i (31 Hp) (1994 - 1998)",
+              "hp": 31,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.7 (31 Hp) (1991 - 1996)",
+              "hp": 31,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "coupe": {
+      "label": "Coupe",
+      "series": {
+        "fiat-coupe-fa-175": {
+          "label": "Fiat Coupe (FA/175)",
+          "engines": [
+            {
+              "label": "2.0 20V Turbo (220 Hp) (1996 - 2001)",
+              "hp": 220,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 20V (154 Hp) (1998 - 2001)",
+              "hp": 154,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 16V Turbo (190 Hp) (1993 - 2001)",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 16V (139 Hp) (1993 - 2001)",
+              "hp": 139,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 16V (131 Hp) (1996 - 2001)",
+              "hp": 131,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "croma": {
+      "label": "Croma",
+      "series": {
+        "fiat-croma-ii": {
+          "label": "Fiat Croma II",
+          "engines": [
+            {
+              "label": "2.4 Multijet (200 Hp) (2005 - 2008)",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2i 16V (150 Hp) Automatic (2005 - 2008)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2i 16V (150 Hp) (2005 - 2008)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 Multijet (120 Hp) (2005 - 2008)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 16V Multijet (150 Hp) Automatic (2005 - 2008)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 16V Multijet (150 Hp) (2005 - 2008)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 16V (140 Hp) (2005 - 2008)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-croma-154": {
+          "label": "Fiat Croma (154)",
+          "engines": [
+            {
+              "label": "2500 V6 (162 Hp) (1993 - 1996)",
+              "hp": 162
+            },
+            {
+              "label": "2500 TD (115 Hp) (1989 - 1996)",
+              "hp": 115
+            },
+            {
+              "label": "2500 TDE (105 Hp) (1991 - 1996)",
+              "hp": 105
+            },
+            {
+              "label": "2500 TD (101 Hp) (1985 - 1989)",
+              "hp": 101
+            },
+            {
+              "label": "2500 D (75 Hp) (1985 - 1989)",
+              "hp": 75
+            },
+            {
+              "label": "2000 i.e. Turbo (155 Hp) (1985 - 1990)",
+              "hp": 155
+            },
+            {
+              "label": "2000 i.e. Turbo (151 Hp) (1986 - 1988)",
+              "hp": 151
+            },
+            {
+              "label": "2000 i.e. Turbo (150 Hp) (1987 - 1996)",
+              "hp": 150
+            },
+            {
+              "label": "2000 i.e. (120 Hp) (1987 - 1992)",
+              "hp": 120
+            },
+            {
+              "label": "2000 i.e. (116 Hp) Automatic (1987 - 1996)",
+              "hp": 116
+            },
+            {
+              "label": "2000 i.e. (116 Hp) (1987 - 1996)",
+              "hp": 116
+            },
+            {
+              "label": "2000 i.e. (113 Hp) (1986 - 1990)",
+              "hp": 113
+            },
+            {
+              "label": "2000 CHT (100 Hp) Automatic (1991 - 1992)",
+              "hp": 100
+            },
+            {
+              "label": "2000 CHT (100 Hp) (1991 - 1992)",
+              "hp": 100
+            },
+            {
+              "label": "2000 CHT (90 Hp) (1985 - 1989)",
+              "hp": 90
+            },
+            {
+              "label": "2000 16V (137 Hp) (1992 - 1996)",
+              "hp": 137
+            },
+            {
+              "label": "1900 Turbo D i.d. (94 Hp) (1992 - 1996)",
+              "hp": 94
+            },
+            {
+              "label": "1900 Turbo D i.d. (90 Hp) (1989 - 1992)",
+              "hp": 90
+            },
+            {
+              "label": "1600 (83 Hp) (1985 - 1990)",
+              "hp": 83
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "cronos": {
+      "label": "Cronos",
+      "series": {
+        "fiat-cronos": {
+          "label": "Fiat Cronos",
+          "engines": [
+            {
+              "label": "1.8 E-Torq (130 Hp) Automatic",
+              "hp": 130,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 E-Torq (130 Hp)",
+              "hp": 130,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 FireFly (99 Hp)",
+              "hp": 99,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "doblo": {
+      "label": "Doblo",
+      "series": {
+        "fiat-doblo-iii-k9": {
+          "label": "Fiat Doblo III (K9)",
+          "engines": [
+            {
+              "label": "E-Doblo 50 kWh (136 Hp)",
+              "hp": 136
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-doblo-ii-long-263-facelift-2015": {
+          "label": "Fiat Doblo II Long (263, facelift 2015)",
+          "engines": [
+            {
+              "label": "2.0 (135 Hp) MultiJet (2015 - 2015)",
+              "hp": 135,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 Multijet (120 Hp) (2015 - 2019)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 Multijet (95 Hp) (2015 - 2019)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (90 Hp) MultiJet Dualogic (2015 - 2015)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (105 Hp) MultiJet (2015 - 2015)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-doblo-ii-263-facelift-2015": {
+          "label": "Fiat Doblo II (263, facelift 2015)",
+          "engines": [
+            {
+              "label": "2.0 (135 Hp) MultiJet (2015 - 2015)",
+              "hp": 135,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 Multijet (120 Hp) (2015 - 2019)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 Multijet (95 Hp) (2015 - 2019)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (90 Hp) MultiJet Dualogic (2015 - 2015)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (90 Hp) MultiJet (2015 - 2015)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (105 Hp) MultiJet (2015 - 2015)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 T-JET (120 Hp) CNG (2015 - 2019)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 T-JET (120 Hp) (2015 - 2019)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 (95 Hp) (2015 - 2018)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-doblo-ii-263": {
+          "label": "Fiat Doblo II (263)",
+          "engines": [
+            {
+              "label": "2.0 Multijet (135 Hp) (2009 - 2015)",
+              "hp": 135,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 Multijet (105 Hp) (2009 - 2015)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 Multijet (90 Hp) Start & Stop 7 Seat (2010 - 2015)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 Multijet (90 Hp) Start & Stop (2010 - 2015)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 Multijet (90 Hp) Dualogic (2010 - 2015)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 T-Jet (120 Hp) Natural Power CNG (2010 - 2015)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 (95 Hp) (2009 - 2015)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-doblo-i-223-facelift-2005": {
+          "label": "Fiat Doblo I (223, facelift 2005)",
+          "engines": [
+            {
+              "label": "1.9 Multijet (120 Hp) 7 Seat (2005 - 2010)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 Multijet (120 Hp) (2005 - 2010)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 Multijet (105 Hp) (2005 - 2010)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 16V (103/92 Hp) Natural Power CNG (2005 - 2010)",
+              "hp": 92,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 8V (77 Hp) (2005 - 2010)",
+              "hp": 77,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 JTD Multijet (85 Hp) (2005 - 2010)",
+              "hp": 85,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-doblo-i-223": {
+          "label": "Fiat Doblo I (223)",
+          "engines": [
+            {
+              "label": "1.9 Multijet (105 Hp) (2003 - 2005)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 JTD (101 Hp) (2001 - 2004)",
+              "hp": 101,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 D (63 Hp) (2001 - 2003)",
+              "hp": 63,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 16V (103 Hp) 7 Seat (2002 - 2005)",
+              "hp": 103,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 16V (103 Hp) (2002 - 2005)",
+              "hp": 103,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 8V (65 Hp) (2001 - 2005)",
+              "hp": 65,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "duna": {
+      "label": "Duna",
+      "series": {
+        "fiat-duna-146-b": {
+          "label": "Fiat Duna (146 B)",
+          "engines": [
+            {
+              "label": "DS 1.7 (60 Hp) (1987 - 1991)",
+              "hp": 60,
+              "fuel": "benzin"
+            },
+            {
+              "label": "70 1.3 (67 Hp) (1987 - 1991)",
+              "hp": 67,
+              "fuel": "benzin"
+            },
+            {
+              "label": "60 1.1 (58 Hp) (1987 - 1991)",
+              "hp": 58,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-duna-weekend-146-b": {
+          "label": "Fiat Duna Weekend (146 B)",
+          "engines": [
+            {
+              "label": "DS 1.7 (60 Hp) (1987 - 1991)",
+              "hp": 60,
+              "fuel": "benzin"
+            },
+            {
+              "label": "70 1.3 (67 Hp) (1987 - 1991)",
+              "hp": 67,
+              "fuel": "benzin"
+            },
+            {
+              "label": "60 1.1 (58 Hp) (1987 - 1991)",
+              "hp": 58,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "egea": {
+      "label": "Egea",
+      "series": {
+        "fiat-egea-cross": {
+          "label": "Fiat Egea Cross",
+          "engines": [
+            {
+              "label": "1.6 Multijet II (130 Hp)",
+              "hp": 130,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 Fire (95 Hp)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 Multijet II (95 Hp)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 Firefly (100 Hp)",
+              "hp": 100,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-egea-station-wagon-358-facelift-2020": {
+          "label": "Fiat Egea Station Wagon (358, facelift 2020)",
+          "engines": [
+            {
+              "label": "1.6 Multijet II (130 Hp)",
+              "hp": 130,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 Multijet II (95 Hp)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 Firefly (100 Hp)",
+              "hp": 100,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-egea-hatchback-357-facelift-2020": {
+          "label": "Fiat Egea Hatchback (357, facelift 2020)",
+          "engines": [
+            {
+              "label": "1.6 Multijet II (130 Hp)",
+              "hp": 130,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 Fire (95 Hp)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 Multijet II (95 Hp)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 Firefly (100 Hp)",
+              "hp": 100,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-egea-356-facelift-2020": {
+          "label": "Fiat Egea (356, facelift 2020)",
+          "engines": [
+            {
+              "label": "1.6 Multijet II (130 Hp)",
+              "hp": 130,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 Fire (95 Hp)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 Multijet II (95 Hp)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 Firefly (100 Hp)",
+              "hp": 100,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-egea-station-wagon-358": {
+          "label": "Fiat Egea Station Wagon (358)",
+          "engines": [
+            {
+              "label": "1.6 Multijet II (120 Hp) DCT (2020 - 2020)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 Multijet II (120 Hp) (2016 - 2019)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 E-Torq (110 Hp) Automatic (2016 - 2019)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 Multijet II (95 Hp) (2020 - 2020)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-egea-hatchback-357": {
+          "label": "Fiat Egea Hatchback (357)",
+          "engines": [
+            {
+              "label": "1.6 Multijet II (120 Hp) DCT (2020 - 2020)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 Multijet II (120 Hp) (2016 - 2019)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 E-Torq (110 Hp) Automatic (2016 - 2019)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 T-Jet LPG (120 Hp) (2016 - 2018)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 T-Jet (120 Hp) (2016 - 2018)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 Fire (95 Hp) (2020 - 2020)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 Multijet II (95 Hp) (2020 - 2020)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-egea-356": {
+          "label": "Fiat Egea (356)",
+          "engines": [
+            {
+              "label": "1.6 Multijet II (120 Hp) DCT (2020 - 2020)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 Multijet II (120 Hp) (2020 - 2020)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 E-Torq (110 Hp) Automatic (2016 - 2019)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 T-Jet LPG (120 Hp) (2015 - 2019)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 Fire (95 Hp) (2020 - 2020)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 Multijet II (95 Hp) (2020 - 2020)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "fastback": {
+      "label": "Fastback",
+      "series": {
+        "fiat-fastback": {
+          "label": "Fiat Fastback",
+          "engines": [
+            {
+              "label": "1.3 T270 (180/185 Hp) Flex Automatic",
+              "hp": 185,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 T270 (175 Hp) Automatic",
+              "hp": 175,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 T200 (125/130 Hp) Mild Hybrid Flex CVT",
+              "hp": 130,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.0 T200 (125/130 Hp) Flex CVT",
+              "hp": 130,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 T200 (120 Hp) CVT",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "fiorino": {
+      "label": "Fiorino",
+      "series": {
+        "fiat-fiorino-facelift-2016": {
+          "label": "Fiat Fiorino (facelift 2016)",
+          "engines": [
+            {
+              "label": "1.4 8V (77 Hp)",
+              "hp": 77,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 (77/70 Hp) CNG",
+              "hp": 70,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 16V MultiJet2 (95 Hp) Ecojet S&S",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 16V MultiJet2 (95 Hp)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 16V MultiJet2 (80 Hp) Ecojet S&S Automatic",
+              "hp": 80,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 16V MultiJet2 (80 Hp) Ecojet S&S",
+              "hp": 80,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 16V MultiJet2 (80 Hp)",
+              "hp": 80,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-fiorino-combi": {
+          "label": "Fiat Fiorino Combi",
+          "engines": [
+            {
+              "label": "1.4 8V (73 Hp) (2008 - 2016)",
+              "hp": 73,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 JTD Multijet 16V (75 Hp) (2008 - 2016)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-fiorino-qubo": {
+          "label": "Fiat Fiorino Qubo",
+          "engines": [
+            {
+              "label": "1.4 8V (73 Hp) (2008 - 2016)",
+              "hp": 73,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 JTD Multijet 16V (75 Hp) (2008 - 2016)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-fiorino-147": {
+          "label": "Fiat Fiorino (147)",
+          "engines": [
+            {
+              "label": "1.7 Diesel (63 Hp) (1997 - 2000)",
+              "hp": 63,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.7 Diesel (60 Hp) (1987 - 1990)",
+              "hp": 60,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.7 Diesel (57 Hp) (1994 - 1997)",
+              "hp": 57,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 ie (75 Hp) (1994 - 1996)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 (75 Hp) Cat (1988 - 1993)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 (67 Hp) (1994 - 2000)",
+              "hp": 67,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 Diesel (45 Hp) (1982 - 1987)",
+              "hp": 45,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.3 (67 Hp) (1987 - 1993)",
+              "hp": 67,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.1 (55 Hp) (1986 - 1988)",
+              "hp": 55,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 (56 Hp) (1986 - 1988)",
+              "hp": 56,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 (50 Hp) (1980 - 1987)",
+              "hp": 50,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-fiorino-127": {
+          "label": "Fiat Fiorino (127)",
+          "engines": [
+            {
+              "label": "900 (45 Hp) (1977 - 1981)",
+              "hp": 45
+            },
+            {
+              "label": "1050 (50 Hp) (1980 - 1987)",
+              "hp": 50
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "freemont": {
+      "label": "Freemont",
+      "series": {
+        "fiat-freemont": {
+          "label": "Fiat Freemont",
+          "engines": [
+            {
+              "label": "3.6 V6 (280 Hp) AWD Automatic (2012 - 2016)",
+              "hp": 280,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 (170 Hp) Automatic (2014 - 2016)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 JTD (170 Hp) AWD Automatic (2011 - 2016)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 JTD (170 Hp) (2011 - 2016)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 JTD (140 Hp) (2011 - 2016)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "fullback": {
+      "label": "Fullback",
+      "series": {
+        "fiat-fullback-cross": {
+          "label": "Fiat Fullback Cross",
+          "engines": [
+            {
+              "label": "2.4 (181 Hp) 4x4 Automatic",
+              "hp": 181,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-fullback-extended-cab": {
+          "label": "Fiat Fullback Extended Cab",
+          "engines": [
+            {
+              "label": "SX 2.4d (154 Hp) AWD",
+              "hp": 154,
+              "fuel": "benzin"
+            },
+            {
+              "label": "LX 2.4d (181 Hp) AWD",
+              "hp": 181,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 (181 Hp) 4WD (2016 - 2017)",
+              "hp": 181,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 (154 Hp) 4WD S&S (2016 - 2017)",
+              "hp": 154,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-fullback-double-cab": {
+          "label": "Fiat Fullback Double Cab",
+          "engines": [
+            {
+              "label": "SX 2.4d (154 Hp) AWD",
+              "hp": 154,
+              "fuel": "benzin"
+            },
+            {
+              "label": "SX 2.4d (154 Hp)",
+              "hp": 154,
+              "fuel": "benzin"
+            },
+            {
+              "label": "LX 2.4d (181 Hp) AWD Automatic",
+              "hp": 181,
+              "fuel": "benzin"
+            },
+            {
+              "label": "LX 2.4d (181 Hp) AWD",
+              "hp": 181,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 (181 Hp) 4WD S&S (2016 - 2017)",
+              "hp": 181,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 (181 Hp) 4WD Automatic (2016 - 2017)",
+              "hp": 181,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 (181 Hp) 4WD (2016 - 2017)",
+              "hp": 181,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 (154 Hp) S&S SCR (2016 - 2017)",
+              "hp": 154,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 (154 Hp) S&S (2016 - 2017)",
+              "hp": 154,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 (154 Hp) 4WD S&S SCR (2016 - 2017)",
+              "hp": 154,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 (154 Hp) 4WD S&S (2016 - 2017)",
+              "hp": 154,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 (154 Hp) 4WD Automatic SCR (2016 - 2017)",
+              "hp": 154,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 (154 Hp) 4WD Automatic (2016 - 2017)",
+              "hp": 154,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "grande-panda": {
+      "label": "Grande Panda",
+      "series": {
+        "fiat-grande-panda": {
+          "label": "Fiat Grande Panda",
+          "engines": [
+            {
+              "label": "44 kWh (113 Hp) Electric",
+              "hp": 113,
+              "fuel": "elektro"
+            },
+            {
+              "label": "1.2 (110 Hp) Mild Hybrid eDCT",
+              "hp": 110,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.2 (101 Hp) Mild Hybrid eDCT (2025 - 2025)",
+              "hp": 101,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.2 (101 Hp)",
+              "hp": 101,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "idea": {
+      "label": "Idea",
+      "series": {
+        "fiat-idea": {
+          "label": "Fiat Idea",
+          "engines": [
+            {
+              "label": "1.9 JTD (101 Hp) (2003 - 2007)",
+              "hp": 101,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 i 16V (95 Hp) (2003 - 2010)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 i 8V (77 Hp) (2006 - 2011)",
+              "hp": 77,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 JTD MultiJet (70 Hp) (2003 - 2010)",
+              "hp": 70,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 i 16V (80 Hp) (2003 - 2010)",
+              "hp": 80,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 16V Multijet (90 Hp) (2006 - 2010)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "linea": {
+      "label": "Linea",
+      "series": {
+        "fiat-linea-facelift-2014": {
+          "label": "Fiat Linea (facelift 2014)",
+          "engines": [
+            {
+              "label": "Keine exakte Motorliste verfügbar – bitte genaue Motorisierung im Freitext angeben"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-linea": {
+          "label": "Fiat Linea",
+          "engines": [
+            {
+              "label": "1.6 16V Multijet (105 Hp) (2009 - 2012)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 i (77 Hp) (2007 - 2012)",
+              "hp": 77,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 16V Multijet (90 Hp) (2007 - 2012)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "marea": {
+      "label": "Marea",
+      "series": {
+        "fiat-marea-185": {
+          "label": "Fiat Marea (185)",
+          "engines": [
+            {
+              "label": "2.4 TD 125 (125 Hp) (1996 - 1999)",
+              "hp": 125,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 JTD 130 (130 Hp) (1999 - 2000)",
+              "hp": 130,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 i 20V (160 Hp) (2000 - 2002)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 i 20V Turbo (182 Hp) (2000 - 2002)",
+              "hp": 182,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 155 20V (154 Hp) (1999 - 2000)",
+              "hp": 154,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 150 20V (147 Hp) (1996 - 1999)",
+              "hp": 147,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 TD 100 (100 Hp) (1996 - 1999)",
+              "hp": 100,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 TD 75 (75 Hp) (1996 - 2000)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 JTD 110 (110 Hp) (2001 - 2003)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 JTD 105 (105 Hp) (1999 - 2000)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 i 16V (132 Hp) (2000 - 2002)",
+              "hp": 132,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 115 16V (113 Hp) (1996 - 2000)",
+              "hp": 113,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 16V (103 Hp) Automatic (1996 - 2000)",
+              "hp": 103,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 16V (103 Hp) (1996 - 2000)",
+              "hp": 103,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 100 16V Bipower (103 Hp) (1999 - 2000)",
+              "hp": 103,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 80 12V (80 Hp) (1996 - 1999)",
+              "hp": 80,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-marea-weekend-185": {
+          "label": "Fiat Marea Weekend (185)",
+          "engines": [
+            {
+              "label": "2.4 TD 125 (125 Hp) (1996 - 1999)",
+              "hp": 125,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 JTD 130 (130 Hp) (1999 - 2000)",
+              "hp": 130,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 i 20V (160 Hp) (2000 - 2002)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 i 20V Turbo (182 Hp) (2000 - 2002)",
+              "hp": 182,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 155 20V (154 Hp) (1999 - 2000)",
+              "hp": 154,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 150 20V (147 Hp) (1996 - 1999)",
+              "hp": 147,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 TD 100 (100 Hp) (1996 - 1999)",
+              "hp": 100,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 TD 75 (75 Hp) (1996 - 2000)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 JTD 110 (110 Hp) (2000 - 2002)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 JTD 105 (105 Hp) (1999 - 2000)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 i 16V (132 Hp) (2000 - 2002)",
+              "hp": 132,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 115 16V (113 Hp) (1996 - 2000)",
+              "hp": 113,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 100 16V (103 Hp) (1996 - 2000)",
+              "hp": 103,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 80 12V (80 Hp) (1996 - 1999)",
+              "hp": 80,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "multipla": {
+      "label": "Multipla",
+      "series": {
+        "fiat-multipla-186-facelift-2004": {
+          "label": "Fiat Multipla (186, facelift 2004)",
+          "engines": [
+            {
+              "label": "1.9 MultiJet (120 Hp) DPF (2006 - 2010)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 16V (103 Hp) (2004 - 2010)",
+              "hp": 103,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-multipla-186": {
+          "label": "Fiat Multipla (186)",
+          "engines": [
+            {
+              "label": "1.9 JTD 110 (110 Hp) (2000 - 2002)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 JTD (105 Hp) (1999 - 2000)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 16V Bipower (103 Hp) (2000 - 2004)",
+              "hp": 103,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 16V (103 Hp) (2002 - 2004)",
+              "hp": 103,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 16V Blupower (95 Hp) (2000 - 2004)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "ottimo": {
+      "label": "Ottimo",
+      "series": {
+        "fiat-ottimo": {
+          "label": "Fiat Ottimo",
+          "engines": [
+            {
+              "label": "1.4 T-Jet (150 Hp) DDCT (2014 - 2017)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 T-Jet (150 Hp) (2014 - 2017)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 T-Jet (120 Hp) DCT (2014 - 2017)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 T-Jet (120 Hp) (2014 - 2017)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "palio": {
+      "label": "Palio",
+      "series": {
+        "fiat-palio-weekend-178": {
+          "label": "Fiat Palio Weekend (178)",
+          "engines": [
+            {
+              "label": "1.9 JTD (80 Hp) (2002 - 2003)",
+              "hp": 80,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 D (63 Hp) (1997 - 2002)",
+              "hp": 63,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.7 TD (69 Hp) (1997 - 2002)",
+              "hp": 69,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 i 16V (106 Hp) (1997 - 2002)",
+              "hp": 106,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 i (101 Hp) (1997 - 2002)",
+              "hp": 101,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 i 16V EL (100 Hp) (1997 - 2002)",
+              "hp": 100,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 i ED (87 Hp) (1997 - 2002)",
+              "hp": 87,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 i (76 Hp) (1997 - 2002)",
+              "hp": 76,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 i (73 Hp) (1997 - 2002)",
+              "hp": 73,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 i (60 Hp) (1997 - 2002)",
+              "hp": 60,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 16V (80 Hp) (2002 - 2003)",
+              "hp": 80,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-palio-178": {
+          "label": "Fiat Palio (178)",
+          "engines": [
+            {
+              "label": "1.7 TD (72 Hp) (1996 - 2002)",
+              "hp": 72,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.7 TD (69 Hp) (1996 - 2002)",
+              "hp": 69,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 i 16V (103 Hp) (1996 - 2002)",
+              "hp": 103,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 i 16V (101 Hp) (1996 - 2002)",
+              "hp": 101,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 i (80 Hp) (1996 - 2002)",
+              "hp": 80,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 i (76 Hp) (1996 - 2002)",
+              "hp": 76,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 i (71 Hp) (1996 - 2002)",
+              "hp": 71,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 i 16V (80 Hp) (1997 - 2002)",
+              "hp": 80,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 i (68 Hp) (1996 - 2002)",
+              "hp": 68,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 i 16V (70 Hp) (1996 - 2002)",
+              "hp": 70,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 i (61 Hp) (1996 - 2002)",
+              "hp": 61,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 i (55 Hp) (1996 - 2002)",
+              "hp": 55,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "panda": {
+      "label": "Panda",
+      "series": {
+        "fiat-pandina": {
+          "label": "Fiat Pandina",
+          "engines": [
+            {
+              "label": "1.0 GSE (70 Hp) Mild Hybrid",
+              "hp": 70,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-panda-iii-319-facelift-2020": {
+          "label": "Fiat Panda III (319, facelift 2020)",
+          "engines": [
+            {
+              "label": "1.2 (69 Hp) LPG",
+              "hp": 69,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 GSE (70 Hp) Mild Hybrid",
+              "hp": 70,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-panda-iii-city-cross": {
+          "label": "Fiat Panda III City Cross",
+          "engines": [
+            {
+              "label": "1.3 Multijet II (95 Hp) (2017 - 2018)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 (69 Hp) (2018 - 2020)",
+              "hp": 69,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 (70 Hp) Mild Hybrid (2020 - 2020)",
+              "hp": 70,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-panda-iii-cross": {
+          "label": "Fiat Panda III Cross",
+          "engines": [
+            {
+              "label": "1.3 Multijet II (95 Hp) 4x4 (2014 - 2018)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 Multijet II (80 Hp) 4x4 (2014 - 2015)",
+              "hp": 80,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.9 TwinAir (90 Hp) 4x4 (2014 - 2018)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.9 TwinAir (85 Hp) 4x4 (2018 - 2020)",
+              "hp": 85,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-panda-iii-4x4": {
+          "label": "Fiat Panda III 4x4",
+          "engines": [
+            {
+              "label": "1.3 MULTIJET 16V (75 Hp) START & STOP (2011 - 2015)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.9 TwinAir (85 Hp) (2018 - 2020)",
+              "hp": 85,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-panda-iii-319": {
+          "label": "Fiat Panda III (319)",
+          "engines": [
+            {
+              "label": "1.3 16V MULTIJET (75 Hp) START & STOP (2011 - 2015)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 FIRE (69 Hp) (2011 - 2018)",
+              "hp": 69,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 EASY POWER (69 Hp) LPG (2011 - 2018)",
+              "hp": 69,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 EASY POWER (69 Hp) (2011 - 2018)",
+              "hp": 69,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 (69 Hp) LPG (2018 - 2020)",
+              "hp": 69,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 (69 Hp) (2018 - 2020)",
+              "hp": 69,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.9 TwinAir (85 Hp) (2018 - 2020)",
+              "hp": 85,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.9 TWIN AIR TURBO (85 Hp) START & STOP (2011 - 2018)",
+              "hp": 85,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.9 MultiAir (70 Hp) CNG (2018 - 2020)",
+              "hp": 70,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-panda-ii-4x4": {
+          "label": "Fiat Panda II 4x4",
+          "engines": [
+            {
+              "label": "1.3 16V Multijet (75 Hp) 4x4 DPF (2010 - 2012)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 16V Multijet (70 Hp) 4x4 (2004 - 2010)",
+              "hp": 70,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 MPI (60 Hp) 4x4 (2004 - 2010)",
+              "hp": 60,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 8V (69 Hp) 4x4 (2010 - 2012)",
+              "hp": 69,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-panda-ii-169": {
+          "label": "Fiat Panda II (169)",
+          "engines": [
+            {
+              "label": "1.4 8V (77/69 Hp) Natural Power (2010 - 2012)",
+              "hp": 69,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 16V (100 Hp) (2006 - 2011)",
+              "hp": 100,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 16V Multijet (75 Hp) DPF (2006 - 2012)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 16V Multijet (70 Hp) (2003 - 2010)",
+              "hp": 70,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 MPI (60 Hp) (2003 - 2010)",
+              "hp": 60,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 8V (69 Hp) DYNAMIC (2003 - 2012)",
+              "hp": 69,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.1 MPI (54 Hp) (2003 - 2010)",
+              "hp": 54,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-panda-zaf-141-facelift-1991": {
+          "label": "Fiat Panda (ZAF 141, facelift 1991)",
+          "engines": [
+            {
+              "label": "750 (34 Hp) (1991 - 1992)",
+              "hp": 34
+            },
+            {
+              "label": "1100 ie (55 Hp) (1995 - 1996)",
+              "hp": 55
+            },
+            {
+              "label": "1000 ie 4x4 (50 Hp) (1992 - 1995)",
+              "hp": 50
+            },
+            {
+              "label": "1000 ie CAT (45 Hp) (1991 - 1994)",
+              "hp": 45
+            },
+            {
+              "label": "1000 (44 Hp) (1991 - 1992)",
+              "hp": 44
+            },
+            {
+              "label": "1.1 ie 4x4 (55 Hp) (1995 - 1996)",
+              "hp": 55,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.1 ie 4x4 (50 Hp) (1992 - 1995)",
+              "hp": 50,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.1 ie (50 Hp) ECVT (1991 - 1995)",
+              "hp": 50,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.9 ie (40 Hp) (1992 - 1996)",
+              "hp": 40,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-panda-van": {
+          "label": "Fiat Panda Van",
+          "engines": [
+            {
+              "label": "750 (34 Hp) (1986 - 1992)",
+              "hp": 34
+            },
+            {
+              "label": "1000 i.e (45 Hp) (1992 - 1994)",
+              "hp": 45
+            },
+            {
+              "label": "1000 (44 Hp) (1986 - 1992)",
+              "hp": 44
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-panda-zaf-141-facelift-1986": {
+          "label": "Fiat Panda (ZAF 141, facelift 1986)",
+          "engines": [
+            {
+              "label": "750 L (34 Hp) (1986 - 1991)",
+              "hp": 34
+            },
+            {
+              "label": "1000 ie CAT 4x4 (50 Hp) (1990 - 1991)",
+              "hp": 50
+            },
+            {
+              "label": "1000 CL/S (45 Hp) (1986 - 1989)",
+              "hp": 45
+            },
+            {
+              "label": "1000 4x4 (44 Hp) (1986 - 1990)",
+              "hp": 44
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-panda-zaf-141": {
+          "label": "Fiat Panda (ZAF 141)",
+          "engines": [
+            {
+              "label": "750 (34 Hp) (1981 - 1985)",
+              "hp": 34
+            },
+            {
+              "label": "1.0 (48 Hp) 4x4 (1983 - 1985)",
+              "hp": 48,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.9 (45 Hp) (1982 - 1985)",
+              "hp": 45,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "pulse": {
+      "label": "Pulse",
+      "series": {
+        "fiat-pulse": {
+          "label": "Fiat Pulse",
+          "engines": [
+            {
+              "label": "1.3 Firefly (99 Hp) CVT",
+              "hp": 99,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 Firefly (99 Hp)",
+              "hp": 99,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 T200 (125/130 Hp) Mild Hybrid Flex CVT",
+              "hp": 130,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.0 T200 (125/130 Hp) Flex CVT",
+              "hp": 130,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 T200 Turbo (120 Hp) CVT",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "punto": {
+      "label": "Punto",
+      "series": {
+        "fiat-punto-iii-199": {
+          "label": "Fiat Punto III (199)",
+          "engines": [
+            {
+              "label": "1.4 T-jet MultiAir (135 Hp) Start&Stop (2012 - 2013)",
+              "hp": 135,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 MultiAir (105 Hp) Start&Stop (2012 - 2013)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 Easypower (77 Hp) (2012 - 2018)",
+              "hp": 77,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 8V (78 Hp) Start&Stop (2012 - 2018)",
+              "hp": 78,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 8V (77 Hp) Natural Power (2012 - 2018)",
+              "hp": 77,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 Multijet (95 Hp) Start&Stop (2012 - 2013)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 Multijet (85 Hp) Start&Stop (2012 - 2015)",
+              "hp": 85,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 8V (69 Hp) Start&Stop (2012 - 2018)",
+              "hp": 69,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.9 TwinAir (105 Hp) (2014 - 2018)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.9 TwinAir (85 Hp) (2012 - 2014)",
+              "hp": 85,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-punto-evo-199": {
+          "label": "Fiat Punto Evo (199)",
+          "engines": [
+            {
+              "label": "1.6 16V Multijet (120 Hp) DPF (2009 - 2011)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 8V (77 Hp) NATURAL POWER (2009 - 2011)",
+              "hp": 77,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 8V (77 Hp) GPL (2009 - 2010)",
+              "hp": 77,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 8V (77 Hp) Dualogic Start&Stop (2009 - 2011)",
+              "hp": 77,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 8V (77 Hp) (2009 - 2011)",
+              "hp": 77,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 16V T-jet MultiAir (135 Hp) Start&Stop (2010 - 2011)",
+              "hp": 135,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 16V MultiAir (105 Hp) Start&Stop (2010 - 2011)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 16V Multijet (95 Hp) Start&Stop DPF (2009 - 2011)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 16V Multijet (95 Hp) Dualogic Start&Stop DPF (2009 - 2011)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 16V Multijet (90 Hp) Dualogic (2009 - 2009)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 16V Multijet (90 Hp) (2009 - 2009)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 16V Multijet (75 Hp) Start&Stop DPF (2009 - 2011)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 16V Multijet (75 Hp) (2009 - 2011)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 8V (69 Hp) (2010 - 2011)",
+              "hp": 69,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 8V (65 Hp) (2009 - 2010)",
+              "hp": 65,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-grande-punto-199": {
+          "label": "Fiat Grande Punto (199)",
+          "engines": [
+            {
+              "label": "Sport 1.9 Multijet (130 Hp) (2005 - 2008)",
+              "hp": 130,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 Multijet (120 Hp) (2005 - 2008)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 Multijet (120 Hp) (2008 - 2009)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 T-jet (120 Hp) (2007 - 2009)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 (95 Hp) (2006 - 2009)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 (77 Hp) Dualogic (2005 - 2009)",
+              "hp": 77,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 (77 Hp) (2005 - 2009)",
+              "hp": 77,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 Multijet (90 Hp) Dualogic (2005 - 2009)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 Multijet (90 Hp) (2005 - 2009)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 Multijet (75 Hp) (2005 - 2009)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 (65 Hp) (2005 - 2009)",
+              "hp": 65,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-punto-classic-5d": {
+          "label": "Fiat Punto Classic 5d",
+          "engines": [
+            {
+              "label": "1.3 Multijet (70 Hp) (2007 - 2010)",
+              "hp": 70,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 (60 Hp) (2007 - 2010)",
+              "hp": 60,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-punto-classic-3d": {
+          "label": "Fiat Punto Classic 3d",
+          "engines": [
+            {
+              "label": "1.3 Multijet (70 Hp) (2007 - 2010)",
+              "hp": 70,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 (60 Hp) (2007 - 2010)",
+              "hp": 60,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-punto-ii-188-facelift-2003-5dr": {
+          "label": "Fiat Punto II (188, facelift 2003) 5dr",
+          "engines": [
+            {
+              "label": "1.9 Multijet (100 Hp) (2003 - 2007)",
+              "hp": 100,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 JTD (85 Hp) (2003 - 2007)",
+              "hp": 85,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 (95 Hp) (2003 - 2007)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 Multijet (70 Hp) (2003 - 2007)",
+              "hp": 70,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 (80 Hp) CVT (2003 - 2007)",
+              "hp": 80,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 (80 Hp) (2003 - 2007)",
+              "hp": 80,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 (60 Hp) (2003 - 2007)",
+              "hp": 60,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-punto-ii-188-facelift-2003-3dr": {
+          "label": "Fiat Punto II (188, facelift 2003) 3dr",
+          "engines": [
+            {
+              "label": "HGT 1.8 (131 Hp) (2003 - 2005)",
+              "hp": 131,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 Multijet (100 Hp) (2003 - 2007)",
+              "hp": 100,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 JTD (85 Hp) (2003 - 2007)",
+              "hp": 85,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 (95 Hp) (2003 - 2007)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 Multijet (70 Hp) (2003 - 2007)",
+              "hp": 70,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 (80 Hp) CVT (2003 - 2007)",
+              "hp": 80,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 (80 Hp) (2003 - 2007)",
+              "hp": 80,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 (60 Hp) (2003 - 2007)",
+              "hp": 60,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-punto-ii-188-5dr": {
+          "label": "Fiat Punto II (188) 5dr",
+          "engines": [
+            {
+              "label": "1.9 JTD (85 Hp) (2001 - 2003)",
+              "hp": 85,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 JTD (80 Hp) (1999 - 2001)",
+              "hp": 80,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 D (60 Hp) (1999 - 2003)",
+              "hp": 60,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 (80 Hp) Automatic (1999 - 2003)",
+              "hp": 80,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 (80 Hp) (1999 - 2003)",
+              "hp": 80,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 (60 Hp) (1999 - 2003)",
+              "hp": 60,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-punto-ii-188-3dr": {
+          "label": "Fiat Punto II (188) 3dr",
+          "engines": [
+            {
+              "label": "HGT 1.8 (131 Hp) (1999 - 2003)",
+              "hp": 131,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 JTD (85 Hp) (2001 - 2003)",
+              "hp": 85,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 JTD (80 Hp) (1999 - 2001)",
+              "hp": 80,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 D (60 Hp) (1999 - 2003)",
+              "hp": 60,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 (80 Hp) Automatic (1999 - 2003)",
+              "hp": 80,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 (80 Hp) (1999 - 2003)",
+              "hp": 80,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 (60 Hp) (1999 - 2003)",
+              "hp": 60,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-punto-i-176-facelift-1997": {
+          "label": "Fiat Punto I (176, facelift 1997)",
+          "engines": [
+            {
+              "label": "GT 1.4 Turbo (131 Hp) (1997 - 1999)",
+              "hp": 131,
+              "fuel": "benzin"
+            },
+            {
+              "label": "85 1.2 (86 Hp) (1997 - 1999)",
+              "hp": 86,
+              "fuel": "benzin"
+            },
+            {
+              "label": "75 1.2 (73 Hp) (1997 - 1999)",
+              "hp": 73,
+              "fuel": "benzin"
+            },
+            {
+              "label": "70 TD 1.7 (70 Hp) (1997 - 1999)",
+              "hp": 70,
+              "fuel": "benzin"
+            },
+            {
+              "label": "60 TD 1.7 (63 Hp) (1997 - 1999)",
+              "hp": 63,
+              "fuel": "benzin"
+            },
+            {
+              "label": "55 1.1 (54 Hp) (1997 - 1999)",
+              "hp": 54,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-punto-cabrio-176c": {
+          "label": "Fiat Punto Cabrio (176C)",
+          "engines": [
+            {
+              "label": "1.6 (88 Hp) (1994 - 1997)",
+              "hp": 88,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 (86 Hp) (1997 - 1999)",
+              "hp": 86,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 (58 Hp) (1994 - 1995)",
+              "hp": 58,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-punto-i-176": {
+          "label": "Fiat Punto I (176)",
+          "engines": [
+            {
+              "label": "GT 1.4 Turbo (133 Hp) (1993 - 1997)",
+              "hp": 133,
+              "fuel": "benzin"
+            },
+            {
+              "label": "90 1.6 (88 Hp) (1994 - 1997)",
+              "hp": 88,
+              "fuel": "benzin"
+            },
+            {
+              "label": "75 1.2 (73 Hp) (1993 - 1997)",
+              "hp": 73,
+              "fuel": "benzin"
+            },
+            {
+              "label": "70 1.7 TD (70 Hp) (1994 - 1997)",
+              "hp": 70,
+              "fuel": "benzin"
+            },
+            {
+              "label": "60 1.2 (60 Hp) (1995 - 1997)",
+              "hp": 60,
+              "fuel": "benzin"
+            },
+            {
+              "label": "60 1.2 (58 Hp) (1993 - 1995)",
+              "hp": 58,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.7 D (57 Hp) (1994 - 1997)",
+              "hp": 57,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.1 (55 Hp) (1993 - 1996)",
+              "hp": 55,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "qubo": {
+      "label": "Qubo",
+      "series": {
+        "fiat-qubo": {
+          "label": "Fiat Qubo",
+          "engines": [
+            {
+              "label": "1.4 8V (77 Hp) NATURAL POWER (2008 - 2016)",
+              "hp": 77,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 8V (73 Hp) (2008 - 2016)",
+              "hp": 73,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 (77 Hp) (2019 - 2019)",
+              "hp": 77,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 (70 Hp) CNG (2019 - 2019)",
+              "hp": 70,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 MultiJet (95 Hp) Start/Stop (2019 - 2019)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 MultiJet (80 Hp) (2019 - 2019)",
+              "hp": 80,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 16V (75 Hp) MULTIJET S&S (2008 - 2016)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "qubo-l": {
+      "label": "Qubo L",
+      "series": {
+        "fiat-qubo-l-maxi": {
+          "label": "Fiat Qubo L Maxi",
+          "engines": [
+            {
+              "label": "1.5 BlueHDI (130 Hp) Automatic",
+              "hp": 130,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 BlueHDI (130 Hp)",
+              "hp": 130,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.2 Turbo (110 Hp)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-qubo-l": {
+          "label": "Fiat Qubo L",
+          "engines": [
+            {
+              "label": "1.5 BlueHDI (130 Hp) Automatic",
+              "hp": 130,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 BlueHDI (130 Hp)",
+              "hp": 130,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.2 Turbo (110 Hp)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "regata": {
+      "label": "Regata",
+      "series": {
+        "fiat-regata-138": {
+          "label": "Fiat Regata (138)",
+          "engines": [
+            {
+              "label": "90 i.e. 1.6 (90 Hp) (1987 - 1989)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "85 1.6 (82 Hp) (1983 - 1985)",
+              "hp": 82,
+              "fuel": "benzin"
+            },
+            {
+              "label": "85 1.5 (82 Hp) Automatic (1983 - 1985)",
+              "hp": 82,
+              "fuel": "benzin"
+            },
+            {
+              "label": "85 1.5 (79 Hp) (1985 - 1987)",
+              "hp": 79,
+              "fuel": "benzin"
+            },
+            {
+              "label": "80 Turbo Diesel 1.9 (80 Hp) (1986 - 1989)",
+              "hp": 80,
+              "fuel": "diesel"
+            },
+            {
+              "label": "75 i.e. 1.5 (75 Hp) CAT (1985 - 1989)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "75 1.5 (75 Hp) (1983 - 1987)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "70 1.3 (68 Hp) (1983 - 1986)",
+              "hp": 68,
+              "fuel": "benzin"
+            },
+            {
+              "label": "70 1.3 (65 Hp) (1983 - 1989)",
+              "hp": 65,
+              "fuel": "benzin"
+            },
+            {
+              "label": "65 Diesel 1.7 (65 Hp) (1984 - 1989)",
+              "hp": 65,
+              "fuel": "diesel"
+            },
+            {
+              "label": "60 Diesel 1.7 (60 Hp) (1985 - 1989)",
+              "hp": 60,
+              "fuel": "diesel"
+            },
+            {
+              "label": "60 Diesel 1.7 (58 Hp) (1983 - 1986)",
+              "hp": 58,
+              "fuel": "diesel"
+            },
+            {
+              "label": "100 Super 1.6 (100 Hp) (1983 - 1989)",
+              "hp": 100,
+              "fuel": "benzin"
+            },
+            {
+              "label": "100 Super 1.6 (95 Hp) (1983 - 1989)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "100 1.6 (101 Hp) (1985 - 1990)",
+              "hp": 101,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-regata-weekend": {
+          "label": "Fiat Regata Weekend",
+          "engines": [
+            {
+              "label": "90 i.e. 1.6 (90 Hp) (1987 - 1989)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "85 1.5 (82 Hp) (1984 - 1989)",
+              "hp": 82,
+              "fuel": "benzin"
+            },
+            {
+              "label": "80 Turbo Diesel 1.9 (80 Hp) (1986 - 1989)",
+              "hp": 80,
+              "fuel": "diesel"
+            },
+            {
+              "label": "75 1.5 (75 Hp) (1984 - 1989)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "70 1.3 (65 Hp) (1987 - 1989)",
+              "hp": 65,
+              "fuel": "benzin"
+            },
+            {
+              "label": "65 Diesel 1.9 (65 Hp) (1984 - 1989)",
+              "hp": 65,
+              "fuel": "diesel"
+            },
+            {
+              "label": "60 Diesel 1.7 (60 Hp) (1984 - 1989)",
+              "hp": 60,
+              "fuel": "diesel"
+            },
+            {
+              "label": "100 i.e. 1.6 (101 Hp) (1987 - 1990)",
+              "hp": 101,
+              "fuel": "benzin"
+            },
+            {
+              "label": "100 1.6 (RF) (101 Hp) (1984 - 1986)",
+              "hp": 101,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "ritmo": {
+      "label": "Ritmo",
+      "series": {
+        "fiat-ritmo-i-138a-facelift-1982": {
+          "label": "Fiat Ritmo I (138A, facelift 1982)",
+          "engines": [
+            {
+              "label": "90 1.6 i.e. (90 Hp) (1985 - 1987)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "85 1.5 (82 Hp) (1983 - 1987)",
+              "hp": 82,
+              "fuel": "benzin"
+            },
+            {
+              "label": "85 1.5 (79 Hp) (1985 - 1987)",
+              "hp": 79,
+              "fuel": "benzin"
+            },
+            {
+              "label": "80 Turbo Diesel 1.9 (80 Hp) (1985 - 1987)",
+              "hp": 80,
+              "fuel": "diesel"
+            },
+            {
+              "label": "75 1.5 CAT (75 Hp) (1985 - 1988)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "75 1.5 (75 Hp) (1985 - 1988)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "70 1.3 (68 Hp) (1983 - 1985)",
+              "hp": 68,
+              "fuel": "benzin"
+            },
+            {
+              "label": "60 Diesel 1.7 (60 Hp) (1985 - 1987)",
+              "hp": 60,
+              "fuel": "diesel"
+            },
+            {
+              "label": "60 Diesel 1.7 (58 Hp) (1982 - 1985)",
+              "hp": 58,
+              "fuel": "diesel"
+            },
+            {
+              "label": "60 1.1 (58 Hp) (1985 - 1987)",
+              "hp": 58,
+              "fuel": "benzin"
+            },
+            {
+              "label": "60 1.1 (55 Hp) (1982 - 1985)",
+              "hp": 55,
+              "fuel": "benzin"
+            },
+            {
+              "label": "130 TC Abarth 2.0 (130 Hp) (1983 - 1987)",
+              "hp": 130,
+              "fuel": "benzin"
+            },
+            {
+              "label": "105 1.6 (105 Hp) (1983 - 1987)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "100 1.6 (100 Hp) (1983 - 1987)",
+              "hp": 100,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-ritmo-bertone-cabrio-i": {
+          "label": "Fiat Ritmo Bertone Cabrio I",
+          "engines": [
+            {
+              "label": "85 1.5 (86 Hp) (1980 - 1989)",
+              "hp": 86,
+              "fuel": "benzin"
+            },
+            {
+              "label": "85 1.5 (82 Hp) (1983 - 1986)",
+              "hp": 82,
+              "fuel": "benzin"
+            },
+            {
+              "label": "50 1.3 (68 Hp) (1985 - 1987)",
+              "hp": 68,
+              "fuel": "benzin"
+            },
+            {
+              "label": "100 1.6 (105 Hp) (1985 - 1987)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "100 1.6 (100 Hp) (1985 - 1987)",
+              "hp": 100,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-ritmo-i-138a": {
+          "label": "Fiat Ritmo I (138A)",
+          "engines": [
+            {
+              "label": "90 i.e. 1.6 (90 Hp) (1985 - 1987)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "85 1.5 (85 Hp) (1981 - 1982)",
+              "hp": 85,
+              "fuel": "benzin"
+            },
+            {
+              "label": "75 i.e. 1.5 (75 Hp) (1985 - 1987)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "75 1.3 (75 Hp) (1981 - 1982)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "70 1.3 (65 Hp) (1983 - 1985)",
+              "hp": 65,
+              "fuel": "benzin"
+            },
+            {
+              "label": "65 1.3 (65 Hp) (1978 - 1982)",
+              "hp": 65,
+              "fuel": "benzin"
+            },
+            {
+              "label": "60 1.0 (60 Hp) (1978 - 1982)",
+              "hp": 60,
+              "fuel": "benzin"
+            },
+            {
+              "label": "55 Diesel 1.7 (58 Hp) (1979 - 1982)",
+              "hp": 58,
+              "fuel": "diesel"
+            },
+            {
+              "label": "55 Diesel 1.7 (55 Hp) (1979 - 1982)",
+              "hp": 55,
+              "fuel": "diesel"
+            },
+            {
+              "label": "125 TC Abarth 2.0 (125 Hp) (1981 - 1982)",
+              "hp": 125,
+              "fuel": "benzin"
+            },
+            {
+              "label": "105 Sport 1.6 (105 Hp) (1981 - 1982)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "scudo": {
+      "label": "Scudo",
+      "series": {
+        "fiat-scudo-iii-facelift-2023-panel-van": {
+          "label": "Fiat Scudo III (facelift 2023) Panel Van",
+          "engines": [
+            {
+              "label": "e-Scudo 75 kWh (136 Hp) L3",
+              "hp": 136
+            },
+            {
+              "label": "e-Scudo 75 kWh (136 Hp) L2",
+              "hp": 136
+            },
+            {
+              "label": "e-Scudo 50 kWh (136 Hp) L3",
+              "hp": 136
+            },
+            {
+              "label": "e-Scudo 50 kWh (136 Hp) L2",
+              "hp": 136
+            },
+            {
+              "label": "2.0 Multijet (177 Hp) Automatic L3",
+              "hp": 177,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Multijet (177 Hp) Automatic L2",
+              "hp": 177,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Multijet (145 Hp) L3",
+              "hp": 145,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Multijet (145 Hp) L2",
+              "hp": 145,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Multijet (145 Hp) Automatic L3",
+              "hp": 145,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Multijet (145 Hp) Automatic L2",
+              "hp": 145,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 Multijet (120 Hp) L3",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 Multijet (120 Hp) L2",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-scudo-iii-panel-van": {
+          "label": "Fiat Scudo III Panel Van",
+          "engines": [
+            {
+              "label": "e-Scudo 75 kWh (136 Hp) L3 (2021 - 2023)",
+              "hp": 136
+            },
+            {
+              "label": "e-Scudo 75 kWh (136 Hp) L2 (2021 - 2023)",
+              "hp": 136
+            },
+            {
+              "label": "e-Scudo 50 kWh (136 Hp) L3 (2021 - 2023)",
+              "hp": 136
+            },
+            {
+              "label": "e-Scudo 50 kWh (136 Hp) L2 (2021 - 2023)",
+              "hp": 136
+            },
+            {
+              "label": "2.0 Multijet (177 Hp) Automatic L3 (2021 - 2023)",
+              "hp": 177,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Multijet (177 Hp) Automatic L2 (2021 - 2023)",
+              "hp": 177,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Multijet (145 Hp) L3 (2021 - 2023)",
+              "hp": 145,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Multijet (145 Hp) L2 (2021 - 2023)",
+              "hp": 145,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Multijet (145 Hp) Automatic L3 (2021 - 2023)",
+              "hp": 145,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Multijet (145 Hp) Automatic L2 (2021 - 2023)",
+              "hp": 145,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 Multijet (120 Hp) L2 (2021 - 2023)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 Multijet (102 Hp) L3 (2021 - 2023)",
+              "hp": 102,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 Multijet (102 Hp) L2 (2021 - 2023)",
+              "hp": 102,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 Multijet (102 Hp) L1 (2021 - 2023)",
+              "hp": 102,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "sedici": {
+      "label": "Sedici",
+      "series": {
+        "fiat-sedici-facelift-2009": {
+          "label": "Fiat Sedici (facelift 2009)",
+          "engines": [
+            {
+              "label": "2.0 16V MULTIJET (135 Hp) 4x4 (2009 - 2014)",
+              "hp": 135,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 16V (120 Hp) Automatic (2009 - 2014)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 16V (120 Hp) 4x4 (2009 - 2014)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 16V (120 Hp) (2009 - 2014)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-sedici": {
+          "label": "Fiat Sedici",
+          "engines": [
+            {
+              "label": "1.9 Multijet (120 Hp) (2005 - 2009)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 i 16V (107 Hp) Automatic (2005 - 2009)",
+              "hp": 107,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 i 16V (107 Hp) (2005 - 2009)",
+              "hp": 107,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "seicento": {
+      "label": "Seicento",
+      "series": {
+        "fiat-seicento-187": {
+          "label": "Fiat Seicento (187)",
+          "engines": [
+            {
+              "label": "1.1 (55 Hp) (1998 - 2000)",
+              "hp": 55,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.9 (39 Hp) (1998 - 2000)",
+              "hp": 39,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "siena": {
+      "label": "Siena",
+      "series": {
+        "fiat-siena-178": {
+          "label": "Fiat Siena (178)",
+          "engines": [
+            {
+              "label": "1.7 TD (72 Hp) (1996 - 2000)",
+              "hp": 72,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.7 TD (69 Hp) (1996 - 2000)",
+              "hp": 69,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 i 16V (103 Hp) (2001 - 2002)",
+              "hp": 103,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 i (87 Hp) (1996 - 2000)",
+              "hp": 87,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 i EL (71 Hp) (2002 - 2002)",
+              "hp": 71,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 i 16V (100 Hp) (1996 - 2000)",
+              "hp": 100,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 i 16V (80 Hp) (1997 - 2000)",
+              "hp": 80,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 i 16V (70 Hp) (1997 - 2000)",
+              "hp": 70,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 i (61 Hp) (1996 - 2000)",
+              "hp": 61,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "stilo": {
+      "label": "Stilo",
+      "series": {
+        "fiat-stilo-multi-wagon-facelift-2006": {
+          "label": "Fiat Stilo Multi Wagon (facelift 2006)",
+          "engines": [
+            {
+              "label": "1.9 Multijet 16V (150 Hp) (2006 - 2008)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 Multijet 8V (120 Hp) (2006 - 2008)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 16V (133 Hp) (2006 - 2008)",
+              "hp": 133,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 16V (105 Hp) (2006 - 2008)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 16V (90 Hp) (2006 - 2008)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-stilo-5-door-facelift-2006": {
+          "label": "Fiat Stilo (5-door, facelift 2006)",
+          "engines": [
+            {
+              "label": "2.4 (170 Hp) Selespeed (2006 - 2006)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 Multijet (150 Hp) (2006 - 2006)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 Multijet (120 Hp) (2006 - 2006)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 (133 Hp) (2006 - 2006)",
+              "hp": 133,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (105 Hp) (2006 - 2006)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 (95 Hp) (2006 - 2006)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 (90 Hp) (2006 - 2006)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-stilo-multi-wagon-facelift-2003": {
+          "label": "Fiat Stilo Multi Wagon (facelift 2003)",
+          "engines": [
+            {
+              "label": "1.9 16V JTD (140 Hp) (2003 - 2005)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 i 16V (103 Hp) (2003 - 2005)",
+              "hp": 103,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 i 16V (95 Hp) (2004 - 2005)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-stilo-3-door-facelift-2003": {
+          "label": "Fiat Stilo (3-door, facelift 2003)",
+          "engines": [
+            {
+              "label": "1.9 16V JTD (140 Hp) (2003 - 2005)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 i 16V (95 Hp) (2003 - 2005)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-stilo-5-door-facelift-2003": {
+          "label": "Fiat Stilo (5-door, facelift 2003)",
+          "engines": [
+            {
+              "label": "1.9 16V JTD (140 Hp) (2003 - 2005)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 i 16V (95 Hp) (2004 - 2005)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-stilo-multi-wagon": {
+          "label": "Fiat Stilo Multi Wagon",
+          "engines": [
+            {
+              "label": "1.9 JTD (115 Hp) (2002 - 2003)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 JTD (80 Hp) (2002 - 2003)",
+              "hp": 80,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 i 16V (133 Hp) (2002 - 2003)",
+              "hp": 133,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-stilo-3-door": {
+          "label": "Fiat Stilo (3-door)",
+          "engines": [
+            {
+              "label": "2.4 20V (170 Hp) (2001 - 2003)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 JTD (115 Hp) (2001 - 2003)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 JTD (80 Hp) (2002 - 2003)",
+              "hp": 80,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 16V (133 Hp) (2001 - 2003)",
+              "hp": 133,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 16V (103 Hp) (2001 - 2003)",
+              "hp": 103,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 16V (80 Hp) (2002 - 2003)",
+              "hp": 80,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-stilo-5-door": {
+          "label": "Fiat Stilo (5-door)",
+          "engines": [
+            {
+              "label": "2.4 20V (170 Hp) (2001 - 2003)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 JTD (115 Hp) (2001 - 2003)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 JTD (80 Hp) (2002 - 2003)",
+              "hp": 80,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 16V (133 Hp) (2001 - 2003)",
+              "hp": 133,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 16V (103 Hp) (2001 - 2003)",
+              "hp": 103,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 16V (80 Hp) (2002 - 2003)",
+              "hp": 80,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "strada": {
+      "label": "Strada",
+      "series": {
+        "fiat-strada-281-double-cab": {
+          "label": "Fiat Strada (281) Double Cab",
+          "engines": [
+            {
+              "label": "1.4 Flex (85/88 Hp)",
+              "hp": 88,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 Flex (101/109 Hp)",
+              "hp": 109,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-strada-178": {
+          "label": "Fiat Strada (178)",
+          "engines": [
+            {
+              "label": "1.7 TD (69 Hp) (1999 - 2001)",
+              "hp": 69,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 (73 Hp) (1999 - 2001)",
+              "hp": 73,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "talento": {
+      "label": "Talento",
+      "series": {
+        "fiat-talento-combi": {
+          "label": "Fiat Talento Combi",
+          "engines": [
+            {
+              "label": "1.6 Ecojet (145 Hp) L2H1 N1 (2016 - 2021)",
+              "hp": 145,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 Ecojet (145 Hp) L2H1 M1 (2016 - 2021)",
+              "hp": 145,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 Ecojet (145 Hp) L1H1 N1 (2016 - 2021)",
+              "hp": 145,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 Ecojet (145 Hp) L1H1 M1 (2016 - 2021)",
+              "hp": 145,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 Ecojet (125 Hp) L2H1 N1 (2016 - 2021)",
+              "hp": 125,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 Ecojet (125 Hp) L2H1 M1 (2016 - 2021)",
+              "hp": 125,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 Ecojet (125 Hp) L1H1 N1 (2016 - 2021)",
+              "hp": 125,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 Ecojet (125 Hp) L1H1 M1 (2016 - 2021)",
+              "hp": 125,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 Ecojet (95 Hp) L2H1 N1 (2016 - 2021)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 Ecojet (95 Hp) L2H1 M1 (2016 - 2021)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 Ecojet (95 Hp) L1H1 N1 (2016 - 2021)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 Ecojet (95 Hp) L1H1 M1 (2016 - 2021)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-talento-crew-cab": {
+          "label": "Fiat Talento Crew Cab",
+          "engines": [
+            {
+              "label": "1.6 MultiJet (120 Hp) L2H1 (2016 - 2021)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 MultiJet (120 Hp) L1H1 (2016 - 2021)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 MultiJet (95 Hp) L2H1 (2016 - 2021)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 MultiJet (95 Hp) L1H1 (2016 - 2021)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 Ecojet (145 Hp) L2H1 (2016 - 2021)",
+              "hp": 145,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 Ecojet (145 Hp) L1H1 (2016 - 2021)",
+              "hp": 145,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 Ecojet (125 Hp) L2H1 (2016 - 2021)",
+              "hp": 125,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 Ecojet (125 Hp) L1H1 (2016 - 2021)",
+              "hp": 125,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 Ecojet (95 Hp) L2H1 (2016 - 2021)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 Ecojet (95 Hp) L1H1 (2016 - 2021)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-talento-van": {
+          "label": "Fiat Talento Van",
+          "engines": [
+            {
+              "label": "1.6 MultiJet (120 Hp) L2H1 (2016 - 2021)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 MultiJet (120 Hp) L1H1 (2016 - 2021)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 MultiJet (95 Hp) L2H1 (2016 - 2021)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 MultiJet (95 Hp) L1H1 (2016 - 2021)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 Ecojet (145 Hp) L2H2 (2016 - 2021)",
+              "hp": 145,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 Ecojet (145 Hp) L2H1 (2016 - 2021)",
+              "hp": 145,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 Ecojet (145 Hp) L1H2 (2016 - 2021)",
+              "hp": 145,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 Ecojet (145 Hp) L1H1 (2016 - 2021)",
+              "hp": 145,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 Ecojet (125 Hp) L2H2 (2016 - 2021)",
+              "hp": 125,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 Ecojet (125 Hp) L2H1 (2016 - 2021)",
+              "hp": 125,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 Ecojet (125 Hp) L1H2 (2016 - 2021)",
+              "hp": 125,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 Ecojet (125 Hp) L1H1 (2016 - 2021)",
+              "hp": 125,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 Ecojet (95 Hp) L2H1 (2016 - 2021)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 Ecojet (95 Hp) L1H1 (2016 - 2021)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "tempra": {
+      "label": "Tempra",
+      "series": {
+        "fiat-tempra-159": {
+          "label": "Fiat Tempra (159)",
+          "engines": [
+            {
+              "label": "2.0 i.e. (159.AP) (113 Hp) (1990 - 1996)",
+              "hp": 113,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 TD (90 Hp) (1990 - 1996)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 TD (159.AQ) (80 Hp) (1992 - 1996)",
+              "hp": 80,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 D (65 Hp) (1990 - 1993)",
+              "hp": 65,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 i.e. (105 Hp) (1992 - 1993)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 i.e. (159.AV) (103 Hp) (1993 - 1996)",
+              "hp": 103,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 i.e. (159.BY) (101 Hp) (1994 - 1996)",
+              "hp": 101,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 i.e. (159.AZ) (90 Hp) (1993 - 1996)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 i.e. (159.AJ) (90 Hp) (1994 - 1996)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 i.e. (78 Hp) (1990 - 1992)",
+              "hp": 78,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 i.e. (159.AS,159.AT) (75 Hp) (1992 - 1996)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (86 Hp) (1990 - 1993)",
+              "hp": 86,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 i.e. (159.AC,159.AX) (69 Hp) (1990 - 1996)",
+              "hp": 69,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 (78 Hp) (1990 - 1993)",
+              "hp": 78,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "tipo": {
+      "label": "Tipo",
+      "series": {
+        "fiat-tipo-cross-wagon": {
+          "label": "Fiat Tipo Cross Wagon",
+          "engines": [
+            {
+              "label": "1.6 MultiJet (130 Hp)",
+              "hp": 130,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 T4 GSE (130 Hp) Mild Hybrid eDCT",
+              "hp": 130,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.0 (100 Hp)",
+              "hp": 100,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-tipo-356-facelift-2020": {
+          "label": "Fiat Tipo (356, facelift 2020)",
+          "engines": [
+            {
+              "label": "1.6 MultiJet (130 Hp)",
+              "hp": 130,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 (95 Hp)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 MultiJet (95 Hp)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 Turbo (100 Hp)",
+              "hp": 100,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-tipo-358-facelift-2020-wagon": {
+          "label": "Fiat Tipo (358, facelift 2020) Wagon",
+          "engines": [
+            {
+              "label": "1.6 MultiJet (130 Hp)",
+              "hp": 130,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 T4 GSE (130 Hp) Mild Hybrid eDCT",
+              "hp": 130,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.3 MultiJet (95 Hp)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 (100 Hp)",
+              "hp": 100,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-tipo-357-facelift-2020-hatchback": {
+          "label": "Fiat Tipo (357, facelift 2020) Hatchback",
+          "engines": [
+            {
+              "label": "1.6 MultiJet (130 Hp)",
+              "hp": 130,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 T4 GSE (130 Hp) Mild Hybrid eDCT",
+              "hp": 130,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.3 MultiJet (95 Hp)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 (100 Hp)",
+              "hp": 100,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-tipo-cross": {
+          "label": "Fiat Tipo Cross",
+          "engines": [
+            {
+              "label": "1.6 MultiJet (130 Hp)",
+              "hp": 130,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 T4 GSE (130 Hp) Mild Hybrid eDCT",
+              "hp": 130,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.3 MultiJet (95 Hp)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 (100 Hp)",
+              "hp": 100,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-tipo-358-wagon": {
+          "label": "Fiat Tipo (358) Wagon",
+          "engines": [
+            {
+              "label": "1.6 MultiJet (120 Hp) DCT (2018 - 2020)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 MultiJet (120 Hp) (2018 - 2020)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (120 Hp) ECO (2016 - 2018)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (120 Hp) DDCT (2016 - 2018)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (120 Hp) (2016 - 2018)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (110 Hp) Automatic (2016 - 2018)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 T-Jet (120 Hp) (2018 - 2020)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 (95 Hp) (2018 - 2020)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 (120 Hp) LPG (2016 - 2018)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 (120 Hp) (2016 - 2018)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 MultiJet (95 Hp) (2018 - 2020)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 (95 Hp) (2016 - 2018)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-tipo-357-hatchback": {
+          "label": "Fiat Tipo (357) Hatchback",
+          "engines": [
+            {
+              "label": "1.6 MultiJet (120 Hp) DCT (2018 - 2020)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 MultiJet (120 Hp) (2018 - 2020)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (120 Hp) ECO (2016 - 2018)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (120 Hp) DDCT (2016 - 2018)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (120 Hp) (2016 - 2018)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (110 Hp) Automatic (2016 - 2018)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 T-Jet (120 Hp) (2018 - 2020)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 (95 Hp) (2018 - 2020)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 (120 Hp) LPG (2016 - 2018)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 (120 Hp) (2016 - 2018)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 MultiJet (95 Hp) (2018 - 2020)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 (95 Hp) (2016 - 2018)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-tipo-356": {
+          "label": "Fiat Tipo (356)",
+          "engines": [
+            {
+              "label": "1.6 MultiJet (120 Hp) (2018 - 2020)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (110 Hp) Automatic (2015 - 2018)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 (95 Hp) (2018 - 2020)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 MultiJet (95 Hp) (2018 - 2020)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 (95 Hp) (2015 - 2018)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-tipo-160": {
+          "label": "Fiat Tipo (160)",
+          "engines": [
+            {
+              "label": "2.0 i.e. 16V Sport (160.EF) (139 Hp) (1993 - 1995)",
+              "hp": 139,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 i.e. (115 Hp) Automatic (1990 - 1995)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 i.e. (115 Hp) (1990 - 1995)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 i.e. (113 Hp) Automatic (1990 - 1995)",
+              "hp": 113,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 i.e. (113 Hp) (1990 - 1995)",
+              "hp": 113,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 i.e. (160.AJ) (109 Hp) (1990 - 1992)",
+              "hp": 109,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 16V (160.AV) (146 Hp) (1991 - 1995)",
+              "hp": 146,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 TD (90 Hp) (1990 - 1995)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 TD (82 Hp) (1992 - 1993)",
+              "hp": 82,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 D (65 Hp) (1990 - 1993)",
+              "hp": 65,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 i.e.16V Sport (136 Hp) (1989 - 1992)",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 i.e. (110 Hp) (1990 - 1993)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 i.e. (160.AM) (101 Hp) (1994 - 1995)",
+              "hp": 101,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 i.e. (90 Hp) (1993 - 1995)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 i (107 Hp) (1990 - 1993)",
+              "hp": 107,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 i GT (104 Hp) (1993 - 1995)",
+              "hp": 104,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.7 D (160.AG) (58 Hp) (1988 - 1994)",
+              "hp": 58,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 i.e. (90 Hp) (1988 - 1991)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 i.e. (160.A1,160.EC,160.EB (75 Hp) (1992 - 1995)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 i (80 Hp) (1990 - 1993)",
+              "hp": 80,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (78 Hp) (1990 - 1992)",
+              "hp": 78,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 i.e. (70 Hp) (1989 - 1995)",
+              "hp": 70,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 (78 Hp) (1989 - 1995)",
+              "hp": 78,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 (71 Hp) (1987 - 1989)",
+              "hp": 71,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.1 (160.AA) (56 Hp) (1988 - 1991)",
+              "hp": 56,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "topolino": {
+      "label": "Topolino",
+      "series": {
+        "fiat-topolino": {
+          "label": "Fiat Topolino",
+          "engines": [
+            {
+              "label": "5.4 kWh (8 Hp)",
+              "hp": 8,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "toro": {
+      "label": "Toro",
+      "series": {
+        "fiat-toro-facelift-2021": {
+          "label": "Fiat Toro (facelift 2021)",
+          "engines": [
+            {
+              "label": "1.3 Turbo (180 Hp) Automatic",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-toro": {
+          "label": "Fiat Toro",
+          "engines": [
+            {
+              "label": "2.4 (186 Hp) Automatic (2016 - 2021)",
+              "hp": 186,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 (174 Hp) Automatic (2016 - 2021)",
+              "hp": 174,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Multijet (170 Hp) 4x4 Automatic (2016 - 2021)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Multijet (170 Hp) 4x4 (2016 - 2021)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Multijet (170 Hp) (2016 - 2021)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 E-Torq (139 Hp) Automatic (2016 - 2021)",
+              "hp": 139,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 E-Torq (135 Hp) Automatic (2016 - 2021)",
+              "hp": 135,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "ulysse": {
+      "label": "Ulysse",
+      "series": {
+        "fiat-e-ulysse-iii": {
+          "label": "Fiat E-Ulysse III",
+          "engines": [
+            {
+              "label": "75 kWh (136 Hp) Standard 8 Seat",
+              "hp": 136
+            },
+            {
+              "label": "75 kWh (136 Hp) Standard 7 Seat",
+              "hp": 136
+            },
+            {
+              "label": "75 kWh (136 Hp) Living 7 Seat",
+              "hp": 136
+            },
+            {
+              "label": "50 kWh (136 Hp) Standard 8 Seat",
+              "hp": 136
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-ulysse-ii-179-facelift-2008": {
+          "label": "Fiat Ulysse II (179, facelift 2008)",
+          "engines": [
+            {
+              "label": "2.2 JTD Multijet 16V (170 Hp) Automatic (2008 - 2010)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 JTD Multijet 16V (170 Hp) (2008 - 2010)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 JTD Multijet 16V (136 Hp) (2008 - 2010)",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 JTD Multijet 16V (120 Hp) (2008 - 2010)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-ulysse-ii-179": {
+          "label": "Fiat Ulysse II (179)",
+          "engines": [
+            {
+              "label": "3.0 V6 24V (204 Hp) (2002 - 2005)",
+              "hp": 204,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 16V JTD (128 Hp) (2002 - 2006)",
+              "hp": 128,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 JTD Multijet 16V (136 Hp) (2006 - 2008)",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 JTD Multijet 16V (120 Hp) (2006 - 2008)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 JTD (107 Hp) (2002 - 2006)",
+              "hp": 107,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 16V (136 Hp) Automatic (2002 - 2005)",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 16V (136 Hp) (2002 - 2005)",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-ulysse-i-22-220": {
+          "label": "Fiat Ulysse I (22/220)",
+          "engines": [
+            {
+              "label": "2.1 TD (109 Hp) (1996 - 1999)",
+              "hp": 109,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Turbo (220.AD5) (147 Hp) (1994 - 2002)",
+              "hp": 147,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 JTD (109 Hp) (1999 - 2002)",
+              "hp": 109,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (121 Hp) (1994 - 2002)",
+              "hp": 121,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 TD (90 Hp) (1995 - 2002)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 (220.BB5) (99 Hp) (1997 - 2002)",
+              "hp": 99,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "uno": {
+      "label": "UNO",
+      "series": {
+        "fiat-uno": {
+          "label": "Fiat UNO",
+          "engines": [
+            {
+              "label": "1.9 D (60 Hp) (1995 - 2002)",
+              "hp": 60,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.7 D (58 Hp) (1995 - 2002)",
+              "hp": 58,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 i Turbo (114 Hp) (1995 - 2002)",
+              "hp": 114,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.1 i (51 Hp) (1995 - 2002)",
+              "hp": 51,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.1 (57 Hp) (1995 - 2002)",
+              "hp": 57,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "fiat-uno-146a": {
+          "label": "Fiat UNO (146A)",
+          "engines": [
+            {
+              "label": "70 1.3 (68 Hp) (1983 - 1985)",
+              "hp": 68,
+              "fuel": "benzin"
+            },
+            {
+              "label": "70 1.3 (65 Hp) (1985 - 1989)",
+              "hp": 65,
+              "fuel": "benzin"
+            },
+            {
+              "label": "60 Diesel 1.7 (60 Hp) (1986 - 1989)",
+              "hp": 60,
+              "fuel": "diesel"
+            },
+            {
+              "label": "60 1.1 (146A.EG) (58 Hp) (1985 - 1989)",
+              "hp": 58,
+              "fuel": "benzin"
+            },
+            {
+              "label": "55 1.1 (54 Hp) (1983 - 1989)",
+              "hp": 54,
+              "fuel": "benzin"
+            },
+            {
+              "label": "50 1.1 (50 Hp) (1990 - 1993)",
+              "hp": 50,
+              "fuel": "benzin"
+            },
+            {
+              "label": "45 1.0 (146A.ED) (44 Hp) (1986 - 1993)",
+              "hp": 44,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 D (60 Hp) (1989 - 1994)",
+              "hp": 60,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.7 D (58 Hp) (1989 - 1993)",
+              "hp": 58,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 i (76 Hp) (1985 - 1993)",
+              "hp": 76,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TD (72 Hp) (1986 - 1993)",
+              "hp": 72,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 i Turbo (114 Hp) (1989 - 1993)",
+              "hp": 114,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 i (71 Hp) (1995 - 2002)",
+              "hp": 71,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 Turbo i.e. (105 Hp) (1985 - 1989)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 Turbo i.e. (101 Hp) (1989 - 1991)",
+              "hp": 101,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 Turbo i.e. (99 Hp) (1987 - 1987)",
+              "hp": 99,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 Super Diesel (45 Hp) (1983 - 1992)",
+              "hp": 45,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.1 i (51 Hp) (1990 - 1992)",
+              "hp": 51,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.1 (57 Hp) (1989 - 1992)",
+              "hp": 57,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 i.e. (46 Hp) CAT (1985 - 1995)",
+              "hp": 46,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.9 (45 Hp) (1983 - 1992)",
+              "hp": 45,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "viaggio": {
+      "label": "Viaggio",
+      "series": {
+        "fiat-viaggio": {
+          "label": "Fiat Viaggio",
+          "engines": [
+            {
+              "label": "1.4 T-Jet (150 Hp) DDCT (2012 - 2017)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 T-Jet (150 Hp) (2012 - 2017)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 T-Jet (120 Hp) DDCT (2012 - 2017)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 T-Jet (120 Hp) (2012 - 2017)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "x-1-9": {
+      "label": "X 1/9",
+      "series": {
+        "fiat-x-1-9-128-as": {
+          "label": "Fiat X 1/9 (128 AS)",
+          "engines": [
+            {
+              "label": "1.5 Five Speed (85 Hp) (1978 - 1989)",
+              "hp": 85,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 Five Speed (76 Hp) (1985 - 1989)",
+              "hp": 76,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 Exclusiv Serie (75 Hp) (1973 - 1979)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 (73 Hp) (1975 - 1978)",
+              "hp": 73,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

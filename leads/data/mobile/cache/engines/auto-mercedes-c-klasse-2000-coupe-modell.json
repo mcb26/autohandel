@@ -1,0 +1,62 @@
+[
+  {
+    "label": "C 180 Kompressor Sportcoupe Automatik (Benzin, 143 PS)",
+    "fuel": "benzin",
+    "hp": 143
+  },
+  {
+    "label": "C 180 Kompressor Sportcoupe (Benzin, 143 PS)",
+    "fuel": "benzin",
+    "hp": 143
+  },
+  {
+    "label": "C 200 Kompressor Sportcoupe Automatik (Benzin, 163 PS)",
+    "fuel": "benzin",
+    "hp": 163
+  },
+  {
+    "label": "C 200 Kompressor Sportcoupe (Benzin, 163 PS)",
+    "fuel": "benzin",
+    "hp": 163
+  },
+  {
+    "label": "C 230 Sportcoupe 7-G-TRONIC (Benzin, 204 PS)",
+    "fuel": "benzin",
+    "hp": 204
+  },
+  {
+    "label": "C 230 Sportcoupe (Benzin, 204 PS)",
+    "fuel": "benzin",
+    "hp": 204
+  },
+  {
+    "label": "C 350 Sportcoupe 7-G-TRONIC (Benzin, 272 PS)",
+    "fuel": "benzin",
+    "hp": 272
+  },
+  {
+    "label": "C 350 Sportcoupe (Benzin, 272 PS)",
+    "fuel": "benzin",
+    "hp": 272
+  },
+  {
+    "label": "C 200 CDI Sportcoupe Automatik (Diesel, 122 PS)",
+    "fuel": "diesel",
+    "hp": 122
+  },
+  {
+    "label": "C 200 CDI Sportcoupe (Diesel, 122 PS)",
+    "fuel": "diesel",
+    "hp": 122
+  },
+  {
+    "label": "C 220 CDI Sportcoupe Automatik (Diesel, 150 PS)",
+    "fuel": "diesel",
+    "hp": 150
+  },
+  {
+    "label": "C 220 CDI Sportcoupe (Diesel, 150 PS)",
+    "fuel": "diesel",
+    "hp": 150
+  }
+]

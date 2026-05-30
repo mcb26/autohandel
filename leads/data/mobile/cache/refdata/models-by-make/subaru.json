@@ -1,0 +1,102 @@
+[
+  {
+    "name": "B9 Tribeca",
+    "description": "B9 Tribeca",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SUBARU/model/B9%20Tribeca"
+  },
+  {
+    "name": "BRZ",
+    "description": "BRZ",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SUBARU/model/BRZ"
+  },
+  {
+    "name": "Baja",
+    "description": "Baja",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SUBARU/model/Baja"
+  },
+  {
+    "name": "Forester",
+    "description": "Forester",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SUBARU/model/Forester"
+  },
+  {
+    "name": "Impreza",
+    "description": "Impreza",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SUBARU/model/Impreza"
+  },
+  {
+    "name": "Justy",
+    "description": "Justy",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SUBARU/model/Justy"
+  },
+  {
+    "name": "Legacy",
+    "description": "Legacy",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SUBARU/model/Legacy"
+  },
+  {
+    "name": "Levorg",
+    "description": "Levorg",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SUBARU/model/Levorg"
+  },
+  {
+    "name": "Libero",
+    "description": "Libero",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SUBARU/model/Libero"
+  },
+  {
+    "name": "New_Crosstrek",
+    "description": "Crosstrek",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SUBARU/model/New_Crosstrek"
+  },
+  {
+    "name": "OUTBACK",
+    "description": "Outback",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SUBARU/model/OUTBACK"
+  },
+  {
+    "name": "SVX",
+    "description": "SVX",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SUBARU/model/SVX"
+  },
+  {
+    "name": "Solterra",
+    "description": "Solterra",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SUBARU/model/Solterra"
+  },
+  {
+    "name": "Trezia",
+    "description": "Trezia",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SUBARU/model/Trezia"
+  },
+  {
+    "name": "Tribeca",
+    "description": "Tribeca",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SUBARU/model/Tribeca"
+  },
+  {
+    "name": "Vivio",
+    "description": "Vivio",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SUBARU/model/Vivio"
+  },
+  {
+    "name": "WRX STI",
+    "description": "WRX STI",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SUBARU/model/WRX%20STI"
+  },
+  {
+    "name": "XT",
+    "description": "XT",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SUBARU/model/XT"
+  },
+  {
+    "name": "XV",
+    "description": "XV",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SUBARU/model/XV"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SUBARU/model/ANDERE"
+  }
+]

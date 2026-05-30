@@ -1,0 +1,107 @@
+[
+  {
+    "label": "Golf Cabrio 1.2 TSI BlueMotion Technology (Benzin, 105 PS)",
+    "fuel": "benzin",
+    "hp": 105
+  },
+  {
+    "label": "Golf Cabrio 1.2 TSI (Benzin, 105 PS)",
+    "fuel": "benzin",
+    "hp": 105
+  },
+  {
+    "label": "Golf Cabrio 1.4 TSI DSG (Benzin, 122 PS)",
+    "fuel": "benzin",
+    "hp": 122
+  },
+  {
+    "label": "Golf Cabrio 1.4 TSI (Benzin, 122 PS)",
+    "fuel": "benzin",
+    "hp": 122
+  },
+  {
+    "label": "Golf Cabrio 1.4 TSI BlueMotion Technology DSG (Benzin, 125 PS)",
+    "fuel": "benzin",
+    "hp": 125
+  },
+  {
+    "label": "Golf Cabrio 1.4 TSI BlueMotion Technology (Benzin, 125 PS)",
+    "fuel": "benzin",
+    "hp": 125
+  },
+  {
+    "label": "Golf Cabrio 1.4 TSI BlueMotion Technology DSG (Benzin, 150 PS)",
+    "fuel": "benzin",
+    "hp": 150
+  },
+  {
+    "label": "Golf Cabrio 1.4 TSI BlueMotion Technology (Benzin, 150 PS)",
+    "fuel": "benzin",
+    "hp": 150
+  },
+  {
+    "label": "Golf Cabrio 1.4 TSI DSG (Benzin, 160 PS)",
+    "fuel": "benzin",
+    "hp": 160
+  },
+  {
+    "label": "Golf Cabrio 1.4 TSI (Benzin, 160 PS)",
+    "fuel": "benzin",
+    "hp": 160
+  },
+  {
+    "label": "Golf Cabrio GTI DSG (Benzin, 210 PS)",
+    "fuel": "benzin",
+    "hp": 210
+  },
+  {
+    "label": "Golf Cabrio GTI (Benzin, 210 PS)",
+    "fuel": "benzin",
+    "hp": 210
+  },
+  {
+    "label": "Golf Cabrio GTI DSG (Benzin, 220 PS)",
+    "fuel": "benzin",
+    "hp": 220
+  },
+  {
+    "label": "Golf Cabrio R DSG (Benzin, 265 PS)",
+    "fuel": "benzin",
+    "hp": 265
+  },
+  {
+    "label": "Golf Cabrio 1.6 TDI BlueMotion Technology (Diesel, 105 PS)",
+    "fuel": "diesel",
+    "hp": 105
+  },
+  {
+    "label": "Golf Cabrio 1.6 TDI (Diesel, 105 PS)",
+    "fuel": "diesel",
+    "hp": 105
+  },
+  {
+    "label": "Golf Cabrio 2.0 TDI BlueMotion Technology (Diesel, 110 PS)",
+    "fuel": "diesel",
+    "hp": 110
+  },
+  {
+    "label": "Golf Cabrio 2.0 TDI BlueMotion Technology DSG (Diesel, 140 PS)",
+    "fuel": "diesel",
+    "hp": 140
+  },
+  {
+    "label": "Golf Cabrio 2.0 TDI BlueMotion Technology (Diesel, 140 PS)",
+    "fuel": "diesel",
+    "hp": 140
+  },
+  {
+    "label": "Golf Cabrio 2.0 TDI BlueMotion Technology DSG (Diesel, 150 PS)",
+    "fuel": "diesel",
+    "hp": 150
+  },
+  {
+    "label": "Golf Cabrio 2.0 TDI BlueMotion Technology (Diesel, 150 PS)",
+    "fuel": "diesel",
+    "hp": 150
+  }
+]

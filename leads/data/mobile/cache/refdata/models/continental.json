@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Continental",
+    "description": "Continental",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BENTLEY/modelgroups/Continental/models/Continental"
+  },
+  {
+    "name": "Continental Flying Spur",
+    "description": "Continental Flying Spur",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BENTLEY/modelgroups/Continental/models/Continental%20Flying%20Spur"
+  },
+  {
+    "name": "Continental GT",
+    "description": "Continental GT",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BENTLEY/modelgroups/Continental/models/Continental%20GT"
+  },
+  {
+    "name": "Continental GTC",
+    "description": "Continental GTC",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BENTLEY/modelgroups/Continental/models/Continental%20GTC"
+  },
+  {
+    "name": "Continental Supersports",
+    "description": "Continental Supersports",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BENTLEY/modelgroups/Continental/models/Continental%20Supersports"
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "label": "E 200 CGI Cabrio BlueEFFICIENCY Automatik (Benzin, 183 PS)",
+    "fuel": "benzin",
+    "hp": 183
+  },
+  {
+    "label": "E 200 Cabrio 7G-TRONIC (Benzin, 184 PS)",
+    "fuel": "benzin",
+    "hp": 184
+  },
+  {
+    "label": "E 200 Cabrio BlueEFFICIENCY 7G-TRONIC (Benzin, 183 PS)",
+    "fuel": "benzin",
+    "hp": 183
+  },
+  {
+    "label": "E 200 CGI Cabrio BlueEFFICIENCY (Benzin, 183 PS)",
+    "fuel": "benzin",
+    "hp": 183
+  },
+  {
+    "label": "E 200 Cabrio BlueEFFICIENCY (Benzin, 183 PS)",
+    "fuel": "benzin",
+    "hp": 183
+  },
+  {
+    "label": "E 200 Cabrio (Benzin, 184 PS)",
+    "fuel": "benzin",
+    "hp": 184
+  },
+  {
+    "label": "E 250 CGI Cabrio BlueEFFICIENCY Automatik (Benzin, 204 PS)",
+    "fuel": "benzin",
+    "hp": 204
+  },
+  {
+    "label": "E 250 Cabrio BlueEFFICIENCY 7G-TRONIC (Benzin, 204 PS)",
+    "fuel": "benzin",
+    "hp": 204
+  },
+  {
+    "label": "E 250 Cabrio 7G-TRONIC (Benzin, 211 PS)",
+    "fuel": "benzin",
+    "hp": 211
+  },
+  {
+    "label": "E 300 Cabrio BlueEFFICIENCY 7G-TRONIC (Benzin, 252 PS)",
+    "fuel": "benzin",
+    "hp": 252
+  },
+  {
+    "label": "E 300 Cabrio 7G-TRONIC (Benzin, 252 PS)",
+    "fuel": "benzin",
+    "hp": 252
+  },
+  {
+    "label": "E 320 Cabrio 7G-TRONIC (Benzin, 272 PS)",
+    "fuel": "benzin",
+    "hp": 272
+  },
+  {
+    "label": "E 350 CGI Cabrio BlueEFFICIENCY 7G-TRONIC (Benzin, 292 PS)",
+    "fuel": "benzin",
+    "hp": 292
+  },
+  {
+    "label": "E 350 Cabrio BlueEFFICIENCY 7G-TRONIC (Benzin, 306 PS)",
+    "fuel": "benzin",
+    "hp": 306
+  },
+  {
+    "label": "E 350 Cabrio 7G-TRONIC (Benzin, 306 PS)",
+    "fuel": "benzin",
+    "hp": 306
+  },
+  {
+    "label": "E 400 Cabrio 7G-TRONIC (Benzin, 333 PS)",
+    "fuel": "benzin",
+    "hp": 333
+  },
+  {
+    "label": "E 500 Cabrio 7G-TRONIC (Benzin, 388 PS)",
+    "fuel": "benzin",
+    "hp": 388
+  },
+  {
+    "label": "E 500 Cabrio 7G-TRONIC (Benzin, 408 PS)",
+    "fuel": "benzin",
+    "hp": 408
+  },
+  {
+    "label": "E 500 Cabrio BlueEFFICIENCY 7G-TRONIC (Benzin, 408 PS)",
+    "fuel": "benzin",
+    "hp": 408
+  },
+  {
+    "label": "E 220 CDI DPF Cabrio BlueEFFICIENCY 7G-TRONIC (Diesel, 170 PS)",
+    "fuel": "diesel",
+    "hp": 170
+  },
+  {
+    "label": "E 220 CDI DPF Cabrio BlueEFFICIENCY Automatik (Diesel, 170 PS)",
+    "fuel": "diesel",
+    "hp": 170
+  },
+  {
+    "label": "E 220 (BlueTEC) d Cabrio 9G-TRONIC (Diesel, 170 PS)",
+    "fuel": "bluetec) d cabrio 9g-tronic (diesel",
+    "hp": 170
+  },
+  {
+    "label": "E 220 CDI Cabrio 7G-TRONIC (Diesel, 170 PS)",
+    "fuel": "diesel",
+    "hp": 170
+  },
+  {
+    "label": "E 220 d Cabrio 9G-TRONIC (Diesel, 170 PS)",
+    "fuel": "diesel",
+    "hp": 170
+  },
+  {
+    "label": "E 220 CDI DPF Cabrio BlueEFFICIENCY (Diesel, 170 PS)",
+    "fuel": "diesel",
+    "hp": 170
+  },
+  {
+    "label": "E 220 (BlueTEC) d Cabrio (Diesel, 170 PS)",
+    "fuel": "bluetec) d cabrio (diesel",
+    "hp": 170
+  },
+  {
+    "label": "E 220 CDI Cabrio (Diesel, 170 PS)",
+    "fuel": "diesel",
+    "hp": 170
+  },
+  {
+    "label": "E 250 CDI DPF Cabrio BlueEFFICIENCY Automatik (Diesel, 204 PS)",
+    "fuel": "diesel",
+    "hp": 204
+  },
+  {
+    "label": "E 250 CDI DPF Cabrio BlueEFFICIENCY 7G-TRONIC (Diesel, 204 PS)",
+    "fuel": "diesel",
+    "hp": 204
+  },
+  {
+    "label": "E 250 (BlueTEC) d Cabrio 9G-TRONIC (Diesel, 204 PS)",
+    "fuel": "bluetec) d cabrio 9g-tronic (diesel",
+    "hp": 204
+  },
+  {
+    "label": "E 250 CDI Cabrio 7G-TRONIC (Diesel, 204 PS)",
+    "fuel": "diesel",
+    "hp": 204
+  },
+  {
+    "label": "E 250 d Cabrio 9G-TRONIC (Diesel, 204 PS)",
+    "fuel": "diesel",
+    "hp": 204
+  },
+  {
+    "label": "E 250 CDI DPF Cabrio BlueEFFICIENCY (Diesel, 204 PS)",
+    "fuel": "diesel",
+    "hp": 204
+  },
+  {
+    "label": "E 250 (BlueTEC) d Cabrio (Diesel, 204 PS)",
+    "fuel": "bluetec) d cabrio (diesel",
+    "hp": 204
+  },
+  {
+    "label": "E 250 CDI Cabrio (Diesel, 204 PS)",
+    "fuel": "diesel",
+    "hp": 204
+  },
+  {
+    "label": "E 350 CDI DPF Cabrio BlueEFFICIENCY 7G-TRONIC (Diesel, 231 PS)",
+    "fuel": "diesel",
+    "hp": 231
+  },
+  {
+    "label": "E 350 BlueTEC Cabrio 7G-TRONIC (Diesel, 252 PS)",
+    "fuel": "diesel",
+    "hp": 252
+  },
+  {
+    "label": "E 350 (BlueTEC) d Cabrio 9G-TRONIC (Diesel, 258 PS)",
+    "fuel": "bluetec) d cabrio 9g-tronic (diesel",
+    "hp": 258
+  },
+  {
+    "label": "E 350 d Cabrio 9G-TRONIC (Diesel, 258 PS)",
+    "fuel": "diesel",
+    "hp": 258
+  },
+  {
+    "label": "E 350 CDI DPF Cabrio BlueEFFICIENCY 7G-TRONIC (Diesel, 265 PS)",
+    "fuel": "diesel",
+    "hp": 265
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "01",
+    "description": "01",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LYNC%20AND%20CO/model/01"
+  },
+  {
+    "name": "02",
+    "description": "02",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LYNC%20AND%20CO/model/02"
+  },
+  {
+    "name": "08",
+    "description": "08",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LYNC%20AND%20CO/model/08"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LYNC%20AND%20CO/model/ANDERE"
+  }
+]

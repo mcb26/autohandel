@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Stradale",
+    "description": "Stradale",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DALLARA/model/Stradale"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DALLARA/model/ANDERE"
+  }
+]

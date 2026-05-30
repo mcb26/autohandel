@@ -1,0 +1,19 @@
+{% load dashboard_extras %}
+{% if paginator.num_pages > 1 %}
+<nav class="dashboard-pagination mt-3" aria-label="Seitennavigation">
+    <div class="d-flex justify-content-center align-items-center gap-2 flex-wrap">
+        {% if page_obj.has_previous %}
+            <a class="btn btn-outline-dark btn-sm" href="{% dashboard_query page=page_obj.previous_page_number %}">← Zurück</a>
+        {% else %}
+            <span class="btn btn-outline-dark btn-sm disabled">← Zurück</span>
+        {% endif %}
+        <span class="text-muted small px-1">Seite <strong>{{ page_obj.number }}</strong> von {{ paginator.num_pages }}</span>
+        {% if page_obj.has_next %}
+            <a class="btn btn-outline-dark btn-sm" href="{% dashboard_query page=page_obj.next_page_number %}">Weiter →</a>
+        {% else %}
+            <span class="btn btn-outline-dark btn-sm disabled">Weiter →</span>
+        {% endif %}
+    </div>
+    <p class="text-center text-muted small mt-2 mb-0">{{ paginator.count }} Anfragen gesamt</p>
+</nav>
+{% endif %}

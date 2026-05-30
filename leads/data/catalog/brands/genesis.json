@@ -1,0 +1,732 @@
+{
+  "label": "Genesis",
+  "models": {
+    "g70": {
+      "label": "G70",
+      "series": {
+        "genesis-g70-shooting-brake-facelift-2021": {
+          "label": "Genesis G70 Shooting Brake (facelift 2021)",
+          "engines": [
+            {
+              "label": "2.2 CRDi (200 Hp) AWD Automatic",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 CRDi (200 Hp) Automatic",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 T-GDi (245 Hp) AWD Automatic",
+              "hp": 245,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 T-GDi (245 Hp) Automatic",
+              "hp": 245,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 T-GDi (197 Hp) Automatic",
+              "hp": 197,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "genesis-g70-facelift-2020": {
+          "label": "Genesis G70 (facelift 2020)",
+          "engines": [
+            {
+              "label": "3.3 T-GDi V6 (370 Hp) AWD Automatic",
+              "hp": 370,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.3 T-GDi V6 (370 Hp) Automatic",
+              "hp": 370,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 e-VGT (202 Hp) AWD Automatic",
+              "hp": 202,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 e-VGT (202 Hp) Automatic",
+              "hp": 202,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 CRDi (200 Hp) AWD Automatic",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 CRDi (200 Hp) Automatic",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 T-GDi (252 Hp) AWD Automatic",
+              "hp": 252,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 T-GDi (252 Hp) Automatic",
+              "hp": 252,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 T-GDi (245 Hp) AWD Automatic",
+              "hp": 245,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 T-GDi (245 Hp) Automatic",
+              "hp": 245,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 T-GDi (197 Hp) Automatic",
+              "hp": 197,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "genesis-g70": {
+          "label": "Genesis G70",
+          "engines": [
+            {
+              "label": "Sport 3.3 T-GDi V6 (370 Hp) AWD Automatic (2017 - 2020)",
+              "hp": 370,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sport 3.3 T-GDi V6 (370 Hp) Automatic (2017 - 2020)",
+              "hp": 370,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2D (202 Hp) AWD Automatic (2017 - 2020)",
+              "hp": 202,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2D (202 Hp) Automatic (2017 - 2020)",
+              "hp": 202,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 T-GDi (252 Hp) AWD Automatic (2017 - 2020)",
+              "hp": 252,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 T-GDi (252 Hp) Automatic (2017 - 2020)",
+              "hp": 252,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "g80": {
+      "label": "G80",
+      "series": {
+        "genesis-g80-ii-facelift-2023": {
+          "label": "Genesis G80 II (facelift 2023)",
+          "engines": [
+            {
+              "label": "Electrified 94.5 kWh (370 Hp) AWD",
+              "hp": 370,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.5 V6 T-GDi (380 Hp) AWD Automatic",
+              "hp": 380,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.5 V6 T-GDi (380 Hp) Automatic",
+              "hp": 380,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 T-GDi (304 Hp) AWD Automatic",
+              "hp": 304,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 T-GDi (304 Hp) Automatic",
+              "hp": 304,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "genesis-g80-ii": {
+          "label": "Genesis G80 II",
+          "engines": [
+            {
+              "label": "Electrified 87.2 kWh (370 Hp) AWD (2021 - 2024)",
+              "hp": 370,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.5 V6 T-GDi (380 Hp) AWD Automatic (2020 - 2024)",
+              "hp": 380,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.5 V6 T-GDi (380 Hp) Automatic (2020 - 2024)",
+              "hp": 380,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 T-GDi (304 Hp) AWD Automatic (2020 - 2024)",
+              "hp": 304,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 T-GDi (304 Hp) Automatic (2020 - 2024)",
+              "hp": 304,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 e-VGT (210 Hp) AWD Automatic (2020 - 2023)",
+              "hp": 210,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 e-VGT (210 Hp) Automatic (2020 - 2023)",
+              "hp": 210,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "genesis-g80-i": {
+          "label": "Genesis G80 I",
+          "engines": [
+            {
+              "label": "Sport 3.3 T-GDi (370 Hp) AWD Automatic (2017 - 2020)",
+              "hp": 370,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sport 3.3 T-GDi (370 Hp) Automatic (2017 - 2020)",
+              "hp": 370,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.0 GDi V8 (420 Hp) AWD Automatic (2017 - 2020)",
+              "hp": 420,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.0 GDi V8 (420 Hp) Automatic (2016 - 2020)",
+              "hp": 420,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.8 GDi (315 Hp) AWD Automatic (2016 - 2020)",
+              "hp": 315,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.8 GDi (315 Hp) Automatic (2016 - 2020)",
+              "hp": 315,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.3 GDi (282 Hp) AWD Automatic (2016 - 2020)",
+              "hp": 282,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.3 GDi (282 Hp) Automatic (2016 - 2020)",
+              "hp": 282,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "g90-eq900": {
+      "label": "G90/EQ900",
+      "series": {
+        "genesis-g90-ii-lwb": {
+          "label": "Genesis G90 II LWB",
+          "engines": [
+            {
+              "label": "3.5 T-GDi e-S/C V6 (415 Hp) Mild Hybrid AWD Automatic 5 Seat",
+              "hp": 415,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "3.5 T-GDi e-S/C V6 (415 Hp) Mild Hybrid AWD Automatic 4 Seat",
+              "hp": 415,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "genesis-g90-ii": {
+          "label": "Genesis G90 II",
+          "engines": [
+            {
+              "label": "3.5 T-GDi e-S/C V6 (415 Hp) Mild Hybrid AWD Automatic 5 Seat",
+              "hp": 415,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "3.5 T-GDi e-S/C V6 (415 Hp) Mild Hybrid AWD Automatic 4 Seat",
+              "hp": 415,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "3.5 T-GDi e-S/C V6 (415 Hp) Mild Hybrid Automatic 5 Seat",
+              "hp": 415,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "3.5 T-GDi e-S/C V6 (415 Hp) Mild Hybrid Automatic 4 Seat",
+              "hp": 415,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "3.5 T-GDi V6 (380 Hp) AWD Automatic 5 Seat",
+              "hp": 380,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.5 T-GDi V6 (380 Hp) AWD Automatic 4 Seat",
+              "hp": 380,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.5 T-GDi V6 (380 Hp) Automatic 5 Seat",
+              "hp": 380,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.5 T-GDi V6 (380 Hp) Automatic 4 Seat",
+              "hp": 380,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "genesis-g90l-i-facelift-2018": {
+          "label": "Genesis G90L I (facelift 2018)",
+          "engines": [
+            {
+              "label": "5.0 GDi V8 (425 Hp) AWD Automatic (2018 - 2021)",
+              "hp": 425,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "genesis-g90-i-facelift-2018": {
+          "label": "Genesis G90 I (facelift 2018)",
+          "engines": [
+            {
+              "label": "5.0 GDi V8 (425 Hp) AWD Automatic (2018 - 2021)",
+              "hp": 425,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.8 GDi V6 (315 Hp) AWD Automatic (2018 - 2021)",
+              "hp": 315,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.8 GDi V6 (315 Hp) Automatic (2018 - 2021)",
+              "hp": 315,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.3 T-GDi V6 (370 Hp) AWD Automatic (2018 - 2021)",
+              "hp": 370,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.3 T-GDi V6 (370 Hp) Automatic (2018 - 2021)",
+              "hp": 370,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "genesis-g90-eq900l-i": {
+          "label": "Genesis G90/EQ900L I",
+          "engines": [
+            {
+              "label": "5.0 GDi V8 (425 Hp) AWD Automatic (2017 - 2018)",
+              "hp": 425,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "genesis-g90-eq900-i": {
+          "label": "Genesis G90/EQ900 I",
+          "engines": [
+            {
+              "label": "5.0 GDi V8 (425 Hp) AWD Automatic (2016 - 2018)",
+              "hp": 425,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.0 GDi V8 (413 Hp) AWD Automatic (2016 - 2018)",
+              "hp": 413,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.8 GDi V6 (315 Hp) AWD Automatic (2016 - 2018)",
+              "hp": 315,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.8 GDi V6 (315 Hp) Automatic (2016 - 2018)",
+              "hp": 315,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.3T GDi V6 (370 Hp) AWD Automatic (2016 - 2018)",
+              "hp": 370,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.3T GDi V6 (370 Hp) Automatic (2016 - 2018)",
+              "hp": 370,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "gv60": {
+      "label": "GV60",
+      "series": {
+        "genesis-gv60-facelift-2025": {
+          "label": "Genesis GV60 (facelift 2025)",
+          "engines": [
+            {
+              "label": "Magma 84 kWh (650 Hp) Electric AWD",
+              "hp": 650,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Standard 84 kWh (318 Hp) Electric AWD",
+              "hp": 318,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Standard 84 kWh (228 Hp) Electric",
+              "hp": 228,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Performance 84 kWh (490 Hp) Electric AWD",
+              "hp": 490,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "genesis-gv60-magma-concept": {
+          "label": "Genesis GV60 Magma Concept",
+          "engines": [
+            {
+              "label": "Keine exakte Motorliste verfügbar – bitte genaue Motorisierung im Freitext angeben"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "genesis-gv60": {
+          "label": "Genesis GV60",
+          "engines": [
+            {
+              "label": "Standard 77.4 kWh (318 Hp) BEV AWD (2021 - 2025)",
+              "hp": 318,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Standard 77.4 kWh (228 Hp) BEV (2021 - 2025)",
+              "hp": 228,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sport Plus 77.4 kWh (490 Hp) BEV AWD (2022 - 2025)",
+              "hp": 490,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Performance 77.4 kWh (435 Hp) BEV AWD (2021 - 2025)",
+              "hp": 435,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "gv70": {
+      "label": "GV70",
+      "series": {
+        "genesis-gv70-facelift-2024": {
+          "label": "Genesis GV70 (facelift 2024)",
+          "engines": [
+            {
+              "label": "Electrified 84 kWh (489 Hp) Dual Motor AWD",
+              "hp": 489
+            },
+            {
+              "label": "3.5 T-GDi V6 (380 Hp) AWD Automatic",
+              "hp": 380,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.5 T-GDi V6 (380 Hp) Automatic",
+              "hp": 380,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 T-GDi (304 Hp) AWD Automatic",
+              "hp": 304,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 T-GDi (304 Hp) Automatic",
+              "hp": 304,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "genesis-gv70": {
+          "label": "Genesis GV70",
+          "engines": [
+            {
+              "label": "Electrified 77.4 kWh (490 Hp) AWD (2021 - 2025)",
+              "hp": 490,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.5 T-GDi V6 (380 Hp) AWD Automatic (2020 - 2025)",
+              "hp": 380,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 T-GDi (304 Hp) AWD Automatic (2020 - 2025)",
+              "hp": 304,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 T-GDi (304 Hp) Automatic (2020 - 2025)",
+              "hp": 304,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 e-VGT (210 Hp) AWD Automatic (2020 - 2024)",
+              "hp": 210,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 e-VGT (210 Hp) Automatic (2020 - 2024)",
+              "hp": 210,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "gv80": {
+      "label": "GV80",
+      "series": {
+        "genesis-gv80-facelift-2023-coupe": {
+          "label": "Genesis GV80 (facelift 2023) Coupe",
+          "engines": [
+            {
+              "label": "3.5 T-GDi e-S/C V6 (415 Hp) Mild Hybrid AWD Automatic",
+              "hp": 415,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "3.5 T-GDi V6 (380 Hp) AWD Automatic",
+              "hp": 380,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 T-GDi (304 Hp) AWD Automatic",
+              "hp": 304,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "genesis-gv80-facelift-2023": {
+          "label": "Genesis GV80 (facelift 2023)",
+          "engines": [
+            {
+              "label": "3.5 T-GDi V6 (380 Hp) AWD Automatic 6-7 Seat",
+              "hp": 380,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.5 T-GDi V6 (380 Hp) AWD Automatic",
+              "hp": 380,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.5 T-GDi V6 (380 Hp) Automatic 6-7 Seat",
+              "hp": 380,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.5 T-GDi V6 (380 Hp) Automatic",
+              "hp": 380,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 T-GDi (304 Hp) AWD Automatic 6-7 Seat",
+              "hp": 304,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 T-GDi (304 Hp) AWD Automatic",
+              "hp": 304,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 T-GDi (304 Hp) Automatic 6-7 Seat",
+              "hp": 304,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 T-GDi (304 Hp) Automatic",
+              "hp": 304,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "genesis-gv80": {
+          "label": "Genesis GV80",
+          "engines": [
+            {
+              "label": "3.5 T-GDi V6 (380 Hp) AWD Automatic 7 Seat (2020 - 2024)",
+              "hp": 380,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.5 T-GDi V6 (380 Hp) AWD Automatic (2020 - 2024)",
+              "hp": 380,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.5 T-GDi V6 (380 Hp) Automatic 7 Seat (2020 - 2024)",
+              "hp": 380,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.5 T-GDi V6 (380 Hp) Automatic (2020 - 2024)",
+              "hp": 380,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0d (278 Hp) AWD Automatic 7 Seat (2020 - 2024)",
+              "hp": 278,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0d (278 Hp) AWD Automatic (2020 - 2024)",
+              "hp": 278,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0d (278 Hp) Automatic 7 Seat (2020 - 2024)",
+              "hp": 278,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0d (278 Hp) Automatic (2020 - 2024)",
+              "hp": 278,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 T-GDi (304 Hp) AWD Automatic 7 Seat (2020 - 2024)",
+              "hp": 304,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 T-GDi (304 Hp) AWD Automatic (2020 - 2024)",
+              "hp": 304,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 T-GDi (304 Hp) Automatic 7 Seat (2020 - 2024)",
+              "hp": 304,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 T-GDi (304 Hp) Automatic (2020 - 2024)",
+              "hp": 304,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

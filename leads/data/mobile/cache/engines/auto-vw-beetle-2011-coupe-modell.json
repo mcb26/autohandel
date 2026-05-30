@@ -1,0 +1,177 @@
+[
+  {
+    "label": "The Beetle 1.2 TSI DSG Blue Motion Technologie (Benzin, 105 PS)",
+    "fuel": "benzin",
+    "hp": 105
+  },
+  {
+    "label": "The Beetle 1.2 TSI DSG (Benzin, 105 PS)",
+    "fuel": "benzin",
+    "hp": 105
+  },
+  {
+    "label": "The Beetle 1.2 TSI DSG BlueMotion Technologie (Benzin, 105 PS)",
+    "fuel": "benzin",
+    "hp": 105
+  },
+  {
+    "label": "The Beetle 1.2 TSI DSG BlueMotion Technology (Benzin, 105 PS)",
+    "fuel": "benzin",
+    "hp": 105
+  },
+  {
+    "label": "The Beetle 1.2 TSI BlueMotion Technologie (Benzin, 105 PS)",
+    "fuel": "benzin",
+    "hp": 105
+  },
+  {
+    "label": "The Beetle 1.2 TSI Blue Motion Technologie (Benzin, 105 PS)",
+    "fuel": "benzin",
+    "hp": 105
+  },
+  {
+    "label": "The Beetle 1.2 TSI (Benzin, 105 PS)",
+    "fuel": "benzin",
+    "hp": 105
+  },
+  {
+    "label": "The Beetle 1.2 TSI BlueMotion Technology (Benzin, 105 PS)",
+    "fuel": "benzin",
+    "hp": 105
+  },
+  {
+    "label": "The Beetle 1.4 TSI DSG Blue Motion Technologie (Benzin, 150 PS)",
+    "fuel": "benzin",
+    "hp": 150
+  },
+  {
+    "label": "The Beetle 1.4 TSI DSG BlueMotion Technology (Benzin, 150 PS)",
+    "fuel": "benzin",
+    "hp": 150
+  },
+  {
+    "label": "The Beetle 1.4 TSI Blue Motion Technologie (Benzin, 150 PS)",
+    "fuel": "benzin",
+    "hp": 150
+  },
+  {
+    "label": "The Beetle 1.4 TSI BlueMotion Technology (Benzin, 150 PS)",
+    "fuel": "benzin",
+    "hp": 150
+  },
+  {
+    "label": "The Beetle 1.4 TSI DSG (Benzin, 160 PS)",
+    "fuel": "benzin",
+    "hp": 160
+  },
+  {
+    "label": "The Beetle 1.4 TSI (Benzin, 160 PS)",
+    "fuel": "benzin",
+    "hp": 160
+  },
+  {
+    "label": "The Beetle 2.0 TSI DSG (Benzin, 200 PS)",
+    "fuel": "benzin",
+    "hp": 200
+  },
+  {
+    "label": "The Beetle 2.0 TSI (Benzin, 200 PS)",
+    "fuel": "benzin",
+    "hp": 200
+  },
+  {
+    "label": "The Beetle 2.0 TSI DSG (Benzin, 210 PS)",
+    "fuel": "benzin",
+    "hp": 210
+  },
+  {
+    "label": "The Beetle 2.0 TSI (Benzin, 210 PS)",
+    "fuel": "benzin",
+    "hp": 210
+  },
+  {
+    "label": "The Beetle 2.0 TSI DSG Blue Motion Technologie (Benzin, 220 PS)",
+    "fuel": "benzin",
+    "hp": 220
+  },
+  {
+    "label": "The Beetle 2.0 TSI Blue Motion Technologie (Benzin, 220 PS)",
+    "fuel": "benzin",
+    "hp": 220
+  },
+  {
+    "label": "The Beetle 1.6 TDI DPF DSG Blue Motion Technologie (Diesel, 105 PS)",
+    "fuel": "diesel",
+    "hp": 105
+  },
+  {
+    "label": "The Beetle 1.6 TDI DPF DSG (Diesel, 105 PS)",
+    "fuel": "diesel",
+    "hp": 105
+  },
+  {
+    "label": "The Beetle 1.6 TDI DPF Blue Motion Technologie (Diesel, 105 PS)",
+    "fuel": "diesel",
+    "hp": 105
+  },
+  {
+    "label": "The Beetle 1.6 TDI DPF (Diesel, 105 PS)",
+    "fuel": "diesel",
+    "hp": 105
+  },
+  {
+    "label": "The Beetle 2.0 TDI DPF DSG Blue Motion Technologie (Diesel, 110 PS)",
+    "fuel": "diesel",
+    "hp": 110
+  },
+  {
+    "label": "The Beetle 2.0 TDI DPF DSG BlueMotion Technology (Diesel, 110 PS)",
+    "fuel": "diesel",
+    "hp": 110
+  },
+  {
+    "label": "The Beetle 2.0 TDI DPF Blue Motion Technologie (Diesel, 110 PS)",
+    "fuel": "diesel",
+    "hp": 110
+  },
+  {
+    "label": "The Beetle 2.0 TDI DPF BlueMotion Technology (Diesel, 110 PS)",
+    "fuel": "diesel",
+    "hp": 110
+  },
+  {
+    "label": "The Beetle 2.0 TDI DSG DPF (Diesel, 140 PS)",
+    "fuel": "diesel",
+    "hp": 140
+  },
+  {
+    "label": "The Beetle 2.0 TDI DPF (Diesel, 140 PS)",
+    "fuel": "diesel",
+    "hp": 140
+  },
+  {
+    "label": "The Beetle 2.0 TDI DSG DPF Blue Motion Technologie (Diesel, 150 PS)",
+    "fuel": "diesel",
+    "hp": 150
+  },
+  {
+    "label": "The Beetle 2.0 TDI DSG DPF Blue Motion Techn (Diesel, 150 PS)",
+    "fuel": "diesel",
+    "hp": 150
+  },
+  {
+    "label": "The Beetle 2.0 TDI DSG DPF BlueMotion Technology (Diesel, 150 PS)",
+    "fuel": "diesel",
+    "hp": 150
+  },
+  {
+    "label": "The Beetle 2.0 TDI DPF Blue Motion Technologie (Diesel, 150 PS)",
+    "fuel": "diesel",
+    "hp": 150
+  },
+  {
+    "label": "The Beetle 2.0 TDI DPF BlueMotion Technology (Diesel, 150 PS)",
+    "fuel": "diesel",
+    "hp": 150
+  }
+]

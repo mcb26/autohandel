@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Actyon",
+    "description": "Actyon",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/KGM/model/Actyon"
+  },
+  {
+    "name": "Korando",
+    "description": "Korando",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/KGM/model/Korando"
+  },
+  {
+    "name": "Musso",
+    "description": "Musso",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/KGM/model/Musso"
+  },
+  {
+    "name": "Musso Grand",
+    "description": "Musso Grand",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/KGM/model/Musso%20Grand"
+  },
+  {
+    "name": "Rexton",
+    "description": "Rexton",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/KGM/model/Rexton"
+  },
+  {
+    "name": "Tivoli",
+    "description": "Tivoli",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/KGM/model/Tivoli"
+  },
+  {
+    "name": "Torres",
+    "description": "Torres",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/KGM/model/Torres"
+  },
+  {
+    "name": "Torres EVX",
+    "description": "Torres EVX",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/KGM/model/Torres%20EVX"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/KGM/model/ANDERE"
+  }
+]

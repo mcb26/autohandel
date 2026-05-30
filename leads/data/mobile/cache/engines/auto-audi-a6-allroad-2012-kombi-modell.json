@@ -1,0 +1,52 @@
+[
+  {
+    "label": "A6 allroad quattro 3.0 TFSI S tronic (Benzin, 310 PS)",
+    "fuel": "benzin",
+    "hp": 310
+  },
+  {
+    "label": "A6 allroad quattro 3.0 TFSI S tronic (Benzin, 333 PS)",
+    "fuel": "benzin",
+    "hp": 333
+  },
+  {
+    "label": "A6 allroad quattro 3.0 TDI S tronic DPF (Diesel, 190 PS)",
+    "fuel": "diesel",
+    "hp": 190
+  },
+  {
+    "label": "A6 allroad quattro 3.0 TDI S tronic DPF (Diesel, 204 PS)",
+    "fuel": "diesel",
+    "hp": 204
+  },
+  {
+    "label": "A6 allroad quattro 3.0 TDI S tronic DPF (Diesel, 217 PS)",
+    "fuel": "diesel",
+    "hp": 217
+  },
+  {
+    "label": "A6 allroad quattro 3.0 TDI S tronic DPF (Diesel, 245 PS)",
+    "fuel": "diesel",
+    "hp": 245
+  },
+  {
+    "label": "A6 allroad quattro 3.0 TDI clean diesel S tronic (Diesel, 245 PS)",
+    "fuel": "diesel",
+    "hp": 245
+  },
+  {
+    "label": "A6 allroad quattro 3.0 TDI S tronic DPF (Diesel, 272 PS)",
+    "fuel": "diesel",
+    "hp": 272
+  },
+  {
+    "label": "A6 allroad quattro 3.0 TDI tiptronic DPF (Diesel, 313 PS)",
+    "fuel": "diesel",
+    "hp": 313
+  },
+  {
+    "label": "A6 allroad quattro 3.0 TDI tiptronic DPF (Diesel, 320 PS)",
+    "fuel": "diesel",
+    "hp": 320
+  }
+]

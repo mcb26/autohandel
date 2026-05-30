@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Aventador",
+    "description": "Aventador",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LAMBORGHINI/model/Aventador"
+  },
+  {
+    "name": "Countach",
+    "description": "Countach",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LAMBORGHINI/model/Countach"
+  },
+  {
+    "name": "Diablo",
+    "description": "Diablo",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LAMBORGHINI/model/Diablo"
+  },
+  {
+    "name": "Espada",
+    "description": "Espada",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LAMBORGHINI/model/Espada"
+  },
+  {
+    "name": "Gallardo",
+    "description": "Gallardo",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LAMBORGHINI/model/Gallardo"
+  },
+  {
+    "name": "Huracan",
+    "description": "Huracán",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LAMBORGHINI/model/Huracan"
+  },
+  {
+    "name": "Jalpa",
+    "description": "Jalpa",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LAMBORGHINI/model/Jalpa"
+  },
+  {
+    "name": "LM",
+    "description": "LM",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LAMBORGHINI/model/LM"
+  },
+  {
+    "name": "Miura",
+    "description": "Miura",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LAMBORGHINI/model/Miura"
+  },
+  {
+    "name": "Murciélago",
+    "description": "Murciélago",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LAMBORGHINI/model/Murci%C3%A9lago"
+  },
+  {
+    "name": "Revuelto",
+    "description": "Revuelto",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LAMBORGHINI/model/Revuelto"
+  },
+  {
+    "name": "Temerario",
+    "description": "Temerario",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LAMBORGHINI/model/Temerario"
+  },
+  {
+    "name": "Urraco",
+    "description": "Urraco",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LAMBORGHINI/model/Urraco"
+  },
+  {
+    "name": "Urus",
+    "description": "Urus",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LAMBORGHINI/model/Urus"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LAMBORGHINI/model/ANDERE"
+  }
+]

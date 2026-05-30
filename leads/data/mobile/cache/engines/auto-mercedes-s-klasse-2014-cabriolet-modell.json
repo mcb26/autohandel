@@ -1,0 +1,22 @@
+[
+  {
+    "label": "Motorisierungsvariante Technische Daten und Motorisierung S 560 Cabrio 9G-TRONIC (Benzin, 469 PS) AMG S 63 Cabrio 4Matic+ AMG Speedshift MCT 9G (Benzin, 612 PS)",
+    "fuel": "benzin",
+    "hp": 612
+  },
+  {
+    "label": "S 560 Cabrio 9G-TRONIC (Benzin, 469 PS) AMG S 63 Cabrio 4Matic+ AMG Speedshift MCT 9G (Benzin, 612 PS)",
+    "fuel": "benzin",
+    "hp": 612
+  },
+  {
+    "label": "S 560 Cabrio 9G-TRONIC (Benzin, 469 PS)",
+    "fuel": "benzin",
+    "hp": 469
+  },
+  {
+    "label": "AMG S 63 Cabrio 4Matic+ AMG Speedshift MCT 9G (Benzin, 612 PS)",
+    "fuel": "benzin",
+    "hp": 612
+  }
+]

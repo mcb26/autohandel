@@ -1,0 +1,47 @@
+[
+  {
+    "name": "SLK 200",
+    "description": "SLK 200",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/SLK-Klasse/models/SLK%20200"
+  },
+  {
+    "name": "SLK 230",
+    "description": "SLK 230",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/SLK-Klasse/models/SLK%20230"
+  },
+  {
+    "name": "SLK 250",
+    "description": "SLK 250",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/SLK-Klasse/models/SLK%20250"
+  },
+  {
+    "name": "SLK 280",
+    "description": "SLK 280",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/SLK-Klasse/models/SLK%20280"
+  },
+  {
+    "name": "SLK 300",
+    "description": "SLK 300",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/SLK-Klasse/models/SLK%20300"
+  },
+  {
+    "name": "SLK 32 AMG",
+    "description": "SLK 32 AMG",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/SLK-Klasse/models/SLK%2032%20AMG"
+  },
+  {
+    "name": "SLK 320",
+    "description": "SLK 320",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/SLK-Klasse/models/SLK%20320"
+  },
+  {
+    "name": "SLK 350",
+    "description": "SLK 350",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/SLK-Klasse/models/SLK%20350"
+  },
+  {
+    "name": "SLK 55 AMG",
+    "description": "SLK 55 AMG",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/SLK-Klasse/models/SLK%2055%20AMG"
+  }
+]

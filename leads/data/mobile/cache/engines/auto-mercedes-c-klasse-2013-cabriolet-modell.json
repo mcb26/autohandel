@@ -1,0 +1,62 @@
+[
+  {
+    "label": "C 180 Cabrio 9G-TRONIC (Benzin, 156 PS)",
+    "fuel": "benzin",
+    "hp": 156
+  },
+  {
+    "label": "C 200 Cabrio 4Matic 9G-TRONIC (Benzin, 184 PS)",
+    "fuel": "benzin",
+    "hp": 184
+  },
+  {
+    "label": "C 200 Cabrio 9G-TRONIC (Benzin, 184 PS)",
+    "fuel": "benzin",
+    "hp": 184
+  },
+  {
+    "label": "C 300 Cabrio 4Matic 9G-TRONIC (Benzin, 258 PS)",
+    "fuel": "benzin",
+    "hp": 258
+  },
+  {
+    "label": "C 300 Cabrio 9G-TRONIC (Benzin, 258 PS)",
+    "fuel": "benzin",
+    "hp": 258
+  },
+  {
+    "label": "C 400 Cabrio 4Matic 9G-TRONIC (Benzin, 333 PS)",
+    "fuel": "benzin",
+    "hp": 333
+  },
+  {
+    "label": "AMG C 43 Cabrio 4Matic AMG Speedshift TCT 9G (Benzin, 390 PS)",
+    "fuel": "benzin",
+    "hp": 390
+  },
+  {
+    "label": "AMG C 63 Cabrio AMG Speedshift MCT 9G (Benzin, 476 PS)",
+    "fuel": "benzin",
+    "hp": 476
+  },
+  {
+    "label": "AMG C 63 S Cabrio AMG Speedshift MCT 9G (Benzin, 510 PS)",
+    "fuel": "benzin",
+    "hp": 510
+  },
+  {
+    "label": "C 220 d Cabrio 4Matic 9G-TRONIC (Diesel, 194 PS)",
+    "fuel": "diesel",
+    "hp": 194
+  },
+  {
+    "label": "C 220 d Cabrio 9G-TRONIC (Diesel, 194 PS)",
+    "fuel": "diesel",
+    "hp": 194
+  },
+  {
+    "label": "C 300 d Cabrio 9G-TRONIC (Diesel, 245 PS)",
+    "fuel": "diesel",
+    "hp": 245
+  }
+]

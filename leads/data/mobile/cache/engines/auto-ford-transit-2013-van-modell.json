@@ -1,0 +1,37 @@
+[
+  {
+    "label": "Transit 410 L3H2 HA (15-Si.) (Diesel, 130 PS)",
+    "fuel": "15-si.) (diesel",
+    "hp": 130
+  },
+  {
+    "label": "Transit 410 L3H3 HA (15-Si.) (Diesel, 130 PS)",
+    "fuel": "15-si.) (diesel",
+    "hp": 130
+  },
+  {
+    "label": "Transit 460 L4H3 HA (18-Si.) (Diesel, 130 PS)",
+    "fuel": "18-si.) (diesel",
+    "hp": 130
+  },
+  {
+    "label": "Transit 410 L3H2 HA (15-Si.) (Diesel, 170 PS)",
+    "fuel": "15-si.) (diesel",
+    "hp": 170
+  },
+  {
+    "label": "Transit 410 L3H3 HA (15-Si.) (Diesel, 170 PS)",
+    "fuel": "15-si.) (diesel",
+    "hp": 170
+  },
+  {
+    "label": "Transit 460 L4H3 HA (18-Si.) (Diesel, 170 PS)",
+    "fuel": "18-si.) (diesel",
+    "hp": 170
+  },
+  {
+    "label": "Transit 440 L4H3 HA (15-Si.) (Diesel, 170 PS)",
+    "fuel": "15-si.) (diesel",
+    "hp": 170
+  }
+]

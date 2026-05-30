@@ -1,0 +1,97 @@
+[
+  {
+    "name": "B10",
+    "description": "B10",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ALPINA/model/B10"
+  },
+  {
+    "name": "B12",
+    "description": "B12",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ALPINA/model/B12"
+  },
+  {
+    "name": "B3",
+    "description": "B3",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ALPINA/model/B3"
+  },
+  {
+    "name": "B4",
+    "description": "B4",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ALPINA/model/B4"
+  },
+  {
+    "name": "B5",
+    "description": "B5",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ALPINA/model/B5"
+  },
+  {
+    "name": "B6",
+    "description": "B6",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ALPINA/model/B6"
+  },
+  {
+    "name": "B7",
+    "description": "B7",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ALPINA/model/B7"
+  },
+  {
+    "name": "B8",
+    "description": "B8",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ALPINA/model/B8"
+  },
+  {
+    "name": "D 10",
+    "description": "D10",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ALPINA/model/D%2010"
+  },
+  {
+    "name": "D3",
+    "description": "D3",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ALPINA/model/D3"
+  },
+  {
+    "name": "D3 S",
+    "description": "D3 S",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ALPINA/model/D3%20S"
+  },
+  {
+    "name": "D4",
+    "description": "D4",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ALPINA/model/D4"
+  },
+  {
+    "name": "D4 S",
+    "description": "D4 S",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ALPINA/model/D4%20S"
+  },
+  {
+    "name": "D5",
+    "description": "D5",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ALPINA/model/D5"
+  },
+  {
+    "name": "Roadster S",
+    "description": "Roadster S",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ALPINA/model/Roadster%20S"
+  },
+  {
+    "name": "XB7",
+    "description": "XB7",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ALPINA/model/XB7"
+  },
+  {
+    "name": "XD3",
+    "description": "XD3",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ALPINA/model/XD3"
+  },
+  {
+    "name": "XD4",
+    "description": "XD4",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ALPINA/model/XD4"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ALPINA/model/ANDERE"
+  }
+]

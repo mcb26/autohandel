@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Fengo",
+    "description": "Fengon",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DFSK/modelgroups/Fengon/models/Fengo"
+  },
+  {
+    "name": "Fengon 5",
+    "description": "Fengon 5",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DFSK/modelgroups/Fengon/models/Fengon%205"
+  },
+  {
+    "name": "Fengon 500",
+    "description": "Fengon 500",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DFSK/modelgroups/Fengon/models/Fengon%20500"
+  },
+  {
+    "name": "Fengon 580",
+    "description": "Fengon 580",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DFSK/modelgroups/Fengon/models/Fengon%20580"
+  },
+  {
+    "name": "Fengon 600",
+    "description": "Fengon 600",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DFSK/modelgroups/Fengon/models/Fengon%20600"
+  },
+  {
+    "name": "Fengon 7",
+    "description": "Fengon 7",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DFSK/modelgroups/Fengon/models/Fengon%207"
+  }
+]

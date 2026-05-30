@@ -1,0 +1,23 @@
+[
+  {
+    "label": "Limousine BMW 7er (G11/G12) 2015 - Heute",
+    "href": "https://www.mobile.de/auto/bmw/7er/2015/limousine/modell/",
+    "modell_url": "https://www.mobile.de/auto/bmw/7er/2015/limousine/modell/",
+    "model_slug": "7er",
+    "brand_slug": "bmw"
+  },
+  {
+    "label": "Limousine BMW 7er (F01) 2008 – 2015",
+    "href": "https://www.mobile.de/auto/bmw/7er/2008/limousine/modell/",
+    "modell_url": "https://www.mobile.de/auto/bmw/7er/2008/limousine/modell/",
+    "model_slug": "7er",
+    "brand_slug": "bmw"
+  },
+  {
+    "label": "Limousine BMW 7er (E65) 2005 – 2008",
+    "href": "https://www.mobile.de/auto/bmw/7er/2001/limousine/modell/",
+    "modell_url": "https://www.mobile.de/auto/bmw/7er/2001/limousine/modell/",
+    "model_slug": "7er",
+    "brand_slug": "bmw"
+  }
+]

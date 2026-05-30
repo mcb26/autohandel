@@ -1,0 +1,232 @@
+[
+  {
+    "label": "318i Aut. (Benzin, 143 PS)",
+    "fuel": "benzin",
+    "hp": 143
+  },
+  {
+    "label": "318i (Benzin, 143 PS)",
+    "fuel": "benzin",
+    "hp": 143
+  },
+  {
+    "label": "320i Aut. (Benzin, 170 PS)",
+    "fuel": "benzin",
+    "hp": 170
+  },
+  {
+    "label": "320i (Benzin, 170 PS)",
+    "fuel": "benzin",
+    "hp": 170
+  },
+  {
+    "label": "325i Aut. (Benzin, 218 PS)",
+    "fuel": "benzin",
+    "hp": 218
+  },
+  {
+    "label": "325i xDrive Aut. (Benzin, 218 PS)",
+    "fuel": "benzin",
+    "hp": 218
+  },
+  {
+    "label": "325i xDrive (Benzin, 218 PS)",
+    "fuel": "benzin",
+    "hp": 218
+  },
+  {
+    "label": "325i (Benzin, 218 PS)",
+    "fuel": "benzin",
+    "hp": 218
+  },
+  {
+    "label": "330i Aut. (Benzin, 272 PS)",
+    "fuel": "benzin",
+    "hp": 272
+  },
+  {
+    "label": "330i xDrive Aut. (Benzin, 272 PS)",
+    "fuel": "benzin",
+    "hp": 272
+  },
+  {
+    "label": "330i xDrive (Benzin, 272 PS)",
+    "fuel": "benzin",
+    "hp": 272
+  },
+  {
+    "label": "330i (Benzin, 272 PS)",
+    "fuel": "benzin",
+    "hp": 272
+  },
+  {
+    "label": "335i Aut. (Benzin, 306 PS)",
+    "fuel": "benzin",
+    "hp": 306
+  },
+  {
+    "label": "335i xDrive Aut. (Benzin, 306 PS)",
+    "fuel": "benzin",
+    "hp": 306
+  },
+  {
+    "label": "335i xDrive (Benzin, 306 PS)",
+    "fuel": "benzin",
+    "hp": 306
+  },
+  {
+    "label": "335i (Benzin, 306 PS)",
+    "fuel": "benzin",
+    "hp": 306
+  },
+  {
+    "label": "M3 Drivelogic (Benzin, 420 PS)",
+    "fuel": "benzin",
+    "hp": 420
+  },
+  {
+    "label": "M3 (Benzin, 420 PS)",
+    "fuel": "benzin",
+    "hp": 420
+  },
+  {
+    "label": "316d DPF (Diesel, 115 PS)",
+    "fuel": "diesel",
+    "hp": 115
+  },
+  {
+    "label": "318d DPF Aut. (Diesel, 143 PS)",
+    "fuel": "diesel",
+    "hp": 143
+  },
+  {
+    "label": "318d DPF (Diesel, 143 PS)",
+    "fuel": "diesel",
+    "hp": 143
+  },
+  {
+    "label": "320d DPF Aut. (Diesel, 163 PS)",
+    "fuel": "diesel",
+    "hp": 163
+  },
+  {
+    "label": "320d xDrive DPF Aut. (Diesel, 163 PS)",
+    "fuel": "diesel",
+    "hp": 163
+  },
+  {
+    "label": "320d DPF Blue Performance (Diesel, 163 PS)",
+    "fuel": "diesel",
+    "hp": 163
+  },
+  {
+    "label": "320d DPF (Diesel, 163 PS)",
+    "fuel": "diesel",
+    "hp": 163
+  },
+  {
+    "label": "320d xDrive DPF (Diesel, 163 PS)",
+    "fuel": "diesel",
+    "hp": 163
+  },
+  {
+    "label": "320d DPF Efficient Dynamics Edition (Diesel, 163 PS)",
+    "fuel": "diesel",
+    "hp": 163
+  },
+  {
+    "label": "320d DPF Aut. (Diesel, 177 PS)",
+    "fuel": "diesel",
+    "hp": 177
+  },
+  {
+    "label": "320d xDrive DPF Aut. (Diesel, 177 PS)",
+    "fuel": "diesel",
+    "hp": 177
+  },
+  {
+    "label": "320d DPF (Diesel, 177 PS)",
+    "fuel": "diesel",
+    "hp": 177
+  },
+  {
+    "label": "320d xDrive DPF (Diesel, 177 PS)",
+    "fuel": "diesel",
+    "hp": 177
+  },
+  {
+    "label": "320d DPF Aut. (Diesel, 184 PS)",
+    "fuel": "diesel",
+    "hp": 184
+  },
+  {
+    "label": "320d xDrive DPF Aut. (Diesel, 184 PS)",
+    "fuel": "diesel",
+    "hp": 184
+  },
+  {
+    "label": "320d DPF Blue Performance (Diesel, 184 PS)",
+    "fuel": "diesel",
+    "hp": 184
+  },
+  {
+    "label": "320d DPF (Diesel, 184 PS)",
+    "fuel": "diesel",
+    "hp": 184
+  },
+  {
+    "label": "320d xDrive DPF (Diesel, 184 PS)",
+    "fuel": "diesel",
+    "hp": 184
+  },
+  {
+    "label": "325d DPF Aut. (Diesel, 197 PS)",
+    "fuel": "diesel",
+    "hp": 197
+  },
+  {
+    "label": "325d DPF (Diesel, 197 PS)",
+    "fuel": "diesel",
+    "hp": 197
+  },
+  {
+    "label": "325d DPF Aut. (Diesel, 204 PS)",
+    "fuel": "diesel",
+    "hp": 204
+  },
+  {
+    "label": "325d DPF (Diesel, 204 PS)",
+    "fuel": "diesel",
+    "hp": 204
+  },
+  {
+    "label": "330d DPF Aut. (Diesel, 245 PS)",
+    "fuel": "diesel",
+    "hp": 245
+  },
+  {
+    "label": "330d xDrive DPF Aut. (Diesel, 245 PS)",
+    "fuel": "diesel",
+    "hp": 245
+  },
+  {
+    "label": "330d DPF Blue Performance (Diesel, 245 PS)",
+    "fuel": "diesel",
+    "hp": 245
+  },
+  {
+    "label": "330d DPF (Diesel, 245 PS)",
+    "fuel": "diesel",
+    "hp": 245
+  },
+  {
+    "label": "330d xDrive DPF (Diesel, 245 PS)",
+    "fuel": "diesel",
+    "hp": 245
+  },
+  {
+    "label": "335d DPF (Diesel, 286 PS)",
+    "fuel": "diesel",
+    "hp": 286
+  }
+]

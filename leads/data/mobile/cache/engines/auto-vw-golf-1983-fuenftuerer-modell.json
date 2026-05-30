@@ -1,0 +1,197 @@
+[
+  {
+    "label": "Golf (Benzin, 55 PS)",
+    "fuel": "benzin",
+    "hp": 55
+  },
+  {
+    "label": "Golf Automatik (Benzin, 70 PS)",
+    "fuel": "benzin",
+    "hp": 70
+  },
+  {
+    "label": "Golf (Benzin, 70 PS)",
+    "fuel": "benzin",
+    "hp": 70
+  },
+  {
+    "label": "Golf Automatik (Benzin, 72 PS)",
+    "fuel": "benzin",
+    "hp": 72
+  },
+  {
+    "label": "Golf Automatic (Benzin, 72 PS)",
+    "fuel": "benzin",
+    "hp": 72
+  },
+  {
+    "label": "Golf (Benzin, 72 PS)",
+    "fuel": "benzin",
+    "hp": 72
+  },
+  {
+    "label": "Golf Automatik (Benzin, 75 PS)",
+    "fuel": "benzin",
+    "hp": 75
+  },
+  {
+    "label": "Golf Automatic (Benzin, 75 PS)",
+    "fuel": "benzin",
+    "hp": 75
+  },
+  {
+    "label": "Golf (Benzin, 75 PS)",
+    "fuel": "benzin",
+    "hp": 75
+  },
+  {
+    "label": "Golf Automatik (Benzin, 84 PS)",
+    "fuel": "benzin",
+    "hp": 84
+  },
+  {
+    "label": "Golf (Benzin, 84 PS)",
+    "fuel": "benzin",
+    "hp": 84
+  },
+  {
+    "label": "Golf Automatik (Benzin, 90 PS)",
+    "fuel": "benzin",
+    "hp": 90
+  },
+  {
+    "label": "Golf Automatic (Benzin, 90 PS)",
+    "fuel": "benzin",
+    "hp": 90
+  },
+  {
+    "label": "Golf (Benzin, 90 PS)",
+    "fuel": "benzin",
+    "hp": 90
+  },
+  {
+    "label": "Golf syncro (Benzin, 90 PS)",
+    "fuel": "benzin",
+    "hp": 90
+  },
+  {
+    "label": "Golf Syncro (Benzin, 98 PS)",
+    "fuel": "benzin",
+    "hp": 98
+  },
+  {
+    "label": "Golf (Benzin, 107 PS)",
+    "fuel": "benzin",
+    "hp": 107
+  },
+  {
+    "label": "Golf GTI (Benzin, 107 PS)",
+    "fuel": "benzin",
+    "hp": 107
+  },
+  {
+    "label": "Golf (Benzin, 112 PS)",
+    "fuel": "benzin",
+    "hp": 112
+  },
+  {
+    "label": "Golf 16V (Benzin, 129 PS)",
+    "fuel": "benzin",
+    "hp": 129
+  },
+  {
+    "label": "Golf GTI 16V (Benzin, 129 PS)",
+    "fuel": "benzin",
+    "hp": 129
+  },
+  {
+    "label": "Golf (Benzin, 129 PS)",
+    "fuel": "benzin",
+    "hp": 129
+  },
+  {
+    "label": "Golf (Benzin, 139 PS)",
+    "fuel": "benzin",
+    "hp": 139
+  },
+  {
+    "label": "Golf G60 (Benzin, 160 PS)",
+    "fuel": "benzin",
+    "hp": 160
+  },
+  {
+    "label": "Golf GTI G60 (Benzin, 160 PS)",
+    "fuel": "benzin",
+    "hp": 160
+  },
+  {
+    "label": "Golf Syncro (Benzin, 160 PS)",
+    "fuel": "benzin",
+    "hp": 160
+  },
+  {
+    "label": "Golf (Benzin, 160 PS)",
+    "fuel": "benzin",
+    "hp": 160
+  },
+  {
+    "label": "Golf Automatik (Diesel, 54 PS)",
+    "fuel": "diesel",
+    "hp": 54
+  },
+  {
+    "label": "Golf Automatic (Diesel, 54 PS)",
+    "fuel": "diesel",
+    "hp": 54
+  },
+  {
+    "label": "Golf (Diesel, 54 PS)",
+    "fuel": "diesel",
+    "hp": 54
+  },
+  {
+    "label": "Golf (Diesel, 60 PS)",
+    "fuel": "diesel",
+    "hp": 60
+  },
+  {
+    "label": "Golf Kat d (Diesel, 60 PS)",
+    "fuel": "diesel",
+    "hp": 60
+  },
+  {
+    "label": "Golf Kat D (Diesel, 60 PS)",
+    "fuel": "diesel",
+    "hp": 60
+  },
+  {
+    "label": "Golf Turbo (Diesel, 70 PS)",
+    "fuel": "diesel",
+    "hp": 70
+  },
+  {
+    "label": "Golf TD (Diesel, 70 PS)",
+    "fuel": "diesel",
+    "hp": 70
+  },
+  {
+    "label": "Golf (Diesel, 70 PS)",
+    "fuel": "diesel",
+    "hp": 70
+  },
+  {
+    "label": "Golf TD LLK (Diesel, 80 PS)",
+    "fuel": "diesel",
+    "hp": 80
+  },
+  {
+    "label": "Golf TDLLK (Diesel, 80 PS)",
+    "fuel": "diesel",
+    "hp": 80
+  },
+  {
+    "label": "Golf GTD TD LLK (Diesel, 80 PS)",
+    "fuel": "diesel",
+    "hp": 80
+  }
+]

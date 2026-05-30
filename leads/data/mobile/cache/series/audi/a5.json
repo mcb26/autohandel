@@ -1,0 +1,44 @@
+[
+  {
+    "label": "Cabrio Audi A5 Cabriolet (F5) 2016 - Heute",
+    "href": "https://www.mobile.de/auto/audi/a5/2016/cabriolet/modell/",
+    "modell_url": "https://www.mobile.de/auto/audi/a5/2016/cabriolet/modell/",
+    "model_slug": "a5",
+    "brand_slug": "audi"
+  },
+  {
+    "label": "Coupe Audi A5 Sportback (F5) 2016 - Heute",
+    "href": "https://www.mobile.de/auto/audi/a5/2016/limousine/modell/",
+    "modell_url": "https://www.mobile.de/auto/audi/a5/2016/limousine/modell/",
+    "model_slug": "a5",
+    "brand_slug": "audi"
+  },
+  {
+    "label": "Coupe Audi A5 Coupé (F5) 2016 - Heute",
+    "href": "https://www.mobile.de/auto/audi/a5/2016/coupe/modell/",
+    "modell_url": "https://www.mobile.de/auto/audi/a5/2016/coupe/modell/",
+    "model_slug": "a5",
+    "brand_slug": "audi"
+  },
+  {
+    "label": "Coupe Audi A5 Sportback (8T) 2009 – 2016",
+    "href": "https://www.mobile.de/auto/audi/a5/2007/fuenftuerer/modell/",
+    "modell_url": "https://www.mobile.de/auto/audi/a5/2007/fuenftuerer/modell/",
+    "model_slug": "a5",
+    "brand_slug": "audi"
+  },
+  {
+    "label": "Cabrio Audi A5 Cabriolet (8F) 2009 – 2016",
+    "href": "https://www.mobile.de/auto/audi/a5/2007/cabriolet/modell/",
+    "modell_url": "https://www.mobile.de/auto/audi/a5/2007/cabriolet/modell/",
+    "model_slug": "a5",
+    "brand_slug": "audi"
+  },
+  {
+    "label": "Coupe Audi A5 Coupé (8T) 2007 – 2016",
+    "href": "https://www.mobile.de/auto/audi/a5/2007/coupe/modell/",
+    "modell_url": "https://www.mobile.de/auto/audi/a5/2007/coupe/modell/",
+    "model_slug": "a5",
+    "brand_slug": "audi"
+  }
+]

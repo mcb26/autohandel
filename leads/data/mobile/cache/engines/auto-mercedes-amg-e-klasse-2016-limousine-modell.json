@@ -1,0 +1,17 @@
+[
+  {
+    "label": "AMG E 53 4Matic AMG Speedshift TCT-9G (Benzin, 435 PS) AMG E 63 S 4Matic+ AMG Speedshift MCT-9G (Benzin, 612 PS)",
+    "fuel": "benzin",
+    "hp": 612
+  },
+  {
+    "label": "AMG E 53 4Matic AMG Speedshift TCT-9G (Benzin, 435 PS)",
+    "fuel": "benzin",
+    "hp": 435
+  },
+  {
+    "label": "AMG E 63 S 4Matic+ AMG Speedshift MCT-9G (Benzin, 612 PS)",
+    "fuel": "benzin",
+    "hp": 612
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "name": "340 R",
+    "description": "340 R",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LOTUS/model/340%20R"
+  },
+  {
+    "name": "Cortina",
+    "description": "Cortina",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LOTUS/model/Cortina"
+  },
+  {
+    "name": "Elan",
+    "description": "Elan",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LOTUS/model/Elan"
+  },
+  {
+    "name": "Eletre",
+    "description": "Eletre",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LOTUS/model/Eletre"
+  },
+  {
+    "name": "Elise",
+    "description": "Elise",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LOTUS/model/Elise"
+  },
+  {
+    "name": "Elite",
+    "description": "Elite",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LOTUS/model/Elite"
+  },
+  {
+    "name": "Emeya",
+    "description": "Emeya",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LOTUS/model/Emeya"
+  },
+  {
+    "name": "Emira",
+    "description": "Emira",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LOTUS/model/Emira"
+  },
+  {
+    "name": "Esprit",
+    "description": "Esprit",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LOTUS/model/Esprit"
+  },
+  {
+    "name": "Europa",
+    "description": "Europa",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LOTUS/model/Europa"
+  },
+  {
+    "name": "Evora",
+    "description": "Evora",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LOTUS/model/Evora"
+  },
+  {
+    "name": "Excel",
+    "description": "Excel",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LOTUS/model/Excel"
+  },
+  {
+    "name": "Exige",
+    "description": "Exige",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LOTUS/model/Exige"
+  },
+  {
+    "name": "Super Seven",
+    "description": "Super Seven",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LOTUS/model/Super%20Seven"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LOTUS/model/ANDERE"
+  }
+]

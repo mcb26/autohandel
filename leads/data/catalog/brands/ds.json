@@ -1,0 +1,569 @@
+{
+  "label": "DS",
+  "models": {
+    "3": {
+      "label": "3",
+      "series": {
+        "ds-3-facelift-2023": {
+          "label": "DS 3 (facelift 2023)",
+          "engines": [
+            {
+              "label": "e-Tense 54 kWh (156 Hp)",
+              "hp": 156
+            },
+            {
+              "label": "1.5 BlueHDi (130 Hp) Automatic (2023 - 2024)",
+              "hp": 130,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.2 PureTech (130 Hp) Automatic (2023 - 2024)",
+              "hp": 130,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 PureTech (101 Hp) (2023 - 2024)",
+              "hp": 101,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 (145 Hp) Hybrid eDCT",
+              "hp": 145,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.2 (136 Hp) Hybrid e-DSC (2024 - 2025)",
+              "hp": 136,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "ds-3-crossback": {
+          "label": "DS 3 Crossback",
+          "engines": [
+            {
+              "label": "e-Tense 50 kWh (136 Hp) (2019 - 2022)",
+              "hp": 136
+            },
+            {
+              "label": "1.5 BlueHDi (130 Hp) Automatic (2020 - 2022)",
+              "hp": 130,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 BlueHDi (110 Hp) (2020 - 2022)",
+              "hp": 110,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 BlueHDi (102 Hp) (2018 - 2020)",
+              "hp": 102,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.2 PureTech (155 Hp) Automatic (2018 - 2022)",
+              "hp": 155,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 PureTech (131 Hp) Automatic (2018 - 2022)",
+              "hp": 131,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 PureTech (102 Hp) (2018 - 2022)",
+              "hp": 102,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "ds-3-cabrio": {
+          "label": "DS 3 Cabrio",
+          "engines": [
+            {
+              "label": "Performance 1.6 THP (208 Hp) Stop&Start (2016 - 2018)",
+              "hp": 208,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 THP (165 Hp) Stop&Start (2016 - 2018)",
+              "hp": 165,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 BlueHDi (120 Hp) Stop&Start (2016 - 2018)",
+              "hp": 120,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 BlueHDi (100 Hp) Stop&Start (2016 - 2018)",
+              "hp": 100,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.2 PureTech (130 Hp) Stop&Start (2016 - 2018)",
+              "hp": 130,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 PureTech (110 Hp) Stop&Start Automatic (2016 - 2018)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 PureTech (110 Hp) Stop&Start (2016 - 2018)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 PureTech (82 Hp) (2016 - 2018)",
+              "hp": 82,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "ds-3": {
+          "label": "DS 3",
+          "engines": [
+            {
+              "label": "1.6 THP (165 Hp) Start&Stop (2016 - 2018)",
+              "hp": 165,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 BlueHDi (120 Hp) Start&Stop (2016 - 2018)",
+              "hp": 120,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 BlueHDi (99 Hp) Stop&Start Drive Efficiency (2016 - 2018)",
+              "hp": 99,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 BlueHDi (99 Hp) Stop&Start (2016 - 2018)",
+              "hp": 99,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.2 PureTech (130 Hp) Stop&Start (2016 - 2018)",
+              "hp": 130,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 PureTech (110 Hp) Stop&Start Automatic (2016 - 2018)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 PureTech (110 Hp) Stop&Start (2016 - 2018)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 PureTech (82 Hp) Stop&Start ETG (2016 - 2018)",
+              "hp": 82,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 PureTech (82 Hp) (2016 - 2018)",
+              "hp": 82,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "4": {
+      "label": "4",
+      "series": {
+        "ds-4-ii": {
+          "label": "DS 4 II",
+          "engines": [
+            {
+              "label": "1.6 PureTech (225 Hp) Automatic (2021 - 2022)",
+              "hp": 225,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 PureTech (181 Hp) Automatic (2021 - 2022)",
+              "hp": 181,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 PureTech (225 Hp) E-TENSE Automatic (2021 - 2025)",
+              "hp": 225,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 BlueHDi (130 Hp) Automatic (2021 - 2024)",
+              "hp": 130,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.2 PureTech (130 Hp) Automatic (2021 - 2024)",
+              "hp": 130,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 (136 Hp) Hybrid e-DCS (2024 - 2025)",
+              "hp": 136,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "ds-4-crossback": {
+          "label": "DS 4 Crossback",
+          "engines": [
+            {
+              "label": "2.0 BlueHDi (180 Hp) Stop&Start Automatic (2015 - 2018)",
+              "hp": 180,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 BlueHDi (150 Hp) Stop&Start (2015 - 2018)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 THP (210 Hp) Stop&Start (2015 - 2018)",
+              "hp": 210,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 THP (165 Hp) Stop&Start Automatic (2015 - 2018)",
+              "hp": 165,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 BlueHDi (120 Hp) Stop&Start Automatic (2015 - 2018)",
+              "hp": 120,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 BlueHDi (120 Hp) Stop&Start (2015 - 2018)",
+              "hp": 120,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.2 PureTech (130 Hp) Stop&Start (2015 - 2018)",
+              "hp": 130,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "ds-4": {
+          "label": "DS 4",
+          "engines": [
+            {
+              "label": "2.0 BlueHDi (180 Hp) Stop&Start Automatic (2015 - 2018)",
+              "hp": 180,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 BlueHDi (150 Hp) Stop&Start (2015 - 2018)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 THP (210 Hp) Stop&Start (2015 - 2018)",
+              "hp": 210,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 THP (165 Hp) Stop&Start Automatic (2015 - 2018)",
+              "hp": 165,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 BlueHDi (120 Hp) Stop&Start Automatic (2015 - 2018)",
+              "hp": 120,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 BlueHDi (120 Hp) Stop&Start (2015 - 2018)",
+              "hp": 120,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.2 PureTech (130 Hp) Stop&Start (2015 - 2018)",
+              "hp": 130,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "5": {
+      "label": "5",
+      "series": {
+        "ds-5": {
+          "label": "DS 5",
+          "engines": [
+            {
+              "label": "2.0 BlueHDi (180 Hp) Stop&Start Automatic (2015 - 2018)",
+              "hp": 180,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 BlueHDi (150 Hp) Stop&Start (2015 - 2018)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 (200 Hp) Hybrid 4x4 ETG (2015 - 2018)",
+              "hp": 200,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.6 THP (210 Hp) Stop&Start (2015 - 2018)",
+              "hp": 210,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 THP (165 Hp) Stop&Start Automatic (2015 - 2018)",
+              "hp": 165,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 BlueHDi (120 Hp) Stop&Start Automatic (2015 - 2018)",
+              "hp": 120,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 BlueHDi (120 Hp) Stop&Start (2015 - 2018)",
+              "hp": 120,
+              "fuel": "diesel"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "6": {
+      "label": "6",
+      "series": {
+        "ds-6wr": {
+          "label": "DS 6WR",
+          "engines": [
+            {
+              "label": "1.8 THP (203 Hp) Automatic (2014 - 2017)",
+              "hp": 203,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 THP (167 Hp) Automatic (2014 - 2019)",
+              "hp": 167,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "7": {
+      "label": "7",
+      "series": {
+        "ds-7-facelift-2022": {
+          "label": "DS 7 (facelift 2022)",
+          "engines": [
+            {
+              "label": "1.6 (360 Hp) E-TENSE 4x4 Automatic",
+              "hp": 360,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (300 Hp) E-TENSE 4x4 Automatic",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (225 Hp) E-TENSE Automatic",
+              "hp": 225,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 BlueHDi (130 Hp) Automatic",
+              "hp": 130,
+              "fuel": "diesel"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "ds-7-crossback": {
+          "label": "DS 7 Crossback",
+          "engines": [
+            {
+              "label": "2.0 BlueHDi (180 Hp) Automatic (2017 - 2020)",
+              "hp": 180,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 PureTech (225 Hp) Automatic (2019 - 2021)",
+              "hp": 225,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 PureTech (300 Hp) Plug-in Hybrid E-TENSE 4WD Automatic (2018 - 2019)",
+              "hp": 300,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.6 PureTech (300 Hp) E-TENSE 4x4 Automatic (2019 - 2022)",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 PureTech (181 Hp) Automatic (2019 - 2022)",
+              "hp": 181,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 PureTech (225 Hp) E-TENSE Automatic (2020 - 2022)",
+              "hp": 225,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 BlueHDi (130 Hp) Automatic (2020 - 2022)",
+              "hp": 130,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 BlueHDi (130 Hp) (2017 - 2020)",
+              "hp": 130,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.2 PureTech (130 Hp) Automatic (2020 - 2021)",
+              "hp": 130,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 PureTech (130 Hp) (2018 - 2020)",
+              "hp": 130,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "9": {
+      "label": "9",
+      "series": {
+        "ds-9": {
+          "label": "DS 9",
+          "engines": [
+            {
+              "label": "1.6 PureTech (225 Hp) Automatic (2020 - 2022)",
+              "hp": 225,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 PureTech (360 Hp) E-TENSE 4x4 EAT8",
+              "hp": 360,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 PureTech (250 Hp) E-TENSE EAT8",
+              "hp": 250,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 PureTech (225 Hp) E-TENSE EAT8 (2020 - 2022)",
+              "hp": 225,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "n4": {
+      "label": "N°4",
+      "series": {
+        "ds-n4-ii-facelift-2025": {
+          "label": "DS N°4 II (facelift 2025)",
+          "engines": [
+            {
+              "label": "61 kWh (213 Hp) E-TENSE",
+              "hp": 213
+            },
+            {
+              "label": "1.6 (225 Hp) Plug-in Hybrid eDCT",
+              "hp": 225,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.2 (145 Hp) Hybrid eDCT",
+              "hp": 145,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "n8": {
+      "label": "N°8",
+      "series": {
+        "ds-n8": {
+          "label": "DS N°8",
+          "engines": [
+            {
+              "label": "97.2 kWh (350 Hp) Long Range AWD Electric",
+              "hp": 350,
+              "fuel": "elektro"
+            },
+            {
+              "label": "97.2 kWh (245 Hp) Long Range Electric",
+              "hp": 245,
+              "fuel": "elektro"
+            },
+            {
+              "label": "74 kWh (230 Hp) Electric",
+              "hp": 230,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

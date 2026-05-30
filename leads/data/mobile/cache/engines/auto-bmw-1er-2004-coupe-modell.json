@@ -1,0 +1,67 @@
+[
+  {
+    "label": "120i Coupe Aut. (Benzin, 170 PS)",
+    "fuel": "benzin",
+    "hp": 170
+  },
+  {
+    "label": "120i Coupe (Benzin, 170 PS)",
+    "fuel": "benzin",
+    "hp": 170
+  },
+  {
+    "label": "125i Coupe Aut. (Benzin, 218 PS)",
+    "fuel": "benzin",
+    "hp": 218
+  },
+  {
+    "label": "125i Coupe (Benzin, 218 PS)",
+    "fuel": "benzin",
+    "hp": 218
+  },
+  {
+    "label": "135i Coupe Aut. (Benzin, 306 PS)",
+    "fuel": "benzin",
+    "hp": 306
+  },
+  {
+    "label": "135i Coupe (Benzin, 306 PS)",
+    "fuel": "benzin",
+    "hp": 306
+  },
+  {
+    "label": "1er M Coupe (Benzin, 340 PS)",
+    "fuel": "benzin",
+    "hp": 340
+  },
+  {
+    "label": "118d Coupe Aut. (Diesel, 143 PS)",
+    "fuel": "diesel",
+    "hp": 143
+  },
+  {
+    "label": "118d Coupe (Diesel, 143 PS)",
+    "fuel": "diesel",
+    "hp": 143
+  },
+  {
+    "label": "120d Coupe Aut. (Diesel, 177 PS)",
+    "fuel": "diesel",
+    "hp": 177
+  },
+  {
+    "label": "120d Coupe (Diesel, 177 PS)",
+    "fuel": "diesel",
+    "hp": 177
+  },
+  {
+    "label": "123d Coupe Aut. (Diesel, 204 PS)",
+    "fuel": "diesel",
+    "hp": 204
+  },
+  {
+    "label": "123d Coupe (Diesel, 204 PS)",
+    "fuel": "diesel",
+    "hp": 204
+  }
+]

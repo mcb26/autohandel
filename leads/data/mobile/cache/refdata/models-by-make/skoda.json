@@ -1,0 +1,117 @@
+[
+  {
+    "name": "105",
+    "description": "105",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SKODA/model/105"
+  },
+  {
+    "name": "120",
+    "description": "120",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SKODA/model/120"
+  },
+  {
+    "name": "130",
+    "description": "130",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SKODA/model/130"
+  },
+  {
+    "name": "135",
+    "description": "135",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SKODA/model/135"
+  },
+  {
+    "name": "Citigo",
+    "description": "Citigo",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SKODA/model/Citigo"
+  },
+  {
+    "name": "Elroq",
+    "description": "Elroq",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SKODA/model/Elroq"
+  },
+  {
+    "name": "Enyaq",
+    "description": "Enyaq",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SKODA/model/Enyaq"
+  },
+  {
+    "name": "Fabia",
+    "description": "Fabia",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SKODA/model/Fabia"
+  },
+  {
+    "name": "Favorit",
+    "description": "Favorit",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SKODA/model/Favorit"
+  },
+  {
+    "name": "Felicia",
+    "description": "Felicia",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SKODA/model/Felicia"
+  },
+  {
+    "name": "Forman",
+    "description": "Forman",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SKODA/model/Forman"
+  },
+  {
+    "name": "Kamiq",
+    "description": "Kamiq",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SKODA/model/Kamiq"
+  },
+  {
+    "name": "Karoq",
+    "description": "Karoq",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SKODA/model/Karoq"
+  },
+  {
+    "name": "Kodiaq",
+    "description": "Kodiaq",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SKODA/model/Kodiaq"
+  },
+  {
+    "name": "Octavia",
+    "description": "Octavia",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SKODA/model/Octavia"
+  },
+  {
+    "name": "Pick-up",
+    "description": "Pick-up",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SKODA/model/Pick-up"
+  },
+  {
+    "name": "Praktik",
+    "description": "Praktik",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SKODA/model/Praktik"
+  },
+  {
+    "name": "Rapid",
+    "description": "Rapid",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SKODA/model/Rapid"
+  },
+  {
+    "name": "Roomster",
+    "description": "Roomster",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SKODA/model/Roomster"
+  },
+  {
+    "name": "Scala",
+    "description": "Scala",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SKODA/model/Scala"
+  },
+  {
+    "name": "Superb",
+    "description": "Superb",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SKODA/model/Superb"
+  },
+  {
+    "name": "Yeti",
+    "description": "Yeti",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SKODA/model/Yeti"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SKODA/model/ANDERE"
+  }
+]

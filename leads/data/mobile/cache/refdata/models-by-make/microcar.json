@@ -1,0 +1,42 @@
+[
+  {
+    "name": "DUE",
+    "description": "DUÈ",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MICROCAR/model/DUE"
+  },
+  {
+    "name": "Flex",
+    "description": "Flex",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MICROCAR/model/Flex"
+  },
+  {
+    "name": "M.Go",
+    "description": "M.Go",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MICROCAR/model/M.Go"
+  },
+  {
+    "name": "M8",
+    "description": "M-8",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MICROCAR/model/M8"
+  },
+  {
+    "name": "MC1",
+    "description": "MC1",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MICROCAR/model/MC1"
+  },
+  {
+    "name": "MC2",
+    "description": "MC2",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MICROCAR/model/MC2"
+  },
+  {
+    "name": "Virgo",
+    "description": "Virgo",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MICROCAR/model/Virgo"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MICROCAR/model/ANDERE"
+  }
+]

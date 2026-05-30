@@ -1,0 +1,87 @@
+[
+  {
+    "label": "316i touring (Benzin, 115 PS)",
+    "fuel": "benzin",
+    "hp": 115
+  },
+  {
+    "label": "318i touring (Benzin, 118 PS)",
+    "fuel": "benzin",
+    "hp": 118
+  },
+  {
+    "label": "318i touring (Benzin, 143 PS)",
+    "fuel": "benzin",
+    "hp": 143
+  },
+  {
+    "label": "320i touring (Benzin, 150 PS)",
+    "fuel": "benzin",
+    "hp": 150
+  },
+  {
+    "label": "320i touring (Benzin, 170 PS)",
+    "fuel": "benzin",
+    "hp": 170
+  },
+  {
+    "label": "325i touring (Benzin, 192 PS)",
+    "fuel": "benzin",
+    "hp": 192
+  },
+  {
+    "label": "325xi touring (Benzin, 192 PS)",
+    "fuel": "benzin",
+    "hp": 192
+  },
+  {
+    "label": "328i touring (Benzin, 193 PS)",
+    "fuel": "benzin",
+    "hp": 193
+  },
+  {
+    "label": "330i touring (Benzin, 231 PS)",
+    "fuel": "benzin",
+    "hp": 231
+  },
+  {
+    "label": "330xi touring (Benzin, 231 PS)",
+    "fuel": "benzin",
+    "hp": 231
+  },
+  {
+    "label": "318d touring (Diesel, 115 PS)",
+    "fuel": "diesel",
+    "hp": 115
+  },
+  {
+    "label": "320d touring (Diesel, 136 PS)",
+    "fuel": "diesel",
+    "hp": 136
+  },
+  {
+    "label": "320d touring (Diesel, 150 PS)",
+    "fuel": "diesel",
+    "hp": 150
+  },
+  {
+    "label": "330d touring (Diesel, 184 PS)",
+    "fuel": "diesel",
+    "hp": 184
+  },
+  {
+    "label": "330xd touring (Diesel, 184 PS)",
+    "fuel": "diesel",
+    "hp": 184
+  },
+  {
+    "label": "330d touring (Diesel, 204 PS)",
+    "fuel": "diesel",
+    "hp": 204
+  },
+  {
+    "label": "330xd touring (Diesel, 204 PS)",
+    "fuel": "diesel",
+    "hp": 204
+  }
+]

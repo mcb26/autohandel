@@ -1,0 +1,22 @@
+[
+  {
+    "label": "TT Coupe 45 TFSI S tronic (Benzin, 245 PS) TTS Coupe TFSI quattro S tronic (Benzin, 306 PS) TT RS Coupe S tronic (Benzin, 400 PS)",
+    "fuel": "benzin",
+    "hp": 400
+  },
+  {
+    "label": "TT Coupe 45 TFSI S tronic (Benzin, 245 PS)",
+    "fuel": "benzin",
+    "hp": 245
+  },
+  {
+    "label": "TTS Coupe TFSI quattro S tronic (Benzin, 306 PS)",
+    "fuel": "benzin",
+    "hp": 306
+  },
+  {
+    "label": "TT RS Coupe S tronic (Benzin, 400 PS)",
+    "fuel": "benzin",
+    "hp": 400
+  }
+]

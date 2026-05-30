@@ -1,0 +1,117 @@
+[
+  {
+    "name": "540C",
+    "description": "540C",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MCLAREN/model/540C"
+  },
+  {
+    "name": "570GT",
+    "description": "570GT",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MCLAREN/model/570GT"
+  },
+  {
+    "name": "570S",
+    "description": "570S",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MCLAREN/model/570S"
+  },
+  {
+    "name": "600LT",
+    "description": "600LT",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MCLAREN/model/600LT"
+  },
+  {
+    "name": "620R",
+    "description": "620R",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MCLAREN/model/620R"
+  },
+  {
+    "name": "650S",
+    "description": "650S",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MCLAREN/model/650S"
+  },
+  {
+    "name": "650S Coupe",
+    "description": "650S Coupé",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MCLAREN/model/650S%20Coupe"
+  },
+  {
+    "name": "650S Spider",
+    "description": "650S Spider",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MCLAREN/model/650S%20Spider"
+  },
+  {
+    "name": "675LT",
+    "description": "675LT",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MCLAREN/model/675LT"
+  },
+  {
+    "name": "675LT Spider",
+    "description": "675LT Spider",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MCLAREN/model/675LT%20Spider"
+  },
+  {
+    "name": "720S",
+    "description": "720S",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MCLAREN/model/720S"
+  },
+  {
+    "name": "750S",
+    "description": "750S",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MCLAREN/model/750S"
+  },
+  {
+    "name": "765",
+    "description": "765",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MCLAREN/model/765"
+  },
+  {
+    "name": "765LT",
+    "description": "765LT",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MCLAREN/model/765LT"
+  },
+  {
+    "name": "Artura",
+    "description": "Artura",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MCLAREN/model/Artura"
+  },
+  {
+    "name": "Elva",
+    "description": "Elva",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MCLAREN/model/Elva"
+  },
+  {
+    "name": "GT",
+    "description": "GT",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MCLAREN/model/GT"
+  },
+  {
+    "name": "GTS",
+    "description": "GTS",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MCLAREN/model/GTS"
+  },
+  {
+    "name": "MP4-12C",
+    "description": "MP4-12C",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MCLAREN/model/MP4-12C"
+  },
+  {
+    "name": "P1",
+    "description": "P1",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MCLAREN/model/P1"
+  },
+  {
+    "name": "Senna GTR",
+    "description": "Senna GTR",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MCLAREN/model/Senna%20GTR"
+  },
+  {
+    "name": "Speedtail",
+    "description": "Speedtail",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MCLAREN/model/Speedtail"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MCLAREN/model/ANDERE"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "H1",
+    "description": "H1",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/HUMMER/model/H1"
+  },
+  {
+    "name": "H2",
+    "description": "H2",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/HUMMER/model/H2"
+  },
+  {
+    "name": "H3",
+    "description": "H3",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/HUMMER/model/H3"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/HUMMER/model/ANDERE"
+  }
+]

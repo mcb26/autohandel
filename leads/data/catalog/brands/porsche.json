@@ -1,0 +1,4092 @@
+{
+  "label": "Porsche",
+  "models": {
+    "356": {
+      "label": "356",
+      "series": {
+        "porsche-356-coupe": {
+          "label": "Porsche 356 Coupe",
+          "engines": [
+            {
+              "label": "1500 Super (70 Hp) (1950 - 1955)",
+              "hp": 70
+            },
+            {
+              "label": "1500 (55 Hp) (1950 - 1955)",
+              "hp": 55
+            },
+            {
+              "label": "1300 (44 Hp) (1950 - 1955)",
+              "hp": 44
+            },
+            {
+              "label": "1100 (40 Hp) (1948 - 1955)",
+              "hp": 40
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "718": {
+      "label": "718",
+      "series": {
+        "porsche-718-spyder-982": {
+          "label": "Porsche 718 Spyder (982)",
+          "engines": [
+            {
+              "label": "RS 4.0 (500 Hp) PDK",
+              "hp": 500,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.0 (420 Hp) PDK",
+              "hp": 420,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.0 (420 Hp)",
+              "hp": 420,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "porsche-718-cayman-982": {
+          "label": "Porsche 718 Cayman (982)",
+          "engines": [
+            {
+              "label": "T 2.0 (300 Hp) PDK",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "T 2.0 (300 Hp) (2018 - 2020)",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "S 2.5 (350 Hp) PDK",
+              "hp": 350,
+              "fuel": "benzin"
+            },
+            {
+              "label": "S 2.5 (350 Hp)",
+              "hp": 350,
+              "fuel": "benzin"
+            },
+            {
+              "label": "GTS 4.0 (400 Hp) PDK",
+              "hp": 400,
+              "fuel": "benzin"
+            },
+            {
+              "label": "GTS 4.0 (400 Hp) (2020 - 2020)",
+              "hp": 400,
+              "fuel": "benzin"
+            },
+            {
+              "label": "GTS 2.5 (365 Hp) PDK (2018 - 2020)",
+              "hp": 365,
+              "fuel": "benzin"
+            },
+            {
+              "label": "GTS 2.5 (365 Hp) (2018 - 2020)",
+              "hp": 365,
+              "fuel": "benzin"
+            },
+            {
+              "label": "GT4 RS 4.0 (493 Hp) PDK",
+              "hp": 493,
+              "fuel": "benzin"
+            },
+            {
+              "label": "GT4 Clubsport 3.8 (425 Hp) PDK",
+              "hp": 425,
+              "fuel": "benzin"
+            },
+            {
+              "label": "GT4 4.0 (420 Hp) PDK",
+              "hp": 420,
+              "fuel": "benzin"
+            },
+            {
+              "label": "GT4 4.0 (420 Hp)",
+              "hp": 420,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (300 Hp) PDK",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (300 Hp) (2018 - 2020)",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "porsche-718-boxster-982": {
+          "label": "Porsche 718 Boxster (982)",
+          "engines": [
+            {
+              "label": "T 2.0 (300 Hp) PDK",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "T 2.0 (300 Hp) (2018 - 2020)",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "S 2.5 (350 Hp) PDK",
+              "hp": 350,
+              "fuel": "benzin"
+            },
+            {
+              "label": "S 2.5 (350 Hp)",
+              "hp": 350,
+              "fuel": "benzin"
+            },
+            {
+              "label": "GTS 4.0 (400 Hp) PDK",
+              "hp": 400,
+              "fuel": "benzin"
+            },
+            {
+              "label": "GTS 4.0 (400 Hp) (2020 - 2020)",
+              "hp": 400,
+              "fuel": "benzin"
+            },
+            {
+              "label": "GTS 2.5 (365 Hp) PDK (2018 - 2020)",
+              "hp": 365,
+              "fuel": "benzin"
+            },
+            {
+              "label": "GTS 2.5 (365 Hp) (2018 - 2020)",
+              "hp": 365,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (300 Hp) PDK",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (300 Hp) (2018 - 2020)",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "901": {
+      "label": "901",
+      "series": {
+        "porsche-901": {
+          "label": "Porsche 901",
+          "engines": [
+            {
+              "label": "Keine exakte Motorliste verfügbar – bitte genaue Motorisierung im Freitext angeben"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "911": {
+      "label": "911",
+      "series": {
+        "porsche-911-992-facelift-2024": {
+          "label": "Porsche 911 (992, facelift 2024)",
+          "engines": [
+            {
+              "label": "Turbo S 3.6 (711 Hp) T-Hybrid PDK",
+              "hp": 711,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "GT3 4.0 (510 Hp) PDK",
+              "hp": 510,
+              "fuel": "benzin"
+            },
+            {
+              "label": "GT3 4.0 (510 Hp)",
+              "hp": 510,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera GTS 3.6 (541 Hp) T-Hybrid PDK",
+              "hp": 541,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Carrera 4 GTS 3.6 (541 Hp) T-Hybrid PDK",
+              "hp": 541,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Carrera S 3.0 (480 Hp) PDK",
+              "hp": 480,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 4S 3.0 (480 Hp) PDK",
+              "hp": 480,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera T 3.0 (394 Hp)",
+              "hp": 394,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 3.0 (394 Hp) PDK",
+              "hp": 394,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "porsche-911-cabriolet-992-facelift-2024": {
+          "label": "Porsche 911 Cabriolet (992, facelift 2024)",
+          "engines": [
+            {
+              "label": "Turbo S 3.6 (711 Hp) T-Hybrid PDK",
+              "hp": 711,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "GT3 S/C 4.0 (510 Hp)",
+              "hp": 510,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera GTS 3.6 (541 Hp) T-Hybrid PDK",
+              "hp": 541,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Carrera 4 GTS 3.6 (541 Hp) T-Hybrid PDK",
+              "hp": 541,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Carrera S 3.0 (480 Hp) PDK",
+              "hp": 480,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 4S 3.0 (480 Hp) PDK",
+              "hp": 480,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera T 3.0 (394 Hp)",
+              "hp": 394,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 3.0 (394 Hp) PDK",
+              "hp": 394,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "porsche-911-targa-992-facelift-2024": {
+          "label": "Porsche 911 Targa (992, facelift 2024)",
+          "engines": [
+            {
+              "label": "4S 3.0 (480 Hp) PDK",
+              "hp": 480,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4 GTS 3.6 (541 Hp) T-Hybrid PDK",
+              "hp": 541,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "porsche-911-dakar-992": {
+          "label": "Porsche 911 Dakar (992)",
+          "engines": [
+            {
+              "label": "3.0 (480 Hp) AWD PDK (2022 - 2024)",
+              "hp": 480,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "porsche-911-targa-992": {
+          "label": "Porsche 911 Targa (992)",
+          "engines": [
+            {
+              "label": "4S 3.0 (450 Hp) PDK (2020 - 2024)",
+              "hp": 450,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4S 3.0 (450 Hp) (2020 - 2024)",
+              "hp": 450,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4 GTS 3.0 (480 Hp) PDK (2021 - 2024)",
+              "hp": 480,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4 GTS 3.0 (480 Hp) (2021 - 2024)",
+              "hp": 480,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4 3.0 (385 Hp) PDK (2020 - 2024)",
+              "hp": 385,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "porsche-911-speedster-991-ii": {
+          "label": "Porsche 911 Speedster (991 II)",
+          "engines": [
+            {
+              "label": "4.0 (510 Hp) (2019 - 2020)",
+              "hp": 510,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "porsche-911-cabriolet-992": {
+          "label": "Porsche 911 Cabriolet (992)",
+          "engines": [
+            {
+              "label": "Turbo S 3.8 (650 Hp) PDK (2020 - 2024)",
+              "hp": 650,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Turbo 3.8 (580 Hp) PDK (2020 - 2024)",
+              "hp": 580,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera GTS 3.0 (480 Hp) PDK (2021 - 2024)",
+              "hp": 480,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera GTS 3.0 (480 Hp) (2021 - 2024)",
+              "hp": 480,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 4 GTS 3.0 (480 Hp) PDK (2021 - 2024)",
+              "hp": 480,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 4 GTS 3.0 (480 Hp) (2021 - 2024)",
+              "hp": 480,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera S 3.0 (450 Hp) PDK (2019 - 2024)",
+              "hp": 450,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 4S 3.0 (450 Hp) PDK (2019 - 2024)",
+              "hp": 450,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 4 3.0 (385 Hp) PDK (2019 - 2024)",
+              "hp": 385,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 3.0 (385 Hp) PDK (2019 - 2024)",
+              "hp": 385,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "porsche-911-992": {
+          "label": "Porsche 911 (992)",
+          "engines": [
+            {
+              "label": "Turbo S 3.8 (650 Hp) PDK (2020 - 2024)",
+              "hp": 650,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Turbo 3.8 (580 Hp) PDK (2020 - 2024)",
+              "hp": 580,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sport Classic 3.7 (550 Hp) (2022 - 2023)",
+              "hp": 550,
+              "fuel": "benzin"
+            },
+            {
+              "label": "S/T 4.0 (525 Hp) (2023 - 2024)",
+              "hp": 525,
+              "fuel": "benzin"
+            },
+            {
+              "label": "GT3 RS 4.0 (525 Hp) PDK (2022 - 2024)",
+              "hp": 525,
+              "fuel": "benzin"
+            },
+            {
+              "label": "GT3 4.0 (510 Hp) PDK (2021 - 2024)",
+              "hp": 510,
+              "fuel": "benzin"
+            },
+            {
+              "label": "GT3 4.0 (510 Hp) (2021 - 2024)",
+              "hp": 510,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera GTS 3.0 (480 Hp) PDK (2021 - 2024)",
+              "hp": 480,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera GTS 3.0 (480 Hp) (2021 - 2024)",
+              "hp": 480,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 4 GTS 3.0 (480 Hp) PDK (2021 - 2024)",
+              "hp": 480,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 4 GTS 3.0 (480 Hp) (2021 - 2024)",
+              "hp": 480,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera S 3.0 (450 Hp) PDK (2018 - 2024)",
+              "hp": 450,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 4S 3.0 (450 Hp) PDK (2018 - 2024)",
+              "hp": 450,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera T 3.0 (385 Hp) PDK (2022 - 2024)",
+              "hp": 385,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera T 3.0 (385 Hp) (2022 - 2024)",
+              "hp": 385,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 4 3.0 (385 Hp) PDK (2019 - 2024)",
+              "hp": 385,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 3.0 (385 Hp) PDK (2019 - 2024)",
+              "hp": 385,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "porsche-911-rsr-991": {
+          "label": "Porsche 911 RSR (991)",
+          "engines": [
+            {
+              "label": "4.0 (510 Hp) Automatic (2017 - 2019)",
+              "hp": 510,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "porsche-911-cabriolet-991-ii": {
+          "label": "Porsche 911 Cabriolet (991 II)",
+          "engines": [
+            {
+              "label": "Turbo S 3.8 (580 Hp) PDK (2015 - 2018)",
+              "hp": 580,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Turbo 3.8 (540 Hp) PDK (2015 - 2018)",
+              "hp": 540,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera GTS 3.0 (450 Hp) PDK (2017 - 2018)",
+              "hp": 450,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera GTS 3.0 (450 Hp) (2017 - 2018)",
+              "hp": 450,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 4 GTS 3.0 (450 Hp) PDK (2017 - 2018)",
+              "hp": 450,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 4 GTS 3.0 (450 Hp) (2017 - 2018)",
+              "hp": 450,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera S 3.0 (420 Hp) PDK (2015 - 2018)",
+              "hp": 420,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera S 3.0 (420 Hp) (2015 - 2018)",
+              "hp": 420,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 3.0 (370 Hp) PDK (2015 - 2018)",
+              "hp": 370,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 3.0 (370 Hp) (2015 - 2018)",
+              "hp": 370,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "porsche-911-targa-991-ii": {
+          "label": "Porsche 911 Targa (991 II)",
+          "engines": [
+            {
+              "label": "4S 3.0 (420 Hp) PDK (2015 - 2018)",
+              "hp": 420,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4S 3.0 (420 Hp) (2015 - 2018)",
+              "hp": 420,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4 GTS 3.0 (450 Hp) PDK (2017 - 2020)",
+              "hp": 450,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4 GTS 3.0 (450 Hp) (2017 - 2020)",
+              "hp": 450,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4 3.0 (370 Hp) PDK (2015 - 2018)",
+              "hp": 370,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4 3.0 (370 Hp) (2015 - 2018)",
+              "hp": 370,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "porsche-911-991-ii": {
+          "label": "Porsche 911 (991 II)",
+          "engines": [
+            {
+              "label": "Turbo S Exclusive 3.8 (607 Hp) PDK (2017 - 2017)",
+              "hp": 607,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Turbo S 3.8 (580 Hp) PDK (2015 - 2018)",
+              "hp": 580,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Turbo 3.8 (540 Hp) PDK (2015 - 2018)",
+              "hp": 540,
+              "fuel": "benzin"
+            },
+            {
+              "label": "GT3 RS 4.0 (520 Hp) PDK (2018 - 2019)",
+              "hp": 520,
+              "fuel": "benzin"
+            },
+            {
+              "label": "GT3 4.0 (500 Hp) PDK (2017 - 2018)",
+              "hp": 500,
+              "fuel": "benzin"
+            },
+            {
+              "label": "GT3 4.0 (500 Hp) (2017 - 2018)",
+              "hp": 500,
+              "fuel": "benzin"
+            },
+            {
+              "label": "GT2 RS 3.8 (700 Hp) PDK (2017 - 2019)",
+              "hp": 700,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera GTS 3.0 (450 Hp) PDK (2017 - 2018)",
+              "hp": 450,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera GTS 3.0 (450 Hp) (2017 - 2018)",
+              "hp": 450,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 4 GTS 3.0 (450 Hp) PDK (2017 - 2018)",
+              "hp": 450,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 4 GTS 3.0 (450 Hp) (2017 - 2018)",
+              "hp": 450,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera S 3.0 (420 Hp) PDK (2015 - 2018)",
+              "hp": 420,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera S 3.0 (420 Hp) (2015 - 2018)",
+              "hp": 420,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 4S 3.0 (420 Hp) PDK (2015 - 2018)",
+              "hp": 420,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 4S 3.0 (420 Hp) (2015 - 2018)",
+              "hp": 420,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera T 3.0 (370 Hp) PDK (2017 - 2018)",
+              "hp": 370,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera T 3.0 (370 Hp) (2017 - 2018)",
+              "hp": 370,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 3.0 (370 Hp) PDK (2015 - 2018)",
+              "hp": 370,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 3.0 (370 Hp) (2015 - 2018)",
+              "hp": 370,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "porsche-911-targa-991": {
+          "label": "Porsche 911 Targa (991)",
+          "engines": [
+            {
+              "label": "4S 3.8 (400 Hp) PDK (2014 - 2015)",
+              "hp": 400,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4S 3.8 (400 Hp) (2014 - 2015)",
+              "hp": 400,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4 GTS 3.8 (430 Hp) PDK (2015 - 2015)",
+              "hp": 430,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4 GTS 3.8 (430 Hp) (2015 - 2015)",
+              "hp": 430,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4 3.4 (350 Hp) PDK (2014 - 2015)",
+              "hp": 350,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4 3.4 (350 Hp) (2014 - 2015)",
+              "hp": 350,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "porsche-911-cabriolet-991": {
+          "label": "Porsche 911 Cabriolet (991)",
+          "engines": [
+            {
+              "label": "Turbo S 3.8 (560 Hp) PDK (2013 - 2016)",
+              "hp": 560,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Turbo 3.8 (520 Hp) PDK (2013 - 2016)",
+              "hp": 520,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera GTS 3.8 (430 Hp) PDK (2014 - 2015)",
+              "hp": 430,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera GTS 3.8 (430 Hp) (2014 - 2015)",
+              "hp": 430,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 4 GTS 3.8 (430 Hp) PDK (2014 - 2015)",
+              "hp": 430,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 4 GTS 3.8 (430 Hp) (2014 - 2015)",
+              "hp": 430,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera S 3.8 (400 Hp) PDK (2011 - 2015)",
+              "hp": 400,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera S 3.8 (400 Hp) (2011 - 2015)",
+              "hp": 400,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 4S 3.8 (400 Hp) PDK S (2012 - 2015)",
+              "hp": 400,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 4S 3.8 (400 Hp) (2012 - 2015)",
+              "hp": 400,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 4 3.4 (350 Hp) PDK (2012 - 2015)",
+              "hp": 350,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 4 3.4 (350 Hp) (2012 - 2015)",
+              "hp": 350,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 3.4 (350 Hp) PDK (2011 - 2015)",
+              "hp": 350,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 3.4 (350 Hp) (2011 - 2015)",
+              "hp": 350,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "porsche-911-991": {
+          "label": "Porsche 911 (991)",
+          "engines": [
+            {
+              "label": "Turbo S 3.8 (560 Hp) PDK (2013 - 2016)",
+              "hp": 560,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Turbo 3.8 (520 Hp) PDK (2013 - 2016)",
+              "hp": 520,
+              "fuel": "benzin"
+            },
+            {
+              "label": "R 4.0 (500 Hp) (2016 - 2016)",
+              "hp": 500,
+              "fuel": "benzin"
+            },
+            {
+              "label": "GT3 RS 4.0 (500 Hp) PDK (2015 - 2017)",
+              "hp": 500,
+              "fuel": "benzin"
+            },
+            {
+              "label": "GT3 3.8 (475 Hp) PDK (2013 - 2017)",
+              "hp": 475,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera GTS 3.8 (430 Hp) PDK (2014 - 2015)",
+              "hp": 430,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera GTS 3.8 (430 Hp) (2014 - 2015)",
+              "hp": 430,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 4 GTS 3.8 (430 Hp) PDK (2014 - 2015)",
+              "hp": 430,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 4 GTS 3.8 (430 Hp) (2014 - 2015)",
+              "hp": 430,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera S 3.8 (400 Hp) PDK (2011 - 2015)",
+              "hp": 400,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera S 3.8 (400 Hp) (2011 - 2015)",
+              "hp": 400,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 4S 3.8 (400 Hp) PDK (2012 - 2015)",
+              "hp": 400,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 4S 3.8 (400 Hp) (2012 - 2015)",
+              "hp": 400,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 4 3.4 (350 Hp) PDK (2012 - 2015)",
+              "hp": 350,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 4 3.4 (350 Hp) (2012 - 2015)",
+              "hp": 350,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 3.4 (350 Hp) PDK (2011 - 2015)",
+              "hp": 350,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 3.4 (350 Hp) (2011 - 2015)",
+              "hp": 350,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "porsche-911-cabriolet-997-facelift-2008": {
+          "label": "Porsche 911 Cabriolet (997, facelift 2008)",
+          "engines": [
+            {
+              "label": "Turbo S 3.8 (530 Hp) PDK (2010 - 2011)",
+              "hp": 530,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Turbo 3.8 (500 Hp) PDK (2009 - 2011)",
+              "hp": 500,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Turbo 3.8 (500 Hp) (2009 - 2011)",
+              "hp": 500,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera GTS 3.8 (408 Hp) PDK (2010 - 2011)",
+              "hp": 408,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera GTS 3.8 (408 Hp) (2010 - 2011)",
+              "hp": 408,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 4 GTS 3.8 (408 Hp) PDK (2010 - 2011)",
+              "hp": 408,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 4 GTS 3.8 (408 Hp) (2010 - 2011)",
+              "hp": 408,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera S 3.8 (385 Hp) PDK (2008 - 2012)",
+              "hp": 385,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera S 3.8 (385 Hp) (2008 - 2012)",
+              "hp": 385,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 4S 3.8 (385 Hp) PDK (2008 - 2012)",
+              "hp": 385,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 4S 3.8 (385 Hp) (2008 - 2012)",
+              "hp": 385,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 4 3.6 (345 Hp) PDK (2008 - 2011)",
+              "hp": 345,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 4 3.6 (345 Hp) (2008 - 2011)",
+              "hp": 345,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 3.6 (345 Hp) PDK (2008 - 2012)",
+              "hp": 345,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 3.6 (345 Hp) (2008 - 2012)",
+              "hp": 345,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "porsche-911-targa-997-facelift-2008": {
+          "label": "Porsche 911 Targa (997, facelift 2008)",
+          "engines": [
+            {
+              "label": "Targa 4S 3.8 (385 Hp) PDK (2008 - 2013)",
+              "hp": 385,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Targa 4S 3.8 (385 Hp) (2008 - 2013)",
+              "hp": 385,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Targa 4 3.6 (345 Hp) PDK (2008 - 2013)",
+              "hp": 345,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Targa 4 3.6 (345 Hp) (2008 - 2013)",
+              "hp": 345,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "porsche-911-997-facelift-2008": {
+          "label": "Porsche 911 (997, facelift 2008)",
+          "engines": [
+            {
+              "label": "Turbo S 3.8 (530 Hp) PDK (2010 - 2011)",
+              "hp": 530,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Turbo 3.8 (500 Hp) PDK (2009 - 2011)",
+              "hp": 500,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Turbo 3.8 (500 Hp) (2009 - 2011)",
+              "hp": 500,
+              "fuel": "benzin"
+            },
+            {
+              "label": "GT3 RS 3.8 (450 Hp) (2009 - 2011)",
+              "hp": 450,
+              "fuel": "benzin"
+            },
+            {
+              "label": "GT3 3.8 (435 Hp) (2009 - 2011)",
+              "hp": 435,
+              "fuel": "benzin"
+            },
+            {
+              "label": "GT2 RS 3.6 (620 Hp) (2010 - 2012)",
+              "hp": 620,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera GTS 3.8 (408 Hp) PDK (2010 - 2011)",
+              "hp": 408,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera GTS 3.8 (408 Hp) (2010 - 2011)",
+              "hp": 408,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 4 GTS 3.8 (408 Hp) PDK (2010 - 2011)",
+              "hp": 408,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 4 GTS 3.8 (408 Hp) (2010 - 2011)",
+              "hp": 408,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera S 3.8 (385 Hp) PDK (2008 - 2011)",
+              "hp": 385,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera S 3.8 (385 Hp) (2008 - 2011)",
+              "hp": 385,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 4S 3.8 (385 Hp) PDK (2008 - 2011)",
+              "hp": 385,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 4S 3.8 (385 Hp) (2008 - 2011)",
+              "hp": 385,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 4 3.6 (345 Hp) PDK (2008 - 2011)",
+              "hp": 345,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 4 3.6 (345 Hp) (2008 - 2011)",
+              "hp": 345,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 3.6 (345 Hp) PDK (2008 - 2012)",
+              "hp": 345,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 3.6 (345 Hp) (2008 - 2012)",
+              "hp": 345,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "porsche-911-targa-997": {
+          "label": "Porsche 911 Targa (997)",
+          "engines": [
+            {
+              "label": "Targa 4S 3.8 (355 Hp) Tiptronic S (2006 - 2008)",
+              "hp": 355,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Targa 4S 3.8 (355 Hp) (2006 - 2008)",
+              "hp": 355,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Targa 4 3.6 (325 Hp) Tiptronic S (2006 - 2008)",
+              "hp": 325,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Targa 4 3.6 (325 Hp) (2006 - 2008)",
+              "hp": 325,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "porsche-911-cabriolet-997": {
+          "label": "Porsche 911 Cabriolet (997)",
+          "engines": [
+            {
+              "label": "Turbo 3.6 (480 Hp) Tiptronic S (2007 - 2008)",
+              "hp": 480,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Turbo 3.6 (480 Hp) (2007 - 2008)",
+              "hp": 480,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera S 3.8 (355 Hp) Tiptronic S (2006 - 2008)",
+              "hp": 355,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera S 3.8 (355 Hp) (2006 - 2008)",
+              "hp": 355,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 4S 3.8 (355 Hp) Tiptronic S (2005 - 2008)",
+              "hp": 355,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 4S 3.8 (355 Hp) (2005 - 2008)",
+              "hp": 355,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 4 3.6 (325 Hp) AWD Tiptronic S (2005 - 2008)",
+              "hp": 325,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 4 3.6 (325 Hp) (2005 - 2008)",
+              "hp": 325,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 3.6 (325 Hp) Tiptronic S (2006 - 2008)",
+              "hp": 325,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 3.6 (325 Hp) (2006 - 2008)",
+              "hp": 325,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "porsche-911-997": {
+          "label": "Porsche 911 (997)",
+          "engines": [
+            {
+              "label": "Turbo 3.6 (480 Hp) Tiptronic S (2006 - 2009)",
+              "hp": 480,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Turbo 3.6 (480 Hp) (2006 - 2009)",
+              "hp": 480,
+              "fuel": "benzin"
+            },
+            {
+              "label": "GT3 RS 3.6 (415 Hp) (2006 - 2009)",
+              "hp": 415,
+              "fuel": "benzin"
+            },
+            {
+              "label": "GT3 3.6 (415 Hp) (2006 - 2009)",
+              "hp": 415,
+              "fuel": "benzin"
+            },
+            {
+              "label": "GT2 3.6 (530 Hp) (2007 - 2009)",
+              "hp": 530,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera S 3.8 (355 Hp) Tiptronic S (2004 - 2008)",
+              "hp": 355,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera S 3.8 (355 Hp) (2004 - 2008)",
+              "hp": 355,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 4S 3.8 (355 Hp) Tiptronic S (2005 - 2008)",
+              "hp": 355,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 4S 3.8 (355 Hp) (2005 - 2008)",
+              "hp": 355,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 4 3.6 (325 Hp) Tiptronic S (2005 - 2008)",
+              "hp": 325,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 4 3.6 (325 Hp) (2005 - 2008)",
+              "hp": 325,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 3.6 (325 Hp) Tiptronic S (2004 - 2008)",
+              "hp": 325,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 3.6 (325 Hp) (2004 - 2008)",
+              "hp": 325,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "porsche-911-cabriolet-996-facelift-2001": {
+          "label": "Porsche 911 Cabriolet (996, facelift 2001)",
+          "engines": [
+            {
+              "label": "Turbo 3.6 (420 Hp) Tiptronic S (2000 - 2005)",
+              "hp": 420,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Turbo 3.6 (420 Hp) (2000 - 2005)",
+              "hp": 420,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 4S 3.6 (320 Hp) Tiptronic S (2001 - 2004)",
+              "hp": 320,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 4S 3.6 (320 Hp) (2001 - 2004)",
+              "hp": 320,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 4 3.6 (320 Hp) Tiptronic S (2001 - 2004)",
+              "hp": 320,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 4 3.6 (320 Hp) (2001 - 2004)",
+              "hp": 320,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 3.6 (320 Hp) Tiptronic S (2001 - 2004)",
+              "hp": 320,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 3.6 (320 Hp) (2001 - 2004)",
+              "hp": 320,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "porsche-911-targa-996-facelift-2001": {
+          "label": "Porsche 911 Targa (996, facelift 2001)",
+          "engines": [
+            {
+              "label": "3.6 (320 Hp) Tiptronic S (2002 - 2005)",
+              "hp": 320,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6 (320 Hp) (2002 - 2005)",
+              "hp": 320,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "porsche-911-996-facelift-2001": {
+          "label": "Porsche 911 (996, facelift 2001)",
+          "engines": [
+            {
+              "label": "Turbo 3.6 (420 Hp) Tiptronic S (2000 - 2005)",
+              "hp": 420,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Turbo 3.6 (420 Hp) (2000 - 2005)",
+              "hp": 420,
+              "fuel": "benzin"
+            },
+            {
+              "label": "GT3 3.6 (380 Hp) (2003 - 2006)",
+              "hp": 380,
+              "fuel": "benzin"
+            },
+            {
+              "label": "GT2 3.6 (483 Hp) (2001 - 2006)",
+              "hp": 483,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 4S 3.6 (320 Hp) Tiptronic S (2001 - 2004)",
+              "hp": 320,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 4S 3.6 (320 Hp) (2001 - 2004)",
+              "hp": 320,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 4 3.6 (320 Hp) Tiptronic S (2001 - 2004)",
+              "hp": 320,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 4 3.6 (320 Hp) (2001 - 2004)",
+              "hp": 320,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 3.6 (320 Hp) Tiptronic S (2001 - 2004)",
+              "hp": 320,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 3.6 (320 Hp) (2001 - 2004)",
+              "hp": 320,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "porsche-911-gt1-strassenversion": {
+          "label": "Porsche 911 GT1 Strassenversion",
+          "engines": [
+            {
+              "label": "Keine exakte Motorliste verfügbar – bitte genaue Motorisierung im Freitext angeben"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "porsche-911-cabriolet-996": {
+          "label": "Porsche 911 Cabriolet (996)",
+          "engines": [
+            {
+              "label": "Carrera 4 3.4 (300 Hp) Tiptronic S (1998 - 2001)",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 4 3.4 (300 Hp) (1998 - 2001)",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 3.4 (300 Hp) Tiptronic S (1998 - 2001)",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 3.4 (300 Hp) (1998 - 2001)",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "porsche-911-996": {
+          "label": "Porsche 911 (996)",
+          "engines": [
+            {
+              "label": "GT3 3.6 (360 Hp) (1999 - 2001)",
+              "hp": 360,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 4 3.4 (300 Hp) Tiptronic S (1998 - 2001)",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 4 3.4 (300 Hp) (1998 - 2001)",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 3.4 (300 Hp) Tiptronic S (1997 - 2001)",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 3.4 (300 Hp) (1997 - 2001)",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "porsche-911-targa-993": {
+          "label": "Porsche 911 Targa (993)",
+          "engines": [
+            {
+              "label": "3.6 (285 Hp) Tiptronic (1996 - 1997)",
+              "hp": 285,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6 (285 Hp) (1996 - 1997)",
+              "hp": 285,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "porsche-911-993": {
+          "label": "Porsche 911 (993)",
+          "engines": [
+            {
+              "label": "Turbo 3.6 (408 Hp) (1995 - 1998)",
+              "hp": 408,
+              "fuel": "benzin"
+            },
+            {
+              "label": "GT2 3.6 (430 Hp) (1995 - 1997)",
+              "hp": 430,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera RS 3.8 (300 Hp) (1995 - 1997)",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 4S 3.6 (285 Hp) (1995 - 1997)",
+              "hp": 285,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 4 3.6 (285 Hp) (1995 - 1997)",
+              "hp": 285,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 3.6 (285 Hp) Tiptronic (1995 - 1997)",
+              "hp": 285,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 3.6 (285 Hp) (1995 - 1997)",
+              "hp": 285,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 4 3.6 (272 Hp) (1995 - 1997)",
+              "hp": 272,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 3.6 (272 Hp) Tritronic (1994 - 1997)",
+              "hp": 272,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 3.6 (272 Hp) (1994 - 1997)",
+              "hp": 272,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "porsche-911-cabriolet-993": {
+          "label": "Porsche 911 Cabriolet (993)",
+          "engines": [
+            {
+              "label": "Turbo 3.6 (365 Hp) (1995 - 1995)",
+              "hp": 365,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 4 3.6 (285 Hp) (1995 - 1997)",
+              "hp": 285,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 3.6 (285 Hp) Tiptronic (1995 - 1997)",
+              "hp": 285,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 3.6 (285 Hp) (1995 - 1997)",
+              "hp": 285,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 4 3.6 (272 Hp) (1994 - 1997)",
+              "hp": 272,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 3.6 (272 Hp) Tiptronic (1994 - 1997)",
+              "hp": 272,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 3.6 (272 Hp) (1994 - 1997)",
+              "hp": 272,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "porsche-911-cabriolet-964": {
+          "label": "Porsche 911 Cabriolet (964)",
+          "engines": [
+            {
+              "label": "Carrera 4 3.6 (250 Hp) (1989 - 1994)",
+              "hp": 250,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 3.6 (250 Hp) (1989 - 1993)",
+              "hp": 250,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "porsche-911-targa-964": {
+          "label": "Porsche 911 Targa (964)",
+          "engines": [
+            {
+              "label": "Carrera 4 3.6 (250 Hp) (1989 - 1993)",
+              "hp": 250,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 2 3.6 (250 Hp) Tiptronic (1989 - 1993)",
+              "hp": 250,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 2 3.6 (250 Hp) (1989 - 1993)",
+              "hp": 250,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "porsche-911-964": {
+          "label": "Porsche 911 (964)",
+          "engines": [
+            {
+              "label": "Turbo S 3.6 (385 Hp) (1993 - 1993)",
+              "hp": 385,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Turbo S 3.3 (381 Hp) (1992 - 1993)",
+              "hp": 381,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Turbo 3.6 (360 Hp) (1993 - 1993)",
+              "hp": 360,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Turbo 3.3 (320 Hp) (1990 - 1993)",
+              "hp": 320,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera RS 3.6 (260 Hp) (1991 - 1993)",
+              "hp": 260,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 4 3.6 (250 Hp) (1989 - 1993)",
+              "hp": 250,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 2 3.6 (250 Hp) Tiptronic (1989 - 1993)",
+              "hp": 250,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Carrera 2 3.6 (250 Hp) (1989 - 1993)",
+              "hp": 250,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "porsche-911-speedster": {
+          "label": "Porsche 911 Speedster",
+          "engines": [
+            {
+              "label": "3.6 (250 Hp) Tiptronic (1989 - 1989)",
+              "hp": 250,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6 (250 Hp) (1989 - 1989)",
+              "hp": 250,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "porsche-911-cabriolet-type-930": {
+          "label": "Porsche 911 Cabriolet (Type 930)",
+          "engines": [
+            {
+              "label": "3.3 Turbo (300 Hp) (1987 - 1989)",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "porsche-911-targa-type-930": {
+          "label": "Porsche 911 Targa (Type 930)",
+          "engines": [
+            {
+              "label": "3.3 Turbo (300 Hp) (1987 - 1989)",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "porsche-911-cabriolet-g": {
+          "label": "Porsche 911 Cabriolet (G)",
+          "engines": [
+            {
+              "label": "3.2 Carrera (231 Hp) (1986 - 1989)",
+              "hp": 231,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.2 Carrera CAT (218 Hp) (1986 - 1989)",
+              "hp": 218,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.2 Carrera CAT (207 Hp) (1984 - 1989)",
+              "hp": 207,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 SC (204 Hp) (1982 - 1983)",
+              "hp": 204,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "porsche-911-coupe-type-930": {
+          "label": "Porsche 911 Coupe (Type 930)",
+          "engines": [
+            {
+              "label": "3.3 Turbo S (330 Hp) (1984 - 1989)",
+              "hp": 330,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.3 Turbo (301 Hp) (1978 - 1987)",
+              "hp": 301,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.3 Turbo (300 Hp) Manual 5-speed (1987 - 1989)",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.3 Turbo (282 Hp) (1984 - 1989)",
+              "hp": 282,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 Turbo (260 Hp) (1975 - 1977)",
+              "hp": 260,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 Turbo Carrera (245 Hp) (1975 - 1977)",
+              "hp": 245,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "porsche-911-targa-g": {
+          "label": "Porsche 911 Targa (G)",
+          "engines": [
+            {
+              "label": "3.0 SC (188 Hp) (1979 - 1980)",
+              "hp": 188,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 SC (180 Hp) (1977 - 1979)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 Carrera (200 Hp) (1977 - 1979)",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.7 S (175 Hp) (1974 - 1976)",
+              "hp": 175,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.7 (165 Hp) (1975 - 1977)",
+              "hp": 165,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.7 (150 Hp) (1973 - 1975)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "porsche-911-coupe-g": {
+          "label": "Porsche 911 Coupe (G)",
+          "engines": [
+            {
+              "label": "3.2 Carrera (231 Hp) (1984 - 1989)",
+              "hp": 231,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.2 Carrera CAT (217 Hp) (1986 - 1989)",
+              "hp": 217,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.2 Carrera CAT (207 Hp) (1984 - 1987)",
+              "hp": 207,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 SC (204 Hp) (1980 - 1983)",
+              "hp": 204,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 SC (188 Hp) (1979 - 1980)",
+              "hp": 188,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 SC (180 Hp) (1977 - 1979)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 Carrera (200 Hp) (1975 - 1977)",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.7 S (175 Hp) (1974 - 1975)",
+              "hp": 175,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.7 Carrera (210 Hp) (1974 - 1977)",
+              "hp": 210,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.7 (165 Hp) (1975 - 1977)",
+              "hp": 165,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.7 (150 Hp) (1973 - 1975)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "porsche-911-targa-f": {
+          "label": "Porsche 911 Targa (F)",
+          "engines": [
+            {
+              "label": "2.7 Carrera (210 Hp) (1972 - 1973)",
+              "hp": 210,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.3 T (130 Hp) (1972 - 1973)",
+              "hp": 130,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.3 E (165 Hp) (1971 - 1973)",
+              "hp": 165,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 T (125 Hp) (1970 - 1972)",
+              "hp": 125,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 T (110 Hp) (1967 - 1972)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 S (170 Hp) (1967 - 1972)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 S (160 Hp) (1967 - 1968)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 L (130 Hp) (1967 - 1968)",
+              "hp": 130,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 E (140 Hp) (1968 - 1972)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "porsche-911-coupe-f": {
+          "label": "Porsche 911 Coupe (F)",
+          "engines": [
+            {
+              "label": "Carrera RS 2.7 (210 Hp) (1972 - 1973)",
+              "hp": 210,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.3 T (140 Hp) (1972 - 1973)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.3 T (130 Hp) (1972 - 1973)",
+              "hp": 130,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.3 S (190 Hp) Sportomatic (1972 - 1973)",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.3 S (190 Hp) (1972 - 1973)",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.3 E (165 Hp) Sportomatic (1972 - 1973)",
+              "hp": 165,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.3 E (165 Hp) (1972 - 1973)",
+              "hp": 165,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 T (125 Hp) (1970 - 1972)",
+              "hp": 125,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 S (180 Hp) (1969 - 1972)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 E (155 Hp) (1969 - 1972)",
+              "hp": 155,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 T (110 Hp) (1968 - 1969)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 S (170 Hp) (1969 - 1969)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 S (160 Hp) (1967 - 1969)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 L (130 Hp) (1965 - 1968)",
+              "hp": 130,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 E (140 Hp) (1968 - 1969)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (130 Hp) (1964 - 1967)",
+              "hp": 130,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "912": {
+      "label": "912",
+      "series": {
+        "porsche-912e": {
+          "label": "Porsche 912E",
+          "engines": [
+            {
+              "label": "2.0 (86 Hp) (1976 - 1976)",
+              "hp": 86,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "porsche-912": {
+          "label": "Porsche 912",
+          "engines": [
+            {
+              "label": "1.6 (90 Hp) (1965 - 1969)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "914": {
+      "label": "914",
+      "series": {
+        "porsche-914": {
+          "label": "Porsche 914",
+          "engines": [
+            {
+              "label": "2.0 (85 Hp) (1972 - 1976)",
+              "hp": 85,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (110 Hp) (1969 - 1972)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 (74 Hp) (1974 - 1976)",
+              "hp": 74,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.7 (86 Hp) (1969 - 1972)",
+              "hp": 86,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "917": {
+      "label": "917",
+      "series": {
+        "porsche-917": {
+          "label": "Porsche 917",
+          "engines": [
+            {
+              "label": "4.5 V12 (520 Hp) (1969 - 1970)",
+              "hp": 520,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "918": {
+      "label": "918",
+      "series": {
+        "porsche-918-spyder": {
+          "label": "Porsche 918 Spyder",
+          "engines": [
+            {
+              "label": "4.6 V8 (887 Hp) Hybrid PDK (2013 - 2015)",
+              "hp": 887,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "924": {
+      "label": "924",
+      "series": {
+        "porsche-924": {
+          "label": "Porsche 924",
+          "engines": [
+            {
+              "label": "Le Mans 2.0 (125 Hp) (1980 - 1980)",
+              "hp": 125,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 S (160 Hp) (1987 - 1988)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 S (150 Hp) (1980 - 1987)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Turbo (177 Hp) (1980 - 1984)",
+              "hp": 177,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Turbo (170 Hp) (1978 - 1980)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Turbo (156 Hp) (1980 - 1982)",
+              "hp": 156,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Carrera GT (209 Hp) (1980 - 1981)",
+              "hp": 209,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (125 Hp) (1976 - 1985)",
+              "hp": 125,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (115 Hp) Automatic (1976 - 1982)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (115 Hp) (1976 - 1982)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "928": {
+      "label": "928",
+      "series": {
+        "porsche-928": {
+          "label": "Porsche 928",
+          "engines": [
+            {
+              "label": "5.4 GTS V8 (350 Hp) Automatic (1991 - 1995)",
+              "hp": 350,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.4 GTS V8 (350 Hp) (1991 - 1995)",
+              "hp": 350,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.0 S4 CAT V8 (320 Hp) Automatic (1986 - 1991)",
+              "hp": 320,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.0 S4 (320 Hp) (1986 - 1991)",
+              "hp": 320,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.0 S V8 (288 Hp) Automatic (1985 - 1994)",
+              "hp": 288,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.0 S V8 (288 Hp) (1985 - 1994)",
+              "hp": 288,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.0 S CAT V8 (288 Hp) Automatic (1985 - 1994)",
+              "hp": 288,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.0 GT V8 (330 Hp) (1989 - 1991)",
+              "hp": 330,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.7 S V8 (310 Hp) Automatic (1985 - 1994)",
+              "hp": 310,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.7 S V8 (310 Hp) (1983 - 1986)",
+              "hp": 310,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.7 S (300 Hp) (1979 - 1983)",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.7 S V8 (234 Hp) (1983 - 1984)",
+              "hp": 234,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.5 V8 (240 Hp) Automatic (1977 - 1982)",
+              "hp": 240,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.5 V8 (240 Hp) (1977 - 1982)",
+              "hp": 240,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.5 V8 (219 Hp) (1977 - 1995)",
+              "hp": 219,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "944": {
+      "label": "944",
+      "series": {
+        "porsche-944": {
+          "label": "Porsche 944",
+          "engines": [
+            {
+              "label": "3.0 S2 CAT (211 Hp) (1988 - 1991)",
+              "hp": 211,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.7 (165 Hp) (1988 - 1989)",
+              "hp": 165,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 Turbo S CAT (250 Hp) (1989 - 1991)",
+              "hp": 250,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 Turbo (220 Hp) (1985 - 1988)",
+              "hp": 220,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 S (190 Hp) (1987 - 1989)",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 (163 Hp) Automatic (1982 - 1987)",
+              "hp": 163,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 (163 Hp) (1982 - 1987)",
+              "hp": 163,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 (160 Hp) (1987 - 1988)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 (150 Hp) (1983 - 1987)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "porsche-944-cabrio": {
+          "label": "Porsche 944 Cabrio",
+          "engines": [
+            {
+              "label": "3.0 S2 CAT (211 Hp) (1989 - 1991)",
+              "hp": 211,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "959": {
+      "label": "959",
+      "series": {
+        "porsche-959": {
+          "label": "Porsche 959",
+          "engines": [
+            {
+              "label": "2.8 (450 Hp) AWD (1987 - 1988)",
+              "hp": 450,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "968": {
+      "label": "968",
+      "series": {
+        "porsche-968": {
+          "label": "Porsche 968",
+          "engines": [
+            {
+              "label": "3.0 8V Turbo S (305 Hp) Tiptronic (1993 - 1995)",
+              "hp": 305,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 8V Turbo S (305 Hp) (1993 - 1995)",
+              "hp": 305,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 16V (240 Hp) Tiptronic (1991 - 1995)",
+              "hp": 240,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 16V (240 Hp) (1991 - 1995)",
+              "hp": 240,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "porsche-968-cabrio": {
+          "label": "Porsche 968 Cabrio",
+          "engines": [
+            {
+              "label": "3.0 16V (240 Hp) Tiptronic (1991 - 1995)",
+              "hp": 240,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 16V (240 Hp) (1991 - 1995)",
+              "hp": 240,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "boxster": {
+      "label": "Boxster",
+      "series": {
+        "porsche-boxster-981": {
+          "label": "Porsche Boxster (981)",
+          "engines": [
+            {
+              "label": "Spyder 3.8 (375 Hp) (2015 - 2016)",
+              "hp": 375,
+              "fuel": "benzin"
+            },
+            {
+              "label": "S 3.4 (315 Hp) PDK (2012 - 2016)",
+              "hp": 315,
+              "fuel": "benzin"
+            },
+            {
+              "label": "S 3.4 (315 Hp) (2012 - 2016)",
+              "hp": 315,
+              "fuel": "benzin"
+            },
+            {
+              "label": "GTS 3.4 (330 Hp) PDK (2015 - 2016)",
+              "hp": 330,
+              "fuel": "benzin"
+            },
+            {
+              "label": "GTS 3.4 (330 Hp) (2015 - 2016)",
+              "hp": 330,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.7 (265 Hp) PDK (2012 - 2016)",
+              "hp": 265,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.7 (265 Hp) (2012 - 2016)",
+              "hp": 265,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "porsche-boxster-987-facelift-2009": {
+          "label": "Porsche Boxster (987, facelift 2009)",
+          "engines": [
+            {
+              "label": "S 3.4 (310 Hp) PDK (2009 - 2012)",
+              "hp": 310,
+              "fuel": "benzin"
+            },
+            {
+              "label": "S 3.4 (310 Hp) (2009 - 2012)",
+              "hp": 310,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.9 (255 Hp) PDK (2009 - 2012)",
+              "hp": 255,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.9 (255 Hp) (2009 - 2012)",
+              "hp": 255,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "porsche-boxster-987": {
+          "label": "Porsche Boxster (987)",
+          "engines": [
+            {
+              "label": "S 3.4 (295 Hp) Tiptronic (2006 - 2009)",
+              "hp": 295,
+              "fuel": "benzin"
+            },
+            {
+              "label": "S 3.4 (295 Hp) (2006 - 2009)",
+              "hp": 295,
+              "fuel": "benzin"
+            },
+            {
+              "label": "S 3.2 (280 Hp) Tiptronic (2004 - 2006)",
+              "hp": 280,
+              "fuel": "benzin"
+            },
+            {
+              "label": "S 3.2 (280 Hp) (2004 - 2006)",
+              "hp": 280,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.7 (240 Hp) Tiptronic (2004 - 2006)",
+              "hp": 240,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.7 (240 Hp) (2004 - 2006)",
+              "hp": 240,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "porsche-boxster-986": {
+          "label": "Porsche Boxster (986)",
+          "engines": [
+            {
+              "label": "S 3.2 (260 Hp) Tiptronic S (2002 - 2004)",
+              "hp": 260,
+              "fuel": "benzin"
+            },
+            {
+              "label": "S 3.2 (260 Hp) (2002 - 2004)",
+              "hp": 260,
+              "fuel": "benzin"
+            },
+            {
+              "label": "S 3.2 (252 Hp) Tiptronic S (1999 - 2002)",
+              "hp": 252,
+              "fuel": "benzin"
+            },
+            {
+              "label": "S 3.2 (252 Hp) (1999 - 2002)",
+              "hp": 252,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.7 (228 Hp) Tiptronic S (2002 - 2004)",
+              "hp": 228,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.7 (228 Hp) (2002 - 2004)",
+              "hp": 228,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.7 (220 Hp) Tiptronic S (1999 - 2002)",
+              "hp": 220,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.7 (220 Hp) (1999 - 2002)",
+              "hp": 220,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 (204 Hp) Tiptronic S (1996 - 1999)",
+              "hp": 204,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 (204 Hp) (1996 - 1999)",
+              "hp": 204,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "carrera-gt": {
+      "label": "Carrera GT",
+      "series": {
+        "porsche-carrera-gt": {
+          "label": "Porsche Carrera GT",
+          "engines": [
+            {
+              "label": "5.7 i V10 40V (612 Hp) (2003 - 2007)",
+              "hp": 612,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "cayenne": {
+      "label": "Cayenne",
+      "series": {
+        "porsche-cayenne-iv-coupe-electric": {
+          "label": "Porsche Cayenne IV Coupe Electric",
+          "engines": [
+            {
+              "label": "Turbo 113 kWh (1156 Hp)",
+              "hp": 1156
+            },
+            {
+              "label": "S 113 kWh (666 Hp)",
+              "hp": 666
+            },
+            {
+              "label": "113 kWh (442 Hp)",
+              "hp": 442
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "porsche-cayenne-iv-electric": {
+          "label": "Porsche Cayenne IV Electric",
+          "engines": [
+            {
+              "label": "Turbo 113 kWh (1156 Hp)",
+              "hp": 1156
+            },
+            {
+              "label": "S 113 kWh (666 Hp)",
+              "hp": 666
+            },
+            {
+              "label": "113 kWh (442 Hp)",
+              "hp": 442
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "porsche-cayenne-iii-facelift-2023-coupe": {
+          "label": "Porsche Cayenne III (facelift 2023) Coupe",
+          "engines": [
+            {
+              "label": "Turbo GT 4.0 V8 (650 Hp) Tiptronic S",
+              "hp": 650,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Turbo 4.0 V8 (739 Hp) E-Hybrid Tiptronic S",
+              "hp": 739,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "S 4.0 V8 (474 Hp) Tiptronic S",
+              "hp": 474,
+              "fuel": "benzin"
+            },
+            {
+              "label": "S 3.0 V6 (519 Hp) E-Hybrid Tiptronic S",
+              "hp": 519,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "GTS 4.0 V8 (500 Hp) Tiptronic S",
+              "hp": 500,
+              "fuel": "benzin"
+            },
+            {
+              "label": "GT-Paket Turbo 4.0 V8 (739 Hp) E-Hybrid Tiptronic S",
+              "hp": 739,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "3.0 V6 (353 Hp) Tiptronic S",
+              "hp": 353,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 (470 Hp) E-Hybrid Tiptronic S",
+              "hp": 470,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "porsche-cayenne-iii-facelift-2023": {
+          "label": "Porsche Cayenne III (facelift 2023)",
+          "engines": [
+            {
+              "label": "Turbo 4.0 V8 (739 Hp) E-Hybrid Tiptronic S",
+              "hp": 739,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "S 4.0 V8 (474 Hp) Tiptronic S",
+              "hp": 474,
+              "fuel": "benzin"
+            },
+            {
+              "label": "S 3.0 V6 (519 Hp) E-Hybrid Tiptronic S",
+              "hp": 519,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "GTS 4.0 V8 (500 Hp) Tiptronic S",
+              "hp": 500,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 (353 Hp) Tiptronic S",
+              "hp": 353,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 (470 Hp) E-Hybrid Tiptronic S",
+              "hp": 470,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "porsche-cayenne-iii-coupe": {
+          "label": "Porsche Cayenne III Coupe",
+          "engines": [
+            {
+              "label": "Turbo GT 4.0 V8 (640 Hp) Tiptronic S (2021 - 2023)",
+              "hp": 640,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Turbo S 4.0 V8 (680 Hp) E-Hybrid Tiptronic S (2020 - 2023)",
+              "hp": 680,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Turbo 4.0 V8 (550 Hp) Tiptronic S (2019 - 2023)",
+              "hp": 550,
+              "fuel": "benzin"
+            },
+            {
+              "label": "S 2.9 V6 (440 Hp) Tiptronic S (2019 - 2023)",
+              "hp": 440,
+              "fuel": "benzin"
+            },
+            {
+              "label": "GTS 4.0 V8 (460 Hp) Tiptronic S (2020 - 2023)",
+              "hp": 460,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 (462 Hp) E-Hybrid Tiptronic S (2020 - 2023)",
+              "hp": 462,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "3.0 V6 (340 Hp) Tiptronic S (2019 - 2023)",
+              "hp": 340,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "porsche-cayenne-iii": {
+          "label": "Porsche Cayenne III",
+          "engines": [
+            {
+              "label": "Turbo S 4.0 V8 (680 Hp) E-Hybrid Tiptronic S (2020 - 2023)",
+              "hp": 680,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Turbo 4.0 V8 (550 Hp) Tiptronic S (2017 - 2023)",
+              "hp": 550,
+              "fuel": "benzin"
+            },
+            {
+              "label": "S 2.9 V6 (440 Hp) Tiptronic S (2017 - 2023)",
+              "hp": 440,
+              "fuel": "benzin"
+            },
+            {
+              "label": "GTS 4.0 V8 (460 Hp) Tiptronic S (2020 - 2023)",
+              "hp": 460,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 (462 Hp) E-Hybrid Tiptronic S (2020 - 2023)",
+              "hp": 462,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "3.0 V6 (340 Hp) Tiptronic S (2017 - 2023)",
+              "hp": 340,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "porsche-cayenne-ii-facelift-2014": {
+          "label": "Porsche Cayenne II (facelift 2014)",
+          "engines": [
+            {
+              "label": "Turbo S 4.8 V8 (570 Hp) Tiptronic (2015 - 2017)",
+              "hp": 570,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Turbo 4.8 V8 (520 Hp) Tiptronic (2014 - 2017)",
+              "hp": 520,
+              "fuel": "benzin"
+            },
+            {
+              "label": "S 4.2 diesel V8 (385 Hp) Tiptronic (2014 - 2017)",
+              "hp": 385,
+              "fuel": "diesel"
+            },
+            {
+              "label": "S 3.6 V6 (420 Hp) Tiptronic (2014 - 2017)",
+              "hp": 420,
+              "fuel": "benzin"
+            },
+            {
+              "label": "S 3.0 V6 (416 Hp) E-Hybrid Tiptronic S (2014 - 2017)",
+              "hp": 416,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "GTS 3.6 V6 (440 Hp) Tiptronic (2014 - 2017)",
+              "hp": 440,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6 V6 (300 Hp) Tiptronic (2014 - 2017)",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 diesel V6 (262 Hp) Tiptronic (2014 - 2017)",
+              "hp": 262,
+              "fuel": "diesel"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "porsche-cayenne-ii": {
+          "label": "Porsche Cayenne II",
+          "engines": [
+            {
+              "label": "Turbo S 4.8 V8 (550 Hp) Tiptronic (2013 - 2014)",
+              "hp": 550,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Turbo 4.8 V8 (500 Hp) Tiptronic (2010 - 2014)",
+              "hp": 500,
+              "fuel": "benzin"
+            },
+            {
+              "label": "S 4.8 V8 (400 Hp) Tiptronic (2010 - 2014)",
+              "hp": 400,
+              "fuel": "benzin"
+            },
+            {
+              "label": "S 3.0 V6 (380 Hp) Hybrid Tiptronic S (2010 - 2014)",
+              "hp": 380,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "GTS 4.8 V8 (420 Hp) Tiptronic (2012 - 2014)",
+              "hp": 420,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Diesel S 4.2 V8 (382 Hp) Tiptronic (2012 - 2014)",
+              "hp": 382,
+              "fuel": "diesel"
+            },
+            {
+              "label": "Diesel 3.0 V6 (245 Hp) Tiptronic (2011 - 2014)",
+              "hp": 245,
+              "fuel": "diesel"
+            },
+            {
+              "label": "Diesel 3.0 V6 (240 Hp) AWD Tiptronic S (2010 - 2011)",
+              "hp": 240,
+              "fuel": "diesel"
+            },
+            {
+              "label": "3.6 V6 (300 Hp) Tiptronic (2010 - 2014)",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6 V6 (300 Hp) (2010 - 2014)",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "porsche-cayenne-955-facelift-2007": {
+          "label": "Porsche Cayenne (955, facelift 2007)",
+          "engines": [
+            {
+              "label": "Turbo S 4.8 V8 (550 Hp) AWD Tiptronic S (2008 - 2010)",
+              "hp": 550,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Turbo 4.8 V8 (500 Hp) AWD Tiptronic S (2007 - 2010)",
+              "hp": 500,
+              "fuel": "benzin"
+            },
+            {
+              "label": "S 4.8 V8 (385 Hp) AWD Tiptronic S (2007 - 2010)",
+              "hp": 385,
+              "fuel": "benzin"
+            },
+            {
+              "label": "S 4.8 V8 (385 Hp) AWD (2007 - 2010)",
+              "hp": 385,
+              "fuel": "benzin"
+            },
+            {
+              "label": "GTS 4.8 V8 (405 Hp) AWD Tiptronic S (2008 - 2010)",
+              "hp": 405,
+              "fuel": "benzin"
+            },
+            {
+              "label": "GTS 4.8 V8 (405 Hp) AWD (2008 - 2010)",
+              "hp": 405,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Diesel 3.0 V6 (240 Hp) Tiptronic S (2009 - 2010)",
+              "hp": 240,
+              "fuel": "diesel"
+            },
+            {
+              "label": "3.6 V6 (290 Hp) AWD Tiptronic S (2007 - 2010)",
+              "hp": 290,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6 V6 (290 Hp) AWD (2007 - 2010)",
+              "hp": 290,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "porsche-cayenne-955": {
+          "label": "Porsche Cayenne (955)",
+          "engines": [
+            {
+              "label": "Turbo S 4.5 V8 (521 Hp) Tiptronic S (2005 - 2006)",
+              "hp": 521,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Turbo 4.5 V8 (450 Hp) Tiptronic S (2002 - 2006)",
+              "hp": 450,
+              "fuel": "benzin"
+            },
+            {
+              "label": "S 4.5 V8 (340 Hp) Tiptronic S (2002 - 2006)",
+              "hp": 340,
+              "fuel": "benzin"
+            },
+            {
+              "label": "S 4.5 V8 (340 Hp) (2002 - 2006)",
+              "hp": 340,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.2i V6 (250 Hp) Tiptronic S (2003 - 2006)",
+              "hp": 250,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.2i V6 (250 Hp) (2003 - 2006)",
+              "hp": 250,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "cayman": {
+      "label": "Cayman",
+      "series": {
+        "porsche-cayman-981c": {
+          "label": "Porsche Cayman (981c)",
+          "engines": [
+            {
+              "label": "S 3.4 (325 Hp) PDK (2013 - 2016)",
+              "hp": 325,
+              "fuel": "benzin"
+            },
+            {
+              "label": "S 3.4 (325 Hp) (2013 - 2016)",
+              "hp": 325,
+              "fuel": "benzin"
+            },
+            {
+              "label": "GTS 3.4 (340 Hp) PDK (2014 - 2016)",
+              "hp": 340,
+              "fuel": "benzin"
+            },
+            {
+              "label": "GTS 3.4 (340 Hp) (2014 - 2016)",
+              "hp": 340,
+              "fuel": "benzin"
+            },
+            {
+              "label": "GT4 3.8 (385 Hp) (2015 - 2016)",
+              "hp": 385,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.7 (275 Hp) PDK (2013 - 2016)",
+              "hp": 275,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.7 (275 Hp) (2013 - 2016)",
+              "hp": 275,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "porsche-cayman-987c-facelift-2009": {
+          "label": "Porsche Cayman (987c, facelift 2009)",
+          "engines": [
+            {
+              "label": "S 3.4 (320 Hp) PDK (2009 - 2012)",
+              "hp": 320,
+              "fuel": "benzin"
+            },
+            {
+              "label": "S 3.4 (320 Hp) (2009 - 2012)",
+              "hp": 320,
+              "fuel": "benzin"
+            },
+            {
+              "label": "R 3.4 (330 Hp) PDK (2011 - 2012)",
+              "hp": 330,
+              "fuel": "benzin"
+            },
+            {
+              "label": "R 3.4 (330 Hp) (2011 - 2012)",
+              "hp": 330,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.9 (265 Hp) PDK (2009 - 2012)",
+              "hp": 265,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.9 (265 Hp) (2009 - 2012)",
+              "hp": 265,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "porsche-cayman-987c": {
+          "label": "Porsche Cayman (987c)",
+          "engines": [
+            {
+              "label": "S 3.4 (295 Hp) Tiptronic S (2005 - 2009)",
+              "hp": 295,
+              "fuel": "benzin"
+            },
+            {
+              "label": "S 3.4 (295 Hp) (2005 - 2009)",
+              "hp": 295,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.7 (245 Hp) Tiptronic S (2006 - 2009)",
+              "hp": 245,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.7 (245 Hp) (2006 - 2009)",
+              "hp": 245,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "macan": {
+      "label": "Macan",
+      "series": {
+        "porsche-macan-ii-electric": {
+          "label": "Porsche Macan II Electric",
+          "engines": [
+            {
+              "label": "Turbo 100 kWh (639 Hp)",
+              "hp": 639
+            },
+            {
+              "label": "GTS 100 kWh (571 Hp)",
+              "hp": 571
+            },
+            {
+              "label": "4S 100 kWh (516 Hp)",
+              "hp": 516
+            },
+            {
+              "label": "4 100 kWh (408 Hp)",
+              "hp": 408
+            },
+            {
+              "label": "100 kWh (360 Hp)",
+              "hp": 360
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "porsche-macan-i-95b-facelift-2021": {
+          "label": "Porsche Macan I (95B, facelift 2021)",
+          "engines": [
+            {
+              "label": "T 2.0 (265 Hp) PDK",
+              "hp": 265,
+              "fuel": "benzin"
+            },
+            {
+              "label": "S 2.9 V6 (380 Hp) PDK",
+              "hp": 380,
+              "fuel": "benzin"
+            },
+            {
+              "label": "GTS 2.9 V6 (440 Hp) PDK",
+              "hp": 440,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (265 Hp) PDK",
+              "hp": 265,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "porsche-macan-i-95b-facelift-2018": {
+          "label": "Porsche Macan I (95B, facelift 2018)",
+          "engines": [
+            {
+              "label": "Turbo 2.9 V6 (440 Hp) PDK (2019 - 2021)",
+              "hp": 440,
+              "fuel": "benzin"
+            },
+            {
+              "label": "S 3.0 V6 (354 Hp) PDK (2018 - 2021)",
+              "hp": 354,
+              "fuel": "benzin"
+            },
+            {
+              "label": "GTS 2.9 V6 (380 Hp) PDK GPF (2019 - 2021)",
+              "hp": 380,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (252 Hp) PDK (2018 - 2021)",
+              "hp": 252,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (245 Hp) PDK (2018 - 2021)",
+              "hp": 245,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "porsche-macan-i-95b": {
+          "label": "Porsche Macan I (95B)",
+          "engines": [
+            {
+              "label": "Turbo 3.6 V6 performance (440 Hp) PDK (2016 - 2018)",
+              "hp": 440,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Turbo 3.6 V6 (400 Hp) PDK (2014 - 2018)",
+              "hp": 400,
+              "fuel": "benzin"
+            },
+            {
+              "label": "S 3.0 V6 (340 Hp) PDK (2014 - 2018)",
+              "hp": 340,
+              "fuel": "benzin"
+            },
+            {
+              "label": "S 3.0 Diesel V6 (258 Hp) PDK (2014 - 2018)",
+              "hp": 258,
+              "fuel": "diesel"
+            },
+            {
+              "label": "S 3.0 Diesel V6 (250 Hp) PDK (2014 - 2018)",
+              "hp": 250,
+              "fuel": "diesel"
+            },
+            {
+              "label": "S 3.0 Diesel V6 (211 Hp) PDK (2014 - 2018)",
+              "hp": 211,
+              "fuel": "diesel"
+            },
+            {
+              "label": "GTS 3.0 V6 (360 Hp) DCT (2015 - 2018)",
+              "hp": 360,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (252 Hp) PDK (2016 - 2018)",
+              "hp": 252,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (237 Hp) PDK (2014 - 2018)",
+              "hp": 237,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "mission-e": {
+      "label": "Mission E",
+      "series": {
+        "porsche-mission-e-concept": {
+          "label": "Porsche Mission E Concept",
+          "engines": [
+            {
+              "label": "Keine exakte Motorliste verfügbar – bitte genaue Motorisierung im Freitext angeben"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "porsche-mission-e-cross-turismo-concept": {
+          "label": "Porsche Mission E Cross Turismo Concept",
+          "engines": [
+            {
+              "label": "(600 Hp) AWD (2018 - 2018)",
+              "hp": 600
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "mission-x": {
+      "label": "Mission X",
+      "series": {
+        "porsche-mission-x-concept": {
+          "label": "Porsche Mission X concept",
+          "engines": [
+            {
+              "label": "Keine exakte Motorliste verfügbar – bitte genaue Motorisierung im Freitext angeben"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "panamera": {
+      "label": "Panamera",
+      "series": {
+        "porsche-panamera-g3-executive": {
+          "label": "Porsche Panamera (G3) Executive",
+          "engines": [
+            {
+              "label": "Turbo S 4.0 V8 (782 Hp) E-Hybrid PDK",
+              "hp": 782,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "4 2.9 V6 (470 Hp) E-Hybrid PDK",
+              "hp": 470,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "porsche-panamera-g3": {
+          "label": "Porsche Panamera (G3)",
+          "engines": [
+            {
+              "label": "Turbo S 4.0 V8 (782 Hp) E-Hybrid PDK",
+              "hp": 782,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Turbo 4.0 V8 (680 Hp) E-Hybrid PDK",
+              "hp": 680,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "GTS 4.0 V8 (500 Hp) PDK",
+              "hp": 500,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4S 2.9 V6 (544 Hp) E-Hybrid PDK",
+              "hp": 544,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "4 2.9 V6 (353 Hp) PDK",
+              "hp": 353,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4 2.9 V6 (470 Hp) E-Hybrid PDK",
+              "hp": 470,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "2.9 V6 (353 Hp) PDK",
+              "hp": 353,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "porsche-panamera-g2-ii-sport-turismo": {
+          "label": "Porsche Panamera (G2 II) Sport Turismo",
+          "engines": [
+            {
+              "label": "Turbo S 4.0 V8 (630 Hp) PDK (2020 - 2023)",
+              "hp": 630,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Turbo S 4.0 V8 (700 Hp) E-Hybrid PDK (2020 - 2023)",
+              "hp": 700,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "GTS 4.0 V8 (480 Hp) PDK (2020 - 2023)",
+              "hp": 480,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4S 2.9 V6 (560 Hp) E-Hybrid PDK (2020 - 2023)",
+              "hp": 560,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "4S 2.9 V6 (440 Hp) PDK (2020 - 2023)",
+              "hp": 440,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4 2.9 V6 (462 Hp) E-Hybrid PDK (2020 - 2023)",
+              "hp": 462,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "4 2.9 V6 (330 Hp) PDK (2020 - 2023)",
+              "hp": 330,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "porsche-panamera-g2-ii-executive": {
+          "label": "Porsche Panamera (G2 II) Executive",
+          "engines": [
+            {
+              "label": "Turbo S 4.0 V8 (630 Hp) PDK (2020 - 2023)",
+              "hp": 630,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Turbo S 4.0 V8 (700 Hp) E-Hybrid PDK (2020 - 2023)",
+              "hp": 700,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "4S 2.9 V6 (560 Hp) E-Hybrid PDK (2020 - 2023)",
+              "hp": 560,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "4S 2.9 V6 (440 Hp) PDK (2020 - 2023)",
+              "hp": 440,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4 2.9 V6 (462 Hp) E-Hybrid PDK (2020 - 2023)",
+              "hp": 462,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "4 2.9 V6 (330 Hp) PDK (2020 - 2023)",
+              "hp": 330,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "porsche-panamera-g2-ii": {
+          "label": "Porsche Panamera (G2 II)",
+          "engines": [
+            {
+              "label": "Turbo S 4.0 V8 (630 Hp) PDK (2020 - 2023)",
+              "hp": 630,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Turbo S 4.0 V8 (700 Hp) E-Hybrid PDK (2020 - 2023)",
+              "hp": 700,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "GTS 4.0 V8 (480 Hp) PDK (2020 - 2023)",
+              "hp": 480,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4S 2.9 V6 (560 Hp) E-Hybrid PDK (2020 - 2023)",
+              "hp": 560,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "4S 2.9 V6 (440 Hp) PDK (2020 - 2023)",
+              "hp": 440,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4 2.9 V6 (462 Hp) E-Hybrid PDK (2020 - 2023)",
+              "hp": 462,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "4 2.9 V6 (330 Hp) PDK (2020 - 2023)",
+              "hp": 330,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "porsche-panamera-g2-sport-turismo": {
+          "label": "Porsche Panamera (G2) Sport Turismo",
+          "engines": [
+            {
+              "label": "Turbo S 4.0 V8 (680 Hp) E-Hybrid PDK (2019 - 2020)",
+              "hp": 680,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Turbo 4.0 V8 (550 Hp) PDK (2019 - 2020)",
+              "hp": 550,
+              "fuel": "benzin"
+            },
+            {
+              "label": "GTS 4.0 V8 (460 Hp) PDK (2018 - 2020)",
+              "hp": 460,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4S Diesel 4.0 V8 (422 Hp) PDK (2017 - 2018)",
+              "hp": 422,
+              "fuel": "diesel"
+            },
+            {
+              "label": "4S 2.9 V6 (440 Hp) PDK (2019 - 2020)",
+              "hp": 440,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4 3.0 V6 (462 Hp) E-Hybrid PDK (2019 - 2020)",
+              "hp": 462,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "4 3.0 V6 (330 Hp) PDK (2019 - 2020)",
+              "hp": 330,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4 2.9 V6 (462 Hp) E-Hybrid PDK (2017 - 2018)",
+              "hp": 462,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "porsche-panamera-g2-executive": {
+          "label": "Porsche Panamera (G2) Executive",
+          "engines": [
+            {
+              "label": "Turbo S 4.0 V8 (680 Hp) E-Hybrid PDK (2019 - 2020)",
+              "hp": 680,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Turbo 4.0 V8 (550 Hp) PDK (2019 - 2020)",
+              "hp": 550,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4S 2.9 V6 (440 Hp) PDK (2019 - 2020)",
+              "hp": 440,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4 3.0 V6 (330 Hp) PDK (2016 - 2018)",
+              "hp": 330,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4 2.9 V6 (462 Hp) E-Hybrid PDK (2019 - 2020)",
+              "hp": 462,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "4 2.9 V6 (330 Hp) PDK (2019 - 2020)",
+              "hp": 330,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "porsche-panamera-g2": {
+          "label": "Porsche Panamera (G2)",
+          "engines": [
+            {
+              "label": "Turbo S 4.0 V8 (680 Hp) E-Hybrid PDK OPF (2019 - 2020)",
+              "hp": 680,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Turbo S 4.0 V8 (680 Hp) E-Hybrid PDK (2017 - 2018)",
+              "hp": 680,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Turbo 4.0 V8 (550 Hp) PDK (2019 - 2020)",
+              "hp": 550,
+              "fuel": "benzin"
+            },
+            {
+              "label": "GTS 4.0 V8 (460 Hp) PDK (2018 - 2020)",
+              "hp": 460,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4S Diesel 4.0 V8 (422 Hp) PDK (2016 - 2018)",
+              "hp": 422,
+              "fuel": "diesel"
+            },
+            {
+              "label": "4S 2.9 V6 (440 Hp) PDK (2016 - 2018)",
+              "hp": 440,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4 3.0 V6 (330 Hp) PDK (2016 - 2018)",
+              "hp": 330,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4 2.9 V6 (462 Hp) E-Hybrid PDK (2019 - 2020)",
+              "hp": 462,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "4 2.9 V6 (330 Hp) PDK (2019 - 2020)",
+              "hp": 330,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 (330 Hp) PDK (2016 - 2018)",
+              "hp": 330,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "porsche-panamera-g1-ii-executive": {
+          "label": "Porsche Panamera (G1 II) Executive",
+          "engines": [
+            {
+              "label": "Turbo S 4.8 V8 (570 Hp) PDK (2015 - 2016)",
+              "hp": 570,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Turbo 4.8 V8 (520 Hp) PDK (2013 - 2016)",
+              "hp": 520,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4S 3.0 V6 (420 Hp) PDK (2013 - 2016)",
+              "hp": 420,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "porsche-panamera-g1-ii": {
+          "label": "Porsche Panamera (G1 II)",
+          "engines": [
+            {
+              "label": "Turbo S 4.8 V8 (570 Hp) PDK (2015 - 2016)",
+              "hp": 570,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Turbo 4.8 V8 (520 Hp) PDK (2013 - 2016)",
+              "hp": 520,
+              "fuel": "benzin"
+            },
+            {
+              "label": "S 3.0 V6 (420 Hp) PDK (2013 - 2016)",
+              "hp": 420,
+              "fuel": "benzin"
+            },
+            {
+              "label": "S 3.0 V6 (416 Hp) E-Hybrid Tiptronic (2013 - 2016)",
+              "hp": 416,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "GTS 4.8 V8 (440 Hp) PDK (2013 - 2016)",
+              "hp": 440,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4S 3.0 V6 (420 Hp) PDK (2013 - 2016)",
+              "hp": 420,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4 3.6 V6 (310 Hp) PDK (2013 - 2016)",
+              "hp": 310,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6 V6 (310 Hp) PDK (2013 - 2016)",
+              "hp": 310,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 diesel V6 (300 Hp) Tiptronic (2013 - 2015)",
+              "hp": 300,
+              "fuel": "diesel"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "porsche-panamera-g1": {
+          "label": "Porsche Panamera (G1)",
+          "engines": [
+            {
+              "label": "Turbo S 4.8 V8 (550 Hp) PDK (2011 - 2013)",
+              "hp": 550,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Turbo 4.8 V8 (500 Hp) PDK (2010 - 2013)",
+              "hp": 500,
+              "fuel": "benzin"
+            },
+            {
+              "label": "S 4.8 V8 (400 Hp) PDK (2009 - 2013)",
+              "hp": 400,
+              "fuel": "benzin"
+            },
+            {
+              "label": "S 4.8 V8 (400 Hp) (2009 - 2013)",
+              "hp": 400,
+              "fuel": "benzin"
+            },
+            {
+              "label": "S 3.0 V6 (380 Hp) Hybrid Tiptronic S (2011 - 2013)",
+              "hp": 380,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "GTS 4.8 V8 (430 Hp) PDK (2011 - 2013)",
+              "hp": 430,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4S 4.8 V8 (400 Hp) PDK (2009 - 2013)",
+              "hp": 400,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4 3.6 V6 (300 Hp) PDK (2010 - 2013)",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6 V6 (300 Hp) PDK (2010 - 2013)",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6 V6 (300 Hp) (2010 - 2013)",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 Diesel V6 (250 Hp) Tiptronic S (2011 - 2013)",
+              "hp": 250,
+              "fuel": "diesel"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "taycan": {
+      "label": "Taycan",
+      "series": {
+        "porsche-taycan-sport-turismo-y1a-facelift-2024": {
+          "label": "Porsche Taycan Sport Turismo (Y1A, facelift 2024)",
+          "engines": [
+            {
+              "label": "Turbo S 105 kWh (952 Hp)",
+              "hp": 952
+            },
+            {
+              "label": "Turbo 105 kWh (884 Hp)",
+              "hp": 884
+            },
+            {
+              "label": "GTS 105 kWh (700 Hp)",
+              "hp": 700
+            },
+            {
+              "label": "89 kWh (408 Hp)",
+              "hp": 408
+            },
+            {
+              "label": "4S 89 kWh (544 Hp)",
+              "hp": 544
+            },
+            {
+              "label": "4S 105 kWh (598 Hp)",
+              "hp": 598
+            },
+            {
+              "label": "105 kWh (435 Hp)",
+              "hp": 435
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "porsche-taycan-cross-turismo-y1a-facelift-2024": {
+          "label": "Porsche Taycan Cross Turismo (Y1A, facelift 2024)",
+          "engines": [
+            {
+              "label": "Turbo S 105 kWh (952 Hp)",
+              "hp": 952
+            },
+            {
+              "label": "Turbo 105 kWh (884 Hp)",
+              "hp": 884
+            },
+            {
+              "label": "4S 105 kWh (598 Hp)",
+              "hp": 598
+            },
+            {
+              "label": "4 105 kWh (435 Hp)",
+              "hp": 435
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "porsche-taycan-y1a-facelift-2024": {
+          "label": "Porsche Taycan (Y1A, facelift 2024)",
+          "engines": [
+            {
+              "label": "Turbo S 105 kWh (952 Hp)",
+              "hp": 952
+            },
+            {
+              "label": "Turbo GT with Weissach Package 105 kWh (1034 Hp)",
+              "hp": 1034
+            },
+            {
+              "label": "Turbo GT 105 kWh (1034 Hp)",
+              "hp": 1034
+            },
+            {
+              "label": "Turbo 105 kWh (884 Hp)",
+              "hp": 884
+            },
+            {
+              "label": "GTS 105 kWh (700 Hp)",
+              "hp": 700
+            },
+            {
+              "label": "89 kWh (408 Hp)",
+              "hp": 408
+            },
+            {
+              "label": "4S 89 kWh (544 Hp)",
+              "hp": 544
+            },
+            {
+              "label": "4S 105 kWh (598 Hp)",
+              "hp": 598
+            },
+            {
+              "label": "4 89 kWh (408 Hp)",
+              "hp": 408
+            },
+            {
+              "label": "4 105 kWh (435 Hp)",
+              "hp": 435
+            },
+            {
+              "label": "105 kWh (435 Hp)",
+              "hp": 435
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "porsche-taycan-sport-turismo-y1a": {
+          "label": "Porsche Taycan Sport Turismo (Y1A)",
+          "engines": [
+            {
+              "label": "GTS Performance Plus 93.4 kWh (598 Hp) (2022 - 2024)",
+              "hp": 598,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Turbo S 93.4 kWh (761 Hp) (2022 - 2024)",
+              "hp": 761,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Turbo 93.4 kWh (680 Hp) (2022 - 2024)",
+              "hp": 680,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Performance Plus 93.4 kWh (476 Hp) (2022 - 2024)",
+              "hp": 476,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Performance 79.2 kWh (408 Hp) (2022 - 2024)",
+              "hp": 408,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4S Performance Plus 93.4 kWh (571 Hp) (2022 - 2024)",
+              "hp": 571,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4S Performance 79.2 kWh (530 Hp) (2022 - 2024)",
+              "hp": 530,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "porsche-taycan-cross-turismo-y1a": {
+          "label": "Porsche Taycan Cross Turismo (Y1A)",
+          "engines": [
+            {
+              "label": "Turbo S 93.4 kWh (761 Hp) (2021 - 2024)",
+              "hp": 761,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Turbo 93.4 kWh (680 Hp) (2021 - 2024)",
+              "hp": 680,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4S 93.4 kWh (571 Hp) (2021 - 2024)",
+              "hp": 571,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4 93.4 kWh (476 Hp) (2021 - 2024)",
+              "hp": 476,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "porsche-taycan-y1a": {
+          "label": "Porsche Taycan (Y1A)",
+          "engines": [
+            {
+              "label": "GTS Performance Plus 93.4 kWh (598 Hp) (2022 - 2024)",
+              "hp": 598,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Turbo S 93.4 kWh (761 Hp) (2020 - 2024)",
+              "hp": 761,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Turbo 93.4 kWh (680 Hp) (2020 - 2024)",
+              "hp": 680,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Performance Plus 93.4 kWh (476 Hp) (2021 - 2024)",
+              "hp": 476,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Performance 79.2 kWh (408 Hp) (2021 - 2024)",
+              "hp": 408,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4S Performance Plus 93.4 kWh (571 Hp) (2020 - 2024)",
+              "hp": 571,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4S Performance 79.2 kWh (530 Hp) (2020 - 2024)",
+              "hp": 530,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

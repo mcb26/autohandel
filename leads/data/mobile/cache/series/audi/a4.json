@@ -1,0 +1,65 @@
+[
+  {
+    "label": "Kombi Audi A4 Avant (B9) 2015 - Heute",
+    "href": "https://www.mobile.de/auto/audi/a4/2015/kombi/modell/",
+    "modell_url": "https://www.mobile.de/auto/audi/a4/2015/kombi/modell/",
+    "model_slug": "a4",
+    "brand_slug": "audi"
+  },
+  {
+    "label": "Limousine Audi A4 Limousine (B9) 2015 - Heute",
+    "href": "https://www.mobile.de/auto/audi/a4/2015/limousine/modell/",
+    "modell_url": "https://www.mobile.de/auto/audi/a4/2015/limousine/modell/",
+    "model_slug": "a4",
+    "brand_slug": "audi"
+  },
+  {
+    "label": "Kombi Audi A4 Avant (B8) 2008 – 2015",
+    "href": "https://www.mobile.de/auto/audi/a4/2007/kombi/modell/",
+    "modell_url": "https://www.mobile.de/auto/audi/a4/2007/kombi/modell/",
+    "model_slug": "a4",
+    "brand_slug": "audi"
+  },
+  {
+    "label": "Limousine Audi A4 Limousine (B8) 2007 – 2015",
+    "href": "https://www.mobile.de/auto/audi/a4/2007/limousine/modell/",
+    "modell_url": "https://www.mobile.de/auto/audi/a4/2007/limousine/modell/",
+    "model_slug": "a4",
+    "brand_slug": "audi"
+  },
+  {
+    "label": "Cabrio Audi A4 Cabriolet (B6/B7) 2005 – 2008",
+    "href": "https://www.mobile.de/auto/audi/a4/2000/cabriolet/modell/",
+    "modell_url": "https://www.mobile.de/auto/audi/a4/2000/cabriolet/modell/",
+    "model_slug": "a4",
+    "brand_slug": "audi"
+  },
+  {
+    "label": "Limousine Audi A4 Limousine (B6/B7) 2004 – 2008",
+    "href": "https://www.mobile.de/auto/audi/a4/2000/limousine/modell/",
+    "modell_url": "https://www.mobile.de/auto/audi/a4/2000/limousine/modell/",
+    "model_slug": "a4",
+    "brand_slug": "audi"
+  },
+  {
+    "label": "Kombi Audi A4 Avant (B6/B7) 2004 – 2008",
+    "href": "https://www.mobile.de/auto/audi/a4/2000/kombi/modell/",
+    "modell_url": "https://www.mobile.de/auto/audi/a4/2000/kombi/modell/",
+    "model_slug": "a4",
+    "brand_slug": "audi"
+  },
+  {
+    "label": "Kombi Audi A4 Avant (B5) 1996 – 2001",
+    "href": "https://www.mobile.de/auto/audi/a4/1994/kombi/modell/",
+    "modell_url": "https://www.mobile.de/auto/audi/a4/1994/kombi/modell/",
+    "model_slug": "a4",
+    "brand_slug": "audi"
+  },
+  {
+    "label": "Limousine Audi A4 Limousine (B5) 1994 – 2000",
+    "href": "https://www.mobile.de/auto/audi/a4/1994/limousine/modell/",
+    "modell_url": "https://www.mobile.de/auto/audi/a4/1994/limousine/modell/",
+    "model_slug": "a4",
+    "brand_slug": "audi"
+  }
+]

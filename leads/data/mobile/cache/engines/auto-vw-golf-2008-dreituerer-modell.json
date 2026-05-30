@@ -1,0 +1,172 @@
+[
+  {
+    "label": "Golf 1.4 (Benzin, 80 PS)",
+    "fuel": "benzin",
+    "hp": 80
+  },
+  {
+    "label": "Golf 1.2 TSI DSG (Benzin, 85 PS)",
+    "fuel": "benzin",
+    "hp": 85
+  },
+  {
+    "label": "Golf 1.2 TSI (Benzin, 85 PS)",
+    "fuel": "benzin",
+    "hp": 85
+  },
+  {
+    "label": "Golf 1.6 DSG (Benzin, 102 PS)",
+    "fuel": "benzin",
+    "hp": 102
+  },
+  {
+    "label": "Golf 1.6 (Benzin, 102 PS)",
+    "fuel": "benzin",
+    "hp": 102
+  },
+  {
+    "label": "Golf 1.2 TSI DSG (Benzin, 105 PS)",
+    "fuel": "benzin",
+    "hp": 105
+  },
+  {
+    "label": "Golf 1.2 TSI BlueMotion Technology DSG (Benzin, 105 PS)",
+    "fuel": "benzin",
+    "hp": 105
+  },
+  {
+    "label": "Golf 1.2 TSI BlueMotion Technology (Benzin, 105 PS)",
+    "fuel": "benzin",
+    "hp": 105
+  },
+  {
+    "label": "Golf 1.2 TSI (Benzin, 105 PS)",
+    "fuel": "benzin",
+    "hp": 105
+  },
+  {
+    "label": "Golf 1.4 TSI DSG (Benzin, 122 PS)",
+    "fuel": "benzin",
+    "hp": 122
+  },
+  {
+    "label": "Golf 1.4 TSI (Benzin, 122 PS)",
+    "fuel": "benzin",
+    "hp": 122
+  },
+  {
+    "label": "Golf 1.4 TSI DSG (Benzin, 160 PS)",
+    "fuel": "benzin",
+    "hp": 160
+  },
+  {
+    "label": "Golf Aktionsmodell 1.8 T DSG (Benzin, 160 PS)",
+    "fuel": "benzin",
+    "hp": 160
+  },
+  {
+    "label": "Golf 1.4 TSI (Benzin, 160 PS)",
+    "fuel": "benzin",
+    "hp": 160
+  },
+  {
+    "label": "Golf Aktionsmodell 1.8 T (Benzin, 160 PS)",
+    "fuel": "benzin",
+    "hp": 160
+  },
+  {
+    "label": "Golf 2.0 GTI DSG (Benzin, 210 PS)",
+    "fuel": "benzin",
+    "hp": 210
+  },
+  {
+    "label": "Golf 2.0 GTI (Benzin, 210 PS)",
+    "fuel": "benzin",
+    "hp": 210
+  },
+  {
+    "label": "Golf 2.0 GTI DSG (Benzin, 235 PS)",
+    "fuel": "benzin",
+    "hp": 235
+  },
+  {
+    "label": "Golf 2.0 GTI (Benzin, 235 PS)",
+    "fuel": "benzin",
+    "hp": 235
+  },
+  {
+    "label": "Golf 2.0 R DSG (Benzin, 270 PS)",
+    "fuel": "benzin",
+    "hp": 270
+  },
+  {
+    "label": "Golf 2.0 R (Benzin, 270 PS)",
+    "fuel": "benzin",
+    "hp": 270
+  },
+  {
+    "label": "Golf 1.6 TDI DPF DSG (Diesel, 105 PS)",
+    "fuel": "diesel",
+    "hp": 105
+  },
+  {
+    "label": "Golf 1.6 TDI DPF BlueMotion Technology DSG (Diesel, 105 PS)",
+    "fuel": "diesel",
+    "hp": 105
+  },
+  {
+    "label": "Golf 1.6 TDI DPF (Diesel, 105 PS)",
+    "fuel": "diesel",
+    "hp": 105
+  },
+  {
+    "label": "Golf 1.6 TDI DPF BlueMotion Technology (Diesel, 105 PS)",
+    "fuel": "diesel",
+    "hp": 105
+  },
+  {
+    "label": "Golf 1.6 TDI DPF BlueMotion (Diesel, 105 PS)",
+    "fuel": "diesel",
+    "hp": 105
+  },
+  {
+    "label": "Golf 2.0 TDI DPF DSG (Diesel, 110 PS)",
+    "fuel": "diesel",
+    "hp": 110
+  },
+  {
+    "label": "Golf 2.0 TDI DPF (Diesel, 110 PS)",
+    "fuel": "diesel",
+    "hp": 110
+  },
+  {
+    "label": "Golf 2.0 TDI DPF DSG (Diesel, 140 PS)",
+    "fuel": "diesel",
+    "hp": 140
+  },
+  {
+    "label": "Golf 2.0 TDI DPF BlueMotion Technology DSG (Diesel, 140 PS)",
+    "fuel": "diesel",
+    "hp": 140
+  },
+  {
+    "label": "Golf 2.0 TDI DPF (Diesel, 140 PS)",
+    "fuel": "diesel",
+    "hp": 140
+  },
+  {
+    "label": "Golf 2.0 TDI DPF BlueMotion Technology (Diesel, 140 PS)",
+    "fuel": "diesel",
+    "hp": 140
+  },
+  {
+    "label": "Golf 2.0 TDI DPF DSG (Diesel, 170 PS)",
+    "fuel": "diesel",
+    "hp": 170
+  },
+  {
+    "label": "Golf 2.0 TDI DPF (Diesel, 170 PS)",
+    "fuel": "diesel",
+    "hp": 170
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "key": "abarth",
+    "label": "Abarth"
+  },
+  {
+    "key": "alfa-romeo",
+    "label": "Alfa Romeo"
+  },
+  {
+    "key": "aston-martin",
+    "label": "Aston Martin"
+  },
+  {
+    "key": "audi",
+    "label": "Audi"
+  },
+  {
+    "key": "bmw",
+    "label": "BMW"
+  },
+  {
+    "key": "byd",
+    "label": "BYD"
+  },
+  {
+    "key": "cadillac",
+    "label": "Cadillac"
+  },
+  {
+    "key": "chevrolet",
+    "label": "Chevrolet"
+  },
+  {
+    "key": "chrysler",
+    "label": "Chrysler"
+  },
+  {
+    "key": "citron",
+    "label": "Citroën"
+  },
+  {
+    "key": "cupra",
+    "label": "Cupra"
+  },
+  {
+    "key": "dacia",
+    "label": "Dacia"
+  },
+  {
+    "key": "dodge",
+    "label": "Dodge"
+  },
+  {
+    "key": "ds",
+    "label": "DS"
+  },
+  {
+    "key": "fiat",
+    "label": "Fiat"
+  },
+  {
+    "key": "ford",
+    "label": "Ford"
+  },
+  {
+    "key": "genesis",
+    "label": "Genesis"
+  },
+  {
+    "key": "honda",
+    "label": "Honda"
+  },
+  {
+    "key": "hyundai",
+    "label": "Hyundai"
+  },
+  {
+    "key": "infiniti",
+    "label": "Infiniti"
+  },
+  {
+    "key": "jaguar",
+    "label": "Jaguar"
+  },
+  {
+    "key": "jeep",
+    "label": "Jeep"
+  },
+  {
+    "key": "kia",
+    "label": "Kia"
+  },
+  {
+    "key": "lancia",
+    "label": "Lancia"
+  },
+  {
+    "key": "land-rover",
+    "label": "Land Rover"
+  },
+  {
+    "key": "lexus",
+    "label": "Lexus"
+  },
+  {
+    "key": "maserati",
+    "label": "Maserati"
+  },
+  {
+    "key": "mazda",
+    "label": "Mazda"
+  },
+  {
+    "key": "mercedes-benz",
+    "label": "Mercedes-Benz"
+  },
+  {
+    "key": "mg",
+    "label": "MG"
+  },
+  {
+    "key": "mini",
+    "label": "Mini"
+  },
+  {
+    "key": "mitsubishi",
+    "label": "Mitsubishi"
+  },
+  {
+    "key": "nio",
+    "label": "NIO"
+  },
+  {
+    "key": "nissan",
+    "label": "Nissan"
+  },
+  {
+    "key": "opel",
+    "label": "Opel"
+  },
+  {
+    "key": "peugeot",
+    "label": "Peugeot"
+  },
+  {
+    "key": "polestar",
+    "label": "Polestar"
+  },
+  {
+    "key": "porsche",
+    "label": "Porsche"
+  },
+  {
+    "key": "renault",
+    "label": "Renault"
+  },
+  {
+    "key": "saab",
+    "label": "Saab"
+  },
+  {
+    "key": "seat",
+    "label": "SEAT"
+  },
+  {
+    "key": "skoda",
+    "label": "Skoda"
+  },
+  {
+    "key": "smart",
+    "label": "Smart"
+  },
+  {
+    "key": "ssangyong",
+    "label": "SsangYong"
+  },
+  {
+    "key": "subaru",
+    "label": "Subaru"
+  },
+  {
+    "key": "suzuki",
+    "label": "Suzuki"
+  },
+  {
+    "key": "tesla",
+    "label": "Tesla"
+  },
+  {
+    "key": "toyota",
+    "label": "Toyota"
+  },
+  {
+    "key": "volvo",
+    "label": "Volvo"
+  },
+  {
+    "key": "vw",
+    "label": "VW"
+  }
+]

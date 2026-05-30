@@ -1,0 +1,14 @@
+{% load static %}
+<a class="brand-lockup brand-lockup-logo-only text-decoration-none{% if dashboard_mode %} brand-lockup-dashboard{% endif %}" href="{% if dashboard_mode %}{% url 'leads:dashboard_home' %}{% else %}{% url 'leads:home' %}{% endif %}">
+    <img
+        src="{% static site_logo_path %}"
+        alt="{{ site_brand_name }}"
+        class="brand-logo-header"
+        width="160"
+        height="44"
+        decoding="async"
+    >
+    {% if dashboard_mode %}
+        <span class="brand-badge">Dashboard</span>
+    {% endif %}
+</a>

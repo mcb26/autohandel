@@ -1,0 +1,1924 @@
+{
+  "label": "Saab",
+  "models": {
+    "9-2x": {
+      "label": "9-2X",
+      "series": {
+        "saab-9-2x": {
+          "label": "Saab 9-2X",
+          "engines": [
+            {
+              "label": "2.5i 16V (173 Hp) (2004 - 2006)",
+              "hp": 173,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 i 16V T Aero (230 Hp) (2004 - 2006)",
+              "hp": 230,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "9-3": {
+      "label": "9-3",
+      "series": {
+        "saab-9-3-sedan-ii-griffin-facelift-2011": {
+          "label": "Saab 9-3 Sedan II Griffin (facelift 2011)",
+          "engines": [
+            {
+              "label": "2.0t BioPower (220 Hp) XWD Sentronic (2011 - 2011)",
+              "hp": 220,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0t BioPower (220 Hp) XWD (2011 - 2011)",
+              "hp": 220,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0t BioPower (220 Hp) Sentronic (2011 - 2011)",
+              "hp": 220,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0t BioPower (220 Hp) (2011 - 2011)",
+              "hp": 220,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0t BioPower (163 Hp) XWD (2011 - 2011)",
+              "hp": 163,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0t BioPower (163 Hp) Sentronic (2011 - 2011)",
+              "hp": 163,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0t BioPower (163 Hp) (2011 - 2011)",
+              "hp": 163,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 TTiD (180 Hp) Sentronic (2011 - 2011)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 TTiD (180 Hp) (2011 - 2011)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 TTiD (160 Hp) Sentronic (2011 - 2011)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 TTiD (160 Hp) (2011 - 2011)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 TTiD (130 Hp) (2011 - 2011)",
+              "hp": 130,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "saab-9-3-sport-combi-ii-griffin-facelift-2011": {
+          "label": "Saab 9-3 Sport Combi II Griffin (facelift 2011)",
+          "engines": [
+            {
+              "label": "2.0t BioPower (220 Hp) XWD Sentronic (2011 - 2011)",
+              "hp": 220,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0t BioPower (220 Hp) XWD (2011 - 2011)",
+              "hp": 220,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0t BioPower (220 Hp) Sentronic (2011 - 2011)",
+              "hp": 220,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0t BioPower (220 Hp) (2011 - 2011)",
+              "hp": 220,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0t BioPower (163 Hp) XWD (2011 - 2011)",
+              "hp": 163,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0t BioPower (163 Hp) Sentronic (2011 - 2011)",
+              "hp": 163,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0t BioPower (163 Hp) (2011 - 2011)",
+              "hp": 163,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 TTiD (180 Hp) Sentronic (2011 - 2011)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 TTiD (180 Hp) (2011 - 2011)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 TTiD (160 Hp) Sentronic (2011 - 2011)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 TTiD (160 Hp) (2011 - 2011)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 TTiD (130 Hp) (2011 - 2011)",
+              "hp": 130,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "saab-9-3-convertible-ii-griffin-facelift-2011": {
+          "label": "Saab 9-3 Convertible II Griffin (facelift 2011)",
+          "engines": [
+            {
+              "label": "2.0t BioPower (220 Hp) Sentronic (2011 - 2011)",
+              "hp": 220,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0t BioPower (220 Hp) (2011 - 2011)",
+              "hp": 220,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0t BioPower (163 Hp) Sentronic (2011 - 2011)",
+              "hp": 163,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0t BioPower (163 Hp) (2011 - 2011)",
+              "hp": 163,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 TTiD (180 Hp) Sentronic (2011 - 2011)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 TTiD (180 Hp) (2011 - 2011)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 TTiD (160 Hp) Sentronic (2011 - 2011)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 TTiD (160 Hp) (2011 - 2011)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "saab-9-3x-ii": {
+          "label": "Saab 9-3X II",
+          "engines": [
+            {
+              "label": "2.0T BioPower (210 Hp) XWD (2009 - 2010)",
+              "hp": 210,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0T (210 Hp) XWD Sentronic (2009 - 2010)",
+              "hp": 210,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0T (210 Hp) XWD (2009 - 2010)",
+              "hp": 210,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 TTiD (180 Hp) Sentronic (2009 - 2010)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 TTiD (180 Hp) (2009 - 2010)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "saab-9-3-sedan-ii-facelift-2007": {
+          "label": "Saab 9-3 Sedan II (facelift 2007)",
+          "engines": [
+            {
+              "label": "2.8T V6 (280 Hp) XWD Sentronic (2008 - 2009)",
+              "hp": 280,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.8T V6 (280 Hp) XWD (2008 - 2009)",
+              "hp": 280,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.8T V6 (280 Hp) Sentronic (2008 - 2009)",
+              "hp": 280,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.8T V6 (280 Hp) (2008 - 2009)",
+              "hp": 280,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0t Biopower (200 Hp) Sentronic (2007 - 2010)",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0t Biopower (200 Hp) (2007 - 2010)",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 TTiD (180 Hp) Sentronic (2007 - 2010)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 TTiD (180 Hp) (2007 - 2010)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 TiD (150 Hp) Sentronic (2007 - 2010)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 TiD (150 Hp) (2007 - 2010)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 TiD (120 Hp) (2007 - 2010)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8t Biopower (175 Hp) Sentronic (2007 - 2010)",
+              "hp": 175,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8t Biopower (175 Hp) (2007 - 2010)",
+              "hp": 175,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "saab-9-3-sport-combi-ii-facelift-2007": {
+          "label": "Saab 9-3 Sport Combi II (facelift 2007)",
+          "engines": [
+            {
+              "label": "2.8T V6 (280 Hp) XWD Sentronic (2008 - 2009)",
+              "hp": 280,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.8T V6 (280 Hp) XWD (2008 - 2009)",
+              "hp": 280,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.8T V6 (280 Hp) Sentronic (2008 - 2009)",
+              "hp": 280,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.8T V6 (280 Hp) (2008 - 2009)",
+              "hp": 280,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0t BioPower (200 Hp) Sentronic (2007 - 2010)",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0t BioPower (200 Hp) (2007 - 2010)",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0T (210 Hp) XWD (2007 - 2010)",
+              "hp": 210,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 TTiD (180 Hp) Sentronic (2007 - 2010)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 TTiD (180 Hp) (2007 - 2010)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 TiD (150 Hp) Sentronic (2007 - 2010)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 TiD (150 Hp) (2007 - 2010)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 TiD (120 Hp) (2007 - 2010)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8t BioPower (175 Hp) Sentronic (2007 - 2010)",
+              "hp": 175,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8t BioPower (175 Hp) (2007 - 2010)",
+              "hp": 175,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8t (150 Hp) Sentronic (2007 - 2010)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8t (150 Hp) (2007 - 2010)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 (122 Hp) (2007 - 2009)",
+              "hp": 122,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "saab-9-3-convertible-ii-facelift-2007": {
+          "label": "Saab 9-3 Convertible II (facelift 2007)",
+          "engines": [
+            {
+              "label": "2.8T V6 (280 Hp) Sentronic (2008 - 2009)",
+              "hp": 280,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.8T V6 (280 Hp) (2008 - 2009)",
+              "hp": 280,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0t BioPower (200 Hp) Sentronic (2007 - 2010)",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0t BioPower (200 Hp) (2007 - 2010)",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0T (210 Hp) Sentronic (2007 - 2010)",
+              "hp": 210,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0T (210 Hp) (2007 - 2010)",
+              "hp": 210,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0t (175 Hp) Sentronic (2007 - 2010)",
+              "hp": 175,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0t (175 Hp) (2007 - 2010)",
+              "hp": 175,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 TTiD (180 Hp) Sentronic (2007 - 2010)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 TTiD (180 Hp) (2007 - 2010)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 TiD (150 Hp) Sentronic (2007 - 2010)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 TiD (150 Hp) (2007 - 2010)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8t BioPower (175 Hp) Sentronic (2007 - 2010)",
+              "hp": 175,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8t BioPower (175 Hp) (2007 - 2010)",
+              "hp": 175,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8t (150 Hp) Sentronic (2007 - 2010)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8t (150 Hp) (2007 - 2010)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "saab-9-3-sport-combi-ii": {
+          "label": "Saab 9-3 Sport Combi II",
+          "engines": [
+            {
+              "label": "2.8T V6 (275 Hp) Sentronic (2006 - 2007)",
+              "hp": 275,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.8T V6 (275 Hp) (2006 - 2007)",
+              "hp": 275,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.8T V6 (250 Hp) Sentronic (2005 - 2007)",
+              "hp": 250,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.8T V6 (250 Hp) (2005 - 2007)",
+              "hp": 250,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.8 i V6 24V (230 Hp) (2005 - 2007)",
+              "hp": 230,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 i 16V T (211 Hp) Automatic (2005 - 2007)",
+              "hp": 211,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 i 16V T (211 Hp) (2005 - 2007)",
+              "hp": 211,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 i 16V Bio (200 Hp) Sentronic (2005 - 2007)",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 i 16V Bio (200 Hp) (2005 - 2007)",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 i 16V t (175 Hp) Automatic (2005 - 2007)",
+              "hp": 175,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 i 16V t (175 Hp) (2005 - 2007)",
+              "hp": 175,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 i 16V t (150 Hp) Automatic (2005 - 2007)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 i 16V t (150 Hp) (2005 - 2007)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 TiD (150 Hp) (2005 - 2007)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 TiD (120 Hp) (2005 - 2007)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8t (150 Hp) Sentronic (2005 - 2007)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8t (150 Hp) (2005 - 2007)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 i 16V Bio (175 Hp) Sentronic (2005 - 2007)",
+              "hp": 175,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 i 16V Bio (175 Hp) (2005 - 2007)",
+              "hp": 175,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 i 16V (122 Hp) (2005 - 2007)",
+              "hp": 122,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "saab-9-3-sedan-ii": {
+          "label": "Saab 9-3 Sedan II",
+          "engines": [
+            {
+              "label": "2.8T V6 (250 Hp) Sentronic (2005 - 2007)",
+              "hp": 250,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.8T V6 (250 Hp) (2005 - 2007)",
+              "hp": 250,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 TiD (125 Hp) (2002 - 2007)",
+              "hp": 125,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 T (210 Hp) Automatic (2002 - 2007)",
+              "hp": 210,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 T (210 Hp) (2002 - 2007)",
+              "hp": 210,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 t (175 Hp) Automatic (2002 - 2007)",
+              "hp": 175,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 t (175 Hp) (2002 - 2007)",
+              "hp": 175,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 t (150 Hp) Automatic (2002 - 2007)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 t (150 Hp) (2002 - 2007)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 i 16V t (150 Hp) Automatic (2005 - 2007)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 i 16V t (150 Hp) (2005 - 2007)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 TiD (150 Hp) (2005 - 2007)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 TiD (120 Hp) (2005 - 2007)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 i 16V (122 Hp) (2005 - 2007)",
+              "hp": 122,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "saab-9-3-convertible-ii": {
+          "label": "Saab 9-3 Convertible II",
+          "engines": [
+            {
+              "label": "2.8T V6 (250 Hp) Automatic (2004 - 2007)",
+              "hp": 250,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.8T V6 (250 Hp) (2004 - 2007)",
+              "hp": 250,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 T (210 Hp) Automatic (2002 - 2007)",
+              "hp": 210,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 T (210 Hp) (2002 - 2007)",
+              "hp": 210,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 t (175 Hp) Automatic (2002 - 2007)",
+              "hp": 175,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 t (175 Hp) (2002 - 2007)",
+              "hp": 175,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 t (150 Hp) (2004 - 2007)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "saab-9-3-i": {
+          "label": "Saab 9-3 I",
+          "engines": [
+            {
+              "label": "2.3 T (230 Hp) (2000 - 2002)",
+              "hp": 230,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.3 i T SE (150 Hp) (1998 - 2002)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.3 i (150 Hp) (1998 - 2002)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 TiD (125 Hp) (2001 - 2002)",
+              "hp": 125,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 TiD (115 Hp) (1998 - 2000)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0i SE (130 Hp) Automatic (1998 - 2002)",
+              "hp": 130,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0i SE (130 Hp) (1998 - 2002)",
+              "hp": 130,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0i (130 Hp) Automatic (1998 - 2002)",
+              "hp": 130,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0i (130 Hp) (1998 - 2002)",
+              "hp": 130,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 T (205 Hp) Automatic (2000 - 2002)",
+              "hp": 205,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 T (205 Hp) (2000 - 2002)",
+              "hp": 205,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 T (154 Hp) Automatic (1998 - 2002)",
+              "hp": 154,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 T (154 Hp) (1998 - 2002)",
+              "hp": 154,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 i TS (200 Hp) (1998 - 2002)",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 i T SE (185 Hp) (1998 - 2002)",
+              "hp": 185,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 i T (185 Hp) (1998 - 2002)",
+              "hp": 185,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "saab-9-3-convertible-i": {
+          "label": "Saab 9-3 Convertible I",
+          "engines": [
+            {
+              "label": "2.3i (150 Hp) (1998 - 2000)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.3 T (230 Hp) (2000 - 2001)",
+              "hp": 230,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.3 i SE (150 Hp) (1998 - 2000)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 T (205 Hp) (2000 - 2002)",
+              "hp": 205,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 T (185 Hp) (1998 - 2002)",
+              "hp": 185,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "9-4x": {
+      "label": "9-4X",
+      "series": {
+        "saab-9-4x": {
+          "label": "Saab 9-4X",
+          "engines": [
+            {
+              "label": "Aero 2.8L V6 Turbo (300 Hp) XWD Automatic (2010 - 2011)",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0i V6 (265 Hp) XWD Automatic (2010 - 2011)",
+              "hp": 265,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0i V6 (265 Hp) Automatic (2010 - 2011)",
+              "hp": 265,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "9-5": {
+      "label": "9-5",
+      "series": {
+        "saab-9-5-ii-sport-combi": {
+          "label": "Saab 9-5 II Sport Combi",
+          "engines": [
+            {
+              "label": "2.0i (220 Hp) XWD Automatic (2009 - 2011)",
+              "hp": 220,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "saab-9-5-ii": {
+          "label": "Saab 9-5 II",
+          "engines": [
+            {
+              "label": "2.8i V6 (300 Hp) XWD Automatic (2009 - 2011)",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0i (220 Hp) Automatic (2009 - 2011)",
+              "hp": 220,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0i (220 Hp) (2009 - 2011)",
+              "hp": 220,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "saab-9-5-sport-combi-facelift-2005": {
+          "label": "Saab 9-5 Sport Combi (facelift 2005)",
+          "engines": [
+            {
+              "label": "2.3T (220 Hp) Sentronic (2005 - 2007)",
+              "hp": 220,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.3T (220 Hp) (2005 - 2007)",
+              "hp": 220,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.3t (185 Hp) Sentronic (2005 - 2010)",
+              "hp": 185,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.3t (185 Hp) (2005 - 2010)",
+              "hp": 185,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.3 Turbo (260 Hp) Sentronic (2005 - 2010)",
+              "hp": 260,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.3 Turbo (260 Hp) (2005 - 2010)",
+              "hp": 260,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0t (150 Hp) Sentronic (2005 - 2010)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0t (150 Hp) (2005 - 2010)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 TiD (150 Hp) Automatic (2005 - 2010)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 TiD (150 Hp) (2005 - 2010)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "saab-9-5-facelift-2005": {
+          "label": "Saab 9-5 (facelift 2005)",
+          "engines": [
+            {
+              "label": "2.3T (220 Hp) Sentronic (2005 - 2007)",
+              "hp": 220,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.3T (220 Hp) (2005 - 2007)",
+              "hp": 220,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.3t (185 Hp) Sentronic (2005 - 2009)",
+              "hp": 185,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.3t (185 Hp) (2005 - 2009)",
+              "hp": 185,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.3 Turbo (260 Hp) Sentronic (2005 - 2009)",
+              "hp": 260,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.3 Turbo (260 Hp) (2005 - 2009)",
+              "hp": 260,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0t (150 Hp) Sentronic (2005 - 2009)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0t (150 Hp) (2005 - 2009)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 TiD (150 Hp) Automatic (2005 - 2009)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 TiD (150 Hp) (2005 - 2009)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "saab-9-5-sport-combi-facelift-2001": {
+          "label": "Saab 9-5 Sport Combi (facelift 2001)",
+          "engines": [
+            {
+              "label": "3.0 TiD (176 Hp) (2001 - 2005)",
+              "hp": 176,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.3 T (250 Hp) Automatic (2001 - 2005)",
+              "hp": 250,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.3 T (250 Hp) (2001 - 2005)",
+              "hp": 250,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.3 t (185 Hp) Automatic (2001 - 2005)",
+              "hp": 185,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.3 t (185 Hp) (2001 - 2005)",
+              "hp": 185,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 TDi (120 Hp) (2002 - 2005)",
+              "hp": 120,
+              "fuel": "diesel"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "saab-9-5-facelift-2001": {
+          "label": "Saab 9-5 (facelift 2001)",
+          "engines": [
+            {
+              "label": "3.0 TiD (176 Hp) (2001 - 2005)",
+              "hp": 176,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.3 t (185 Hp) (2001 - 2005)",
+              "hp": 185,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 TDi (120 Hp) Automatic (2002 - 2005)",
+              "hp": 120,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.2 TDi (120 Hp) (2002 - 2005)",
+              "hp": 120,
+              "fuel": "diesel"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "saab-9-5-sport-combi": {
+          "label": "Saab 9-5 Sport Combi",
+          "engines": [
+            {
+              "label": "3.0 i V6 24V (200 Hp) (1998 - 2001)",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.3 T (230 Hp) Automatic (1999 - 2001)",
+              "hp": 230,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.3 T (230 Hp) (1999 - 2001)",
+              "hp": 230,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.3 T (170 Hp) Automatic (1998 - 2001)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.3 T (170 Hp) (1998 - 2001)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 T (150 Hp) Automatic (1997 - 2001)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 T (150 Hp) (1997 - 2001)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "saab-9-5": {
+          "label": "Saab 9-5",
+          "engines": [
+            {
+              "label": "3.0 i V6 24V (200 Hp) (1998 - 2001)",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.3i T SE (170 Hp) (1998 - 2001)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.3i T (170 Hp) Automatic (1998 - 2001)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.3i T (170 Hp) (1998 - 2001)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.3 T 16V Aero (250 Hp) Automatic (1999 - 2001)",
+              "hp": 250,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.3 T 16V Aero (250 Hp) (1999 - 2001)",
+              "hp": 250,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.3 T 16V (250 Hp) Automatic (1999 - 2001)",
+              "hp": 250,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.3 T (230 Hp) Automatic (1999 - 2001)",
+              "hp": 230,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.3 T (230 Hp) (1999 - 2001)",
+              "hp": 230,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0i T SE (150 Hp) Automatic (1998 - 2001)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0i T SE (150 Hp) (1998 - 2001)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 T 16V (185 Hp) Automatic (1999 - 2001)",
+              "hp": 185,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 T 16V (185 Hp) (1999 - 2001)",
+              "hp": 185,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 T (150 Hp) Automatic (1997 - 2001)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 T (150 Hp) (1997 - 2001)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "9-7x": {
+      "label": "9-7X",
+      "series": {
+        "saab-9-7x": {
+          "label": "Saab 9-7X",
+          "engines": [
+            {
+              "label": "5.3 i V8 (304 Hp) (2004 - 2008)",
+              "hp": 304,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.2 i 24V (279 Hp) (2004 - 2008)",
+              "hp": 279,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "90": {
+      "label": "90",
+      "series": {
+        "saab-90": {
+          "label": "Saab 90",
+          "engines": [
+            {
+              "label": "2.0 (100 Hp) (1984 - 1987)",
+              "hp": 100,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "900": {
+      "label": "900",
+      "series": {
+        "saab-900-ii-cabriolet": {
+          "label": "Saab 900 II Cabriolet",
+          "engines": [
+            {
+              "label": "2.5 V6 24V (170 Hp) (1993 - 1998)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.3 16V (150 Hp) (1993 - 1998)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0i (131 Hp) (1993 - 1998)",
+              "hp": 131,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 16V Turbo (185 Hp) (1993 - 1998)",
+              "hp": 185,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "saab-900-ii-combi-coupe": {
+          "label": "Saab 900 II Combi Coupe",
+          "engines": [
+            {
+              "label": "2.5 V6 24V (170 Hp) (1993 - 1998)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.3 16V (150 Hp) (1993 - 1998)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0i (131 Hp) (1993 - 1998)",
+              "hp": 131,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 16V Turbo (185 Hp) (1993 - 1998)",
+              "hp": 185,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "saab-900-ii": {
+          "label": "Saab 900 II",
+          "engines": [
+            {
+              "label": "2.5 V6 24V (170 Hp) (1993 - 1998)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.3 16V (150 Hp) (1993 - 1998)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0i (131 Hp) (1993 - 1998)",
+              "hp": 131,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 16V Turbo (185 Hp) (1993 - 1998)",
+              "hp": 185,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "saab-900-i-cabriolet": {
+          "label": "Saab 900 I Cabriolet",
+          "engines": [
+            {
+              "label": "2.1i 16V (136 Hp) Automatic (1986 - 1993)",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.1i 16V (136 Hp) (1986 - 1993)",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0i 16V (126 Hp) Automatic (1990 - 1994)",
+              "hp": 126,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0i 16V (126 Hp) (1990 - 1994)",
+              "hp": 126,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 i 16V Turbo (175 Hp) (1986 - 1993)",
+              "hp": 175,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 i 16V Turbo (160 Hp) (1986 - 1993)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 i 16V Turbo (141 Hp) Automatic (1990 - 1993)",
+              "hp": 141,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 i 16V Turbo (141 Hp) (1990 - 1993)",
+              "hp": 141,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "saab-900-i-combi-coupe-facelift-1987": {
+          "label": "Saab 900 I Combi Coupe (facelift 1987)",
+          "engines": [
+            {
+              "label": "2.1 16V (136 Hp) (1990 - 1993)",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Turbo 16V (180 Hp) (1993 - 1994)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Turbo 16V S CAT (170 Hp) (1989 - 1993)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Turbo (140 Hp) (1987 - 1991)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 S Turbo 16V (141 Hp) (1991 - 1993)",
+              "hp": 141,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 16V (126 Hp) (1989 - 1992)",
+              "hp": 126,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "saab-900-i--facelift-1987": {
+          "label": "Saab 900 I  (facelift 1987)",
+          "engines": [
+            {
+              "label": "2.1i 16V (136 Hp) Automatic (1990 - 1993)",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.1i 16V (136 Hp) (1990 - 1993)",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0i 16V Turbo (141 Hp) Automatic (1991 - 1993)",
+              "hp": 141,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0i 16V Turbo (141 Hp) (1991 - 1993)",
+              "hp": 141,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0i 16V (126 Hp) Automatic (1989 - 1993)",
+              "hp": 126,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0i 16V (126 Hp) (1989 - 1993)",
+              "hp": 126,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Turbo (140 Hp) (1987 - 1991)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 i 16V Turbo (146 Hp) (1991 - 1993)",
+              "hp": 146,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "saab-900-i-combi-coupe": {
+          "label": "Saab 900 I Combi Coupe",
+          "engines": [
+            {
+              "label": "2.0 Turbo 16V S (175 Hp) (1984 - 1986)",
+              "hp": 175,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Turbo 16V (160 Hp) (1985 - 1986)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Turbo (150 Hp) (1986 - 1986)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Turbo (145 Hp) (1978 - 1985)",
+              "hp": 145,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 i (115 Hp) (1980 - 1986)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 i (110 Hp) (1985 - 1986)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 c (108 Hp) (1978 - 1984)",
+              "hp": 108,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 c (100 Hp) (1979 - 1986)",
+              "hp": 100,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "saab-900-i": {
+          "label": "Saab 900 I",
+          "engines": [
+            {
+              "label": "2.0 Turbo (150 Hp) (1986 - 1986)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Turbo (146 Hp) (1980 - 1985)",
+              "hp": 146,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 i 16V Turbo (175 Hp) (1984 - 1986)",
+              "hp": 175,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 i 16V Turbo (160 Hp) (1985 - 1986)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 i (115 Hp) (1980 - 1986)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 i (110 Hp) (1985 - 1986)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 EMS (118 Hp) (1978 - 1980)",
+              "hp": 118,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 c (108 Hp) (1980 - 1984)",
+              "hp": 108,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 c (101 Hp) (1982 - 1986)",
+              "hp": 101,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "9000": {
+      "label": "9000",
+      "series": {
+        "saab-9000": {
+          "label": "Saab 9000",
+          "engines": [
+            {
+              "label": "3.0 V6 24V CD/CDE (211 Hp) (1994 - 1998)",
+              "hp": 211,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.3 16V CDE Turbo (200 Hp) (1993 - 1998)",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.3 16V Turbo (195 Hp) Automatic (1990 - 1993)",
+              "hp": 195,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.3 16V Turbo (195 Hp) (1990 - 1993)",
+              "hp": 195,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.3 16V CDE Eco-Power (170 Hp) (1993 - 1998)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.3 16V CDE (147 Hp) (1993 - 1998)",
+              "hp": 147,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.3 16V (146 Hp) Automatic (1990 - 1993)",
+              "hp": 146,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.3 16V (146 Hp) (1990 - 1993)",
+              "hp": 146,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 16V Turbo CD (185 Hp) (1990 - 1998)",
+              "hp": 185,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 16V Turbo (175 Hp) Automatic (1985 - 1991)",
+              "hp": 175,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 16V Turbo (175 Hp) (1985 - 1991)",
+              "hp": 175,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 16V Turbo CD (163 Hp) Automatic (1988 - 1993)",
+              "hp": 163,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 16V Turbo CD (163 Hp) (1988 - 1993)",
+              "hp": 163,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 16V Turbo (160 Hp) (1988 - 1993)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 16V CD (150 Hp) (1993 - 1998)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 16V Turbo CD (147 Hp) (1992 - 1998)",
+              "hp": 147,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 16V CD (131 Hp) (1993 - 1998)",
+              "hp": 131,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 16V (128 Hp) Automatic (1989 - 1993)",
+              "hp": 128,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 16V (128 Hp) (1989 - 1993)",
+              "hp": 128,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "saab-9000-hatchback": {
+          "label": "Saab 9000 Hatchback",
+          "engines": [
+            {
+              "label": "3.0 V6 24V CS/CSE (211 Hp) (1994 - 1998)",
+              "hp": 211,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.3 CS Aero (225 Hp) (1993 - 1998)",
+              "hp": 225,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.3 16V Aero CS (220 Hp) (1993 - 1998)",
+              "hp": 220,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.3 16V Turbo CSE (200 Hp) (1993 - 1998)",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.3 16V Turbo CS (195 Hp) (1990 - 1998)",
+              "hp": 195,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.3 16V CSE Eco Power (170 Hp) (1993 - 1998)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.3 16V CSE (147 Hp) (1993 - 1998)",
+              "hp": 147,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.3 16V CS (146 Hp) (1989 - 1998)",
+              "hp": 146,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 16V Turbo CS (185 Hp) (1993 - 1998)",
+              "hp": 185,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 16V Turbo (175 Hp) (1984 - 1991)",
+              "hp": 175,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 16V Turbo (172 Hp) (1989 - 1992)",
+              "hp": 172,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 16V Turbo (163 Hp) (1988 - 1993)",
+              "hp": 163,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 16V Turbo (160 Hp) (1984 - 1993)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 16V ND Turbo (150 Hp) (1993 - 1998)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 16V CS (131 Hp) (1993 - 1998)",
+              "hp": 131,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 16V CS (128 Hp) (1989 - 1998)",
+              "hp": 128,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 16V (128 Hp) (1985 - 1988)",
+              "hp": 128,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 16V (125 Hp) (1985 - 1988)",
+              "hp": 125,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "95": {
+      "label": "95",
+      "series": {
+        "saab-95": {
+          "label": "Saab 95",
+          "engines": [
+            {
+              "label": "1.5 V4 (68 Hp) (1977 - 1978)",
+              "hp": 68,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 V4 (65 Hp) (1976 - 1977)",
+              "hp": 65,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.8 (38 Hp) (1959 - 1966)",
+              "hp": 38,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "96": {
+      "label": "96",
+      "series": {
+        "saab-96": {
+          "label": "Saab 96",
+          "engines": [
+            {
+              "label": "1.5 V4 (68 Hp) (1977 - 1980)",
+              "hp": 68,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 V4 (65 Hp) (1966 - 1975)",
+              "hp": 65,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 V4 (63 Hp) (1975 - 1977)",
+              "hp": 63,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.8 (38 Hp) (1960 - 1967)",
+              "hp": 38,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "99": {
+      "label": "99",
+      "series": {
+        "saab-99-combi-coupe": {
+          "label": "Saab 99 Combi Coupe",
+          "engines": [
+            {
+              "label": "2.0 Turbo (147 Hp) (1977 - 1980)",
+              "hp": 147,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (107 Hp) (1976 - 1978)",
+              "hp": 107,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "saab-99": {
+          "label": "Saab 99",
+          "engines": [
+            {
+              "label": "2.0 GL (100 Hp) (1974 - 1984)",
+              "hp": 100,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 EMS (118 Hp) (1974 - 1978)",
+              "hp": 118,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 EMS (110 Hp) (1972 - 1974)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (95 Hp) (1972 - 1974)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8S (87 Hp) (1967 - 1972)",
+              "hp": 87,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.7 (81 Hp) (1967 - 1968)",
+              "hp": 81,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "name": "MF 25",
+    "description": "MF 25",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/WIESMANN/model/MF%2025"
+  },
+  {
+    "name": "MF 28",
+    "description": "MF 28",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/WIESMANN/model/MF%2028"
+  },
+  {
+    "name": "MF 3",
+    "description": "MF 3",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/WIESMANN/model/MF%203"
+  },
+  {
+    "name": "MF 30",
+    "description": "MF 30",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/WIESMANN/model/MF%2030"
+  },
+  {
+    "name": "MF 35",
+    "description": "MF 35",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/WIESMANN/model/MF%2035"
+  },
+  {
+    "name": "MF 4",
+    "description": "MF 4",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/WIESMANN/model/MF%204"
+  },
+  {
+    "name": "MF 5",
+    "description": "MF 5",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/WIESMANN/model/MF%205"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/WIESMANN/model/ANDERE"
+  }
+]

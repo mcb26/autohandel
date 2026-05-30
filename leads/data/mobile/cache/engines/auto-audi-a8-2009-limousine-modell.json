@@ -1,0 +1,152 @@
+[
+  {
+    "label": "A8 3.0 TFSI quattro tiptronic Langversion (Benzin, 290 PS)",
+    "fuel": "benzin",
+    "hp": 290
+  },
+  {
+    "label": "A8 3.0 TFSI quattro tiptronic (Benzin, 290 PS)",
+    "fuel": "benzin",
+    "hp": 290
+  },
+  {
+    "label": "A8 3.0 TFSI quattro tiptronic Langversion (Benzin, 310 PS)",
+    "fuel": "benzin",
+    "hp": 310
+  },
+  {
+    "label": "A8 3.0 TFSI quattro tiptronic (Benzin, 310 PS)",
+    "fuel": "benzin",
+    "hp": 310
+  },
+  {
+    "label": "A8 4.2 FSI quattro tiptronic Langversion (Benzin, 372 PS)",
+    "fuel": "benzin",
+    "hp": 372
+  },
+  {
+    "label": "A8 4.2 FSI quattro tiptronic (Benzin, 372 PS)",
+    "fuel": "benzin",
+    "hp": 372
+  },
+  {
+    "label": "A8 4.0 TFSI quattro tiptronic Langversion (Benzin, 420 PS)",
+    "fuel": "benzin",
+    "hp": 420
+  },
+  {
+    "label": "A8 4.0 TFSI quattro tiptronic (Benzin, 420 PS)",
+    "fuel": "benzin",
+    "hp": 420
+  },
+  {
+    "label": "A8 4.0 TFSI cylinder on demand quattro tiptr. Lang (Benzin, 435 PS)",
+    "fuel": "benzin",
+    "hp": 435
+  },
+  {
+    "label": "A8 4.0 TFSI cylinder on demand quattro tiptronic (Benzin, 435 PS)",
+    "fuel": "benzin",
+    "hp": 435
+  },
+  {
+    "label": "A8 W12 6.3 FSI quattro tiptronic Lang (Benzin, 500 PS)",
+    "fuel": "benzin",
+    "hp": 500
+  },
+  {
+    "label": "A8 W12 quattro tiptronic Langversion (Benzin, 500 PS)",
+    "fuel": "benzin",
+    "hp": 500
+  },
+  {
+    "label": "S8 (Benzin, 520 PS)",
+    "fuel": "benzin",
+    "hp": 520
+  },
+  {
+    "label": "S8 plus (Benzin, 605 PS)",
+    "fuel": "benzin",
+    "hp": 605
+  },
+  {
+    "label": "A8 2.0 TFSI Hybrid tiptronic Langversion (Benzin/Elektro, 211 PS)",
+    "fuel": "benzin/elektro",
+    "hp": 211
+  },
+  {
+    "label": "A8 2.0 TFSI Hybrid tiptronic (Benzin/Elektro, 211 PS)",
+    "fuel": "benzin/elektro",
+    "hp": 211
+  },
+  {
+    "label": "A8 3.0 TDI DPF tiptronic (Diesel, 204 PS)",
+    "fuel": "diesel",
+    "hp": 204
+  },
+  {
+    "label": "A8 3.0 TDI DPF clean diesel quattro tiptronic Lang (Diesel, 250 PS)",
+    "fuel": "diesel",
+    "hp": 250
+  },
+  {
+    "label": "A8 3.0 TDI DPF clean diesel quattro tiptronic (Diesel, 250 PS)",
+    "fuel": "diesel",
+    "hp": 250
+  },
+  {
+    "label": "A8 3.0 TDI DPF quattro tiptronic Langversion (Diesel, 250 PS)",
+    "fuel": "diesel",
+    "hp": 250
+  },
+  {
+    "label": "A8 3.0 TDI DPF quattro tiptronic (Diesel, 250 PS)",
+    "fuel": "diesel",
+    "hp": 250
+  },
+  {
+    "label": "A8 3.0 TDI DPF clean diesel quattro tiptronic Lang (Diesel, 258 PS)",
+    "fuel": "diesel",
+    "hp": 258
+  },
+  {
+    "label": "A8 3.0 TDI DPF clean diesel quattro tiptronic (Diesel, 258 PS)",
+    "fuel": "diesel",
+    "hp": 258
+  },
+  {
+    "label": "A8 3.0 TDI DPF quattro tiptronic Lang (Diesel, 262 PS)",
+    "fuel": "diesel",
+    "hp": 262
+  },
+  {
+    "label": "A8 3.0 TDI DPF quattro tiptronic (Diesel, 262 PS)",
+    "fuel": "diesel",
+    "hp": 262
+  },
+  {
+    "label": "A8 3.0 TDI ultra DPF quattro tiptronic (Diesel, 262 PS)",
+    "fuel": "diesel",
+    "hp": 262
+  },
+  {
+    "label": "A8 4.2 TDI DPF quattro tiptronic Langversion (Diesel, 350 PS)",
+    "fuel": "diesel",
+    "hp": 350
+  },
+  {
+    "label": "A8 4.2 TDI DPF quattro tiptronic (Diesel, 350 PS)",
+    "fuel": "diesel",
+    "hp": 350
+  },
+  {
+    "label": "A8 4.2 TDI DPF (clean diesel) quattro tiptro. Lang (Diesel, 385 PS)",
+    "fuel": "clean diesel) quattro tiptro. lang (diesel",
+    "hp": 385
+  },
+  {
+    "label": "A8 4.2 TDI DPF (clean diesel) quattro tiptronic (Diesel, 385 PS)",
+    "fuel": "clean diesel) quattro tiptronic (diesel",
+    "hp": 385
+  }
+]

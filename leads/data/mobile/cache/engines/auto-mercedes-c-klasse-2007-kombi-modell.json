@@ -1,0 +1,372 @@
+[
+  {
+    "label": "C 180 T CGI Automatik (Benzin, 156 PS)",
+    "fuel": "benzin",
+    "hp": 156
+  },
+  {
+    "label": "C 180 T Kompressor Automatik (Benzin, 156 PS)",
+    "fuel": "benzin",
+    "hp": 156
+  },
+  {
+    "label": "C 180 T (BlueEFFICIENCY) 7G-TRONIC (Benzin, 156 PS)",
+    "fuel": "blueefficiency) 7g-tronic (benzin",
+    "hp": 156
+  },
+  {
+    "label": "C 180 T BlueEFFICIENCY 7G-TRONIC (Benzin, 156 PS)",
+    "fuel": "benzin",
+    "hp": 156
+  },
+  {
+    "label": "C 180 T 7G-TRONIC (Benzin, 156 PS)",
+    "fuel": "benzin",
+    "hp": 156
+  },
+  {
+    "label": "C 180 T CGI (Benzin, 156 PS)",
+    "fuel": "benzin",
+    "hp": 156
+  },
+  {
+    "label": "C 180 T Kompressor (Benzin, 156 PS)",
+    "fuel": "benzin",
+    "hp": 156
+  },
+  {
+    "label": "C 180 T (BlueEFFICIENCY) (Benzin, 156 PS)",
+    "fuel": "blueefficiency) (benzin",
+    "hp": 156
+  },
+  {
+    "label": "C 180 T BlueEFFICIENCY (Benzin, 156 PS)",
+    "fuel": "benzin",
+    "hp": 156
+  },
+  {
+    "label": "C 180 T (Benzin, 156 PS)",
+    "fuel": "benzin",
+    "hp": 156
+  },
+  {
+    "label": "C 200 T CGI Automatik (Benzin, 183 PS)",
+    "fuel": "benzin",
+    "hp": 183
+  },
+  {
+    "label": "C 200 T Kompressor Automatik (Benzin, 183 PS)",
+    "fuel": "benzin",
+    "hp": 183
+  },
+  {
+    "label": "C 200 T (BlueEFFICIENCY) 7G-TRONIC (Benzin, 184 PS)",
+    "fuel": "blueefficiency) 7g-tronic (benzin",
+    "hp": 184
+  },
+  {
+    "label": "C 200 T 7G-TRONIC (Benzin, 184 PS)",
+    "fuel": "benzin",
+    "hp": 184
+  },
+  {
+    "label": "C 200 T CGI (Benzin, 183 PS)",
+    "fuel": "benzin",
+    "hp": 183
+  },
+  {
+    "label": "C 200 T Kompressor (Benzin, 183 PS)",
+    "fuel": "benzin",
+    "hp": 183
+  },
+  {
+    "label": "C 200 T (BlueEFFICIENCY) (Benzin, 184 PS)",
+    "fuel": "blueefficiency) (benzin",
+    "hp": 184
+  },
+  {
+    "label": "C 200 T (Benzin, 184 PS)",
+    "fuel": "benzin",
+    "hp": 184
+  },
+  {
+    "label": "C 250 CGI T Automatik (Benzin, 204 PS)",
+    "fuel": "benzin",
+    "hp": 204
+  },
+  {
+    "label": "C 230 T 7G-TRONIC (Benzin, 204 PS)",
+    "fuel": "benzin",
+    "hp": 204
+  },
+  {
+    "label": "C 250 T (BlueEFFICIENCY) 7G-TRONIC (Benzin, 204 PS)",
+    "fuel": "blueefficiency) 7g-tronic (benzin",
+    "hp": 204
+  },
+  {
+    "label": "C 250 T 7G-TRONIC (Benzin, 204 PS)",
+    "fuel": "benzin",
+    "hp": 204
+  },
+  {
+    "label": "C 230 T (Benzin, 204 PS)",
+    "fuel": "benzin",
+    "hp": 204
+  },
+  {
+    "label": "C 300 T 7G-TRONIC (Benzin, 231 PS)",
+    "fuel": "benzin",
+    "hp": 231
+  },
+  {
+    "label": "C 280 T 7G-TRONIC (Benzin, 231 PS)",
+    "fuel": "benzin",
+    "hp": 231
+  },
+  {
+    "label": "C 300 T (Benzin, 231 PS)",
+    "fuel": "benzin",
+    "hp": 231
+  },
+  {
+    "label": "C 280 T (Benzin, 231 PS)",
+    "fuel": "benzin",
+    "hp": 231
+  },
+  {
+    "label": "C 350 T 7G-TRONIC (Benzin, 272 PS)",
+    "fuel": "benzin",
+    "hp": 272
+  },
+  {
+    "label": "C 350 T (BlueEFFICIENCY) 7G-TRONIC (Benzin, 306 PS)",
+    "fuel": "blueefficiency) 7g-tronic (benzin",
+    "hp": 306
+  },
+  {
+    "label": "C 350 T 7G-TRONIC (Benzin, 306 PS)",
+    "fuel": "benzin",
+    "hp": 306
+  },
+  {
+    "label": "C 63 AMG T 7G-TRONIC (Benzin, 457 PS)",
+    "fuel": "benzin",
+    "hp": 457
+  },
+  {
+    "label": "C 63 AMG T AMG SPEEDSHIFT MCT (Benzin, 457 PS)",
+    "fuel": "benzin",
+    "hp": 457
+  },
+  {
+    "label": "C 63 AMG T 7G-TRONIC (Benzin, 487 PS)",
+    "fuel": "benzin",
+    "hp": 487
+  },
+  {
+    "label": "C 63 AMG T AMG SPEEDSHIFT MCT (Benzin, 487 PS)",
+    "fuel": "benzin",
+    "hp": 487
+  },
+  {
+    "label": "C 63 AMG T AMG SPEEDSHIFT MCT (Benzin, 507 PS)",
+    "fuel": "benzin",
+    "hp": 507
+  },
+  {
+    "label": "C 180 T CDI DPF (BlueEFFICIENCY) 7G-TRONIC (Diesel, 120 PS)",
+    "fuel": "blueefficiency) 7g-tronic (diesel",
+    "hp": 120
+  },
+  {
+    "label": "C 180 T CDI 7G-TRONIC (Diesel, 120 PS)",
+    "fuel": "diesel",
+    "hp": 120
+  },
+  {
+    "label": "C 180 T CDI DPF (BlueEFFICIENCY) (Diesel, 120 PS)",
+    "fuel": "blueefficiency) (diesel",
+    "hp": 120
+  },
+  {
+    "label": "C 180 T CDI (Diesel, 120 PS)",
+    "fuel": "diesel",
+    "hp": 120
+  },
+  {
+    "label": "C 200 T CDI DPF Automatik (Diesel, 136 PS)",
+    "fuel": "diesel",
+    "hp": 136
+  },
+  {
+    "label": "C 200 T CDI DPF (BlueEFFICIENCY) 7G-TRONIC (Diesel, 136 PS)",
+    "fuel": "blueefficiency) 7g-tronic (diesel",
+    "hp": 136
+  },
+  {
+    "label": "C 200 T CDI 7G-TRONIC (Diesel, 136 PS)",
+    "fuel": "diesel",
+    "hp": 136
+  },
+  {
+    "label": "C 200 T CDI DPF (Diesel, 136 PS)",
+    "fuel": "diesel",
+    "hp": 136
+  },
+  {
+    "label": "C 200 T CDI DPF (BlueEFFICIENCY) (Diesel, 136 PS)",
+    "fuel": "blueefficiency) (diesel",
+    "hp": 136
+  },
+  {
+    "label": "C 200 T CDI (Diesel, 136 PS)",
+    "fuel": "diesel",
+    "hp": 136
+  },
+  {
+    "label": "C 220 T CDI 4Matic 7G-TRONIC (Diesel, 170 PS)",
+    "fuel": "diesel",
+    "hp": 170
+  },
+  {
+    "label": "C 220 T CDI DPF Automatik (Diesel, 170 PS)",
+    "fuel": "diesel",
+    "hp": 170
+  },
+  {
+    "label": "C 220 T CDI DPF (BlueEFFICIENCY) 7G-TRONIC (Diesel, 170 PS)",
+    "fuel": "blueefficiency) 7g-tronic (diesel",
+    "hp": 170
+  },
+  {
+    "label": "C 220 T CDI 7G-TRONIC (Diesel, 170 PS)",
+    "fuel": "diesel",
+    "hp": 170
+  },
+  {
+    "label": "C 220 T CDI DPF (Diesel, 170 PS)",
+    "fuel": "diesel",
+    "hp": 170
+  },
+  {
+    "label": "C 220 T CDI DPF (BlueEFFICIENCY) (Diesel, 170 PS)",
+    "fuel": "blueefficiency) (diesel",
+    "hp": 170
+  },
+  {
+    "label": "C 220 T CDI DPF BlueEFFICIENCY (Diesel, 170 PS)",
+    "fuel": "diesel",
+    "hp": 170
+  },
+  {
+    "label": "C 220 T CDI (Diesel, 170 PS)",
+    "fuel": "diesel",
+    "hp": 170
+  },
+  {
+    "label": "C 250 T CDI DPF Automatik (Diesel, 204 PS)",
+    "fuel": "diesel",
+    "hp": 204
+  },
+  {
+    "label": "C 250 T CDI DPF (BlueEFFICIENCY) 7G-TRONIC (Diesel, 204 PS)",
+    "fuel": "blueefficiency) 7g-tronic (diesel",
+    "hp": 204
+  },
+  {
+    "label": "C 250 T CDI DPF 4Matic (BlueEFFICIENCY) 7G-TRONIC (Diesel, 204 PS)",
+    "fuel": "blueefficiency) 7g-tronic (diesel",
+    "hp": 204
+  },
+  {
+    "label": "C 250 T CDI DPF 4Matic 7G-TRONIC (Diesel, 204 PS)",
+    "fuel": "diesel",
+    "hp": 204
+  },
+  {
+    "label": "C 250 T CDI 4Matic 7G-TRONIC (Diesel, 204 PS)",
+    "fuel": "diesel",
+    "hp": 204
+  },
+  {
+    "label": "C 250 T CDI 7G-TRONIC (Diesel, 204 PS)",
+    "fuel": "diesel",
+    "hp": 204
+  },
+  {
+    "label": "C 250 T CDI DPF (Diesel, 204 PS)",
+    "fuel": "diesel",
+    "hp": 204
+  },
+  {
+    "label": "C 250 T CDI DPF (BlueEFFICIENCY) (Diesel, 204 PS)",
+    "fuel": "blueefficiency) (diesel",
+    "hp": 204
+  },
+  {
+    "label": "C 250 T CDI (Diesel, 204 PS)",
+    "fuel": "diesel",
+    "hp": 204
+  },
+  {
+    "label": "C 350 T CDI DPF 4Matic 7G-TRONIC (Diesel, 224 PS)",
+    "fuel": "diesel",
+    "hp": 224
+  },
+  {
+    "label": "C 350 T CDI DPF 7G-TRONIC (Diesel, 224 PS)",
+    "fuel": "diesel",
+    "hp": 224
+  },
+  {
+    "label": "C 320 T CDI DPF 4Matic 7G-TRONIC (Diesel, 224 PS)",
+    "fuel": "diesel",
+    "hp": 224
+  },
+  {
+    "label": "C 320 T CDI DPF 7G-TRONIC (Diesel, 224 PS)",
+    "fuel": "diesel",
+    "hp": 224
+  },
+  {
+    "label": "C 350 T CDI DPF (Diesel, 224 PS)",
+    "fuel": "diesel",
+    "hp": 224
+  },
+  {
+    "label": "C 320 T CDI DPF (Diesel, 224 PS)",
+    "fuel": "diesel",
+    "hp": 224
+  },
+  {
+    "label": "C 350 T CDI DPF 4Matic 7G-TRONIC (Diesel, 231 PS)",
+    "fuel": "diesel",
+    "hp": 231
+  },
+  {
+    "label": "C 350 T CDI DPF 7G-TRONIC (Diesel, 231 PS)",
+    "fuel": "diesel",
+    "hp": 231
+  },
+  {
+    "label": "C 300 T CDI DPF 4Matic (BlueEFFICIENCY) 7G-TRONIC (Diesel, 231 PS)",
+    "fuel": "blueefficiency) 7g-tronic (diesel",
+    "hp": 231
+  },
+  {
+    "label": "C 300 T CDI 4Matic 7G-TRONIC (Diesel, 231 PS)",
+    "fuel": "diesel",
+    "hp": 231
+  },
+  {
+    "label": "C 350 T CDI DPF (BlueEFFICIENCY) 7G-TRONIC (Diesel, 265 PS)",
+    "fuel": "blueefficiency) 7g-tronic (diesel",
+    "hp": 265
+  },
+  {
+    "label": "C 350 T CDI 7G-TRONIC (Diesel, 265 PS)",
+    "fuel": "diesel",
+    "hp": 265
+  }
+]

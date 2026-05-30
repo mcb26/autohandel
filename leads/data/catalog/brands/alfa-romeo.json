@@ -1,0 +1,3364 @@
+{
+  "label": "Alfa Romeo",
+  "models": {
+    "145": {
+      "label": "145",
+      "series": {
+        "alfa-romeo-145-930-facelift-1999": {
+          "label": "Alfa Romeo 145 (930, facelift 1999)",
+          "engines": [
+            {
+              "label": "2.0 Twin Spark Quadrifoglio (155 Hp) (1999 - 2000)",
+              "hp": 155,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 JTD (105 Hp) (1999 - 2000)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 Twin Spark 16V (144 Hp) (1999 - 2000)",
+              "hp": 144,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 Twin Spark 16V (120 Hp) (1999 - 2000)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 Twin Spark 16V (103 Hp) (1999 - 2000)",
+              "hp": 103,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "alfa-romeo-145-930-facelift-1997": {
+          "label": "Alfa Romeo 145 (930, facelift 1997)",
+          "engines": [
+            {
+              "label": "2.0 Twin Spark 16V Quadrifoglio (155 Hp) (1998 - 1999)",
+              "hp": 155,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Twin Spark Quadrifoglio (150 Hp) (1997 - 1998)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 TD (90 Hp) (1997 - 1999)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 Twin Spark (144 Hp) (1998 - 1999)",
+              "hp": 144,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 Twin Spark (140 Hp) (1997 - 1998)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 Twin Spark (120 Hp) (1997 - 1999)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 Twin Spark (103 Hp) (1997 - 1999)",
+              "hp": 103,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "alfa-romeo-145-930": {
+          "label": "Alfa Romeo 145 (930)",
+          "engines": [
+            {
+              "label": "2.0 Twin Spark Quadrifoglio (150 Hp) (1995 - 1996)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 TD (90 Hp) (1994 - 1996)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.7 I.E. 16V (129 Hp) (1994 - 1996)",
+              "hp": 129,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 I.E. (103 Hp) (1994 - 1996)",
+              "hp": 103,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 I.E. (90 Hp) (1994 - 1996)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "146": {
+      "label": "146",
+      "series": {
+        "alfa-romeo-146-930-facelift-1999": {
+          "label": "Alfa Romeo 146 (930, facelift 1999)",
+          "engines": [
+            {
+              "label": "2.0 ti (155 Hp) (1999 - 2000)",
+              "hp": 155,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 JTD (105 Hp) (1999 - 2000)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 Twin Spark 16V (144 Hp) (1999 - 2000)",
+              "hp": 144,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 Twin Spark 16V (120 Hp) (1999 - 2000)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 Twin Spark 16V (103 Hp) (1999 - 2000)",
+              "hp": 103,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "alfa-romeo-146-930-facelift-1997": {
+          "label": "Alfa Romeo 146 (930, facelift 1997)",
+          "engines": [
+            {
+              "label": "2.0 ti (155 Hp) (1998 - 1999)",
+              "hp": 155,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 ti (150 Hp) (1997 - 1998)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 TD (90 Hp) (1997 - 1999)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 Twin Spark (144 Hp) (1998 - 1999)",
+              "hp": 144,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 Twin Spark (140 Hp) (1997 - 1998)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 Twin Spark (120 Hp) (1997 - 1999)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 Twin Spark (103 Hp) (1997 - 1999)",
+              "hp": 103,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "alfa-romeo-146-930": {
+          "label": "Alfa Romeo 146 (930)",
+          "engines": [
+            {
+              "label": "2.0 Twin Spark (150 Hp) (1995 - 1996)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 TD (90 Hp) (1994 - 1996)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.7 i.e. (129 Hp) (1994 - 1996)",
+              "hp": 129,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 i.e. (103 Hp) (1994 - 1996)",
+              "hp": 103,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 i.e. (90 Hp) (1994 - 1996)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "147": {
+      "label": "147",
+      "series": {
+        "alfa-romeo-147-facelift-2004-5-doors": {
+          "label": "Alfa Romeo 147 (facelift 2004) 5-doors",
+          "engines": [
+            {
+              "label": "2.0 Twin Spark (150 Hp) Automatic (2004 - 2010)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Twin Spark (150 Hp) (2004 - 2010)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 JTD (170 Hp) (2007 - 2010)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 JTD (120 Hp) (2005 - 2010)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 JTD (101 Hp) (2004 - 2005)",
+              "hp": 101,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 16V JTD (150 Hp) (2005 - 2008)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 Twin Spark (120 Hp) (2004 - 2010)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 Twin Spark (105 Hp) (2004 - 2010)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "alfa-romeo-147-facelift-2004-3-doors": {
+          "label": "Alfa Romeo 147 (facelift 2004) 3-doors",
+          "engines": [
+            {
+              "label": "2.0 Twin Spark (150 Hp) Automatic (2004 - 2010)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Twin Spark (150 Hp) (2004 - 2010)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 JTD (170 Hp) (2007 - 2010)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 JTD (120 Hp) (2005 - 2010)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 JTD (101 Hp) (2004 - 2005)",
+              "hp": 101,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 16V JTD (150 Hp) (2005 - 2008)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 Twin Spark (120 Hp) (2004 - 2010)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 Twin Spark ECO 16V (105 Hp) (2004 - 2010)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "alfa-romeo-147-gta": {
+          "label": "Alfa Romeo 147 GTA",
+          "engines": [
+            {
+              "label": "3.2 V6 (250 Hp) (2003 - 2006)",
+              "hp": 250,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "alfa-romeo-147-5-doors": {
+          "label": "Alfa Romeo 147 5-doors",
+          "engines": [
+            {
+              "label": "2.0 Twin Spark (150 Hp) Automatic (2000 - 2004)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Twin Spark (150 Hp) (2000 - 2004)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 JTD (115 Hp) (2001 - 2004)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 JTD (110 Hp) (2000 - 2001)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 JTD (101 Hp) (2003 - 2004)",
+              "hp": 101,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 16V JTD (140 Hp) (2002 - 2004)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 Twin Spark (120 Hp) (2000 - 2004)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 Twin Spark 16V (105 Hp) (2000 - 2004)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "alfa-romeo-147-3-doors": {
+          "label": "Alfa Romeo 147 3-doors",
+          "engines": [
+            {
+              "label": "2.0 Twin Spark (150 Hp) Automatic (2000 - 2004)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Twin Spark (150 Hp) (2000 - 2004)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 JTD 16V (140 Hp) (2002 - 2004)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 JTD (115 Hp) (2001 - 2004)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 JTD (110 Hp) (2000 - 2001)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 JTD (101 Hp) (2003 - 2004)",
+              "hp": 101,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 Twin Spark (120 Hp) (2000 - 2004)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 Twin Spark 16V (105 Hp) (2000 - 2004)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "155": {
+      "label": "155",
+      "series": {
+        "alfa-romeo-155-167": {
+          "label": "Alfa Romeo 155 (167)",
+          "engines": [
+            {
+              "label": "2.5 V6 (165 Hp) (1992 - 1996)",
+              "hp": 165,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 TD (125 Hp) (1993 - 1997)",
+              "hp": 125,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Twin Spark 16V (150 Hp) (1995 - 1998)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Twin Spark (143 Hp) (1992 - 1993)",
+              "hp": 143,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Twin Spark (141 Hp) (1992 - 1995)",
+              "hp": 141,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Turbo 16V (190 Hp) Q4 (1992 - 1998)",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 TD (90 Hp) (1993 - 1998)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 Twin Spark (129 Hp) (1992 - 1993)",
+              "hp": 129,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 Twin Spark Sport (126 Hp) (1992 - 1996)",
+              "hp": 126,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.7 Twin Spark 16V (140 Hp) (1996 - 1997)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.7 Twin Spark (115 Hp) (1993 - 1996)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 Twin Spark 16V (120 Hp) (1996 - 1997)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "156": {
+      "label": "156",
+      "series": {
+        "alfa-romeo-156-crosswagon-932-facelift-2003": {
+          "label": "Alfa Romeo 156 Crosswagon (932, facelift 2003)",
+          "engines": [
+            {
+              "label": "1.9 16V JTD M-Jet (150 Hp) (2004 - 2007)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "alfa-romeo-156-932-facelift-2003": {
+          "label": "Alfa Romeo 156 (932, facelift 2003)",
+          "engines": [
+            {
+              "label": "2.5 i V6 24V (192 Hp) Q-System (2003 - 2006)",
+              "hp": 192,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 i V6 24V (192 Hp) (2003 - 2006)",
+              "hp": 192,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 JTD (175 Hp) (2003 - 2006)",
+              "hp": 175,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 16V JTS (165 Hp) Selespeed (2003 - 2006)",
+              "hp": 165,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 16V JTS (165 Hp) (2003 - 2006)",
+              "hp": 165,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 JTD (115 Hp) (2003 - 2006)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 16V JTD (140 Hp) (2003 - 2006)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 16V Twin Spark (140 Hp) (2003 - 2006)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 16V Twin Spark (120 Hp) (2003 - 2006)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "alfa-romeo-156-sport-wagon-932-facelift-2003": {
+          "label": "Alfa Romeo 156 Sport Wagon (932, facelift 2003)",
+          "engines": [
+            {
+              "label": "2.5 i V6 24V (192 Hp) Q-System (2003 - 2006)",
+              "hp": 192,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 i V6 24V (192 Hp) (2003 - 2006)",
+              "hp": 192,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 JTD (175 Hp) (2003 - 2006)",
+              "hp": 175,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 16V JTS (165 Hp) Selespeed (2003 - 2006)",
+              "hp": 165,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 16V JTS (165 Hp) (2003 - 2006)",
+              "hp": 165,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 JTD (115 Hp) (2003 - 2006)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 16V JTD (150 Hp) Q4 (2004 - 2006)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 16V JTD (140 Hp) (2003 - 2006)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 16V Twin Spark (140 Hp) (2003 - 2006)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 16V Twin Spark (120 Hp) (2003 - 2006)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "alfa-romeo-156-gta-sport-wagon-932": {
+          "label": "Alfa Romeo 156 GTA Sport Wagon (932)",
+          "engines": [
+            {
+              "label": "3.2 i V6 24V (250 Hp) (2002 - 2007)",
+              "hp": 250,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "alfa-romeo-156-gta-932": {
+          "label": "Alfa Romeo 156 GTA (932)",
+          "engines": [
+            {
+              "label": "3.2 i V6 24V (250 Hp) (2002 - 2007)",
+              "hp": 250,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "alfa-romeo-156-sport-wagon-932": {
+          "label": "Alfa Romeo 156 Sport Wagon (932)",
+          "engines": [
+            {
+              "label": "2.5 V6 24V (190 Hp) Q-system (2000 - 2002)",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 i V6 24V (190 Hp) Automatic (2000 - 2002)",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 i V6 24V (190 Hp) (2000 - 2002)",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 JTD (150 Hp) (2002 - 2003)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 JTD (136 Hp) (2000 - 2003)",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 JTS (165 Hp) (2001 - 2003)",
+              "hp": 165,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 16V Twin Spark (155 Hp) (2000 - 2003)",
+              "hp": 155,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 16V Twin Spark (150 Hp) (2000 - 2002)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 JTD (115 Hp) (2001 - 2003)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 JTD (110 Hp) (2000 - 2001)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 JTD (105 Hp) (2000 - 2003)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 16V Twin Spark (144 Hp) (2000 - 2000)",
+              "hp": 144,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 16V Twin Spark (140 Hp) (2000 - 2003)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 16V Twin Spark (120 Hp) (2000 - 2003)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "alfa-romeo-156-932": {
+          "label": "Alfa Romeo 156 (932)",
+          "engines": [
+            {
+              "label": "2.5 V6 24V (190 Hp) Q-system (1999 - 2003)",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 i V6 24V (190 Hp) Automatic (1999 - 2003)",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 i V6 24V (190 Hp) (1999 - 2003)",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 JTD (150 Hp) (2002 - 2003)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 JTD (136 Hp) (1997 - 2000)",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 JTS (165 Hp) (2000 - 2003)",
+              "hp": 165,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 16V Twin Spark (155 Hp) (1997 - 2002)",
+              "hp": 155,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 16V Twin Spark (150 Hp) (2000 - 2002)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 JTD (115 Hp) (2001 - 2003)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 JTD (110 Hp) (2000 - 2001)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 JTD (105 Hp) (1997 - 2000)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 16V Twin Spark (144 Hp) (1997 - 2000)",
+              "hp": 144,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 16V Twin Spark (140 Hp) (2000 - 2003)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 16V Twin Spark (120 Hp) (1997 - 2003)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "159": {
+      "label": "159",
+      "series": {
+        "alfa-romeo-159-sportwagon": {
+          "label": "Alfa Romeo 159 Sportwagon",
+          "engines": [
+            {
+              "label": "3.2 JTS V6 (260 Hp) Q4 Q-Tronic (2007 - 2010)",
+              "hp": 260,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.2 JTS V6 (260 Hp) Q4 (2006 - 2009)",
+              "hp": 260,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.2 JTS V6 (260 Hp) (2008 - 2009)",
+              "hp": 260,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 JTDM 20V (210 Hp) Q4 (2007 - 2009)",
+              "hp": 210,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 JTDM 20V (210 Hp) (2007 - 2009)",
+              "hp": 210,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 JTDM (200 Hp) Q-Tronic (2006 - 2010)",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 JTDM (200 Hp) (2006 - 2007)",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 JTS (185 Hp) Selespeed (2006 - 2010)",
+              "hp": 185,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 JTS (185 Hp) (2006 - 2009)",
+              "hp": 185,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 JTDM 16V (170 Hp) Eco (2009 - 2011)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 JTDM 16V (170 Hp) (2009 - 2011)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 JTDM (136 Hp) (2010 - 2011)",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 JTS (160 Hp) (2006 - 2009)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 JTDM 16V (150 Hp) Q-Tronic (2006 - 2010)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 JTDM 16V (150 Hp) (2006 - 2010)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 JTDM 8V (120 Hp) (2006 - 2009)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 MPI (140 Hp) (2006 - 2010)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.750 TBi (200 Hp) (2009 - 2011)",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "alfa-romeo-159": {
+          "label": "Alfa Romeo 159",
+          "engines": [
+            {
+              "label": "3.2 JTS V6 (260 Hp) Q4 Q-Tronic (2007 - 2010)",
+              "hp": 260,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.2 JTS V6 (260 Hp) Q4 (2005 - 2009)",
+              "hp": 260,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.2 JTS V6 (260 Hp) (2008 - 2009)",
+              "hp": 260,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 JTDM 20V (210 Hp) Q4 (2007 - 2009)",
+              "hp": 210,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 JTDM 20V (210 Hp) (2007 - 2009)",
+              "hp": 210,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 JTDM (200 Hp) Q-Tronic (2006 - 2010)",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 JTDM (200 Hp) (2005 - 2007)",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 JTS (185 Hp) Selespeed (2006 - 2010)",
+              "hp": 185,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 JTS (185 Hp) (2005 - 2009)",
+              "hp": 185,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 JTDM 16V (170 Hp) Eco (2009 - 2011)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 JTDM 16V (170 Hp) (2009 - 2011)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 JTDM 16V (136 Hp) (2010 - 2011)",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 JTS (160 Hp) (2005 - 2009)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 JTDM 16V (150 Hp) Q-Tronic (2006 - 2010)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 JTDM 16V (150 Hp) (2005 - 2010)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 JTDM 8V (120 Hp) (2005 - 2009)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 MPI (140 Hp) (2005 - 2010)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.750 TBi (200 Hp) (2009 - 2011)",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "164": {
+      "label": "164",
+      "series": {
+        "alfa-romeo-164-164": {
+          "label": "Alfa Romeo 164 (164)",
+          "engines": [
+            {
+              "label": "3.0 V6 (192 Hp) Automatic (1987 - 1992)",
+              "hp": 192,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 (192 Hp) (1987 - 1992)",
+              "hp": 192,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 (184 Hp) Automatic (1992 - 1998)",
+              "hp": 184,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 (184 Hp) (1992 - 1998)",
+              "hp": 184,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 (180 Hp) Automatic (1987 - 1992)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 (180 Hp) (1987 - 1992)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 i.e. QV (200 Hp) (1990 - 1992)",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 i V6 24V (230 Hp) (1991 - 1995)",
+              "hp": 230,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 24V QV (232 Hp) (1992 - 1998)",
+              "hp": 232,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 24V (228 Hp) Q4 (1994 - 1998)",
+              "hp": 228,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 24V (210 Hp) Automatic (1992 - 1998)",
+              "hp": 210,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 24V (210 Hp) (1992 - 1998)",
+              "hp": 210,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 V6 (163 Hp) (1992 - 1998)",
+              "hp": 163,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 TD (125 Hp) (1992 - 1998)",
+              "hp": 125,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 TD (117 Hp) (1989 - 1991)",
+              "hp": 117,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 V6 Turbo (205 Hp) (1991 - 1992)",
+              "hp": 205,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 V6 Turbo (201 Hp) (1992 - 1998)",
+              "hp": 201,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Twin Spark (148 Hp) (1987 - 1990)",
+              "hp": 148,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Twin Spark (146 Hp) (1987 - 1992)",
+              "hp": 146,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Twin Spark (144 Hp) (1992 - 1998)",
+              "hp": 144,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Twin Spark (143 Hp) (1987 - 1991)",
+              "hp": 143,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Turbo (175 Hp) (1987 - 1991)",
+              "hp": 175,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "166": {
+      "label": "166",
+      "series": {
+        "alfa-romeo-166-936-facelift-2003": {
+          "label": "Alfa Romeo 166 (936, facelift 2003)",
+          "engines": [
+            {
+              "label": "3.2 i V6 24V (240 Hp) (2003 - 2007)",
+              "hp": 240,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 24V (220 Hp) Sportronic (2003 - 2005)",
+              "hp": 220,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 V6 24V (188 Hp) (2003 - 2005)",
+              "hp": 188,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 JTD 20V (175 Hp) Automatic (2003 - 2007)",
+              "hp": 175,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 JTD 20V (175 Hp) (2003 - 2007)",
+              "hp": 175,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 JTD 10V (150 Hp) (2003 - 2005)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Twin Spark (150 Hp) (2003 - 2005)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "alfa-romeo-166-936": {
+          "label": "Alfa Romeo 166 (936)",
+          "engines": [
+            {
+              "label": "3.0 i V6 24V (226 Hp) Automatic (1998 - 2001)",
+              "hp": 226,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 i V6 24V (226 Hp) (1998 - 2001)",
+              "hp": 226,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 i V6 24V (220 Hp) Automatic (2001 - 2003)",
+              "hp": 220,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 i V6 24V (220 Hp) (2001 - 2003)",
+              "hp": 220,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 i V6 24V (190 Hp) Automatic (1998 - 2001)",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 i V6 24V (190 Hp) (1998 - 2001)",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 i V6 24V (188 Hp) (2001 - 2003)",
+              "hp": 188,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 JTD (150 Hp) (2002 - 2003)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 JTD (140 Hp) (2001 - 2003)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 JTD (136 Hp) (1998 - 2001)",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 i V6 (205 Hp) (1998 - 2000)",
+              "hp": 205,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 16V Twin Spark (155 Hp) (1998 - 2000)",
+              "hp": 155,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 16V Twin Spark (150 Hp) (2001 - 2000)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "1750-2000": {
+      "label": "1750-2000",
+      "series": {
+        "alfa-romeo-1750-2000": {
+          "label": "Alfa Romeo 1750-2000",
+          "engines": [
+            {
+              "label": "2000 (132 Hp) (1971 - 1983)",
+              "hp": 132
+            },
+            {
+              "label": "1750 (113 Hp) (1968 - 1972)",
+              "hp": 113
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "33": {
+      "label": "33",
+      "series": {
+        "alfa-romeo-33-sport-wagon-907b": {
+          "label": "Alfa Romeo 33 Sport Wagon (907B)",
+          "engines": [
+            {
+              "label": "1.8 TD (84 Hp) (1990 - 1994)",
+              "hp": 84,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.7 i.e. (107 Hp) 4x4 (1990 - 1992)",
+              "hp": 107,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.7 i.e. (107 Hp) (1990 - 1992)",
+              "hp": 107,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.7 i.e. (105 Hp) (1992 - 1994)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.7 16V (132 Hp) 4x4 (1990 - 1992)",
+              "hp": 132,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.7 16V (132 Hp) (1990 - 1994)",
+              "hp": 132,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.7 16V (129 Hp) 4x4 (1990 - 1994)",
+              "hp": 129,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.7 16V (129 Hp) (1990 - 1994)",
+              "hp": 129,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 i.e (97 Hp) (1990 - 1994)",
+              "hp": 97,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 i.e. (90 Hp) 4x4 (1990 - 1994)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 i.e. (90 Hp) (1990 - 1994)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 i.e. (88 Hp) (1991 - 1994)",
+              "hp": 88,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "alfa-romeo-33-907a": {
+          "label": "Alfa Romeo 33 (907A)",
+          "engines": [
+            {
+              "label": "1.8 TD (84 Hp) (1990 - 1994)",
+              "hp": 84,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.7 i.e. (107 Hp) 4x4 (1990 - 1992)",
+              "hp": 107,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.7 i.e. (107 Hp) (1990 - 1992)",
+              "hp": 107,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.7 i.e. (105 Hp) (1992 - 1994)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.7 16V (132 Hp) 4x4 (1990 - 1994)",
+              "hp": 132,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.7 16V (132 Hp) (1990 - 1992)",
+              "hp": 132,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.7 16V (129 Hp) 4x4 (1990 - 1994)",
+              "hp": 129,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.7 16V (129 Hp) (1990 - 1994)",
+              "hp": 129,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 (97 Hp) (1990 - 1994)",
+              "hp": 97,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 (105 Hp) (1990 - 1991)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 i.e. (90 Hp) (1990 - 1994)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 i.e. (88 Hp) (1991 - 1994)",
+              "hp": 88,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "alfa-romeo-33-sport-wagon-905a": {
+          "label": "Alfa Romeo 33 Sport Wagon (905A)",
+          "engines": [
+            {
+              "label": "1.7 i.e. (105 Hp) 4x4 (1988 - 1989)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.7 i.e. (105 Hp) (1988 - 1989)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.7 (118 Hp) (1988 - 1989)",
+              "hp": 118,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 (90 Hp) 4x4 (1984 - 1986)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 (90 Hp) (1984 - 1986)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 (105 Hp) 4x4 (1986 - 1989)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 (105 Hp) (1986 - 1989)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 (102 Hp) 4x4 (1986 - 1989)",
+              "hp": 102,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 (102 Hp) (1986 - 1989)",
+              "hp": 102,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "alfa-romeo-33-905": {
+          "label": "Alfa Romeo 33 (905)",
+          "engines": [
+            {
+              "label": "1.8 TD (74 Hp) (1986 - 1990)",
+              "hp": 74,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.7 QV (118 Hp) (1988 - 1989)",
+              "hp": 118,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.7 i.e. (105 Hp) (1988 - 1989)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 QV (105 Hp) (1984 - 1989)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 (90 Hp) 4x4 (1985 - 1986)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 (90 Hp) (1983 - 1986)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 (84 Hp) 4x4 (1983 - 1984)",
+              "hp": 84,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 (84 Hp) (1983 - 1985)",
+              "hp": 84,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 (105 Hp) 4x4 (1986 - 1989)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 (102 Hp) 4x4 (1986 - 1989)",
+              "hp": 102,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 (102 Hp) (1986 - 1989)",
+              "hp": 102,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 (86 Hp) (1983 - 1989)",
+              "hp": 86,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 (75 Hp) (1983 - 1989)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 (68 Hp) (1983 - 1989)",
+              "hp": 68,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "alfa-romeo-33-stradale": {
+          "label": "Alfa Romeo 33 Stradale",
+          "engines": [
+            {
+              "label": "2.0 V8 (230 Hp) (1967 - 1969)",
+              "hp": 230,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "33-stradale": {
+      "label": "33 Stradale",
+      "series": {
+        "alfa-romeo-33-stradale-2023": {
+          "label": "Alfa Romeo 33 Stradale (2023)",
+          "engines": [
+            {
+              "label": "3.0 V6 (620 Hp) DCT",
+              "hp": 620,
+              "fuel": "benzin"
+            },
+            {
+              "label": "102 kWh (750 Hp) Electric AWD",
+              "hp": 750,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "4c": {
+      "label": "4C",
+      "series": {
+        "alfa-romeo-4c--facelift-2017": {
+          "label": "Alfa Romeo 4C  (facelift 2017)",
+          "engines": [
+            {
+              "label": "1.7 (240 Hp) (2017 - 2019)",
+              "hp": 240,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "alfa-romeo-4c-spider": {
+          "label": "Alfa Romeo 4C Spider",
+          "engines": [
+            {
+              "label": "1.7 (240 Hp) TCT (2015 - 2019)",
+              "hp": 240,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "alfa-romeo-4c": {
+          "label": "Alfa Romeo 4C",
+          "engines": [
+            {
+              "label": "1.7 (240 Hp) TCT (2013 - 2016)",
+              "hp": 240,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "6": {
+      "label": "6",
+      "series": {
+        "alfa-romeo-6-119": {
+          "label": "Alfa Romeo 6 (119)",
+          "engines": [
+            {
+              "label": "2.5 TD (105 Hp) (1981 - 1986)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 i.e. (158 Hp) (1979 - 1984)",
+              "hp": 158,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 i.e. (150 Hp) (1983 - 1986)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (135 Hp) (1981 - 1988)",
+              "hp": 135,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "75": {
+      "label": "75",
+      "series": {
+        "alfa-romeo-75-162-b-facelift-1988": {
+          "label": "Alfa Romeo 75 (162 B, facelift 1988)",
+          "engines": [
+            {
+              "label": "Quadrifoglio Verde 3.0 V6 (192 Hp) CAT (1990 - 1992)",
+              "hp": 192,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Quadrifoglio Verde 1.8 (165 Hp) (1988 - 1992)",
+              "hp": 165,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Quadrifoglio Verde 2.5 V6 (156 Hp) Automatic (1985 - 1991)",
+              "hp": 156,
+              "fuel": "benzin"
+            },
+            {
+              "label": "America 3.0 V6 (188 Hp) (1988 - 1990)",
+              "hp": 188,
+              "fuel": "benzin"
+            },
+            {
+              "label": "America 3.0 V6 (185 Hp) CAT (1986 - 1992)",
+              "hp": 185,
+              "fuel": "benzin"
+            },
+            {
+              "label": "America 1.8 Turbo (155 Hp) (1986 - 1991)",
+              "hp": 155,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 TD (112 Hp) (1988 - 1991)",
+              "hp": 112,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Twin Spark (148 Hp) CAT (1988 - 1991)",
+              "hp": 148,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Twin Spark (145 Hp) (1986 - 1992)",
+              "hp": 145,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TD (95 Hp) (1985 - 1992)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 i.e. (122 Hp) (1985 - 1989)",
+              "hp": 122,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 i.e. (120 Hp) CAT (1989 - 1992)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 (120 Hp) (1988 - 1989)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 i.e. (107 Hp) (1989 - 1992)",
+              "hp": 107,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (110 Hp) (1985 - 1989)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "alfa-romeo-75-162-b": {
+          "label": "Alfa Romeo 75 (162 B)",
+          "engines": [
+            {
+              "label": "Quadrifoglio Verde 2.5 V6 (156 Hp) Automatic (1987 - 1988)",
+              "hp": 156,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Quadrifoglio Verde 2.5 V6 (156 Hp) (1985 - 1988)",
+              "hp": 156,
+              "fuel": "benzin"
+            },
+            {
+              "label": "America 3.0 V6 (188 Hp) (1987 - 1988)",
+              "hp": 188,
+              "fuel": "benzin"
+            },
+            {
+              "label": "America 1.8 Turbo (155 Hp) (1988 - 1990)",
+              "hp": 155,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Twin Spark (148 Hp) (1987 - 1988)",
+              "hp": 148,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TD (95 Hp) (1985 - 1988)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (128 Hp) CAT (1985 - 1988)",
+              "hp": 128,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (128 Hp) (1985 - 1988)",
+              "hp": 128,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 Turbo i.e. (155 Hp) (1986 - 1987)",
+              "hp": 155,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 (120 Hp) (1985 - 1988)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (110 Hp) CAT (1985 - 1988)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (110 Hp) (1985 - 1988)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "8c-competizione": {
+      "label": "8C Competizione",
+      "series": {
+        "alfa-romeo-8c-spider": {
+          "label": "Alfa Romeo 8C Spider",
+          "engines": [
+            {
+              "label": "4.7 V8 (450 Hp) (2008 - 2010)",
+              "hp": 450,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "alfa-romeo-8c-competizione": {
+          "label": "Alfa Romeo 8C Competizione",
+          "engines": [
+            {
+              "label": "4.7i V8 32V (450 Hp) (2007 - 2010)",
+              "hp": 450,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "90": {
+      "label": "90",
+      "series": {
+        "alfa-romeo-90-162": {
+          "label": "Alfa Romeo 90 (162)",
+          "engines": [
+            {
+              "label": "2.5 i.e. V6 Quadrifoglio Oro (156 Hp) (1984 - 1987)",
+              "hp": 156,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 TD (110 Hp) (1984 - 1987)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 i.e. (132 Hp) (1984 - 1987)",
+              "hp": 132,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 i.e. (128 Hp) (1984 - 1987)",
+              "hp": 128,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 (116 Hp) (1984 - 1987)",
+              "hp": 116,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "alfasud": {
+      "label": "Alfasud",
+      "series": {
+        "alfa-romeo-alfasud-giardinetta-904": {
+          "label": "Alfa Romeo Alfasud Giardinetta (904)",
+          "engines": [
+            {
+              "label": "1.3 (69 Hp) (1980 - 1981)",
+              "hp": 69,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 (65 Hp) (1978 - 1979)",
+              "hp": 65,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 (63 Hp) (1978 - 1981)",
+              "hp": 63,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "alfa-romeo-alfasud-901": {
+          "label": "Alfa Romeo Alfasud (901)",
+          "engines": [
+            {
+              "label": "1.5 ti Sprint (105 Hp) (1979 - 1980)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 ti (95 Hp) (1980 - 1981)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 (85 Hp) (1978 - 1980)",
+              "hp": 85,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 ti (86 Hp) (1980 - 1981)",
+              "hp": 86,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 ti (75 Hp) (1977 - 1980)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 Super (68 Hp) (1978 - 1979)",
+              "hp": 68,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 SC (79 Hp) (1982 - 1983)",
+              "hp": 79,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 (79 Hp) (1978 - 1980)",
+              "hp": 79,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 ti (68 Hp) (1973 - 1984)",
+              "hp": 68,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 (63 Hp) (1980 - 1984)",
+              "hp": 63,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 (60 Hp) (1980 - 1984)",
+              "hp": 60,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "alfetta": {
+      "label": "Alfetta",
+      "series": {
+        "alfa-romeo-alfetta-116": {
+          "label": "Alfa Romeo Alfetta (116)",
+          "engines": [
+            {
+              "label": "2.4 TD (95 Hp) (1983 - 1984)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TD (82 Hp) (1979 - 1983)",
+              "hp": 82,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (131 Hp) (1978 - 1984)",
+              "hp": 131,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (121 Hp) (1977 - 1980)",
+              "hp": 121,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 (122 Hp) (1979 - 1984)",
+              "hp": 122,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 (121 Hp) (1979 - 1984)",
+              "hp": 121,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 (116 Hp) (1974 - 1977)",
+              "hp": 116,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (107 Hp) (1975 - 1984)",
+              "hp": 107,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "alfa-romeo-alfetta-gt-116": {
+          "label": "Alfa Romeo Alfetta GT (116)",
+          "engines": [
+            {
+              "label": "2.0 (131 Hp) (1977 - 1984)",
+              "hp": 131,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (121 Hp) (1978 - 1986)",
+              "hp": 121,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 (121 Hp) (1974 - 1976)",
+              "hp": 121,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 (116 Hp) (1974 - 1976)",
+              "hp": 116,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (107 Hp) (1976 - 1982)",
+              "hp": 107,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "arna": {
+      "label": "Arna",
+      "series": {
+        "alfa-romeo-arna-920": {
+          "label": "Alfa Romeo Arna (920)",
+          "engines": [
+            {
+              "label": "1.5 Ti (95 Hp) (1985 - 1986)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 TI (86 Hp) (1983 - 1986)",
+              "hp": 86,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 (68 Hp) (1985 - 1986)",
+              "hp": 68,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 (63 Hp) (1983 - 1986)",
+              "hp": 63,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 (60 Hp) (1985 - 1986)",
+              "hp": 60,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "brera": {
+      "label": "Brera",
+      "series": {
+        "alfa-romeo-brera": {
+          "label": "Alfa Romeo Brera",
+          "engines": [
+            {
+              "label": "3.2 JTS V6 (260 Hp) Q4 (2005 - 2010)",
+              "hp": 260,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.2 JTS V6 (260 Hp) (2008 - 2010)",
+              "hp": 260,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.2 JTS (260 Hp) 4x4 Automatic (2005 - 2010)",
+              "hp": 260,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 JTDM (210 Hp) (2008 - 2010)",
+              "hp": 210,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 JTD (200 Hp) Q-Tronic (2006 - 2010)",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 JTD (200 Hp) (2006 - 2010)",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 JTS (185 Hp) Automatic (2007 - 2009)",
+              "hp": 185,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 JTS (185 Hp) (2005 - 2009)",
+              "hp": 185,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 JTDM (170 Hp) (2009 - 2010)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 TBi (200 Hp) (2009 - 2010)",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "giulia": {
+      "label": "Giulia",
+      "series": {
+        "alfa-romeo-giulia-952-facelift-2022": {
+          "label": "Alfa Romeo Giulia (952, facelift 2022)",
+          "engines": [
+            {
+              "label": "Quadrifoglio 2.9 V6 Bi-Turbo (520 Hp) Automatic",
+              "hp": 520,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 MultiJet II (210 Hp) Q4 Automatic",
+              "hp": 210,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Turbo (280 Hp) Q4 Automatic",
+              "hp": 280,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "alfa-romeo-giulia-952": {
+          "label": "Alfa Romeo Giulia (952)",
+          "engines": [
+            {
+              "label": "GTAm 2.9 V6 (540 Hp) Automatic (2020 - 2021)",
+              "hp": 540,
+              "fuel": "benzin"
+            },
+            {
+              "label": "GTA 2.9 V6 (540 Hp) Automatic (2020 - 2021)",
+              "hp": 540,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Quadrifoglio 2.9 V6 BiTurbo (510 Hp) Automatic (2018 - 2022)",
+              "hp": 510,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Quadrifoglio 2.9 V6 (510 Hp) (2016 - 2018)",
+              "hp": 510,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Quadrifoglio 2.9 V6 (510 Hp) Automatic (2016 - 2018)",
+              "hp": 510,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Veloce 2.0 (280 Hp) AWD Automatic (2016 - 2018)",
+              "hp": 280,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Veloce 2.2 JTD (210 Hp) AWD Automatic (2016 - 2018)",
+              "hp": 210,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 MultiJet (210 Hp) AWD Automatic (2018 - 2022)",
+              "hp": 210,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 MultiJet (190 Hp) AWD Automatic (2018 - 2022)",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 MultiJet (190 Hp) Automatic (2018 - 2022)",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 MultiJet (160 Hp) Automatic (2018 - 2020)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 JTD (180 Hp) Automatic (2016 - 2018)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 JTD (180 Hp) (2016 - 2018)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 JTD (150 Hp) Automatic (2016 - 2018)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 JTD (150 Hp) (2016 - 2018)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 JTDM (136 Hp) Automatic (2019 - 2022)",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 JTDM (136 Hp) (2019 - 2022)",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 JTD (136 Hp) (2016 - 2018)",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Turbo (280 Hp) AWD Automatic (2018 - 2022)",
+              "hp": 280,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Turbo (280 Hp) Automatic (2018 - 2022)",
+              "hp": 280,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Turbo (200 Hp) Automatic (2018 - 2022)",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "alfa-romeo-giulia": {
+          "label": "Alfa Romeo Giulia",
+          "engines": [
+            {
+              "label": "1600 Super (103 Hp) (1974 - 1978)",
+              "hp": 103
+            },
+            {
+              "label": "1600 Super (98 Hp) (1965 - 1971)",
+              "hp": 98
+            },
+            {
+              "label": "1300 TI (82 Hp) (1966 - 1972)",
+              "hp": 82
+            },
+            {
+              "label": "1300 Super (87 Hp) (1974 - 1978)",
+              "hp": 87
+            },
+            {
+              "label": "1.8 D (52 Hp) (1976 - 1978)",
+              "hp": 52,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "alfa-romeo-giulia-erreerre-fuoriserie": {
+          "label": "Alfa Romeo Giulia ErreErre Fuoriserie",
+          "engines": [
+            {
+              "label": "Keine exakte Motorliste verfügbar – bitte genaue Motorisierung im Freitext angeben"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "giulietta": {
+      "label": "Giulietta",
+      "series": {
+        "alfa-romeo-giulietta-type-940-facelift-2016": {
+          "label": "Alfa Romeo Giulietta (Type 940 facelift 2016)",
+          "engines": [
+            {
+              "label": "2.0 JTDM (175 Hp) TCT S&S (2016 - 2018)",
+              "hp": 175,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 JTD (170 Hp) TCT (2019 - 2020)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 JTDM (150 Hp) S&S (2016 - 2018)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 JTDM (150 Hp) ECO S&S (2016 - 2018)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.750 TBi (240 Hp) TCT (2016 - 2018)",
+              "hp": 240,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 JTDM (120 Hp) TCT S&S (2016 - 2018)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 JTDM (120 Hp) TCT ECO S&S (2016 - 2018)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 JTDM (120 Hp) S&S (2016 - 2018)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 JTDM (120 Hp) ECO S&S (2016 - 2018)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 JTD (120 Hp) TCT (2019 - 2020)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 JTD (120 Hp) (2019 - 2020)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TB MultiAir (170 Hp) TCT S&S (2016 - 2018)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TB MultiAir (150 Hp) S&S (2016 - 2018)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TB (120 Hp) S&S (2016 - 2018)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TB (120 Hp) LPG S&S (2016 - 2018)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TB (120 Hp) (2019 - 2020)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "alfa-romeo-giulietta-type-940": {
+          "label": "Alfa Romeo Giulietta (Type 940)",
+          "engines": [
+            {
+              "label": "2.0 JTDM (170 Hp) Start&Stop (2010 - 2014)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 JTDM (150 Hp) (2013 - 2016)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 JTDM (140 Hp) (2010 - 2013)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.750 TBi (240 Hp) TCT (2014 - 2016)",
+              "hp": 240,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.750 TBi (235 Hp) (2010 - 2014)",
+              "hp": 235,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 JTDM (105 Hp) Start&Stop (2010 - 2015)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TB MultiAir (170 Hp) Start&Stop (2010 - 2016)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TB (120 Hp) Start&Stop (2010 - 2016)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 MultiAir (170 Hp) TCT (2010 - 2016)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 (120 Hp) LPG (2010 - 2016)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 (105 Hp) (2012 - 2016)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "alfa-romeo-giulietta-116": {
+          "label": "Alfa Romeo Giulietta (116)",
+          "engines": [
+            {
+              "label": "2.0 Turbo (170 Hp) (1983 - 1984)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (116.A1A) (131 Hp) (1980 - 1985)",
+              "hp": 131,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 Turbo (150 Hp) (1984 - 1985)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 (122 Hp) (1979 - 1985)",
+              "hp": 122,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (107 Hp) (1977 - 1985)",
+              "hp": 107,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 (90 Hp) (1977 - 1983)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "gt": {
+      "label": "GT",
+      "series": {
+        "alfa-romeo-gt-coupe-937": {
+          "label": "Alfa Romeo GT Coupe (937)",
+          "engines": [
+            {
+              "label": "3.2 i V6 24V GTA (240 Hp) (2003 - 2010)",
+              "hp": 240,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 i 16V JTS (165 Hp) Selespeed (2003 - 2010)",
+              "hp": 165,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 i 16V JTS (165 Hp) (2003 - 2010)",
+              "hp": 165,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 16V JTD M-Jet (150 Hp) (2003 - 2010)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 Twin Spark (140 Hp) (2003 - 2010)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "alfa-romeo-gt": {
+          "label": "Alfa Romeo GT",
+          "engines": [
+            {
+              "label": "V 2000 (131 Hp) (1971 - 1977)",
+              "hp": 131
+            },
+            {
+              "label": "V 1750 (113 Hp) (1967 - 1972)",
+              "hp": 113
+            },
+            {
+              "label": "A 1600 (113 Hp) (1965 - 1970)",
+              "hp": 113
+            },
+            {
+              "label": "1600 (109 Hp) (1971 - 1977)",
+              "hp": 109
+            },
+            {
+              "label": "1600 (103 Hp) (1972 - 1977)",
+              "hp": 103
+            },
+            {
+              "label": "1600 (102 Hp) (1963 - 1966)",
+              "hp": 102
+            },
+            {
+              "label": "1300 Junior (87 Hp) (1966 - 1977)",
+              "hp": 87
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "gta-coupe": {
+      "label": "GTA Coupe",
+      "series": {
+        "alfa-romeo-gta-coupe": {
+          "label": "Alfa Romeo GTA Coupe",
+          "engines": [
+            {
+              "label": "1.3 Junior (160 Hp) (1968 - 1975)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 Junior (110 Hp) (1968 - 1976)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "gtv": {
+      "label": "GTV",
+      "series": {
+        "alfa-romeo-gtv-916-facelift-2003": {
+          "label": "Alfa Romeo GTV (916, facelift 2003)",
+          "engines": [
+            {
+              "label": "3.2 V6 (240 Hp) (2003 - 2004)",
+              "hp": 240,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Twin Spark (150 Hp) (2003 - 2004)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 JTS (165 Hp) (2003 - 2004)",
+              "hp": 165,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "alfa-romeo-gtv-916": {
+          "label": "Alfa Romeo GTV (916)",
+          "engines": [
+            {
+              "label": "3.0 V6 (220 Hp) (1997 - 2003)",
+              "hp": 220,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 (218 Hp) (2002 - 2003)",
+              "hp": 218,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 V6 TB (202 Hp) (1995 - 2003)",
+              "hp": 202,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Twin Spark (150 Hp) (2000 - 2003)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 Twin Spark (144 Hp) (1998 - 2003)",
+              "hp": 144,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "alfa-romeo-gtv-116": {
+          "label": "Alfa Romeo GTV (116)",
+          "engines": [
+            {
+              "label": "6 2.5 V6 (160 Hp) (1980 - 1987)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Turbodelta (150 Hp) (1978 - 1980)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (130 Hp) (1978 - 1986)",
+              "hp": 130,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (128 Hp) (1985 - 1985)",
+              "hp": 128,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "junior": {
+      "label": "Junior",
+      "series": {
+        "alfa-romeo-junior": {
+          "label": "Alfa Romeo Junior",
+          "engines": [
+            {
+              "label": "Veloce 54 kWh (282 Hp) Electric",
+              "hp": 282,
+              "fuel": "elektro"
+            },
+            {
+              "label": "54 kWh (156 Hp) Electric",
+              "hp": 156,
+              "fuel": "elektro"
+            },
+            {
+              "label": "1.2 (145 Hp) Hybrid Q4 eDCT",
+              "hp": 145,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.2 (136 Hp) Hybrid eDCT",
+              "hp": 136,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "mito": {
+      "label": "MiTo",
+      "series": {
+        "alfa-romeo-mito-facelift-2016": {
+          "label": "Alfa Romeo MiTo (facelift 2016)",
+          "engines": [
+            {
+              "label": "1.4 TB MultiAir (170 Hp) TCT (2016 - 2018)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TB MultiAir (140 Hp) TCT (2016 - 2018)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 (78 Hp) (2016 - 2018)",
+              "hp": 78,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 JTDm (95 Hp) (2016 - 2018)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.9 TwinAir Turbo (105 Hp) (2016 - 2018)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "alfa-romeo-mito-facelift-2013": {
+          "label": "Alfa Romeo MiTo (facelift 2013)",
+          "engines": [
+            {
+              "label": "1.4 TP (170 Hp) TCT (2013 - 2016)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TP (140 Hp) TCT (2013 - 2016)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TP (120 Hp) LPG (2013 - 2016)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 (78 Hp) (2013 - 2016)",
+              "hp": 78,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 (70 Hp) (2013 - 2016)",
+              "hp": 70,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 JTDM (85 Hp) (2013 - 2016)",
+              "hp": 85,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.9 TwinAir Turbo (105 Hp) (2013 - 2016)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "alfa-romeo-mito": {
+          "label": "Alfa Romeo MiTo",
+          "engines": [
+            {
+              "label": "1.6 JTDm (120 Hp) (2009 - 2013)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TB MultiAir (170 Hp) (2009 - 2013)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TB (155 Hp) (2009 - 2013)",
+              "hp": 155,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TB MultiAir (135 Hp) TCT (2010 - 2013)",
+              "hp": 135,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 T-Jet (120 Hp) (2008 - 2013)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 MultiAir (135 Hp) Start&stop (2009 - 2013)",
+              "hp": 135,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 MultiAir (105 Hp) Start&stop (2009 - 2013)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 MPI (78 Hp) (2008 - 2013)",
+              "hp": 78,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 (70 Hp) (2012 - 2013)",
+              "hp": 70,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 JTDm (90 Hp) (2009 - 2010)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 JTDM Eco (85 Hp) (2011 - 2013)",
+              "hp": 85,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.9 TwinAir (105 Hp) (2013 - 2013)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.9 TwinAir (85 Hp) (2011 - 2013)",
+              "hp": 85,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "montreal": {
+      "label": "Montreal",
+      "series": {
+        "alfa-romeo-montreal": {
+          "label": "Alfa Romeo Montreal",
+          "engines": [
+            {
+              "label": "2.6 (194 Hp) (1970 - 1977)",
+              "hp": 194,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "rz": {
+      "label": "RZ",
+      "series": {
+        "alfa-romeo-rz": {
+          "label": "Alfa Romeo RZ",
+          "engines": [
+            {
+              "label": "3.0 i V6 (210 Hp) (1988 - 1993)",
+              "hp": 210,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "spider": {
+      "label": "Spider",
+      "series": {
+        "alfa-romeo-spider-939": {
+          "label": "Alfa Romeo Spider (939)",
+          "engines": [
+            {
+              "label": "3.2 V6 (260 Hp) Q4 Automatic (2006 - 2010)",
+              "hp": 260,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.2 V6 (260 Hp) Q4 (2006 - 2010)",
+              "hp": 260,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.2 JTS V6 (260 Hp) (2008 - 2010)",
+              "hp": 260,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 JTDM (210 Hp) (2008 - 2010)",
+              "hp": 210,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 JTDM (200 Hp) Q-Tronic (2008 - 2010)",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 JTDM (200 Hp) (2007 - 2008)",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 JTS (185 Hp) Selespeed (2006 - 2010)",
+              "hp": 185,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 JTS (185 Hp) (2006 - 2010)",
+              "hp": 185,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 JTDM (170 Hp) (2009 - 2010)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 TBi (200 Hp) (2009 - 2010)",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "alfa-romeo-spider-916-facelift-2003": {
+          "label": "Alfa Romeo Spider (916, facelift 2003)",
+          "engines": [
+            {
+              "label": "3.2 V6 (240 Hp) (2003 - 2004)",
+              "hp": 240,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Twin Spark (150 Hp) (2003 - 2004)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 JTS (165 Hp) (2003 - 2004)",
+              "hp": 165,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "alfa-romeo-spider-916": {
+          "label": "Alfa Romeo Spider (916)",
+          "engines": [
+            {
+              "label": "3.0 V6 (218 Hp) (2000 - 2003)",
+              "hp": 218,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 (192 Hp) (1995 - 2000)",
+              "hp": 192,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 V6 TB (200 Hp) (1998 - 2002)",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Twin Spark (155 Hp) (1998 - 2002)",
+              "hp": 155,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Twin Spark (150 Hp) (1995 - 2002)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 Twin Spark (144 Hp) (1998 - 2002)",
+              "hp": 144,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "alfa-romeo-spider-115": {
+          "label": "Alfa Romeo Spider (115)",
+          "engines": [
+            {
+              "label": "2000 Veloce (126 Hp) (1972 - 1980)",
+              "hp": 126
+            },
+            {
+              "label": "2000 (126 Hp) (1990 - 1993)",
+              "hp": 126
+            },
+            {
+              "label": "2000 (125 Hp) (1971 - 1989)",
+              "hp": 125
+            },
+            {
+              "label": "2000 (120 Hp) Automatic (1990 - 1993)",
+              "hp": 120
+            },
+            {
+              "label": "2000 (120 Hp) (1990 - 1993)",
+              "hp": 120
+            },
+            {
+              "label": "2000 (116 Hp) Automatic (1986 - 1990)",
+              "hp": 116
+            },
+            {
+              "label": "2000 (116 Hp) (1986 - 1990)",
+              "hp": 116
+            },
+            {
+              "label": "1600 (109 Hp) (1990 - 1993)",
+              "hp": 109
+            },
+            {
+              "label": "1.6 (109 Hp) (1971 - 1979)",
+              "hp": 109,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "alfa-romeo-spider-105": {
+          "label": "Alfa Romeo Spider (105)",
+          "engines": [
+            {
+              "label": "2000 (131 Hp) (1971 - 1977)",
+              "hp": 131
+            },
+            {
+              "label": "1750 (113 Hp) (1967 - 1969)",
+              "hp": 113
+            },
+            {
+              "label": "1600 (109 Hp) (1966 - 1967)",
+              "hp": 109
+            },
+            {
+              "label": "1300 (88 Hp) (1968 - 1969)",
+              "hp": 88
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "stelvio": {
+      "label": "Stelvio",
+      "series": {
+        "alfa-romeo-stelvio-949-facelift-2022": {
+          "label": "Alfa Romeo Stelvio (949, facelift 2022)",
+          "engines": [
+            {
+              "label": "Quadrifoglio 2.9 V6 Bi-Turbo (520 Hp) Q4 Automatic",
+              "hp": 520,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 MultiJet II (210 Hp) Q4 Automatic",
+              "hp": 210,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Turbo (280 Hp) Q4 Automatic",
+              "hp": 280,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "alfa-romeo-stelvio-949": {
+          "label": "Alfa Romeo Stelvio (949)",
+          "engines": [
+            {
+              "label": "Quadrifoglio 2.9 Bi-Turbo V6 (510 Hp) AWD Automatic (2017 - 2018)",
+              "hp": 510,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.9T Bi-Turbo V6 (510 Hp) AWD Automatic (2018 - 2022)",
+              "hp": 510,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2d (210 Hp) AWD Automatic (2017 - 2018)",
+              "hp": 210,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2d (180 Hp) AWD Automatic (2017 - 2018)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2d (180 Hp) Automatic (2017 - 2018)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2d (150 Hp) Automatic (2017 - 2018)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 JTDM (210 Hp) AWD Automatic (2018 - 2022)",
+              "hp": 210,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 JTDM (190 Hp) AWD Automatic (2018 - 2022)",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 JTDM (190 Hp) Automatic (2018 - 2022)",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 JTDM (160 Hp) Automatic (2018 - 2020)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 GME (280 Hp) AWD Automatic (2018 - 2022)",
+              "hp": 280,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 GME (200 Hp) AWD Automatic (2018 - 2022)",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (280 Hp) AWD Automatic (2017 - 2018)",
+              "hp": 280,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (200 Hp) AWD Automatic (2017 - 2018)",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "sz": {
+      "label": "SZ",
+      "series": {
+        "alfa-romeo-sz": {
+          "label": "Alfa Romeo SZ",
+          "engines": [
+            {
+              "label": "3.0 V6 Zagato (210 Hp) (1989 - 1991)",
+              "hp": 210,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "tonale": {
+      "label": "Tonale",
+      "series": {
+        "alfa-romeo-tonale-facelift-2025": {
+          "label": "Alfa Romeo Tonale (facelift 2025)",
+          "engines": [
+            {
+              "label": "2.0 T4 (268 Hp) Q4 Automatic",
+              "hp": 268,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 D (131 Hp) TCT",
+              "hp": 131,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 VGT (174 Hp) Hybrid TCT",
+              "hp": 174,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.3 (269 Hp) Plug-in Hybrid Q4 Automatic",
+              "hp": 269,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "alfa-romeo-tonale": {
+          "label": "Alfa Romeo Tonale",
+          "engines": [
+            {
+              "label": "2.0 T4 (272 Hp) Q4 Automatic (2023 - 2025)",
+              "hp": 272,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 VGT-D (130 Hp) TCT (2022 - 2025)",
+              "hp": 130,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 VGT (160 Hp) 48V-Hybrid TCT (2022 - 2025)",
+              "hp": 160,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.5 Turbo (130 Hp) 48V-Hybrid TCT (2022 - 2025)",
+              "hp": 130,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.3 T MultiAir (280 Hp) Plug-in Hybrid eQ4 Automatic (2022 - 2025)",
+              "hp": 280,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.3 T MultiAir (190 Hp) Plug-in Hybrid eQ4 Automatic (2024 - 2025)",
+              "hp": 190,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "alfa-romeo-tonale-concept": {
+          "label": "Alfa Romeo Tonale Concept",
+          "engines": [
+            {
+              "label": "Keine exakte Motorliste verfügbar – bitte genaue Motorisierung im Freitext angeben"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

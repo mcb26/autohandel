@@ -1,0 +1,57 @@
+[
+  {
+    "label": "520i Touring Aut. (Benzin, 184 PS)",
+    "fuel": "benzin",
+    "hp": 184
+  },
+  {
+    "label": "530i Touring Aut. (Benzin, 252 PS)",
+    "fuel": "benzin",
+    "hp": 252
+  },
+  {
+    "label": "530i xDrive Touring Aut. (Benzin, 252 PS)",
+    "fuel": "benzin",
+    "hp": 252
+  },
+  {
+    "label": "540i xDrive Touring Aut. (Benzin, 333 PS)",
+    "fuel": "benzin",
+    "hp": 333
+  },
+  {
+    "label": "530e Touring Aut. (Benzin/Elektro-PlugIn, 184 PS)",
+    "fuel": "benzin/elektro-plugin",
+    "hp": 184
+  },
+  {
+    "label": "530e xDrive Touring Aut. (Benzin/Elektro-PlugIn, 184 PS)",
+    "fuel": "benzin/elektro-plugin",
+    "hp": 184
+  },
+  {
+    "label": "520d Touring Aut. (Diesel, 190 PS)",
+    "fuel": "diesel",
+    "hp": 190
+  },
+  {
+    "label": "520d xDrive Touring Aut. (Diesel, 190 PS)",
+    "fuel": "diesel",
+    "hp": 190
+  },
+  {
+    "label": "530d Touring Aut. (Diesel, 286 PS)",
+    "fuel": "diesel",
+    "hp": 286
+  },
+  {
+    "label": "530d xDrive Touring Aut. (Diesel, 286 PS)",
+    "fuel": "diesel",
+    "hp": 286
+  },
+  {
+    "label": "540d xDrive Touring Aut. (Diesel, 340 PS)",
+    "fuel": "diesel",
+    "hp": 340
+  }
+]

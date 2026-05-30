@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Arona",
+    "description": "Arona",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CUPRA/model/Arona"
+  },
+  {
+    "name": "Ateca",
+    "description": "Ateca",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CUPRA/model/Ateca"
+  },
+  {
+    "name": "Born",
+    "description": "Born",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CUPRA/model/Born"
+  },
+  {
+    "name": "Formentor",
+    "description": "Formentor",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CUPRA/model/Formentor"
+  },
+  {
+    "name": "Ibiza",
+    "description": "Ibiza",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CUPRA/model/Ibiza"
+  },
+  {
+    "name": "Leon",
+    "description": "Leon",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CUPRA/model/Leon"
+  },
+  {
+    "name": "Raval",
+    "description": "Raval",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CUPRA/model/Raval"
+  },
+  {
+    "name": "Tavascan",
+    "description": "Tavascan",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CUPRA/model/Tavascan"
+  },
+  {
+    "name": "Terramar",
+    "description": "Terramar",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CUPRA/model/Terramar"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CUPRA/model/ANDERE"
+  }
+]

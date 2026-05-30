@@ -1,0 +1,32 @@
+[
+  {
+    "name": "T6 California",
+    "description": "T6 California",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/modelgroups/T6/models/T6%20California"
+  },
+  {
+    "name": "T6 Caravelle",
+    "description": "T6 Caravelle",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/modelgroups/T6/models/T6%20Caravelle"
+  },
+  {
+    "name": "T6 Kombi",
+    "description": "T6 Kombi",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/modelgroups/T6/models/T6%20Kombi"
+  },
+  {
+    "name": "T6 Multivan",
+    "description": "T6 Multivan",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/modelgroups/T6/models/T6%20Multivan"
+  },
+  {
+    "name": "T6 Transporter",
+    "description": "T6 Transporter",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/modelgroups/T6/models/T6%20Transporter"
+  },
+  {
+    "name": "T6__MODEL_OTHER",
+    "description": "T6 andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/modelgroups/T6/models/T6__MODEL_OTHER"
+  }
+]

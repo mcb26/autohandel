@@ -1,0 +1,27 @@
+[
+  {
+    "label": "G 500 9G-TRONIC (Benzin, 422 PS) G AMG G 63 AMG Speedshift 9G-TRONIC (Benzin, 585 PS) G 350 d 9G-TRONIC (Diesel, 286 PS) G 400 d 9G-TRONIC (Diesel, 330 PS)",
+    "fuel": "diesel",
+    "hp": 330
+  },
+  {
+    "label": "G 500 9G-TRONIC (Benzin, 422 PS)",
+    "fuel": "benzin",
+    "hp": 422
+  },
+  {
+    "label": "G AMG G 63 AMG Speedshift 9G-TRONIC (Benzin, 585 PS)",
+    "fuel": "benzin",
+    "hp": 585
+  },
+  {
+    "label": "G 350 d 9G-TRONIC (Diesel, 286 PS)",
+    "fuel": "diesel",
+    "hp": 286
+  },
+  {
+    "label": "G 400 d 9G-TRONIC (Diesel, 330 PS)",
+    "fuel": "diesel",
+    "hp": 330
+  }
+]

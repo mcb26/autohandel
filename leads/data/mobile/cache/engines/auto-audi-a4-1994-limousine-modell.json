@@ -1,0 +1,122 @@
+[
+  {
+    "label": "A4 1.6 (Benzin, 101 PS)",
+    "fuel": "benzin",
+    "hp": 101
+  },
+  {
+    "label": "A4 1.6 (Benzin, 102 PS)",
+    "fuel": "benzin",
+    "hp": 102
+  },
+  {
+    "label": "A4 1.8 quattro (Benzin, 125 PS)",
+    "fuel": "benzin",
+    "hp": 125
+  },
+  {
+    "label": "A4 1.8 (Benzin, 125 PS)",
+    "fuel": "benzin",
+    "hp": 125
+  },
+  {
+    "label": "A4 1.8 T quattro (Benzin, 150 PS)",
+    "fuel": "benzin",
+    "hp": 150
+  },
+  {
+    "label": "A4 1.8 T (Benzin, 150 PS)",
+    "fuel": "benzin",
+    "hp": 150
+  },
+  {
+    "label": "A4 2.6 quattro (Benzin, 150 PS)",
+    "fuel": "benzin",
+    "hp": 150
+  },
+  {
+    "label": "A4 2.6 (Benzin, 150 PS)",
+    "fuel": "benzin",
+    "hp": 150
+  },
+  {
+    "label": "A4 2.4 quattro (Benzin, 165 PS)",
+    "fuel": "benzin",
+    "hp": 165
+  },
+  {
+    "label": "A4 2.4 (Benzin, 165 PS)",
+    "fuel": "benzin",
+    "hp": 165
+  },
+  {
+    "label": "A4 2.8 quattro (Benzin, 174 PS)",
+    "fuel": "benzin",
+    "hp": 174
+  },
+  {
+    "label": "A4 2.8 (Benzin, 174 PS)",
+    "fuel": "benzin",
+    "hp": 174
+  },
+  {
+    "label": "A4 1.8 T quattro (Benzin, 180 PS)",
+    "fuel": "benzin",
+    "hp": 180
+  },
+  {
+    "label": "A4 1.8 T (Benzin, 180 PS)",
+    "fuel": "benzin",
+    "hp": 180
+  },
+  {
+    "label": "A4 2.8 quattro (Benzin, 193 PS)",
+    "fuel": "benzin",
+    "hp": 193
+  },
+  {
+    "label": "A4 2.8 (Benzin, 193 PS)",
+    "fuel": "benzin",
+    "hp": 193
+  },
+  {
+    "label": "S4 2.7 quattro (Benzin, 265 PS)",
+    "fuel": "benzin",
+    "hp": 265
+  },
+  {
+    "label": "A4 1.9 TDI (Diesel, 90 PS)",
+    "fuel": "diesel",
+    "hp": 90
+  },
+  {
+    "label": "A4 1.9 TDI quattro (Diesel, 110 PS)",
+    "fuel": "diesel",
+    "hp": 110
+  },
+  {
+    "label": "A4 1.9 TDI (Diesel, 110 PS)",
+    "fuel": "diesel",
+    "hp": 110
+  },
+  {
+    "label": "A4 1.9 TDI quattro (Diesel, 115 PS)",
+    "fuel": "diesel",
+    "hp": 115
+  },
+  {
+    "label": "A4 1.9 TDI (Diesel, 115 PS)",
+    "fuel": "diesel",
+    "hp": 115
+  },
+  {
+    "label": "A4 2.5 TDI quattro (Diesel, 150 PS)",
+    "fuel": "diesel",
+    "hp": 150
+  },
+  {
+    "label": "A4 2.5 TDI (Diesel, 150 PS)",
+    "fuel": "diesel",
+    "hp": 150
+  }
+]

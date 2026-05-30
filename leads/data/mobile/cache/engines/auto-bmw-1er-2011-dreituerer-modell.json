@@ -1,0 +1,287 @@
+[
+  {
+    "label": "114i (Benzin, 102 PS)",
+    "fuel": "benzin",
+    "hp": 102
+  },
+  {
+    "label": "116i (Benzin, 109 PS)",
+    "fuel": "benzin",
+    "hp": 109
+  },
+  {
+    "label": "118i Aut. (Benzin, 136 PS)",
+    "fuel": "benzin",
+    "hp": 136
+  },
+  {
+    "label": "116i Aut. (Benzin, 136 PS)",
+    "fuel": "benzin",
+    "hp": 136
+  },
+  {
+    "label": "118i (Benzin, 136 PS)",
+    "fuel": "benzin",
+    "hp": 136
+  },
+  {
+    "label": "116i (Benzin, 136 PS)",
+    "fuel": "benzin",
+    "hp": 136
+  },
+  {
+    "label": "118i Aut. (Benzin, 170 PS)",
+    "fuel": "benzin",
+    "hp": 170
+  },
+  {
+    "label": "118i (Benzin, 170 PS)",
+    "fuel": "benzin",
+    "hp": 170
+  },
+  {
+    "label": "120i Aut. (Benzin, 177 PS)",
+    "fuel": "benzin",
+    "hp": 177
+  },
+  {
+    "label": "120i (Benzin, 177 PS)",
+    "fuel": "benzin",
+    "hp": 177
+  },
+  {
+    "label": "120i Aut. (Benzin, 184 PS)",
+    "fuel": "benzin",
+    "hp": 184
+  },
+  {
+    "label": "120i Sport-Aut. (Benzin, 184 PS)",
+    "fuel": "benzin",
+    "hp": 184
+  },
+  {
+    "label": "120i (Benzin, 184 PS)",
+    "fuel": "benzin",
+    "hp": 184
+  },
+  {
+    "label": "125i Aut. (Benzin, 218 PS)",
+    "fuel": "benzin",
+    "hp": 218
+  },
+  {
+    "label": "125i Sport-Aut. (Benzin, 218 PS)",
+    "fuel": "benzin",
+    "hp": 218
+  },
+  {
+    "label": "125i (Benzin, 218 PS)",
+    "fuel": "benzin",
+    "hp": 218
+  },
+  {
+    "label": "125i Aut. (Benzin, 224 PS)",
+    "fuel": "benzin",
+    "hp": 224
+  },
+  {
+    "label": "125i Sport-Aut. (Benzin, 224 PS)",
+    "fuel": "benzin",
+    "hp": 224
+  },
+  {
+    "label": "M135i Sport-Aut. (Benzin, 320 PS)",
+    "fuel": "benzin",
+    "hp": 320
+  },
+  {
+    "label": "M135i xDrive Sport-Aut. (Benzin, 320 PS)",
+    "fuel": "benzin",
+    "hp": 320
+  },
+  {
+    "label": "M135i (Benzin, 320 PS)",
+    "fuel": "benzin",
+    "hp": 320
+  },
+  {
+    "label": "M135i Sport-Aut. (Benzin, 326 PS)",
+    "fuel": "benzin",
+    "hp": 326
+  },
+  {
+    "label": "M135i xDrive Sport-Aut. (Benzin, 326 PS)",
+    "fuel": "benzin",
+    "hp": 326
+  },
+  {
+    "label": "M135i (Benzin, 326 PS)",
+    "fuel": "benzin",
+    "hp": 326
+  },
+  {
+    "label": "M140i Sport-Aut. (Benzin, 340 PS)",
+    "fuel": "benzin",
+    "hp": 340
+  },
+  {
+    "label": "M140i xDrive Sport-Aut. (Benzin, 340 PS)",
+    "fuel": "benzin",
+    "hp": 340
+  },
+  {
+    "label": "M140i Aut. (Benzin, 340 PS)",
+    "fuel": "benzin",
+    "hp": 340
+  },
+  {
+    "label": "M140i xDrive Aut. (Benzin, 340 PS)",
+    "fuel": "benzin",
+    "hp": 340
+  },
+  {
+    "label": "M140i (Benzin, 340 PS)",
+    "fuel": "benzin",
+    "hp": 340
+  },
+  {
+    "label": "114d (Diesel, 95 PS)",
+    "fuel": "diesel",
+    "hp": 95
+  },
+  {
+    "label": "116d Aut. (Diesel, 116 PS)",
+    "fuel": "diesel",
+    "hp": 116
+  },
+  {
+    "label": "116d (Diesel, 116 PS)",
+    "fuel": "diesel",
+    "hp": 116
+  },
+  {
+    "label": "116d EfficientDynamics Edition (Diesel, 116 PS)",
+    "fuel": "diesel",
+    "hp": 116
+  },
+  {
+    "label": "118d Aut. (Diesel, 143 PS)",
+    "fuel": "diesel",
+    "hp": 143
+  },
+  {
+    "label": "118d xDrive (Diesel, 143 PS)",
+    "fuel": "diesel",
+    "hp": 143
+  },
+  {
+    "label": "118d (Diesel, 143 PS)",
+    "fuel": "diesel",
+    "hp": 143
+  },
+  {
+    "label": "118d Aut. (Diesel, 150 PS)",
+    "fuel": "diesel",
+    "hp": 150
+  },
+  {
+    "label": "118d xDrive (Diesel, 150 PS)",
+    "fuel": "diesel",
+    "hp": 150
+  },
+  {
+    "label": "118d (Diesel, 150 PS)",
+    "fuel": "diesel",
+    "hp": 150
+  },
+  {
+    "label": "120d Aut. BluePerformance (Diesel, 184 PS)",
+    "fuel": "diesel",
+    "hp": 184
+  },
+  {
+    "label": "120d Aut. (Diesel, 184 PS)",
+    "fuel": "diesel",
+    "hp": 184
+  },
+  {
+    "label": "120d Sport-Aut. BluePerformance (Diesel, 184 PS)",
+    "fuel": "diesel",
+    "hp": 184
+  },
+  {
+    "label": "120d Sport-Aut. (Diesel, 184 PS)",
+    "fuel": "diesel",
+    "hp": 184
+  },
+  {
+    "label": "120d BluePerformance (Diesel, 184 PS)",
+    "fuel": "diesel",
+    "hp": 184
+  },
+  {
+    "label": "120d xDrive BluePerformance (Diesel, 184 PS)",
+    "fuel": "diesel",
+    "hp": 184
+  },
+  {
+    "label": "120d xDrive (Diesel, 184 PS)",
+    "fuel": "diesel",
+    "hp": 184
+  },
+  {
+    "label": "120d (Diesel, 184 PS)",
+    "fuel": "diesel",
+    "hp": 184
+  },
+  {
+    "label": "120d Aut. (Diesel, 190 PS)",
+    "fuel": "diesel",
+    "hp": 190
+  },
+  {
+    "label": "120d xDrive Aut. (Diesel, 190 PS)",
+    "fuel": "diesel",
+    "hp": 190
+  },
+  {
+    "label": "120d Sport-Aut. (Diesel, 190 PS)",
+    "fuel": "diesel",
+    "hp": 190
+  },
+  {
+    "label": "120d xDrive Sport-Aut. (Diesel, 190 PS)",
+    "fuel": "diesel",
+    "hp": 190
+  },
+  {
+    "label": "120d (Diesel, 190 PS)",
+    "fuel": "diesel",
+    "hp": 190
+  },
+  {
+    "label": "125d Aut. (Diesel, 218 PS)",
+    "fuel": "diesel",
+    "hp": 218
+  },
+  {
+    "label": "125d Sport-Aut. (Diesel, 218 PS)",
+    "fuel": "diesel",
+    "hp": 218
+  },
+  {
+    "label": "125d (Diesel, 218 PS)",
+    "fuel": "diesel",
+    "hp": 218
+  },
+  {
+    "label": "125d Aut. (Diesel, 224 PS)",
+    "fuel": "diesel",
+    "hp": 224
+  },
+  {
+    "label": "125d Sport-Aut. (Diesel, 224 PS)",
+    "fuel": "diesel",
+    "hp": 224
+  }
+]

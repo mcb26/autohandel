@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Model 3",
+    "description": "Model 3",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/TESLA/model/Model%203"
+  },
+  {
+    "name": "Model S",
+    "description": "Model S",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/TESLA/model/Model%20S"
+  },
+  {
+    "name": "Model X",
+    "description": "Model X",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/TESLA/model/Model%20X"
+  },
+  {
+    "name": "Model Y",
+    "description": "Model Y",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/TESLA/model/Model%20Y"
+  },
+  {
+    "name": "Roadster",
+    "description": "Roadster",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/TESLA/model/Roadster"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/TESLA/model/ANDERE"
+  }
+]

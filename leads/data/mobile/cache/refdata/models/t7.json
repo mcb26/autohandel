@@ -1,0 +1,32 @@
+[
+  {
+    "name": "T7 California",
+    "description": "T7 California",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/modelgroups/T7/models/T7%20California"
+  },
+  {
+    "name": "T7 Caravelle",
+    "description": "T7 Caravelle",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/modelgroups/T7/models/T7%20Caravelle"
+  },
+  {
+    "name": "T7 Kombi",
+    "description": "T7 Kombi",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/modelgroups/T7/models/T7%20Kombi"
+  },
+  {
+    "name": "T7 Multivan",
+    "description": "T7 Multivan",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/modelgroups/T7/models/T7%20Multivan"
+  },
+  {
+    "name": "T7 Transporter",
+    "description": "T7 Transporter",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/modelgroups/T7/models/T7%20Transporter"
+  },
+  {
+    "name": "T7__MODEL_OTHER",
+    "description": "T7 andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/modelgroups/T7/models/T7__MODEL_OTHER"
+  }
+]

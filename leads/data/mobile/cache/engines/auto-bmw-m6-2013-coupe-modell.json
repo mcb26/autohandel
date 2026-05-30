@@ -1,0 +1,47 @@
+[
+  {
+    "label": "M6 Cabrio (Benzin, 560 PS)",
+    "fuel": "benzin",
+    "hp": 560
+  },
+  {
+    "label": "M6 Cabrio Competition (Benzin, 575 PS)",
+    "fuel": "benzin",
+    "hp": 575
+  },
+  {
+    "label": "M6 Cabrio Competition (Benzin, 600 PS)",
+    "fuel": "benzin",
+    "hp": 600
+  },
+  {
+    "label": "M6 Coupe (Benzin, 560 PS)",
+    "fuel": "benzin",
+    "hp": 560
+  },
+  {
+    "label": "M6 Coupe Competition (Benzin, 575 PS)",
+    "fuel": "benzin",
+    "hp": 575
+  },
+  {
+    "label": "M6 Coupe Competition (Benzin, 600 PS)",
+    "fuel": "benzin",
+    "hp": 600
+  },
+  {
+    "label": "M6 Gran Coupe (Benzin, 560 PS)",
+    "fuel": "benzin",
+    "hp": 560
+  },
+  {
+    "label": "M6 Gran Coupe Competition (Benzin, 575 PS)",
+    "fuel": "benzin",
+    "hp": 575
+  },
+  {
+    "label": "M6 Gran Coupe Competition (Benzin, 600 PS)",
+    "fuel": "benzin",
+    "hp": 600
+  }
+]

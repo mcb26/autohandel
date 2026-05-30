@@ -1,0 +1,22 @@
+[
+  {
+    "label": "A4 allroad quattro 45 TFSI S tronic (Benzin, 265 PS) A4 allroad quattro 40 TDI S tronic (Diesel, 204 PS) A4 allroad quattro 50 TDI tiptronic (Diesel, 286 PS)",
+    "fuel": "diesel",
+    "hp": 286
+  },
+  {
+    "label": "A4 allroad quattro 45 TFSI S tronic (Benzin, 265 PS)",
+    "fuel": "benzin",
+    "hp": 265
+  },
+  {
+    "label": "A4 allroad quattro 40 TDI S tronic (Diesel, 204 PS)",
+    "fuel": "diesel",
+    "hp": 204
+  },
+  {
+    "label": "A4 allroad quattro 50 TDI tiptronic (Diesel, 286 PS)",
+    "fuel": "diesel",
+    "hp": 286
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Applause",
+    "description": "Applause",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DAIHATSU/model/Applause"
+  },
+  {
+    "name": "Charade",
+    "description": "Charade",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DAIHATSU/model/Charade"
+  },
+  {
+    "name": "Charmant",
+    "description": "Charmant",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DAIHATSU/model/Charmant"
+  },
+  {
+    "name": "Copen",
+    "description": "Copen",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DAIHATSU/model/Copen"
+  },
+  {
+    "name": "Cuore",
+    "description": "Cuore",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DAIHATSU/model/Cuore"
+  },
+  {
+    "name": "Feroza_Sportrak",
+    "description": "Feroza/Sportrak",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DAIHATSU/model/Feroza_Sportrak"
+  },
+  {
+    "name": "Freeclimber",
+    "description": "Freeclimber",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DAIHATSU/model/Freeclimber"
+  },
+  {
+    "name": "Gran Move",
+    "description": "Gran Move",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DAIHATSU/model/Gran%20Move"
+  },
+  {
+    "name": "Hijet",
+    "description": "Hijet",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DAIHATSU/model/Hijet"
+  },
+  {
+    "name": "MATERIA",
+    "description": "MATERIA",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DAIHATSU/model/MATERIA"
+  },
+  {
+    "name": "Move",
+    "description": "Move",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DAIHATSU/model/Move"
+  },
+  {
+    "name": "Rocky_Fourtrak",
+    "description": "Rocky/Fourtrak",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DAIHATSU/model/Rocky_Fourtrak"
+  },
+  {
+    "name": "Sirion",
+    "description": "Sirion",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DAIHATSU/model/Sirion"
+  },
+  {
+    "name": "TREVIS",
+    "description": "TREVIS",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DAIHATSU/model/TREVIS"
+  },
+  {
+    "name": "Terios",
+    "description": "Terios",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DAIHATSU/model/Terios"
+  },
+  {
+    "name": "YRV",
+    "description": "YRV",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DAIHATSU/model/YRV"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DAIHATSU/model/ANDERE"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "name": "ACADIA",
+    "description": "Acadia",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/GMC/model/ACADIA"
+  },
+  {
+    "name": "Envoy",
+    "description": "Envoy",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/GMC/model/Envoy"
+  },
+  {
+    "name": "Safari",
+    "description": "Safari",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/GMC/model/Safari"
+  },
+  {
+    "name": "Savana",
+    "description": "Savana",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/GMC/model/Savana"
+  },
+  {
+    "name": "Sierra",
+    "description": "Sierra",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/GMC/model/Sierra"
+  },
+  {
+    "name": "Sonoma",
+    "description": "Sonoma",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/GMC/model/Sonoma"
+  },
+  {
+    "name": "Syclone",
+    "description": "Syclone",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/GMC/model/Syclone"
+  },
+  {
+    "name": "Terrain",
+    "description": "Terrain",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/GMC/model/Terrain"
+  },
+  {
+    "name": "Typhoon",
+    "description": "Typhoon",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/GMC/model/Typhoon"
+  },
+  {
+    "name": "Vandura",
+    "description": "Vandura",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/GMC/model/Vandura"
+  },
+  {
+    "name": "Yukon",
+    "description": "Yukon",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/GMC/model/Yukon"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/GMC/model/ANDERE"
+  }
+]

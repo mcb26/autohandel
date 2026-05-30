@@ -1,0 +1,77 @@
+[
+  {
+    "label": "520i (Benzin, 150 PS)",
+    "fuel": "benzin",
+    "hp": 150
+  },
+  {
+    "label": "520i (Benzin, 170 PS)",
+    "fuel": "benzin",
+    "hp": 170
+  },
+  {
+    "label": "523i (Benzin, 170 PS)",
+    "fuel": "benzin",
+    "hp": 170
+  },
+  {
+    "label": "525i (Benzin, 192 PS)",
+    "fuel": "benzin",
+    "hp": 192
+  },
+  {
+    "label": "528i (Benzin, 193 PS)",
+    "fuel": "benzin",
+    "hp": 193
+  },
+  {
+    "label": "530i (Benzin, 231 PS)",
+    "fuel": "benzin",
+    "hp": 231
+  },
+  {
+    "label": "535i (Benzin, 235 PS)",
+    "fuel": "benzin",
+    "hp": 235
+  },
+  {
+    "label": "535i (Benzin, 245 PS)",
+    "fuel": "benzin",
+    "hp": 245
+  },
+  {
+    "label": "540i (Benzin, 286 PS)",
+    "fuel": "benzin",
+    "hp": 286
+  },
+  {
+    "label": "M5 (Benzin, 400 PS)",
+    "fuel": "benzin",
+    "hp": 400
+  },
+  {
+    "label": "520d (Diesel, 136 PS)",
+    "fuel": "diesel",
+    "hp": 136
+  },
+  {
+    "label": "525tds (Diesel, 143 PS)",
+    "fuel": "diesel",
+    "hp": 143
+  },
+  {
+    "label": "525d (Diesel, 163 PS)",
+    "fuel": "diesel",
+    "hp": 163
+  },
+  {
+    "label": "530d (Diesel, 184 PS)",
+    "fuel": "diesel",
+    "hp": 184
+  },
+  {
+    "label": "530d (Diesel, 193 PS)",
+    "fuel": "diesel",
+    "hp": 193
+  }
+]

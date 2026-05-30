@@ -1,0 +1,97 @@
+[
+  {
+    "name": "Avenger",
+    "description": "Avenger",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DODGE/model/Avenger"
+  },
+  {
+    "name": "Caliber",
+    "description": "Caliber",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DODGE/model/Caliber"
+  },
+  {
+    "name": "Challenger",
+    "description": "Challenger",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DODGE/model/Challenger"
+  },
+  {
+    "name": "Charger",
+    "description": "Charger",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DODGE/model/Charger"
+  },
+  {
+    "name": "Coronet",
+    "description": "Coronet",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DODGE/model/Coronet"
+  },
+  {
+    "name": "Dakota",
+    "description": "Dakota",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DODGE/model/Dakota"
+  },
+  {
+    "name": "Dart",
+    "description": "Dart",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DODGE/model/Dart"
+  },
+  {
+    "name": "Demon",
+    "description": "Demon",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DODGE/model/Demon"
+  },
+  {
+    "name": "Durango",
+    "description": "Durango",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DODGE/model/Durango"
+  },
+  {
+    "name": "Grand Caravan",
+    "description": "Grand Caravan",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DODGE/model/Grand%20Caravan"
+  },
+  {
+    "name": "Hornet",
+    "description": "Hornet",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DODGE/model/Hornet"
+  },
+  {
+    "name": "Journey",
+    "description": "Journey",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DODGE/model/Journey"
+  },
+  {
+    "name": "Magnum",
+    "description": "Magnum",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DODGE/model/Magnum"
+  },
+  {
+    "name": "Neon",
+    "description": "Neon",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DODGE/model/Neon"
+  },
+  {
+    "name": "Nitro",
+    "description": "Nitro",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DODGE/model/Nitro"
+  },
+  {
+    "name": "RAM",
+    "description": "RAM",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DODGE/model/RAM"
+  },
+  {
+    "name": "Stealth",
+    "description": "Stealth",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DODGE/model/Stealth"
+  },
+  {
+    "name": "Viper",
+    "description": "Viper",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DODGE/model/Viper"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DODGE/model/ANDERE"
+  }
+]

@@ -1,0 +1,187 @@
+[
+  {
+    "label": "The Beetle Cabriolet 1.2 TSI DSG BlueMotion Techno (Benzin, 105 PS)",
+    "fuel": "benzin",
+    "hp": 105
+  },
+  {
+    "label": "The Beetle Cabriolet 1.2 TSI DSG (Benzin, 105 PS)",
+    "fuel": "benzin",
+    "hp": 105
+  },
+  {
+    "label": "The Beetle Cabriolet 1.2 TSI DSG (BlueMotion Tech) (Benzin, 105 PS)",
+    "fuel": "bluemotion tech) (benzin",
+    "hp": 105
+  },
+  {
+    "label": "The Beetle Cabriolet 1.2 TSI DSG BlueMotion Techn. (Benzin, 105 PS)",
+    "fuel": "benzin",
+    "hp": 105
+  },
+  {
+    "label": "The Beetle Cabriolet 1.2 TSI BlueMotion Technology (Benzin, 105 PS)",
+    "fuel": "benzin",
+    "hp": 105
+  },
+  {
+    "label": "The Beetle Cabriolet 1.2 TSI (Benzin, 105 PS)",
+    "fuel": "benzin",
+    "hp": 105
+  },
+  {
+    "label": "The Beetle Cabriolet 1.2 TSI (BlueMotion Tech) (Benzin, 105 PS)",
+    "fuel": "bluemotion tech) (benzin",
+    "hp": 105
+  },
+  {
+    "label": "The Beetle Cabriolet 1.4 TSI DSG Blue Motion Techn (Benzin, 150 PS)",
+    "fuel": "benzin",
+    "hp": 150
+  },
+  {
+    "label": "The Beetle Cabriolet 1.4 TSI DSG (BlueMotion Tech) (Benzin, 150 PS)",
+    "fuel": "bluemotion tech) (benzin",
+    "hp": 150
+  },
+  {
+    "label": "The Beetle Cabriolet 1.4 TSI Blue Motion Technolog (Benzin, 150 PS)",
+    "fuel": "benzin",
+    "hp": 150
+  },
+  {
+    "label": "The Beetle Cabriolet 1.4 TSI (BlueMotion Tech) (Benzin, 150 PS)",
+    "fuel": "bluemotion tech) (benzin",
+    "hp": 150
+  },
+  {
+    "label": "The Beetle Cabriolet 1.4 TSI BlueMotion Technology (Benzin, 150 PS)",
+    "fuel": "benzin",
+    "hp": 150
+  },
+  {
+    "label": "The Beetle Cabriolet 1.4 TSI DSG (Benzin, 160 PS)",
+    "fuel": "benzin",
+    "hp": 160
+  },
+  {
+    "label": "The Beetle Cabriolet 1.4 TSI (Benzin, 160 PS)",
+    "fuel": "benzin",
+    "hp": 160
+  },
+  {
+    "label": "The Beetle Cabriolet 2.0 TSI DSG (Benzin, 200 PS)",
+    "fuel": "benzin",
+    "hp": 200
+  },
+  {
+    "label": "The Beetle Cabriolet 2.0 TSI (Benzin, 200 PS)",
+    "fuel": "benzin",
+    "hp": 200
+  },
+  {
+    "label": "The Beetle Cabriolet 2.0 TSI DSG (Benzin, 210 PS)",
+    "fuel": "benzin",
+    "hp": 210
+  },
+  {
+    "label": "The Beetle Cabriolet 2.0 TSI (Benzin, 210 PS)",
+    "fuel": "benzin",
+    "hp": 210
+  },
+  {
+    "label": "The Beetle Cabriolet 2.0 TSI DSG (BlueMotion Tech) (Benzin, 220 PS)",
+    "fuel": "bluemotion tech) (benzin",
+    "hp": 220
+  },
+  {
+    "label": "The Beetle Cabriolet 2.0 TSI DSG Blue Motion Tech. (Benzin, 220 PS)",
+    "fuel": "benzin",
+    "hp": 220
+  },
+  {
+    "label": "The Beetle Cabriolet 2.0 TSI DSG Blue Motion Tech (Benzin, 220 PS)",
+    "fuel": "benzin",
+    "hp": 220
+  },
+  {
+    "label": "The Beetle Cabriolet 2.0 TSI (BlueMotion Tech) (Benzin, 220 PS)",
+    "fuel": "bluemotion tech) (benzin",
+    "hp": 220
+  },
+  {
+    "label": "The Beetle Cabriolet 2.0 TSI Blue Motion Technolog (Benzin, 220 PS)",
+    "fuel": "benzin",
+    "hp": 220
+  },
+  {
+    "label": "The Beetle Cabriolet 1.6 TDI DSG BlueMotion Techn. (Diesel, 105 PS)",
+    "fuel": "diesel",
+    "hp": 105
+  },
+  {
+    "label": "The Beetle Cabriolet 1.6 TDI DSG (Diesel, 105 PS)",
+    "fuel": "diesel",
+    "hp": 105
+  },
+  {
+    "label": "The Beetle Cabriolet 1.6 TDI BlueMotion Technology (Diesel, 105 PS)",
+    "fuel": "diesel",
+    "hp": 105
+  },
+  {
+    "label": "The Beetle Cabriolet 1.6 TDI (Diesel, 105 PS)",
+    "fuel": "diesel",
+    "hp": 105
+  },
+  {
+    "label": "The Beetle Cabriolet 2.0 TDI DSG BlueMotion Techn. (Diesel, 110 PS)",
+    "fuel": "diesel",
+    "hp": 110
+  },
+  {
+    "label": "The Beetle Cabriolet 2.0 TDI DSG (BlueMotion Tech) (Diesel, 110 PS)",
+    "fuel": "bluemotion tech) (diesel",
+    "hp": 110
+  },
+  {
+    "label": "The Beetle Cabriolet 2.0 TDI BlueMotion Technology (Diesel, 110 PS)",
+    "fuel": "diesel",
+    "hp": 110
+  },
+  {
+    "label": "The Beetle Cabriolet 2.0 TDI (BlueMotion Tech) (Diesel, 110 PS)",
+    "fuel": "bluemotion tech) (diesel",
+    "hp": 110
+  },
+  {
+    "label": "The Beetle Cabriolet 2.0 TDI DSG (Diesel, 140 PS)",
+    "fuel": "diesel",
+    "hp": 140
+  },
+  {
+    "label": "The Beetle Cabriolet 2.0 TDI (Diesel, 140 PS)",
+    "fuel": "diesel",
+    "hp": 140
+  },
+  {
+    "label": "The Beetle Cabriolet 2.0 TDI DSG Blue Motion Techn (Diesel, 150 PS)",
+    "fuel": "diesel",
+    "hp": 150
+  },
+  {
+    "label": "The Beetle Cabriolet 2.0 TDI DSG (BlueMotion Tech) (Diesel, 150 PS)",
+    "fuel": "bluemotion tech) (diesel",
+    "hp": 150
+  },
+  {
+    "label": "The Beetle Cabriolet 2.0 TDI Blue Motion Technolog (Diesel, 150 PS)",
+    "fuel": "diesel",
+    "hp": 150
+  },
+  {
+    "label": "The Beetle Cabriolet 2.0 TDI (BlueMotion Tech) (Diesel, 150 PS)",
+    "fuel": "bluemotion tech) (diesel",
+    "hp": 150
+  }
+]

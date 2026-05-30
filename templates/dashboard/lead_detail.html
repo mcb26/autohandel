@@ -1,0 +1,264 @@
+{% extends "dashboard/base.html" %}
+{% load dashboard_extras %}
+
+{% block title %}Lead #{{ lead.pk }} | Dashboard{% endblock %}
+
+{% block content %}
+<div class="dashboard-page dashboard-detail-page">
+    <div class="dashboard-detail-header d-flex flex-wrap align-items-start justify-content-between gap-3 mb-3">
+        <div class="min-w-0 flex-grow-1">
+            <a class="small text-muted text-decoration-none d-inline-block mb-1" href="{% url 'leads:dashboard_home' %}{{ list_query }}">&larr; Zurück zur Übersicht</a>
+            <h1 class="h4 mb-0 text-break">{{ lead.customer_name }}</h1>
+            <div class="dashboard-detail-nav d-flex gap-2 mt-2">
+                {% if prev_lead_pk %}
+                    <a class="btn btn-outline-dark flex-fill" href="{% url 'leads:dashboard_lead_detail' prev_lead_pk %}{{ list_query }}">← Vorherige</a>
+                {% else %}
+                    <span class="btn btn-outline-dark flex-fill disabled">← Vorherige</span>
+                {% endif %}
+                {% if next_lead_pk %}
+                    <a class="btn btn-outline-dark flex-fill" href="{% url 'leads:dashboard_lead_detail' next_lead_pk %}{{ list_query }}">Nächste →</a>
+                {% else %}
+                    <span class="btn btn-outline-dark flex-fill disabled">Nächste →</span>
+                {% endif %}
+            </div>
+        </div>
+        <div class="d-flex align-items-center gap-2 flex-wrap dashboard-detail-badges">
+            <span class="badge {{ lead.status|dashboard_status_badge }} px-3 py-2">{{ lead.get_status_display }}</span>
+            {% if lead.is_archived %}
+                <span class="badge text-bg-secondary px-3 py-2">Archiviert{% if lead.archived_at %} · {{ lead.archived_at|date:"d.m.Y" }}{% endif %}</span>
+            {% endif %}
+        </div>
+    </div>
+
+    <div class="row g-3">
+        <div class="col-12 col-lg-8">
+            <div class="card shadow-sm dashboard-card mb-3">
+                <div class="card-body">
+                    <div class="d-flex justify-content-between align-items-start">
+                        <div>
+                            <div class="text-muted small">Eingang</div>
+                            <div class="fw-semibold">{{ lead.created_at|date:"d.m.Y H:i" }}</div>
+                        </div>
+                        <div class="text-end">
+                            <div class="text-muted small">Letztes Update</div>
+                            <div class="fw-semibold">{{ lead.updated_at|date:"d.m.Y H:i" }}</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card shadow-sm dashboard-card mb-3">
+                <div class="card-body">
+                    <h2 class="h6 mb-3">Kundendaten</h2>
+                    <div class="row g-3">
+                        <div class="col-12 col-md-6">
+                            <div class="text-muted small">Name</div>
+                            <div class="fw-semibold">{{ lead.customer_name }}</div>
+                        </div>
+                        <div class="col-12 col-md-6">
+                            <div class="text-muted small">PLZ</div>
+                            <div class="fw-semibold">{{ lead.postal_code }}</div>
+                        </div>
+                        <div class="col-12 col-md-6">
+                            <div class="text-muted small">Telefon</div>
+                            <div class="fw-semibold"><a class="text-decoration-none" href="tel:{{ lead.phone }}">{{ lead.phone }}</a></div>
+                        </div>
+                        <div class="col-12 col-md-6">
+                            <div class="text-muted small">E-Mail</div>
+                            <div class="fw-semibold"><a class="text-decoration-none" href="mailto:{{ lead.email }}">{{ lead.email }}</a></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card shadow-sm dashboard-card mb-3">
+                <div class="card-body">
+                    <h2 class="h6 mb-3">Fahrzeugdaten</h2>
+                    <div class="row g-3">
+                        <div class="col-12 col-md-6">
+                            <div class="text-muted small">Marke</div>
+                            <div class="fw-semibold">{{ lead.brand }}</div>
+                        </div>
+                        <div class="col-12 col-md-6">
+                            <div class="text-muted small">Modellreihe</div>
+                            <div class="fw-semibold">{{ lead.model }}</div>
+                        </div>
+                        {% if lead.series %}
+                        <div class="col-12 col-md-6">
+                            <div class="text-muted small">Baureihe</div>
+                            <div class="fw-semibold">{{ lead.series }}</div>
+                        </div>
+                        {% endif %}
+                        {% if lead.engine %}
+                        <div class="col-12 col-md-6">
+                            <div class="text-muted small">Motorisierung</div>
+                            <div class="fw-semibold">{{ lead.engine }}</div>
+                        </div>
+                        {% endif %}
+                        <div class="col-12 col-md-6">
+                            <div class="text-muted small">Erstzulassung</div>
+                            <div class="fw-semibold">{{ lead.first_registration_display }}</div>
+                        </div>
+                        <div class="col-12 col-md-6">
+                            <div class="text-muted small">Kilometerstand</div>
+                            <div class="fw-semibold">{{ lead.mileage }} km</div>
+                        </div>
+                        <div class="col-12 col-md-6">
+                            <div class="text-muted small">Preisvorstellung</div>
+                            <div class="fw-semibold">{% if lead.expected_price %}{{ lead.expected_price }} €{% else %}-{% endif %}</div>
+                        </div>
+                        <div class="col-12 col-md-6">
+                            <div class="text-muted small">Zustand</div>
+                            <div class="fw-semibold">{{ lead.get_vehicle_condition_display }}</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card shadow-sm dashboard-card">
+                <div class="card-body">
+                    <h2 class="h6 mb-3">Nachricht</h2>
+                    {% if lead.message %}
+                        <div class="dashboard-message">{{ lead.message|linebreaksbr }}</div>
+                    {% else %}
+                        <div class="text-muted">Keine Nachricht angegeben.</div>
+                    {% endif %}
+
+                    <hr class="my-4">
+                    <h3 class="h6 mb-2">Einwilligungen</h3>
+                    <ul class="mb-0">
+                        <li>DSGVO akzeptiert: <strong>{% if lead.privacy_accepted %}Ja{% else %}Nein{% endif %}</strong></li>
+                        <li>Marketing-Einwilligung: <strong>{% if lead.marketing_consent %}Ja{% else %}Nein{% endif %}</strong></li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="card shadow-sm dashboard-card mt-3">
+                <div class="card-body">
+                    <div class="d-flex justify-content-between align-items-center mb-3">
+                        <h2 class="h6 mb-0">Fahrzeugbilder</h2>
+                        <span class="small text-muted">{{ lead.images.count }} Bild(er)</span>
+                    </div>
+                    {% if lead.images.all %}
+                        <div class="dashboard-image-grid" id="dashboard-image-grid">
+                            {% for image in lead.images.all %}
+                                <button type="button" class="dashboard-image-link dashboard-lightbox-open" data-lightbox-index="{{ forloop.counter0 }}" aria-label="Bild {{ forloop.counter }} vergrößern">
+                                    <img src="{{ image.image.url }}" alt="Fahrzeugbild {{ forloop.counter }}" class="dashboard-image">
+                                </button>
+                            {% endfor %}
+                        </div>
+                    {% else %}
+                        <div class="text-muted">Keine Bilder hochgeladen.</div>
+                    {% endif %}
+                </div>
+            </div>
+
+            <div class="mt-3 small text-muted">
+                IP: {{ lead.source_ip|default:"-" }} · User-Agent: {{ lead.user_agent|default:"-" }}
+            </div>
+        </div>
+
+        <div class="col-12 col-lg-4">
+            <div class="card shadow-sm dashboard-card mb-3">
+                <div class="card-body">
+                    <h2 class="h6 mb-3">Status ändern</h2>
+                    <form method="post">
+                        {% csrf_token %}
+                        <input type="hidden" name="action" value="status">
+                        <div class="mb-3">
+                            {{ status_form.status.label_tag }}
+                            {{ status_form.status }}
+                        </div>
+                        <button class="btn btn-success w-100" type="submit">Status speichern</button>
+                    </form>
+                </div>
+            </div>
+
+            <div class="card shadow-sm dashboard-card mb-3">
+                <div class="card-body">
+                    <h2 class="h6 mb-3">Interne Notizen</h2>
+                    <p class="small text-muted mb-2">Nur für Händler sichtbar – nicht für Kunden.</p>
+                    <form method="post">
+                        {% csrf_token %}
+                        <input type="hidden" name="action" value="notes">
+                        <div class="mb-3">
+                            {{ notes_form.internal_notes }}
+                        </div>
+                        <button class="btn btn-outline-dark w-100" type="submit">Notizen speichern</button>
+                    </form>
+                </div>
+            </div>
+
+            <div class="card shadow-sm dashboard-card mb-3">
+                <div class="card-body">
+                    <h2 class="h6 mb-3">Aktionen</h2>
+                    <div class="d-grid gap-2">
+                        {% if lead.is_archived %}
+                            <form method="post" action="{% url 'leads:dashboard_lead_unarchive' lead.pk %}">
+                                {% csrf_token %}
+                                <button class="btn btn-outline-dark w-100" type="submit">Aus Archiv holen</button>
+                            </form>
+                        {% else %}
+                            <form method="post" action="{% url 'leads:dashboard_lead_archive' lead.pk %}">
+                                {% csrf_token %}
+                                <input type="hidden" name="view" value="{{ archive_view }}">
+                                <button class="btn btn-outline-secondary w-100" type="submit">Ins Archiv verschieben</button>
+                            </form>
+                        {% endif %}
+                        <form method="post" action="{% url 'leads:dashboard_lead_delete' lead.pk %}" onsubmit="return confirm('Anfrage #{{ lead.pk }} von {{ lead.customer_name|escapejs }} endgültig löschen? Bilder werden mitgelöscht.');">
+                            {% csrf_token %}
+                            <input type="hidden" name="view" value="{% if lead.is_archived %}archived{% else %}{{ archive_view }}{% endif %}">
+                            <button class="btn btn-outline-danger w-100" type="submit">Endgültig löschen</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card shadow-sm dashboard-card">
+                <div class="card-body">
+                    <h2 class="h6 mb-3">Kontakt</h2>
+                    <div class="d-grid gap-2 dashboard-contact-actions">
+                        <a class="btn btn-outline-success" href="tel:{{ lead.phone }}">Telefon anrufen</a>
+                        <a class="btn btn-outline-primary" href="mailto:{{ lead.email }}">E-Mail schreiben</a>
+                        {% with wa_text="Hallo "|add:lead.customer_name|add:", wir haben Ihre Anfrage zum Fahrzeug "|add:lead.vehicle_summary|add:" erhalten. Wann passt Ihnen ein kurzes Telefonat?" %}
+                            <a class="btn btn-outline-dark" href="https://wa.me/?text={{ wa_text|urlencode }}" target="_blank" rel="noopener">WhatsApp öffnen</a>
+                        {% endwith %}
+                        {% with tg_url=lead.phone|telegram_phone_url %}
+                            {% if tg_url %}
+                                <a class="btn btn-outline-info" href="{{ tg_url }}" target="_blank" rel="noopener">Telegram-Nachricht an Kunde</a>
+                                <p class="small text-muted mb-0">Öffnet Telegram nur, wenn der Kunde diese Nummer dort nutzt (kein @-Name nötig).</p>
+                            {% endif %}
+                        {% endwith %}
+                    </div>
+                    <hr class="my-3">
+                    <h2 class="h6 mb-3">Dokumente</h2>
+                    <div class="d-grid gap-2">
+                        <a class="btn btn-outline-dark" href="{% url 'leads:dashboard_lead_print' lead.pk %}?images=0" target="_blank">Angebot drucken (ohne Bilder)</a>
+                        <a class="btn btn-outline-dark" href="{% url 'leads:dashboard_lead_print' lead.pk %}?images=1" target="_blank">Angebot drucken (mit Bildern)</a>
+                        <a class="btn btn-dark" href="{% url 'leads:dashboard_lead_package_download' lead.pk %}">Komplettpaket herunterladen</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+{% if image_urls %}
+{{ image_urls|json_script:"dashboard-lightbox-images" }}
+<div id="dashboard-lightbox" class="dashboard-lightbox d-none" role="dialog" aria-modal="true" aria-label="Bildergalerie">
+    <button type="button" class="dashboard-lightbox-close" aria-label="Schließen">&times;</button>
+    <button type="button" class="dashboard-lightbox-nav dashboard-lightbox-prev" aria-label="Vorheriges Bild">&#10094;</button>
+    <button type="button" class="dashboard-lightbox-nav dashboard-lightbox-next" aria-label="Nächstes Bild">&#10095;</button>
+    <div class="dashboard-lightbox-stage">
+        <img id="dashboard-lightbox-img" src="" alt="Fahrzeugbild">
+    </div>
+    <p id="dashboard-lightbox-counter" class="dashboard-lightbox-counter"></p>
+</div>
+{% endif %}
+{% endblock %}
+
+{% block extra_scripts %}
+{% load static %}
+<script src="{% static 'js/dashboard-lightbox.js' %}"></script>
+{% endblock %}
+

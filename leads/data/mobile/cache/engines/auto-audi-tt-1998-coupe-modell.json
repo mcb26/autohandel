@@ -1,0 +1,57 @@
+[
+  {
+    "label": "TT Coupe 1.8 T (Benzin, 150 PS)",
+    "fuel": "benzin",
+    "hp": 150
+  },
+  {
+    "label": "TT Coupe 1.8 T (Benzin, 163 PS)",
+    "fuel": "benzin",
+    "hp": 163
+  },
+  {
+    "label": "TT Coupe 1.8 T (Benzin, 180 PS)",
+    "fuel": "benzin",
+    "hp": 180
+  },
+  {
+    "label": "TT Coupe 1.8 T quattro (Benzin, 180 PS)",
+    "fuel": "benzin",
+    "hp": 180
+  },
+  {
+    "label": "TT Coupe 1.8 T tiptronic (Benzin, 190 PS)",
+    "fuel": "benzin",
+    "hp": 190
+  },
+  {
+    "label": "TT Coupe 1.8 T quattro (Benzin, 190 PS)",
+    "fuel": "benzin",
+    "hp": 190
+  },
+  {
+    "label": "TT Coupe 1.8 T (Benzin, 190 PS)",
+    "fuel": "benzin",
+    "hp": 190
+  },
+  {
+    "label": "TT Coupe 1.8 T quattro (Benzin, 225 PS)",
+    "fuel": "benzin",
+    "hp": 225
+  },
+  {
+    "label": "TT Coupe quattro (Benzin, 239 PS)",
+    "fuel": "benzin",
+    "hp": 239
+  },
+  {
+    "label": "TT Coupe 3.2 quattro DSG (Benzin, 250 PS)",
+    "fuel": "benzin",
+    "hp": 250
+  },
+  {
+    "label": "TT Coupe 3.2 quattro (Benzin, 250 PS)",
+    "fuel": "benzin",
+    "hp": 250
+  }
+]

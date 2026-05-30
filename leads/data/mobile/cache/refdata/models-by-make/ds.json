@@ -1,0 +1,52 @@
+[
+  {
+    "name": "DS3",
+    "description": "DS3",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DS/model/DS3"
+  },
+  {
+    "name": "DS3 Crossback",
+    "description": "DS3 Crossback",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DS/model/DS3%20Crossback"
+  },
+  {
+    "name": "DS4",
+    "description": "DS4",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DS/model/DS4"
+  },
+  {
+    "name": "DS4 Crossback",
+    "description": "DS4 Crossback",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DS/model/DS4%20Crossback"
+  },
+  {
+    "name": "DS5",
+    "description": "DS5",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DS/model/DS5"
+  },
+  {
+    "name": "DS7 Crossback",
+    "description": "DS7 (Crossback)",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DS/model/DS7%20Crossback"
+  },
+  {
+    "name": "DS9",
+    "description": "DS9",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DS/model/DS9"
+  },
+  {
+    "name": "No8",
+    "description": "Nº8",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DS/model/No8"
+  },
+  {
+    "name": "Nº4",
+    "description": "Nº4",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DS/model/N%C2%BA4"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DS/model/ANDERE"
+  }
+]

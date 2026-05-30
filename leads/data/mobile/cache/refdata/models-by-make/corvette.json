@@ -1,0 +1,57 @@
+[
+  {
+    "name": "C1",
+    "description": "C1",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CORVETTE/model/C1"
+  },
+  {
+    "name": "C2",
+    "description": "C2",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CORVETTE/model/C2"
+  },
+  {
+    "name": "C3",
+    "description": "C3",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CORVETTE/model/C3"
+  },
+  {
+    "name": "C4",
+    "description": "C4",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CORVETTE/model/C4"
+  },
+  {
+    "name": "C5",
+    "description": "C5",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CORVETTE/model/C5"
+  },
+  {
+    "name": "C6",
+    "description": "C6",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CORVETTE/model/C6"
+  },
+  {
+    "name": "C7",
+    "description": "C7",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CORVETTE/model/C7"
+  },
+  {
+    "name": "C8",
+    "description": "C8",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CORVETTE/model/C8"
+  },
+  {
+    "name": "Z06",
+    "description": "Z06",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CORVETTE/model/Z06"
+  },
+  {
+    "name": "ZR 1",
+    "description": "ZR 1",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CORVETTE/model/ZR%201"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CORVETTE/model/ANDERE"
+  }
+]

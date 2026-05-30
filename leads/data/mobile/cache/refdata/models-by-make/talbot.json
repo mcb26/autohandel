@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Horizon",
+    "description": "Horizon",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/TALBOT/model/Horizon"
+  },
+  {
+    "name": "Samba",
+    "description": "Samba",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/TALBOT/model/Samba"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/TALBOT/model/ANDERE"
+  }
+]

@@ -1,0 +1,177 @@
+[
+  {
+    "label": "740Li (Benzin, 320 PS)",
+    "fuel": "benzin",
+    "hp": 320
+  },
+  {
+    "label": "740i (Benzin, 320 PS)",
+    "fuel": "benzin",
+    "hp": 320
+  },
+  {
+    "label": "740Li (Benzin, 326 PS)",
+    "fuel": "benzin",
+    "hp": 326
+  },
+  {
+    "label": "740i (Benzin, 326 PS)",
+    "fuel": "benzin",
+    "hp": 326
+  },
+  {
+    "label": "750Li xDrive (Benzin, 407 PS)",
+    "fuel": "benzin",
+    "hp": 407
+  },
+  {
+    "label": "750Li (Benzin, 407 PS)",
+    "fuel": "benzin",
+    "hp": 407
+  },
+  {
+    "label": "750i xDrive (Benzin, 407 PS)",
+    "fuel": "benzin",
+    "hp": 407
+  },
+  {
+    "label": "750i (Benzin, 407 PS)",
+    "fuel": "benzin",
+    "hp": 407
+  },
+  {
+    "label": "750Li xDrive (Benzin, 450 PS)",
+    "fuel": "benzin",
+    "hp": 450
+  },
+  {
+    "label": "750Li (Benzin, 450 PS)",
+    "fuel": "benzin",
+    "hp": 450
+  },
+  {
+    "label": "750i xDrive (Benzin, 450 PS)",
+    "fuel": "benzin",
+    "hp": 450
+  },
+  {
+    "label": "750i (Benzin, 450 PS)",
+    "fuel": "benzin",
+    "hp": 450
+  },
+  {
+    "label": "760Li (Benzin, 544 PS)",
+    "fuel": "benzin",
+    "hp": 544
+  },
+  {
+    "label": "760i (Benzin, 544 PS)",
+    "fuel": "benzin",
+    "hp": 544
+  },
+  {
+    "label": "Active Hybrid 7 L (Benzin/Elektro, 320 PS)",
+    "fuel": "benzin/elektro",
+    "hp": 320
+  },
+  {
+    "label": "Active Hybrid 7 (Benzin/Elektro, 320 PS)",
+    "fuel": "benzin/elektro",
+    "hp": 320
+  },
+  {
+    "label": "Active Hybrid 7 L (Benzin/Elektro, 449 PS)",
+    "fuel": "benzin/elektro",
+    "hp": 449
+  },
+  {
+    "label": "Active Hybrid 7 (Benzin/Elektro, 449 PS)",
+    "fuel": "benzin/elektro",
+    "hp": 449
+  },
+  {
+    "label": "730Ld Blue Performance (Diesel, 245 PS)",
+    "fuel": "diesel",
+    "hp": 245
+  },
+  {
+    "label": "730Ld (Diesel, 245 PS)",
+    "fuel": "diesel",
+    "hp": 245
+  },
+  {
+    "label": "730d Blue Performance (Diesel, 245 PS)",
+    "fuel": "diesel",
+    "hp": 245
+  },
+  {
+    "label": "730d (Diesel, 245 PS)",
+    "fuel": "diesel",
+    "hp": 245
+  },
+  {
+    "label": "730Ld BluePerformance (Diesel, 258 PS)",
+    "fuel": "diesel",
+    "hp": 258
+  },
+  {
+    "label": "730Ld (Diesel, 258 PS)",
+    "fuel": "diesel",
+    "hp": 258
+  },
+  {
+    "label": "730d BluePerformance (Diesel, 258 PS)",
+    "fuel": "diesel",
+    "hp": 258
+  },
+  {
+    "label": "730d xDrive (Diesel, 258 PS)",
+    "fuel": "diesel",
+    "hp": 258
+  },
+  {
+    "label": "730d (Diesel, 258 PS)",
+    "fuel": "diesel",
+    "hp": 258
+  },
+  {
+    "label": "740d xDrive (Diesel, 306 PS)",
+    "fuel": "diesel",
+    "hp": 306
+  },
+  {
+    "label": "740d (Diesel, 306 PS)",
+    "fuel": "diesel",
+    "hp": 306
+  },
+  {
+    "label": "740d xDrive (Diesel, 313 PS)",
+    "fuel": "diesel",
+    "hp": 313
+  },
+  {
+    "label": "740d (Diesel, 313 PS)",
+    "fuel": "diesel",
+    "hp": 313
+  },
+  {
+    "label": "750Ld xDrive Blue Performance (Diesel, 381 PS)",
+    "fuel": "diesel",
+    "hp": 381
+  },
+  {
+    "label": "750Ld xDrive BluePerformance (Diesel, 381 PS)",
+    "fuel": "diesel",
+    "hp": 381
+  },
+  {
+    "label": "750d xDrive Blue Performance (Diesel, 381 PS)",
+    "fuel": "diesel",
+    "hp": 381
+  },
+  {
+    "label": "750d xDrive BluePerformance (Diesel, 381 PS)",
+    "fuel": "diesel",
+    "hp": 381
+  }
+]

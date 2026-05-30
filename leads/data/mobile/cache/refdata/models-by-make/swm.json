@@ -1,0 +1,22 @@
+[
+  {
+    "name": "G01",
+    "description": "G01",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SWM/model/G01"
+  },
+  {
+    "name": "G03",
+    "description": "G03",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SWM/model/G03"
+  },
+  {
+    "name": "G05",
+    "description": "G05",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SWM/model/G05"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SWM/model/ANDERE"
+  }
+]

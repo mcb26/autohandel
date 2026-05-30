@@ -1,0 +1,37 @@
+[
+  {
+    "name": "T5 California",
+    "description": "T5 California",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/modelgroups/T5/models/T5%20California"
+  },
+  {
+    "name": "T5 Caravelle",
+    "description": "T5 Caravelle",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/modelgroups/T5/models/T5%20Caravelle"
+  },
+  {
+    "name": "T5 Multivan",
+    "description": "T5 Multivan",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/modelgroups/T5/models/T5%20Multivan"
+  },
+  {
+    "name": "T5 Shuttle",
+    "description": "T5 Shuttle",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/modelgroups/T5/models/T5%20Shuttle"
+  },
+  {
+    "name": "T5 Transporter",
+    "description": "T5 Transporter",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/modelgroups/T5/models/T5%20Transporter"
+  },
+  {
+    "name": "T5_Kombi",
+    "description": "T5 Kombi",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/modelgroups/T5/models/T5_Kombi"
+  },
+  {
+    "name": "T5__MODEL_OTHER",
+    "description": "T5 andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/modelgroups/T5/models/T5__MODEL_OTHER"
+  }
+]

@@ -1,0 +1,417 @@
+[
+  {
+    "name": "181",
+    "description": "181",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/model/181"
+  },
+  {
+    "name": "Amarok",
+    "description": "Amarok",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/model/Amarok"
+  },
+  {
+    "name": "Arteon",
+    "description": "Arteon",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/model/Arteon"
+  },
+  {
+    "name": "Beetle",
+    "description": "Beetle",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/model/Beetle"
+  },
+  {
+    "name": "Bora",
+    "description": "Bora",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/model/Bora"
+  },
+  {
+    "name": "Buggy",
+    "description": "Buggy",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/model/Buggy"
+  },
+  {
+    "name": "CC",
+    "description": "CC",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/model/CC"
+  },
+  {
+    "name": "Caddy",
+    "description": "Caddy",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/model/Caddy"
+  },
+  {
+    "name": "Caddy Maxi",
+    "description": "Caddy Maxi",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/model/Caddy%20Maxi"
+  },
+  {
+    "name": "Corrado",
+    "description": "Corrado",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/model/Corrado"
+  },
+  {
+    "name": "Crafter",
+    "description": "Crafter",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/model/Crafter"
+  },
+  {
+    "name": "Eos",
+    "description": "Eos",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/model/Eos"
+  },
+  {
+    "name": "Fox",
+    "description": "Fox",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/model/Fox"
+  },
+  {
+    "name": "Golf",
+    "description": "Golf",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/model/Golf"
+  },
+  {
+    "name": "Golf Plus",
+    "description": "Golf Plus",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/model/Golf%20Plus"
+  },
+  {
+    "name": "Golf Sportsvan",
+    "description": "Golf Sportsvan",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/model/Golf%20Sportsvan"
+  },
+  {
+    "name": "ID.3",
+    "description": "ID.3",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/model/ID.3"
+  },
+  {
+    "name": "ID.4",
+    "description": "ID.4",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/model/ID.4"
+  },
+  {
+    "name": "ID.5",
+    "description": "ID.5",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/model/ID.5"
+  },
+  {
+    "name": "ID.6",
+    "description": "ID.6",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/model/ID.6"
+  },
+  {
+    "name": "ID.7",
+    "description": "ID.7",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/model/ID.7"
+  },
+  {
+    "name": "ID.Buzz",
+    "description": "ID. Buzz",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/model/ID.Buzz"
+  },
+  {
+    "name": "Iltis",
+    "description": "Iltis",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/model/Iltis"
+  },
+  {
+    "name": "Jetta",
+    "description": "Jetta",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/model/Jetta"
+  },
+  {
+    "name": "Karmann Ghia",
+    "description": "Karmann Ghia",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/model/Karmann%20Ghia"
+  },
+  {
+    "name": "Käfer",
+    "description": "Käfer",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/model/K%C3%A4fer"
+  },
+  {
+    "name": "LT",
+    "description": "LT",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/model/LT"
+  },
+  {
+    "name": "Lupo",
+    "description": "Lupo",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/model/Lupo"
+  },
+  {
+    "name": "New Beetle",
+    "description": "New Beetle",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/model/New%20Beetle"
+  },
+  {
+    "name": "Passat",
+    "description": "Passat",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/model/Passat"
+  },
+  {
+    "name": "Passat Alltrack",
+    "description": "Passat Alltrack",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/model/Passat%20Alltrack"
+  },
+  {
+    "name": "Passat CC",
+    "description": "Passat CC",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/model/Passat%20CC"
+  },
+  {
+    "name": "Passat Variant",
+    "description": "Passat Variant",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/model/Passat%20Variant"
+  },
+  {
+    "name": "Phaeton",
+    "description": "Phaeton",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/model/Phaeton"
+  },
+  {
+    "name": "Polo",
+    "description": "Polo",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/model/Polo"
+  },
+  {
+    "name": "Routan",
+    "description": "Routan",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/model/Routan"
+  },
+  {
+    "name": "Santana",
+    "description": "Santana",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/model/Santana"
+  },
+  {
+    "name": "Scirocco",
+    "description": "Scirocco",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/model/Scirocco"
+  },
+  {
+    "name": "Sharan",
+    "description": "Sharan",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/model/Sharan"
+  },
+  {
+    "name": "T-Cross",
+    "description": "T-Cross",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/model/T-Cross"
+  },
+  {
+    "name": "T-Roc",
+    "description": "T-Roc",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/model/T-Roc"
+  },
+  {
+    "name": "T1__MODEL_ALL",
+    "description": "T1",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/model/T1__MODEL_ALL"
+  },
+  {
+    "name": "T2__MODEL_ALL",
+    "description": "T2",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/model/T2__MODEL_ALL"
+  },
+  {
+    "name": "T3 Caravelle",
+    "description": "T3 Caravelle",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/model/T3%20Caravelle"
+  },
+  {
+    "name": "T3 Multivan",
+    "description": "T3 Multivan",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/model/T3%20Multivan"
+  },
+  {
+    "name": "T3_Kombi",
+    "description": "T3 Kombi",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/model/T3_Kombi"
+  },
+  {
+    "name": "T4 California",
+    "description": "T4 California",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/model/T4%20California"
+  },
+  {
+    "name": "T4 Caravelle",
+    "description": "T4 Caravelle",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/model/T4%20Caravelle"
+  },
+  {
+    "name": "T4 Multivan",
+    "description": "T4 Multivan",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/model/T4%20Multivan"
+  },
+  {
+    "name": "T4_Kombi",
+    "description": "T4 Kombi",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/model/T4_Kombi"
+  },
+  {
+    "name": "T5 California",
+    "description": "T5 California",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/model/T5%20California"
+  },
+  {
+    "name": "T5 Caravelle",
+    "description": "T5 Caravelle",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/model/T5%20Caravelle"
+  },
+  {
+    "name": "T5 Multivan",
+    "description": "T5 Multivan",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/model/T5%20Multivan"
+  },
+  {
+    "name": "T5 Shuttle",
+    "description": "T5 Shuttle",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/model/T5%20Shuttle"
+  },
+  {
+    "name": "T5 Transporter",
+    "description": "T5 Transporter",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/model/T5%20Transporter"
+  },
+  {
+    "name": "T5_Kombi",
+    "description": "T5 Kombi",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/model/T5_Kombi"
+  },
+  {
+    "name": "T6 California",
+    "description": "T6 California",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/model/T6%20California"
+  },
+  {
+    "name": "T6 Caravelle",
+    "description": "T6 Caravelle",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/model/T6%20Caravelle"
+  },
+  {
+    "name": "T6 Kombi",
+    "description": "T6 Kombi",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/model/T6%20Kombi"
+  },
+  {
+    "name": "T6 Multivan",
+    "description": "T6 Multivan",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/model/T6%20Multivan"
+  },
+  {
+    "name": "T6 Transporter",
+    "description": "T6 Transporter",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/model/T6%20Transporter"
+  },
+  {
+    "name": "T7 California",
+    "description": "T7 California",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/model/T7%20California"
+  },
+  {
+    "name": "T7 Caravelle",
+    "description": "T7 Caravelle",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/model/T7%20Caravelle"
+  },
+  {
+    "name": "T7 Kombi",
+    "description": "T7 Kombi",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/model/T7%20Kombi"
+  },
+  {
+    "name": "T7 Multivan",
+    "description": "T7 Multivan",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/model/T7%20Multivan"
+  },
+  {
+    "name": "T7 Transporter",
+    "description": "T7 Transporter",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/model/T7%20Transporter"
+  },
+  {
+    "name": "Taigo",
+    "description": "Taigo",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/model/Taigo"
+  },
+  {
+    "name": "Taro",
+    "description": "Taro",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/model/Taro"
+  },
+  {
+    "name": "Tayron",
+    "description": "Tayron",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/model/Tayron"
+  },
+  {
+    "name": "Tiguan",
+    "description": "Tiguan",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/model/Tiguan"
+  },
+  {
+    "name": "Tiguan Allspace",
+    "description": "Tiguan Allspace",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/model/Tiguan%20Allspace"
+  },
+  {
+    "name": "Touareg",
+    "description": "Touareg",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/model/Touareg"
+  },
+  {
+    "name": "Touran",
+    "description": "Touran",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/model/Touran"
+  },
+  {
+    "name": "Vento",
+    "description": "Vento",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/model/Vento"
+  },
+  {
+    "name": "XL1",
+    "description": "XL1",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/model/XL1"
+  },
+  {
+    "name": "e-up!",
+    "description": "e-up!",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/model/e-up!"
+  },
+  {
+    "name": "up",
+    "description": "up!",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/model/up"
+  },
+  {
+    "name": "T4__MODEL_OTHER",
+    "description": "T4 andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/model/T4__MODEL_OTHER"
+  },
+  {
+    "name": "T7__MODEL_OTHER",
+    "description": "T7 andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/model/T7__MODEL_OTHER"
+  },
+  {
+    "name": "T3__MODEL_OTHER",
+    "description": "T3 andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/model/T3__MODEL_OTHER"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/model/ANDERE"
+  },
+  {
+    "name": "T6__MODEL_OTHER",
+    "description": "T6 andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/model/T6__MODEL_OTHER"
+  },
+  {
+    "name": "T5__MODEL_OTHER",
+    "description": "T5 andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/model/T5__MODEL_OTHER"
+  }
+]

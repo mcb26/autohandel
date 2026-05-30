@@ -1,0 +1,102 @@
+[
+  {
+    "label": "Caddy 1.0 TSI (5-Si.) (Benzin, 102 PS)",
+    "fuel": "5-si.) (benzin",
+    "hp": 102
+  },
+  {
+    "label": "Caddy 1.0 TSI (7-Si.) (Benzin, 102 PS)",
+    "fuel": "7-si.) (benzin",
+    "hp": 102
+  },
+  {
+    "label": "Caddy 1.4 TSI (5-Si.) DSG (Benzin, 130 PS)",
+    "fuel": "5-si.) dsg (benzin",
+    "hp": 130
+  },
+  {
+    "label": "Caddy 1.4 TSI (7-Si.) DSG (Benzin, 130 PS)",
+    "fuel": "7-si.) dsg (benzin",
+    "hp": 130
+  },
+  {
+    "label": "Caddy 1.4 TSI (5-Si.) (Benzin, 130 PS)",
+    "fuel": "5-si.) (benzin",
+    "hp": 130
+  },
+  {
+    "label": "Caddy 1.4 TSI (7-Si.) (Benzin, 130 PS)",
+    "fuel": "7-si.) (benzin",
+    "hp": 130
+  },
+  {
+    "label": "Caddy 1.4 BiFuel TGI (5-Si.) (Benzin/Gas, 110 PS)",
+    "fuel": "5-si.) (benzin/gas",
+    "hp": 110
+  },
+  {
+    "label": "Caddy 1.4 BiFuel TGI (7-Si.) (Benzin/Gas, 110 PS)",
+    "fuel": "7-si.) (benzin/gas",
+    "hp": 110
+  },
+  {
+    "label": "Caddy 2.0 TDI (5-Si.) DSG (Diesel, 102 PS)",
+    "fuel": "5-si.) dsg (diesel",
+    "hp": 102
+  },
+  {
+    "label": "Caddy 2.0 TDI (7-Si.) DSG (Diesel, 102 PS)",
+    "fuel": "7-si.) dsg (diesel",
+    "hp": 102
+  },
+  {
+    "label": "Caddy 2.0 TDI (5-Si.) (Diesel, 102 PS)",
+    "fuel": "5-si.) (diesel",
+    "hp": 102
+  },
+  {
+    "label": "Caddy 2.0 TDI (7-Si.) (Diesel, 102 PS)",
+    "fuel": "7-si.) (diesel",
+    "hp": 102
+  },
+  {
+    "label": "Caddy 2.0 TDI (5-Si.) 4MOTION (Diesel, 122 PS)",
+    "fuel": "5-si.) 4motion (diesel",
+    "hp": 122
+  },
+  {
+    "label": "Caddy 2.0 TDI (7-Si.) 4MOTION (Diesel, 122 PS)",
+    "fuel": "7-si.) 4motion (diesel",
+    "hp": 122
+  },
+  {
+    "label": "Caddy 2.0 TDI (5-Si.) DSG 4MOTION (Diesel, 150 PS)",
+    "fuel": "5-si.) dsg 4motion (diesel",
+    "hp": 150
+  },
+  {
+    "label": "Caddy 2.0 TDI (5-Si.) DSG (Diesel, 150 PS)",
+    "fuel": "5-si.) dsg (diesel",
+    "hp": 150
+  },
+  {
+    "label": "Caddy 2.0 TDI (7-Si.) DSG 4MOTION (Diesel, 150 PS)",
+    "fuel": "7-si.) dsg 4motion (diesel",
+    "hp": 150
+  },
+  {
+    "label": "Caddy 2.0 TDI (7-Si.) DSG (Diesel, 150 PS)",
+    "fuel": "7-si.) dsg (diesel",
+    "hp": 150
+  },
+  {
+    "label": "Caddy 2.0 TDI (5-Si.) (Diesel, 150 PS)",
+    "fuel": "5-si.) (diesel",
+    "hp": 150
+  },
+  {
+    "label": "Caddy 2.0 TDI (7-Si.) (Diesel, 150 PS)",
+    "fuel": "7-si.) (diesel",
+    "hp": 150
+  }
+]

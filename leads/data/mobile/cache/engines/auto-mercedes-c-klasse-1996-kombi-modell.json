@@ -1,0 +1,72 @@
+[
+  {
+    "label": "C 180 T (Benzin, 122 PS)",
+    "fuel": "benzin",
+    "hp": 122
+  },
+  {
+    "label": "C 180 T (Benzin, 129 PS)",
+    "fuel": "benzin",
+    "hp": 129
+  },
+  {
+    "label": "C 200 T (Benzin, 136 PS)",
+    "fuel": "benzin",
+    "hp": 136
+  },
+  {
+    "label": "C 230 T (Benzin, 150 PS)",
+    "fuel": "benzin",
+    "hp": 150
+  },
+  {
+    "label": "C 200 T Kompressor (Benzin, 163 PS)",
+    "fuel": "benzin",
+    "hp": 163
+  },
+  {
+    "label": "C 240 T (Benzin, 170 PS)",
+    "fuel": "benzin",
+    "hp": 170
+  },
+  {
+    "label": "C 230 T Kompressor (Benzin, 193 PS)",
+    "fuel": "benzin",
+    "hp": 193
+  },
+  {
+    "label": "C 230 T (Benzin, 193 PS)",
+    "fuel": "benzin",
+    "hp": 193
+  },
+  {
+    "label": "C 280 T (Benzin, 197 PS)",
+    "fuel": "benzin",
+    "hp": 197
+  },
+  {
+    "label": "C 43 T AMG (Benzin, 306 PS)",
+    "fuel": "benzin",
+    "hp": 306
+  },
+  {
+    "label": "C 220 T D (Diesel, 95 PS)",
+    "fuel": "diesel",
+    "hp": 95
+  },
+  {
+    "label": "C 200 T CDI (Diesel, 102 PS)",
+    "fuel": "diesel",
+    "hp": 102
+  },
+  {
+    "label": "C 220 T CDI (Diesel, 125 PS)",
+    "fuel": "diesel",
+    "hp": 125
+  },
+  {
+    "label": "C 250 T TD (Diesel, 150 PS)",
+    "fuel": "diesel",
+    "hp": 150
+  }
+]

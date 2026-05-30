@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Arnage",
+    "description": "Arnage",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BENTLEY/model/Arnage"
+  },
+  {
+    "name": "Azure",
+    "description": "Azure",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BENTLEY/model/Azure"
+  },
+  {
+    "name": "Bentayga",
+    "description": "Bentayga",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BENTLEY/model/Bentayga"
+  },
+  {
+    "name": "Brooklands",
+    "description": "Brooklands",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BENTLEY/model/Brooklands"
+  },
+  {
+    "name": "Continental",
+    "description": "Continental",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BENTLEY/model/Continental"
+  },
+  {
+    "name": "Continental Flying Spur",
+    "description": "Continental Flying Spur",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BENTLEY/model/Continental%20Flying%20Spur"
+  },
+  {
+    "name": "Continental GT",
+    "description": "Continental GT",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BENTLEY/model/Continental%20GT"
+  },
+  {
+    "name": "Continental GTC",
+    "description": "Continental GTC",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BENTLEY/model/Continental%20GTC"
+  },
+  {
+    "name": "Continental Supersports",
+    "description": "Continental Supersports",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BENTLEY/model/Continental%20Supersports"
+  },
+  {
+    "name": "Eight",
+    "description": "Eight",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BENTLEY/model/Eight"
+  },
+  {
+    "name": "Flying Spur",
+    "description": "Flying Spur",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BENTLEY/model/Flying%20Spur"
+  },
+  {
+    "name": "Mulsanne",
+    "description": "Mulsanne",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BENTLEY/model/Mulsanne"
+  },
+  {
+    "name": "S2",
+    "description": "S2",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BENTLEY/model/S2"
+  },
+  {
+    "name": "Turbo R",
+    "description": "Turbo R",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BENTLEY/model/Turbo%20R"
+  },
+  {
+    "name": "Turbo RT",
+    "description": "Turbo RT",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BENTLEY/model/Turbo%20RT"
+  },
+  {
+    "name": "Turbo S",
+    "description": "Turbo S",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BENTLEY/model/Turbo%20S"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BENTLEY/model/ANDERE"
+  }
+]

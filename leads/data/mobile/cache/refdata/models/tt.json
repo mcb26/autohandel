@@ -1,0 +1,17 @@
+[
+  {
+    "name": "TT",
+    "description": "TT",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/AUDI/modelgroups/TT./models/TT"
+  },
+  {
+    "name": "TT RS",
+    "description": "TT RS",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/AUDI/modelgroups/TT./models/TT%20RS"
+  },
+  {
+    "name": "TTS",
+    "description": "TTS",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/AUDI/modelgroups/TT./models/TTS"
+  }
+]

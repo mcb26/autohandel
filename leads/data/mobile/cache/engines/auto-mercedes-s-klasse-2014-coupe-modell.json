@@ -1,0 +1,22 @@
+[
+  {
+    "label": "S 450 Coupe 4Matic 9G-TRONIC (Benzin, 367 PS)",
+    "fuel": "benzin",
+    "hp": 367
+  },
+  {
+    "label": "S 560 Coupe 4Matic 9G-TRONIC (Benzin, 469 PS)",
+    "fuel": "benzin",
+    "hp": 469
+  },
+  {
+    "label": "S 560 Coupe 9G-TRONIC (Benzin, 469 PS)",
+    "fuel": "benzin",
+    "hp": 469
+  },
+  {
+    "label": "AMG S 63 Coupe 4Matic+ AMG Speedshift MCT 9G (Benzin, 612 PS)",
+    "fuel": "benzin",
+    "hp": 612
+  }
+]

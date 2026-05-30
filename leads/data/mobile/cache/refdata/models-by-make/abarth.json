@@ -1,0 +1,72 @@
+[
+  {
+    "name": "124 Spider",
+    "description": "124 Spider",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ABARTH/model/124%20Spider"
+  },
+  {
+    "name": "500",
+    "description": "500",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ABARTH/model/500"
+  },
+  {
+    "name": "500C",
+    "description": "500C",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ABARTH/model/500C"
+  },
+  {
+    "name": "500e",
+    "description": "500e",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ABARTH/model/500e"
+  },
+  {
+    "name": "595",
+    "description": "595",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ABARTH/model/595"
+  },
+  {
+    "name": "595 Competizione",
+    "description": "595 Competizione",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ABARTH/model/595%20Competizione"
+  },
+  {
+    "name": "595 Turismo",
+    "description": "595 Turismo",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ABARTH/model/595%20Turismo"
+  },
+  {
+    "name": "595C",
+    "description": "595C",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ABARTH/model/595C"
+  },
+  {
+    "name": "600e",
+    "description": "600e",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ABARTH/model/600e"
+  },
+  {
+    "name": "695",
+    "description": "695",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ABARTH/model/695"
+  },
+  {
+    "name": "695C",
+    "description": "695C",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ABARTH/model/695C"
+  },
+  {
+    "name": "Grande Punto",
+    "description": "Grande Punto",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ABARTH/model/Grande%20Punto"
+  },
+  {
+    "name": "Punto Evo",
+    "description": "Punto Evo",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ABARTH/model/Punto%20Evo"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ABARTH/model/ANDERE"
+  }
+]

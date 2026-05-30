@@ -1,0 +1,37 @@
+[
+  {
+    "name": "HAVAL H6",
+    "description": "HAVAL H6",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/GWM/model/HAVAL%20H6"
+  },
+  {
+    "name": "HAVAL Jolion Pro",
+    "description": "HAVAL Jolion Pro",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/GWM/model/HAVAL%20Jolion%20Pro"
+  },
+  {
+    "name": "Ora 03",
+    "description": "Ora 03",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/GWM/model/Ora%2003"
+  },
+  {
+    "name": "Ora 07",
+    "description": "Ora 07",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/GWM/model/Ora%2007"
+  },
+  {
+    "name": "Wey 03",
+    "description": "Wey 03",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/GWM/model/Wey%2003"
+  },
+  {
+    "name": "Wey 05",
+    "description": "Wey 05",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/GWM/model/Wey%2005"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/GWM/model/ANDERE"
+  }
+]

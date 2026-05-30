@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Huayra",
+    "description": "Huayra",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/PAGANI/model/Huayra"
+  },
+  {
+    "name": "Zonda",
+    "description": "Zonda",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/PAGANI/model/Zonda"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/PAGANI/model/ANDERE"
+  }
+]

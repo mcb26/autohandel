@@ -1,0 +1,52 @@
+[
+  {
+    "name": "COOPER_COUNTRYMAN",
+    "description": "Cooper Countryman",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/modelgroups/COUNTRYMAN_SERIES_ALL/models/COOPER_COUNTRYMAN"
+  },
+  {
+    "name": "COOPER_D_COUNTRYMAN",
+    "description": "Countryman D (Cooper)",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/modelgroups/COUNTRYMAN_SERIES_ALL/models/COOPER_D_COUNTRYMAN"
+  },
+  {
+    "name": "COOPER_SD_COUNTRYMAN",
+    "description": "Cooper SD Countryman",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/modelgroups/COUNTRYMAN_SERIES_ALL/models/COOPER_SD_COUNTRYMAN"
+  },
+  {
+    "name": "COOPER_S_COUNTRYMAN",
+    "description": "Countryman S (Cooper)",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/modelgroups/COUNTRYMAN_SERIES_ALL/models/COOPER_S_COUNTRYMAN"
+  },
+  {
+    "name": "Cooper C Countryman",
+    "description": "Countryman C (Cooper)",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/modelgroups/COUNTRYMAN_SERIES_ALL/models/Cooper%20C%20Countryman"
+  },
+  {
+    "name": "Cooper E Countryman",
+    "description": "Countryman E (Cooper)",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/modelgroups/COUNTRYMAN_SERIES_ALL/models/Cooper%20E%20Countryman"
+  },
+  {
+    "name": "Cooper SE Countryman",
+    "description": "Countryman SE (Cooper)",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/modelgroups/COUNTRYMAN_SERIES_ALL/models/Cooper%20SE%20Countryman"
+  },
+  {
+    "name": "JOHN_COOPER_WORKS_COUNTRYMAN",
+    "description": "John Cooper Works Countryman",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/modelgroups/COUNTRYMAN_SERIES_ALL/models/JOHN_COOPER_WORKS_COUNTRYMAN"
+  },
+  {
+    "name": "ONE_COUNTRYMAN",
+    "description": "One Countryman",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/modelgroups/COUNTRYMAN_SERIES_ALL/models/ONE_COUNTRYMAN"
+  },
+  {
+    "name": "ONE_D_COUNTRYMAN",
+    "description": "One D Countryman",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/modelgroups/COUNTRYMAN_SERIES_ALL/models/ONE_D_COUNTRYMAN"
+  }
+]

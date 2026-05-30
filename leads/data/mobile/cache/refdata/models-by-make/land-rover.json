@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Defender",
+    "description": "Defender",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LAND%20ROVER/model/Defender"
+  },
+  {
+    "name": "Discovery",
+    "description": "Discovery",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LAND%20ROVER/model/Discovery"
+  },
+  {
+    "name": "Discovery Sport",
+    "description": "Discovery Sport",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LAND%20ROVER/model/Discovery%20Sport"
+  },
+  {
+    "name": "Freelander",
+    "description": "Freelander",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LAND%20ROVER/model/Freelander"
+  },
+  {
+    "name": "Range Rover",
+    "description": "Range Rover",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LAND%20ROVER/model/Range%20Rover"
+  },
+  {
+    "name": "Range Rover Evoque",
+    "description": "Range Rover Evoque",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LAND%20ROVER/model/Range%20Rover%20Evoque"
+  },
+  {
+    "name": "Range Rover Sport",
+    "description": "Range Rover Sport",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LAND%20ROVER/model/Range%20Rover%20Sport"
+  },
+  {
+    "name": "Range Rover Velar",
+    "description": "Range Rover Velar",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LAND%20ROVER/model/Range%20Rover%20Velar"
+  },
+  {
+    "name": "Serie I",
+    "description": "Serie I",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LAND%20ROVER/model/Serie%20I"
+  },
+  {
+    "name": "Serie II",
+    "description": "Serie II",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LAND%20ROVER/model/Serie%20II"
+  },
+  {
+    "name": "Serie III",
+    "description": "Serie III",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LAND%20ROVER/model/Serie%20III"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LAND%20ROVER/model/ANDERE"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "label": "218i Cabrio Aut. (Benzin, 136 PS)",
+    "fuel": "benzin",
+    "hp": 136
+  },
+  {
+    "label": "218i Cabrio (Benzin, 136 PS)",
+    "fuel": "benzin",
+    "hp": 136
+  },
+  {
+    "label": "220i Cabrio Aut. (Benzin, 184 PS)",
+    "fuel": "benzin",
+    "hp": 184
+  },
+  {
+    "label": "230i Cabrio Aut. (Benzin, 252 PS)",
+    "fuel": "benzin",
+    "hp": 252
+  },
+  {
+    "label": "M240i Cabrio Aut. (Benzin, 340 PS)",
+    "fuel": "benzin",
+    "hp": 340
+  },
+  {
+    "label": "M240i xDrive Cabrio Aut. (Benzin, 340 PS)",
+    "fuel": "benzin",
+    "hp": 340
+  }
+]

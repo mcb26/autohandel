@@ -1,0 +1,82 @@
+[
+  {
+    "name": "M135",
+    "description": "M135",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BMW/modelgroups/M__BMW_MODELS/models/M135"
+  },
+  {
+    "name": "M140i",
+    "description": "M140i",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BMW/modelgroups/M__BMW_MODELS/models/M140i"
+  },
+  {
+    "name": "M2",
+    "description": "M2",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BMW/modelgroups/M__BMW_MODELS/models/M2"
+  },
+  {
+    "name": "M235i",
+    "description": "M235",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BMW/modelgroups/M__BMW_MODELS/models/M235i"
+  },
+  {
+    "name": "M240i",
+    "description": "M240i",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BMW/modelgroups/M__BMW_MODELS/models/M240i"
+  },
+  {
+    "name": "M3",
+    "description": "M3",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BMW/modelgroups/M__BMW_MODELS/models/M3"
+  },
+  {
+    "name": "M340d",
+    "description": "M340d",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BMW/modelgroups/M__BMW_MODELS/models/M340d"
+  },
+  {
+    "name": "M340i",
+    "description": "M340i",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BMW/modelgroups/M__BMW_MODELS/models/M340i"
+  },
+  {
+    "name": "M4",
+    "description": "M4",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BMW/modelgroups/M__BMW_MODELS/models/M4"
+  },
+  {
+    "name": "M440",
+    "description": "M440",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BMW/modelgroups/M__BMW_MODELS/models/M440"
+  },
+  {
+    "name": "M5",
+    "description": "M5",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BMW/modelgroups/M__BMW_MODELS/models/M5"
+  },
+  {
+    "name": "M550",
+    "description": "M550",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BMW/modelgroups/M__BMW_MODELS/models/M550"
+  },
+  {
+    "name": "M6",
+    "description": "M6",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BMW/modelgroups/M__BMW_MODELS/models/M6"
+  },
+  {
+    "name": "M760",
+    "description": "M760",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BMW/modelgroups/M__BMW_MODELS/models/M760"
+  },
+  {
+    "name": "M8",
+    "description": "M8",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BMW/modelgroups/M__BMW_MODELS/models/M8"
+  },
+  {
+    "name": "M850",
+    "description": "M850",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BMW/modelgroups/M__BMW_MODELS/models/M850"
+  }
+]

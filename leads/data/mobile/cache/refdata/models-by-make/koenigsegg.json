@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Agera",
+    "description": "Agera",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/KOENIGSEGG/model/Agera"
+  },
+  {
+    "name": "CCR",
+    "description": "CCR",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/KOENIGSEGG/model/CCR"
+  },
+  {
+    "name": "CCXR",
+    "description": "CCXR",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/KOENIGSEGG/model/CCXR"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/KOENIGSEGG/model/ANDERE"
+  }
+]

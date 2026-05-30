@@ -1,0 +1,6489 @@
+{
+  "label": "Mitsubishi",
+  "models": {
+    "3000-gt": {
+      "label": "3000 GT",
+      "series": {
+        "mitsubishi-3000-gt-spyder": {
+          "label": "Mitsubishi 3000 GT Spyder",
+          "engines": [
+            {
+              "label": "3.0 Turbo (320 Hp) Automatic (1995 - 2000)",
+              "hp": 320,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 Turbo (320 Hp) (1995 - 2000)",
+              "hp": 320,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-3000-gt-facelift-1994": {
+          "label": "Mitsubishi 3000 GT (facelift 1994)",
+          "engines": [
+            {
+              "label": "VR-4 3.0 V6 (320 Hp) (1994 - 1997)",
+              "hp": 320,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-3000-gt": {
+          "label": "Mitsubishi 3000 GT",
+          "engines": [
+            {
+              "label": "3.0 V6 24V (222 Hp) Automatic (1990 - 1993)",
+              "hp": 222,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 24V (222 Hp) (1990 - 1993)",
+              "hp": 222,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 i 24V 4x4 (286 Hp) (1992 - 1993)",
+              "hp": 286,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "airtrek": {
+      "label": "Airtrek",
+      "series": {
+        "mitsubishi-airtrek": {
+          "label": "Mitsubishi Airtrek",
+          "engines": [
+            {
+              "label": "2.4 GDI (139 Hp) (2001 - 2006)",
+              "hp": 139,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (126 Hp) (2001 - 2006)",
+              "hp": 126,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "aspire": {
+      "label": "Aspire",
+      "series": {
+        "mitsubishi-aspire-eao": {
+          "label": "Mitsubishi Aspire (EAO)",
+          "engines": [
+            {
+              "label": "LEGNUM (EAO) (280 Hp) (1997 - 2002)",
+              "hp": 280
+            },
+            {
+              "label": "2.0 16V GDI (145 Hp) (1997 - 2002)",
+              "hp": 145,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "asx": {
+      "label": "ASX",
+      "series": {
+        "mitsubishi-asx-ii-facelift-2024": {
+          "label": "Mitsubishi ASX II (facelift 2024)",
+          "engines": [
+            {
+              "label": "1.8 (158 Hp) Hybrid Multi-Mode",
+              "hp": 158,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.6 (143 Hp) Hybrid Multi-Mode (2024 - 2025)",
+              "hp": 143,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.3 Turbo (158 Hp) Mild Hybrid DCT (2024 - 2025)",
+              "hp": 158,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.3 Turbo (141 Hp) Mild Hybrid DCT",
+              "hp": 141,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.3 Turbo (140 Hp) Mild Hybrid (2024 - 2025)",
+              "hp": 140,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.2 Turbo (114 Hp)",
+              "hp": 114,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 Turbo (91 Hp) (2024 - 2025)",
+              "hp": 91,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-asx-ii": {
+          "label": "Mitsubishi ASX II",
+          "engines": [
+            {
+              "label": "1.6 (143 Hp) Hybrid Multi-Mode (2023 - 2024)",
+              "hp": 143,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.6 (159 Hp) Plug-in Hybrid Multi-Mode (2023 - 2024)",
+              "hp": 159,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.3 Turbo (158 Hp) Mild Hybrid DCT (2023 - 2024)",
+              "hp": 158,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.3 Turbo (140 Hp) Mild Hybrid (2023 - 2024)",
+              "hp": 140,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.0 Turbo (91 Hp) (2023 - 2024)",
+              "hp": 91,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-asx-i-facelift-2019": {
+          "label": "Mitsubishi ASX I (facelift 2019)",
+          "engines": [
+            {
+              "label": "2.4 MIVEC (167 Hp) CVT (2019 - 2023)",
+              "hp": 167,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (150 Hp) CVT (2019 - 2021)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (150 Hp) AWD CVT (2019 - 2021)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (150 Hp) (2019 - 2021)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-asx-i-facelift-2016": {
+          "label": "Mitsubishi ASX I (facelift 2016)",
+          "engines": [
+            {
+              "label": "2.2 Di-D (150 Hp) AWD Automatic (2016 - 2018)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 Di-D (114 Hp) AWD (2016 - 2017)",
+              "hp": 114,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 Di-D (114 Hp) (2016 - 2017)",
+              "hp": 114,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (117 Hp) (2016 - 2019)",
+              "hp": 117,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-asx-i-facelift-2012": {
+          "label": "Mitsubishi ASX I (facelift 2012)",
+          "engines": [
+            {
+              "label": "2.3 DI-D (150 Hp) 4WD Automatic (2013 - 2016)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 DI-D (147 Hp) 4x4 Automatic (2012 - 2016)",
+              "hp": 147,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (150 Hp) AWD CVT (2012 - 2016)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (150 Hp) AWD (2012 - 2016)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (150 Hp) (2012 - 2016)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 Di-D (150 Hp) AWD (2012 - 2015)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 Di-D (150 Hp) (2012 - 2015)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 DI-D (114 Hp) 4x4 (2012 - 2015)",
+              "hp": 114,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 DI-D (114 Hp) (2012 - 2015)",
+              "hp": 114,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 (140 Hp) CVT (2012 - 2016)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 MIVEC (117 Hp) (2013 - 2016)",
+              "hp": 117,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 DI-D (114 Hp) 4WD (2015 - 2016)",
+              "hp": 114,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 DI-D (114 Hp) (2015 - 2016)",
+              "hp": 114,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (115 Hp) (2012 - 2016)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-asx-i": {
+          "label": "Mitsubishi ASX I",
+          "engines": [
+            {
+              "label": "1.8 DI-D DOHC MIVEC (150 Hp) 4WD (2010 - 2012)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 DOHC MIVEC (117 Hp) 2WD (2010 - 2012)",
+              "hp": 117,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "attrage": {
+      "label": "Attrage",
+      "series": {
+        "mitsubishi-attrage-a10-facelift-2019": {
+          "label": "Mitsubishi Attrage (A10, facelift 2019)",
+          "engines": [
+            {
+              "label": "1.2 MIVEC (78 Hp) CVT",
+              "hp": 78,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 MIVEC (78 Hp)",
+              "hp": 78,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-attrage-a10": {
+          "label": "Mitsubishi Attrage (A10)",
+          "engines": [
+            {
+              "label": "1.2 MIVEC (78 Hp) CVT (2013 - 2019)",
+              "hp": 78,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 MIVEC (78 Hp) (2013 - 2019)",
+              "hp": 78,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "carisma": {
+      "label": "Carisma",
+      "series": {
+        "mitsubishi-carisma": {
+          "label": "Mitsubishi Carisma",
+          "engines": [
+            {
+              "label": "2.0 16V GT EVO VI (280 Hp) (1999 - 2003)",
+              "hp": 280,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 TD (90 Hp) (1996 - 2000)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 DI-D (115 Hp) (2001 - 2003)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 DI-D (102 Hp) (2001 - 2003)",
+              "hp": 102,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 16V (140 Hp) (1995 - 2000)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 16V GDI (125 Hp) Automatic (1997 - 2003)",
+              "hp": 125,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 16V GDI (125 Hp) (1997 - 2003)",
+              "hp": 125,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 16V GDI (122 Hp) Automatic (2001 - 2003)",
+              "hp": 122,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 16V GDI (122 Hp) (2001 - 2003)",
+              "hp": 122,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 (116 Hp) Automatic (1995 - 2000)",
+              "hp": 116,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 (116 Hp) (1995 - 2000)",
+              "hp": 116,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 i 16V (103 Hp) Automatic (1999 - 2003)",
+              "hp": 103,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 i 16V (103 Hp) (1999 - 2003)",
+              "hp": 103,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (99 Hp) Automatic (1997 - 2000)",
+              "hp": 99,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (99 Hp) (1997 - 2000)",
+              "hp": 99,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (90 Hp) Automatic (1995 - 2000)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (90 Hp) (1995 - 2000)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 i 16V (82 Hp) (2003 - 2003)",
+              "hp": 82,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-carisma-hatchback": {
+          "label": "Mitsubishi Carisma Hatchback",
+          "engines": [
+            {
+              "label": "1.9 TD (90 Hp) (1996 - 2000)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 DI-D (115 Hp) (2001 - 2003)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 DI-D (102 Hp) (2001 - 2003)",
+              "hp": 102,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 16V (140 Hp) (1995 - 2000)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 16V GDI (125 Hp) Automatic (1997 - 2000)",
+              "hp": 125,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 16V GDI (125 Hp) (1997 - 2000)",
+              "hp": 125,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 16V GDI (122 Hp) Automatic (2001 - 2003)",
+              "hp": 122,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 16V GDI (122 Hp) (2001 - 2003)",
+              "hp": 122,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 16V (116 Hp) Automatic (1996 - 2000)",
+              "hp": 116,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 16V (116 Hp) (1996 - 2000)",
+              "hp": 116,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 i 16V (103 Hp) Automatic (2000 - 2003)",
+              "hp": 103,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 i 16V (103 Hp) (2000 - 2003)",
+              "hp": 103,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (99 Hp) (1997 - 2000)",
+              "hp": 99,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (90 Hp) Automatic (1996 - 2000)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (90 Hp) (1996 - 2000)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "celeste": {
+      "label": "Celeste",
+      "series": {
+        "mitsubishi-celeste-a7": {
+          "label": "Mitsubishi Celeste (A7_)",
+          "engines": [
+            {
+              "label": "2.0 GSR (A78) (105 Hp) (1979 - 1981)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 GSR (A78) (97 Hp) (1977 - 1981)",
+              "hp": 97,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 GSR (A78) (90 Hp) (1975 - 1981)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 ST (A73) (73 Hp) (1977 - 1981)",
+              "hp": 73,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "challenger": {
+      "label": "Challenger",
+      "series": {
+        "mitsubishi-challenger-w": {
+          "label": "Mitsubishi Challenger (W)",
+          "engines": [
+            {
+              "label": "3.5 i V6 24V GDI (245 Hp) (1996 - 2001)",
+              "hp": 245,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 i V6 24V (185 Hp) (1996 - 2001)",
+              "hp": 185,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.8 TD (140 Hp) (1996 - 2001)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "chariot": {
+      "label": "Chariot",
+      "series": {
+        "mitsubishi-chariot-grandis-n11": {
+          "label": "Mitsubishi Chariot Grandis (N11)",
+          "engines": [
+            {
+              "label": "3.0 i V6 24V GDI (215 Hp) (1997 - 2003)",
+              "hp": 215,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.3 i 16V GDI SE (165 Hp) (1997 - 2003)",
+              "hp": 165,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.3 i 16V GDI (150 Hp) (1997 - 2003)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-chariot-e-n33w": {
+          "label": "Mitsubishi Chariot (E-N33W)",
+          "engines": [
+            {
+              "label": "2.4 i 16V Super MX (145 Hp) (1991 - 1997)",
+              "hp": 145,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 i 16V 4WD MX (135 Hp) Automatic (1991 - 1997)",
+              "hp": 135,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 i 16V 4WD MX (135 Hp) (1991 - 1997)",
+              "hp": 135,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "colt": {
+      "label": "Colt",
+      "series": {
+        "mitsubishi-colt-vii": {
+          "label": "Mitsubishi Colt VII",
+          "engines": [
+            {
+              "label": "1.6 (143 Hp) Hybrid Multi-Mode",
+              "hp": 143,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.0 Turbo (91/101 Hp) LPG",
+              "hp": 101,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 Turbo (91 Hp)",
+              "hp": 91,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 (67 Hp)",
+              "hp": 67,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-colt-vi-z30-facelift-2008-3-door": {
+          "label": "Mitsubishi Colt VI (Z30, facelift 2008) 3-door",
+          "engines": [
+            {
+              "label": "Ralliart 1.5 Turbo (150 Hp) (2008 - 2010)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 MPI ClearTec (95 Hp) (2008 - 2012)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 MPI (95 Hp) Automatic (2008 - 2012)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 MPI (95 Hp) (2008 - 2012)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.1 MPI ClearTec (75 Hp) (2008 - 2012)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.1 MPI (75 Hp) (2008 - 2010)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-colt-vi-z30-facelift-2008": {
+          "label": "Mitsubishi Colt VI (Z30, facelift 2008)",
+          "engines": [
+            {
+              "label": "Ralliart 1.5 Turbo (150 Hp) (2008 - 2010)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 MPI ClearTec (95 Hp) (2008 - 2012)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 MPI (95 Hp) Automatic (2008 - 2012)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 MPI (95 Hp) (2008 - 2012)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.1 MPI ClearTec (75 Hp) (2008 - 2012)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.1 MPI (75 Hp) (2008 - 2010)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-colt-vi-z30-czc": {
+          "label": "Mitsubishi Colt VI (Z30) CZC",
+          "engines": [
+            {
+              "label": "1.5 Turbo 16V (150 Hp) (2006 - 2008)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 MPI 16V (109 Hp) (2006 - 2008)",
+              "hp": 109,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-colt-vi-z30": {
+          "label": "Mitsubishi Colt VI (Z30)",
+          "engines": [
+            {
+              "label": "1.5 i 16V CZT (150 Hp) (2005 - 2008)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 i 16V CZ3 (109 Hp) (2005 - 2008)",
+              "hp": 109,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 i 16V (109 Hp) Automatic (2004 - 2008)",
+              "hp": 109,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 i 16V (109 Hp) (2004 - 2008)",
+              "hp": 109,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 DI-D HP (95 Hp) (2005 - 2008)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 DI-D CZ3 (68 Hp) (2005 - 2007)",
+              "hp": 68,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 DI-D (68 Hp) (2005 - 2007)",
+              "hp": 68,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 12V DI-D (95 Hp) Automatic (2004 - 2008)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 12V DI-D (95 Hp) (2004 - 2008)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 i 16V CZ3 (95 Hp) Automatic (2005 - 2008)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 i 16V CZ3 (95 Hp) (2005 - 2008)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 i 16V (95 Hp) Automatic (2004 - 2008)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 i 16V (95 Hp) (2004 - 2008)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.1 i 12V (75 Hp) (2004 - 2008)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.1 i 12 V CZ3 (75 Hp) (2005 - 2008)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-colt-v-cjo": {
+          "label": "Mitsubishi Colt V (CJO)",
+          "engines": [
+            {
+              "label": "1600 GLX (CJ 4A) (90 Hp) Automatic (1996 - 2001)",
+              "hp": 90
+            },
+            {
+              "label": "1600 GLX (CJ 4A) (90 Hp) (1996 - 2001)",
+              "hp": 90
+            },
+            {
+              "label": "1300 GL,GLX (CJ 1A) (75 Hp) (1996 - 2001)",
+              "hp": 75
+            },
+            {
+              "label": "1.6 i 16V GLS (103 Hp) Automatic (2000 - 2003)",
+              "hp": 103,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 i 16V GLS (103 Hp) (2000 - 2003)",
+              "hp": 103,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 i 16V (82 Hp) (2000 - 2003)",
+              "hp": 82,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-colt-iv-cao": {
+          "label": "Mitsubishi Colt IV (CAO)",
+          "engines": [
+            {
+              "label": "1.8 GTi (140 Hp) Automatic (1992 - 1996)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 GTi (140 Hp) (1992 - 1996)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 GLXi 16V (CA4A) (113 Hp) Automatic (1992 - 1996)",
+              "hp": 113,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 GLXi 16V (CA4A) (113 Hp) (1992 - 1996)",
+              "hp": 113,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (90 Hp) Automatic (1994 - 1996)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (90 Hp) (1994 - 1996)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 GLi 12V (CA1A) (75 Hp) (1992 - 1996)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-colt-iii-c50": {
+          "label": "Mitsubishi Colt III (C50)",
+          "engines": [
+            {
+              "label": "1.8 GTi 16V (C58A) CAT (136 Hp) (1990 - 1992)",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 Diesel GLX (C54A) (60 Hp) (1988 - 1992)",
+              "hp": 60,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.8 (97 Hp) (1988 - 1992)",
+              "hp": 97,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 GTi 16V (C53A) (124 Hp) (1988 - 1998)",
+              "hp": 124,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 DOHC (160 Hp) (1988 - 1990)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 GLXi (C52A) (84 Hp) (1988 - 1992)",
+              "hp": 84,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 (C52A) CAT (90 Hp) (1990 - 1992)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 GL (60 Hp) (1988 - 1990)",
+              "hp": 60,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 12V (C51A) (75 Hp) Automatic (1990 - 1992)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 12V (C51A) (75 Hp) (1990 - 1992)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 (C51A) (70 Hp) (1988 - 1992)",
+              "hp": 70,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-colt-ii-c10": {
+          "label": "Mitsubishi Colt II (C10)",
+          "engines": [
+            {
+              "label": "1.8 GL Diesel (C14A) (60 Hp) (1986 - 1988)",
+              "hp": 60,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.8 GL Diesel (C14A) (58 Hp) (1984 - 1986)",
+              "hp": 58,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 Turbo ECi (C13A) (125 Hp) (1984 - 1988)",
+              "hp": 125,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 Turbo ECi (C13A) (105 Hp) (1986 - 1988)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 GLX (C12A) (75 Hp) (1984 - 1988)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 GLX (C12A) (70 Hp) (1985 - 1988)",
+              "hp": 70,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 EL,GL (C15A) (60 Hp) (1986 - 1988)",
+              "hp": 60,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 EL,GL (C15A) (55 Hp) (1984 - 1986)",
+              "hp": 55,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-colt-i-a150": {
+          "label": "Mitsubishi Colt I (A150)",
+          "engines": [
+            {
+              "label": "1.4 Turbo (A152A) (105 Hp) (1981 - 1984)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 GLX,GT (A152A) (70 Hp) (1979 - 1984)",
+              "hp": 70,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 GL (A151A) (55 Hp) (1978 - 1984)",
+              "hp": 55,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "colt-lancer": {
+      "label": "Colt Lancer",
+      "series": {
+        "mitsubishi-colt-lancer-a7": {
+          "label": "Mitsubishi Colt Lancer (A7_)",
+          "engines": [
+            {
+              "label": "1.6 (82 Hp) (1978 - 1979)",
+              "hp": 82,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 (68 Hp) (1978 - 1979)",
+              "hp": 68,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 (55 Hp) (1978 - 1979)",
+              "hp": 55,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-colt-lancer-station-wagon-a7k": {
+          "label": "Mitsubishi Colt Lancer Station Wagon (A7_K)",
+          "engines": [
+            {
+              "label": "1.4 (68 Hp) (1978 - 1979)",
+              "hp": 68,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "cordia": {
+      "label": "Cordia",
+      "series": {
+        "mitsubishi-cordia-a21a": {
+          "label": "Mitsubishi Cordia (A21_A)",
+          "engines": [
+            {
+              "label": "1.8 Turbo ECi (A213A) (136 Hp) (1984 - 1986)",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 GSL (A215A) (90 Hp) (1986 - 1986)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 Turbo (A212A) (116 Hp) (1983 - 1985)",
+              "hp": 116,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 Turbo (A212A) (114 Hp) (1982 - 1985)",
+              "hp": 114,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 GSL (A212A) (75 Hp) (1982 - 1986)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "debonair": {
+      "label": "Debonair",
+      "series": {
+        "mitsubishi-debonair-s27": {
+          "label": "Mitsubishi Debonair (S27)",
+          "engines": [
+            {
+              "label": "3.5 i V6 24V (260 Hp) (1992 - 1999)",
+              "hp": 260,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 i V6 (170 Hp) (1992 - 1999)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 i V6 (150 Hp) (1992 - 1999)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "delica": {
+      "label": "Delica",
+      "series": {
+        "mitsubishi-delica-d5-facelift-2019": {
+          "label": "Mitsubishi Delica (D5, facelift 2019)",
+          "engines": [
+            {
+              "label": "2.3 DI-D (145 Hp) 4WD Automatic 8 Seat",
+              "hp": 145,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.3 DI-D (145 Hp) 4WD Automatic",
+              "hp": 145,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-delica-d5": {
+          "label": "Mitsubishi Delica (D5)",
+          "engines": [
+            {
+              "label": "2.4 4WD (170 Hp) (2007 - 2018)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 (170 Hp) (2007 - 2018)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-delica-l400": {
+          "label": "Mitsubishi Delica (L400)",
+          "engines": [
+            {
+              "label": "2.8 TD 4WD (140 Hp) (1993 - 1999)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 TD (105 Hp) Automatic (1993 - 1999)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 TD (105 Hp) (1993 - 1999)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 4WD (126 Hp) (1993 - 1999)",
+              "hp": 126,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 (145 Hp) (1993 - 1999)",
+              "hp": 145,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 (135 Hp) (1993 - 1999)",
+              "hp": 135,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 (122 Hp) (1993 - 1999)",
+              "hp": 122,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 TD (79 Hp) Automatic (1999 - 2006)",
+              "hp": 79,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 TD (79 Hp) (1999 - 2006)",
+              "hp": 79,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 4WD (86 Hp) Automatic (1999 - 2006)",
+              "hp": 86,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 4WD (86 Hp) (1999 - 2006)",
+              "hp": 86,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 4WD (95 Hp) Automatic (1999 - 2006)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 4WD (95 Hp) (1999 - 2006)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 (95 Hp) Automatic (1999 - 2006)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 (95 Hp) (1999 - 2006)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-delica-l300": {
+          "label": "Mitsubishi Delica (L300)",
+          "engines": [
+            {
+              "label": "2.0 4WD (91 Hp) Automatic (1986 - 1993)",
+              "hp": 91,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 4WD (91 Hp) (1986 - 1993)",
+              "hp": 91,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (91 Hp) Automatic (1986 - 1993)",
+              "hp": 91,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (91 Hp) (1986 - 1993)",
+              "hp": 91,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "destinator": {
+      "label": "Destinator",
+      "series": {
+        "mitsubishi-destinator": {
+          "label": "Mitsubishi Destinator",
+          "engines": [
+            {
+              "label": "1.5L (163 Hp) CVT",
+              "hp": 163,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "diamante": {
+      "label": "Diamante",
+      "series": {
+        "mitsubishi-diamante-ii": {
+          "label": "Mitsubishi Diamante II",
+          "engines": [
+            {
+              "label": "3.5 i V6 24V (208 Hp) (1996 - 2005)",
+              "hp": 208,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 i V6 24V GDI 4WD (240 Hp) (1997 - 2002)",
+              "hp": 240,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 i V6 24V GDI (240 Hp) (1997 - 2002)",
+              "hp": 240,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 i V6 24V GDI (200 Hp) (1995 - 2002)",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-diamante-i": {
+          "label": "Mitsubishi Diamante I",
+          "engines": [
+            {
+              "label": "3.0 i V6 24V 4WD (210 Hp) (1991 - 1996)",
+              "hp": 210,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 i V6 24V (210 Hp) (1991 - 1996)",
+              "hp": 210,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 i V6 24V 4WD (175 Hp) (1991 - 1996)",
+              "hp": 175,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 i V6 24V (145 Hp) (1991 - 1996)",
+              "hp": 145,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "dingo": {
+      "label": "Dingo",
+      "series": {
+        "mitsubishi-dingo-cj": {
+          "label": "Mitsubishi Dingo (CJ)",
+          "engines": [
+            {
+              "label": "1.5 i 16V GDI 4WD (105 Hp) (2000 - 2002)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 i 16V (80 Hp) (1999 - 2002)",
+              "hp": 80,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "dion": {
+      "label": "Dion",
+      "series": {
+        "mitsubishi-dion": {
+          "label": "Mitsubishi Dion",
+          "engines": [
+            {
+              "label": "2.0 16V 4X4 (135 Hp) (2000 - 2002)",
+              "hp": 135,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 16V (135 Hp) (2000 - 2002)",
+              "hp": 135,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 GDI (165 Hp) (2002 - 2006)",
+              "hp": 165,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "e-evolution": {
+      "label": "e-Evolution",
+      "series": {
+        "mitsubishi-e-evolution-concept": {
+          "label": "Mitsubishi e-Evolution Concept",
+          "engines": [
+            {
+              "label": "Keine exakte Motorliste verfügbar – bitte genaue Motorisierung im Freitext angeben"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "eclipse": {
+      "label": "Eclipse",
+      "series": {
+        "mitsubishi-eclipse-iv-4g-facelift-2009": {
+          "label": "Mitsubishi Eclipse IV (4G, facelift 2009)",
+          "engines": [
+            {
+              "label": "GT 3.8L V6 MIVEC (265 Hp) Automatic (2009 - 2011)",
+              "hp": 265,
+              "fuel": "benzin"
+            },
+            {
+              "label": "GT 3.8L V6 MIVEC (265 Hp) (2009 - 2011)",
+              "hp": 265,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4L (162 Hp) Automatic (2009 - 2011)",
+              "hp": 162,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4L (162 Hp) (2009 - 2011)",
+              "hp": 162,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-eclipse-spyder-iv-4g-facelift-2009": {
+          "label": "Mitsubishi Eclipse Spyder IV (4G, facelift 2009)",
+          "engines": [
+            {
+              "label": "GS 2.4L (160 Hp) Automatic (2009 - 2011)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.8L V6 MIVEC (265 Hp) Automatic (2009 - 2011)",
+              "hp": 265,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-eclipse-iv-4g": {
+          "label": "Mitsubishi Eclipse IV (4G)",
+          "engines": [
+            {
+              "label": "GT 3.8L V6 MIVEC (263 Hp) Automatic (2005 - 2009)",
+              "hp": 263,
+              "fuel": "benzin"
+            },
+            {
+              "label": "GT 3.8L V6 MIVEC (263 Hp) (2005 - 2009)",
+              "hp": 263,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4L (162 Hp) Automatic (2006 - 2009)",
+              "hp": 162,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4L (162 Hp) (2006 - 2009)",
+              "hp": 162,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-eclipse-spyder-iv-4g": {
+          "label": "Mitsubishi Eclipse Spyder IV (4G)",
+          "engines": [
+            {
+              "label": "GT 3.8L V6 MIVEC (265 Hp) Automatic (2006 - 2009)",
+              "hp": 265,
+              "fuel": "benzin"
+            },
+            {
+              "label": "GT 3.8L V6 MIVEC (265 Hp) (2006 - 2009)",
+              "hp": 265,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4L MIVEC (162 Hp) Automatic (2006 - 2009)",
+              "hp": 162,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4L MIVEC (162 Hp) (2006 - 2009)",
+              "hp": 162,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-eclipse-iii-3g-facelift-2003": {
+          "label": "Mitsubishi Eclipse III (3G, facelift 2003)",
+          "engines": [
+            {
+              "label": "3.0 V6 (210 Hp) Automatic (2003 - 2005)",
+              "hp": 210,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 (210 Hp) (2003 - 2005)",
+              "hp": 210,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 (200 Hp) Automatic (2003 - 2005)",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 (200 Hp) (2003 - 2005)",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 (147 Hp) (2003 - 2005)",
+              "hp": 147,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 (142 Hp) Automatic (2003 - 2005)",
+              "hp": 142,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-eclipse-spyder-iii-3g-facelift-2003": {
+          "label": "Mitsubishi Eclipse Spyder III (3G, facelift 2003)",
+          "engines": [
+            {
+              "label": "GTS 3.0 i V6 24V (210 Hp) Automatic (2003 - 2005)",
+              "hp": 210,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-eclipse-iii-3g": {
+          "label": "Mitsubishi Eclipse III (3G)",
+          "engines": [
+            {
+              "label": "GT 3.0 i V6 24V (200 Hp) (1999 - 2002)",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 i 16V (147 Hp) (1999 - 2002)",
+              "hp": 147,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 i 16V (142 Hp) Automatic (1999 - 2002)",
+              "hp": 142,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-eclipse-spyder-iii-3g": {
+          "label": "Mitsubishi Eclipse Spyder III (3G)",
+          "engines": [
+            {
+              "label": "GT 3.0 i V6 24V (200 Hp) (1999 - 2002)",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "GS 2.4 i 16V (149 Hp) Automatic (1999 - 2002)",
+              "hp": 149,
+              "fuel": "benzin"
+            },
+            {
+              "label": "GS 2.4 i 16V (147 Hp) (1999 - 2002)",
+              "hp": 147,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-eclipse-ii-2g-facelift-1997": {
+          "label": "Mitsubishi Eclipse II (2G, facelift 1997)",
+          "engines": [
+            {
+              "label": "2.0 (141 Hp) (1997 - 1999)",
+              "hp": 141,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-eclipse-ii-2g": {
+          "label": "Mitsubishi Eclipse II (2G)",
+          "engines": [
+            {
+              "label": "2.0i 16V (141 Hp) Automatic (1995 - 1996)",
+              "hp": 141,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0i 16V (141 Hp) (1995 - 1996)",
+              "hp": 141,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Turbo 16V (213 Hp) Automatic (1995 - 1996)",
+              "hp": 213,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Turbo 16V (213 Hp) (1995 - 1996)",
+              "hp": 213,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-eclipse-i-1g-facelift-1992": {
+          "label": "Mitsubishi Eclipse I (1G, facelift 1992)",
+          "engines": [
+            {
+              "label": "GSX 2.0 Turbo (195 Hp) AWD (1992 - 1994)",
+              "hp": 195,
+              "fuel": "benzin"
+            },
+            {
+              "label": "GSX 2.0 Turbo (180 Hp) AWD Automatic (1992 - 1994)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Turbo (195 Hp) (1992 - 1994)",
+              "hp": 195,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (135 Hp) (1992 - 1994)",
+              "hp": 135,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 (92 Hp) (1992 - 1994)",
+              "hp": 92,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-eclipse-i-1g": {
+          "label": "Mitsubishi Eclipse I (1G)",
+          "engines": [
+            {
+              "label": "2.0 i 16V 4WD Turbo (195 Hp) Automatic (1990 - 1992)",
+              "hp": 195,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 i 16V 4WD Turbo (195 Hp) (1990 - 1992)",
+              "hp": 195,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 i 16V (150 Hp) Automatic (1991 - 1992)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 i 16V (150 Hp) (1991 - 1992)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 i 16V (135 Hp) Automatic (1990 - 1992)",
+              "hp": 135,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 i 16V (135 Hp) (1990 - 1992)",
+              "hp": 135,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 (93 Hp) Automatic (1990 - 1992)",
+              "hp": 93,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 (93 Hp) (1990 - 1992)",
+              "hp": 93,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "eclipse-cross": {
+      "label": "Eclipse Cross",
+      "series": {
+        "mitsubishi-eclipse-cross-ii": {
+          "label": "Mitsubishi Eclipse Cross II",
+          "engines": [
+            {
+              "label": "87 kWh (218 Hp) Electric",
+              "hp": 218,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-eclipse-cross-i-facelift-2021": {
+          "label": "Mitsubishi Eclipse Cross I (facelift 2021)",
+          "engines": [
+            {
+              "label": "2.4 MIVEC (188 Hp) Plug-in Hybrid S-AWC",
+              "hp": 188,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.5 MIVEC (152 Hp) S-AWC CVT",
+              "hp": 152,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 MIVEC (152 Hp) CVT",
+              "hp": 152,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-eclipse-cross-i": {
+          "label": "Mitsubishi Eclipse Cross I",
+          "engines": [
+            {
+              "label": "2.2 DiD (150 Hp) 4WD Automatic (2018 - 2021)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 T-MIVEC (163 Hp) CVT (2018 - 2021)",
+              "hp": 163,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 T-MIVEC (163 Hp) 4WD CVT (2018 - 2021)",
+              "hp": 163,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 T-MIVEC (163 Hp) (2018 - 2021)",
+              "hp": 163,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 MIVEC (152 Hp) CVT (2019 - 2021)",
+              "hp": 152,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 MIVEC (152 Hp) AWC CVT (2019 - 2021)",
+              "hp": 152,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "ek": {
+      "label": "eK",
+      "series": {
+        "mitsubishi-ek-i-wagon": {
+          "label": "Mitsubishi eK I Wagon",
+          "engines": [
+            {
+              "label": "0.7 i 12V (50 Hp) (2001 - 2006)",
+              "hp": 50,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "ek-x": {
+      "label": "eK X",
+      "series": {
+        "mitsubishi-ek-x": {
+          "label": "Mitsubishi eK X",
+          "engines": [
+            {
+              "label": "EV 20 kWh (64 Hp)",
+              "hp": 64,
+              "fuel": "elektro"
+            },
+            {
+              "label": "0.7 T (64 Hp) Hybrid CVT",
+              "hp": 64,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "0.7 T (64 Hp) 4WD Hybrid CVT",
+              "hp": 64,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "0.7 (52 Hp) Hybrid CVT",
+              "hp": 52,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "0.7 (52 Hp) 4WD Hybrid CVT",
+              "hp": 52,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "emeraude": {
+      "label": "Emeraude",
+      "series": {
+        "mitsubishi-emeraude-e54a": {
+          "label": "Mitsubishi Emeraude (E54A)",
+          "engines": [
+            {
+              "label": "2.0 i V6 24V (200 Hp) Automatic (1992 - 1995)",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 i V6 24V (200 Hp) (1992 - 1995)",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 i V6 24V (170 Hp) (1992 - 1995)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "endeavor": {
+      "label": "Endeavor",
+      "series": {
+        "mitsubishi-endeavor": {
+          "label": "Mitsubishi Endeavor",
+          "engines": [
+            {
+              "label": "3.8 i V6 24V 4WD (218 Hp) (2003 - 2004)",
+              "hp": 218,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.8 i V6 24V 2WD (218 Hp) (2003 - 2004)",
+              "hp": 218,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "fto": {
+      "label": "FTO",
+      "series": {
+        "mitsubishi-fto-e-de3a": {
+          "label": "Mitsubishi FTO (E-DE3A)",
+          "engines": [
+            {
+              "label": "3.0 i V6 24V (225 Hp) (1997 - 2000)",
+              "hp": 225,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 i V6 24V GPX (200 Hp) Automatic (1994 - 1999)",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 i V6 24V GR (170 Hp) (1994 - 1999)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 i 16V GS (126 Hp) Automatic (1994 - 1999)",
+              "hp": 126,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 i 16V GS (126 Hp) (1994 - 1999)",
+              "hp": 126,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "fuzion": {
+      "label": "Fuzion",
+      "series": {
+        "mitsubishi-fuzion": {
+          "label": "Mitsubishi Fuzion",
+          "engines": [
+            {
+              "label": "2.4 (136 Hp) Automatic (2007 - 2015)",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "galant": {
+      "label": "Galant",
+      "series": {
+        "mitsubishi-galant-ix": {
+          "label": "Mitsubishi Galant IX",
+          "engines": [
+            {
+              "label": "3.8 V6 (258 Hp) (2007 - 2008)",
+              "hp": 258,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.8 V6 (230 Hp) (2004 - 2008)",
+              "hp": 230,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 i 16V (158 Hp) MIVEC (2004 - 2008)",
+              "hp": 158,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-galant-viii-restyling": {
+          "label": "Mitsubishi Galant VIII Restyling",
+          "engines": [
+            {
+              "label": "2.5 i V6 24V (163 Hp) (2001 - 2004)",
+              "hp": 163,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 i V6 24V (160 Hp) Automatic (2001 - 2004)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 i (150 Hp) (2002 - 2006)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 i (133 Hp) (2001 - 2003)",
+              "hp": 133,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-galant-viii": {
+          "label": "Mitsubishi Galant VIII",
+          "engines": [
+            {
+              "label": "3.0 i V6 24V GTZ (197 Hp) (2000 - 2002)",
+              "hp": 197,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 i VR-4 Type-V 4WD (280 Hp) Automatic (1997 - 2002)",
+              "hp": 280,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 i VR-4 Type-V 4WD (280 Hp) (1997 - 2002)",
+              "hp": 280,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 24V (163 Hp) Automatic (1996 - 2001)",
+              "hp": 163,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 24V (163 Hp) (1996 - 2001)",
+              "hp": 163,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 GDI (150 Hp) Automatic (1999 - 2002)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 GDI (150 Hp) (1999 - 2002)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TDI (90 Hp) (1996 - 2002)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 GDi 16V (136 Hp) Automatic (2000 - 2002)",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 GDi 16V (136 Hp) (2000 - 2002)",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (136 Hp) Automatic (1996 - 2002)",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (136 Hp) (1996 - 2002)",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8i (150 Hp) Automatic (1996 - 1998)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8i (150 Hp) (1996 - 1998)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-galant-vii-hatchback": {
+          "label": "Mitsubishi Galant VII Hatchback",
+          "engines": [
+            {
+              "label": "2.5 V6-24 4x4 (E88A) (170 Hp) (1992 - 2000)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 V6-24 (E54A) (150 Hp) Automatic (1992 - 2000)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 V6-24 (E54A) (150 Hp) (1992 - 2000)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 GLSI 4x4 (E75A) (137 Hp) (1992 - 2000)",
+              "hp": 137,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 GLSI (E55A) (137 Hp) Automatic (1992 - 2000)",
+              "hp": 137,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 GLSI (E55A) (137 Hp) (1992 - 2000)",
+              "hp": 137,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 GLSTD (E57A) (90 Hp) (1992 - 1996)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 GLSI (E52A) (126 Hp) (1992 - 2000)",
+              "hp": 126,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 (E52A) (116 Hp) Automatic (1994 - 2000)",
+              "hp": 116,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 (E52A) (116 Hp) (1994 - 2000)",
+              "hp": 116,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-galant-vii--wagon": {
+          "label": "Mitsubishi Galant VII  Wagon",
+          "engines": [
+            {
+              "label": "2.5 24V (163 Hp) (1996 - 2002)",
+              "hp": 163,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 GDI (150 Hp) (1999 - 2002)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 GDi 16V (142 Hp) (2000 - 2002)",
+              "hp": 142,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TDI (90 Hp) (1996 - 2002)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 (136 Hp) (1996 - 2002)",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-galant-vii": {
+          "label": "Mitsubishi Galant VII",
+          "engines": [
+            {
+              "label": "2.5 V6-24 4x4 (E88A) (170 Hp) (1992 - 1996)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 V6-24 (E54A) (150 Hp) Automatic (1992 - 1996)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 V6-24 (E54A) (150 Hp) (1992 - 1996)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 GLSI 4x4 (E75A) (137 Hp) Automatic (1992 - 1996)",
+              "hp": 137,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 GLSI 4x4 (E75A) (137 Hp) (1992 - 1996)",
+              "hp": 137,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 GLSI (E55A) (137 Hp) Automatic (1992 - 1996)",
+              "hp": 137,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 GLSI (E55A) (137 Hp) (1992 - 1996)",
+              "hp": 137,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 GLSTD (E57A) (90 Hp) (1992 - 1996)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 24 V V6 T (240 Hp) (1992 - 1996)",
+              "hp": 240,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 i (135 Hp) (1992 - 1996)",
+              "hp": 135,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 GLSI (E52A) (126 Hp) Automatic (1992 - 1996)",
+              "hp": 126,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 GLSI (E52A) (126 Hp) (1992 - 1996)",
+              "hp": 126,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 (E52A) (116 Hp) Automatic (1994 - 1996)",
+              "hp": 116,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 (E52A) (116 Hp) (1994 - 1996)",
+              "hp": 116,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-galant-vi-hatchback": {
+          "label": "Mitsubishi Galant VI Hatchback",
+          "engines": [
+            {
+              "label": "2.0 GTI 16V 4x4 CAT (150 Hp) (1991 - 1992)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 GTi 16V 4x4 (144 Hp) (1988 - 1992)",
+              "hp": 144,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 GTi 16V (E33A) (144 Hp) (1987 - 1992)",
+              "hp": 144,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 4x4 (E38A) (109 Hp) (1988 - 1992)",
+              "hp": 109,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (E33A) (109 Hp) (1987 - 1992)",
+              "hp": 109,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 Turbo-D (E34A) (75 Hp) (1987 - 1992)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 (E32A) (90 Hp) (1987 - 1992)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 (E32A) (86 Hp) (1987 - 1990)",
+              "hp": 86,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-galant-vi": {
+          "label": "Mitsubishi Galant VI",
+          "engines": [
+            {
+              "label": "2.0 GTI 16V (E33A) (146 Hp) (1988 - 1992)",
+              "hp": 146,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 GTI 16V 4x4 (E39A) (144 Hp) (1989 - 1992)",
+              "hp": 144,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 GTI 16V (E33A) (144 Hp) (1988 - 1992)",
+              "hp": 144,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 4x4 (E39A) (109 Hp) (1989 - 1992)",
+              "hp": 109,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (E33A) (109 Hp) Automatic (1988 - 1992)",
+              "hp": 109,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (E33A) (109 Hp) (1988 - 1992)",
+              "hp": 109,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 Turbo-D (E34A) (75 Hp) (1988 - 1992)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 (E32A) (90 Hp) (1988 - 1992)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-galant-v": {
+          "label": "Mitsubishi Galant V",
+          "engines": [
+            {
+              "label": "2.3 GLS (E16A) (112 Hp) (1985 - 1987)",
+              "hp": 112,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Turbo ECi (E15A) (150 Hp) (1984 - 1985)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 GLS (E15A) (102 Hp) (1984 - 1987)",
+              "hp": 102,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 GLS (E15A) (90 Hp) (1986 - 1987)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 Turbo-D (E14A) (82 Hp) (1984 - 1987)",
+              "hp": 82,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 GLX (E11A) (75 Hp) (1984 - 1987)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 GLX (75 Hp) Automatic (1984 - 1987)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 GLX (75 Hp) (1984 - 1987)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-galant-iv-wagon": {
+          "label": "Mitsubishi Galant IV Wagon",
+          "engines": [
+            {
+              "label": "2.3 Turbo-D (A167V) (84 Hp) (1983 - 1984)",
+              "hp": 84,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 GLX (A163V) (102 Hp) (1980 - 1983)",
+              "hp": 102,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 GLX (A161V) (75 Hp) (1980 - 1984)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-galant-iv": {
+          "label": "Mitsubishi Galant IV",
+          "engines": [
+            {
+              "label": "2.3 Turbo-D (A167) (84 Hp) (1980 - 1984)",
+              "hp": 84,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Turbo ECi (A164) (170 Hp) (1982 - 1984)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 GLS (A163) (102 Hp) (1980 - 1984)",
+              "hp": 102,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 GLX (A161A) (75 Hp) (1980 - 1984)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-galant-iii--wagon": {
+          "label": "Mitsubishi Galant III  Wagon",
+          "engines": [
+            {
+              "label": "2.0 GLX (98 Hp) (1979 - 1980)",
+              "hp": 98,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 GL (75 Hp) (1979 - 1980)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-galant-iii": {
+          "label": "Mitsubishi Galant III",
+          "engines": [
+            {
+              "label": "2.0 GLX (86 Hp) (1976 - 1980)",
+              "hp": 86,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (98 Hp) (1979 - 1980)",
+              "hp": 98,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (75 Hp) (1976 - 1980)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "grandis": {
+      "label": "Grandis",
+      "series": {
+        "mitsubishi-grandis-2025": {
+          "label": "Mitsubishi Grandis (2025)",
+          "engines": [
+            {
+              "label": "1.8 (158 Hp) Hybrid Multi-Mode",
+              "hp": 158,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.3 (141 Hp) Mild Hybrid DCT",
+              "hp": 141,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.3 (141 Hp) Mild Hybrid",
+              "hp": 141,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-grandis": {
+          "label": "Mitsubishi Grandis",
+          "engines": [
+            {
+              "label": "2.4 i 16V MIVEC (165 Hp) Automatic (2003 - 2011)",
+              "hp": 165,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 i 16V MIVEC (165 Hp) (2003 - 2011)",
+              "hp": 165,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 DI-D (136 Hp) Automatic (2005 - 2011)",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 DI-D (136 Hp) (2005 - 2011)",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "gto": {
+      "label": "GTO",
+      "series": {
+        "mitsubishi-gto-z16": {
+          "label": "Mitsubishi GTO (Z16)",
+          "engines": [
+            {
+              "label": "3.0 i V6 24V 4WD Turbo (280 Hp) (1990 - 2001)",
+              "hp": 280,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 i V6 4WD (225 Hp) Automatic (1990 - 2005)",
+              "hp": 225,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 i V6 4WD (225 Hp) (1990 - 2005)",
+              "hp": 225,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "i": {
+      "label": "i",
+      "series": {
+        "mitsubishi-i-ha1w": {
+          "label": "Mitsubishi i (HA1W)",
+          "engines": [
+            {
+              "label": "0.7 12V AWD (64 Hp) (2005 - 2013)",
+              "hp": 64,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.7 12V (64 Hp) (2005 - 2013)",
+              "hp": 64,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "i-miev": {
+      "label": "i-MiEV",
+      "series": {
+        "mitsubishi-i-miev": {
+          "label": "Mitsubishi i-MiEV",
+          "engines": [
+            {
+              "label": "16 kWh (67 Hp) (2009 - 2020)",
+              "hp": 67
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "l200": {
+      "label": "L200",
+      "series": {
+        "mitsubishi-l200-vi-double-cab": {
+          "label": "Mitsubishi L200 VI Double Cab",
+          "engines": [
+            {
+              "label": "2.4 MPI (128 Hp) 4WD",
+              "hp": 128,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 MPI (128 Hp)",
+              "hp": 128,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 MIVEC (201 Hp) 4WD Automatic",
+              "hp": 201,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 MIVEC (201 Hp) 4WD",
+              "hp": 201,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 MIVEC (201 Hp)",
+              "hp": 201,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 MIVEC (184 Hp) 4WD Automatic",
+              "hp": 184,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 MIVEC (181 Hp) 4WD",
+              "hp": 181,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 MIVEC (150 Hp) 4WD Automatic",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 MIVEC (150 Hp) 4WD",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-l200-vi-single-cab": {
+          "label": "Mitsubishi L200 VI Single Cab",
+          "engines": [
+            {
+              "label": "2.4 MPI (128 Hp)",
+              "hp": 128,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-l200-v-double-cab-facelift-2019": {
+          "label": "Mitsubishi L200 V Double Cab (facelift 2019)",
+          "engines": [
+            {
+              "label": "2.4 MIVEC (181 Hp) Automatic (2019 - 2023)",
+              "hp": 181,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 MIVEC (181 Hp) 4WD Automatic (2019 - 2023)",
+              "hp": 181,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 MIVEC (181 Hp) 4WD (2019 - 2023)",
+              "hp": 181,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 MIVEC (181 Hp) (2019 - 2023)",
+              "hp": 181,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.3d (150 Hp) 4WD Automatic (2019 - 2023)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.3d (150 Hp) 4WD (2019 - 2023)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-l200-v-club-cab-facelift-2019": {
+          "label": "Mitsubishi L200 V Club Cab (facelift 2019)",
+          "engines": [
+            {
+              "label": "2.4 MIVEC (181 Hp) Automatic (2019 - 2023)",
+              "hp": 181,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 MIVEC (181 Hp) (2019 - 2023)",
+              "hp": 181,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.3d (150 Hp) 4WD (2019 - 2023)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-l200-v-single-cab-facelift-2019": {
+          "label": "Mitsubishi L200 V Single Cab (facelift 2019)",
+          "engines": [
+            {
+              "label": "2.4 MIVEC (181 Hp) 4WD (2019 - 2023)",
+              "hp": 181,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-l200-v-double-cab": {
+          "label": "Mitsubishi L200 V Double Cab",
+          "engines": [
+            {
+              "label": "2.4d (181 Hp) 4WD Automatic (2015 - 2018)",
+              "hp": 181,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4d (181 Hp) 4WD (2015 - 2018)",
+              "hp": 181,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4d (154 Hp) 4WD (2015 - 2018)",
+              "hp": 154,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-l200-v-club-cab": {
+          "label": "Mitsubishi L200 V Club Cab",
+          "engines": [
+            {
+              "label": "2.4d (154 Hp) 4WD (2015 - 2018)",
+              "hp": 154,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-l200-v-single-cab": {
+          "label": "Mitsubishi L200 V Single Cab",
+          "engines": [
+            {
+              "label": "2.4d (154 Hp) 4WD (2015 - 2018)",
+              "hp": 154,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-l200-iv-double-cab-facelift-2010": {
+          "label": "Mitsubishi L200 IV Double Cab (facelift 2010)",
+          "engines": [
+            {
+              "label": "2.5 HP DI-D (178 Hp) Automatic (2010 - 2015)",
+              "hp": 5,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 HP DI-D (178 Hp) (2010 - 2015)",
+              "hp": 5,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 DI-D (136 Hp) (2010 - 2015)",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-l200-iv-double-cab": {
+          "label": "Mitsubishi L200 IV Double Cab",
+          "engines": [
+            {
+              "label": "2.5 TD (136 Hp) Duble Cab (2006 - 2010)",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-l200-iii-double-cab": {
+          "label": "Mitsubishi L200 III Double Cab",
+          "engines": [
+            {
+              "label": "2.5 TD (100 Hp) 4WD Automatic (1996 - 2006)",
+              "hp": 100,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 TD (100 Hp) 4WD (1996 - 2006)",
+              "hp": 100,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 TD (87 Hp) 4WD (1996 - 2006)",
+              "hp": 87,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 (132 Hp) 4WD (1996 - 2006)",
+              "hp": 132,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "lancer": {
+      "label": "Lancer",
+      "series": {
+        "mitsubishi-grand-lancer-x": {
+          "label": "Mitsubishi Grand Lancer X",
+          "engines": [
+            {
+              "label": "1.8 MIVEC (140 Hp) CVT",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-lancer-sportback-ix-facelift-2015": {
+          "label": "Mitsubishi Lancer Sportback IX (facelift 2015)",
+          "engines": [
+            {
+              "label": "1.8 (140 Hp) CVT (2015 - 2017)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (117 Hp) (2015 - 2017)",
+              "hp": 117,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-lancer-ix-facelift-2015": {
+          "label": "Mitsubishi Lancer IX (facelift 2015)",
+          "engines": [
+            {
+              "label": "2.4 (168 Hp) CVT (2015 - 2017)",
+              "hp": 168,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 (168 Hp) AWD CVT (2015 - 2017)",
+              "hp": 168,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 (168 Hp) (2015 - 2017)",
+              "hp": 168,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (148 Hp) CVT (2015 - 2017)",
+              "hp": 148,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (148 Hp) (2015 - 2017)",
+              "hp": 148,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 MIVEC (117 Hp) (2015 - 2017)",
+              "hp": 117,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-lancer-sportback-ix-gs44s": {
+          "label": "Mitsubishi Lancer Sportback IX (GS44S)",
+          "engines": [
+            {
+              "label": "Ralliart 2.0 (240 Hp) (2009 - 2011)",
+              "hp": 240,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 DI-D (140 Hp) DPF (2008 - 2010)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 MPI (143 Hp) CVT (2007 - 2010)",
+              "hp": 143,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 MPI (143 Hp) (2007 - 2010)",
+              "hp": 143,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 (109 Hp) (2008 - 2010)",
+              "hp": 109,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-lancer-ix": {
+          "label": "Mitsubishi Lancer IX",
+          "engines": [
+            {
+              "label": "Ralliart 2.0 (240 Hp) (2009 - 2011)",
+              "hp": 240,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0i (150 Hp) CVT 4WD (2010 - 2015)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0i (150 Hp) CVT (2010 - 2013)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0i (150 Hp) 4WD (2010 - 2015)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0i (150 Hp) (2010 - 2015)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 DI-D (140 Hp) (2007 - 2010)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8i (143 Hp) CVT (2007 - 2010)",
+              "hp": 143,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8i (143 Hp) (2007 - 2010)",
+              "hp": 143,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 MIVEC (117 Hp) (2010 - 2015)",
+              "hp": 117,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5i (109 Hp) Automatic (2009 - 2010)",
+              "hp": 109,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5i (109 Hp) (2009 - 2010)",
+              "hp": 109,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-lancer-viii": {
+          "label": "Mitsubishi Lancer VIII",
+          "engines": [
+            {
+              "label": "Sport 2.0i 16V (135 Hp) (2003 - 2007)",
+              "hp": 135,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6i 16V (98 Hp) Automatic (2007 - 2009)",
+              "hp": 98,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6i 16V (98 Hp) (2007 - 2009)",
+              "hp": 98,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3i 16V (82 Hp) (2003 - 2005)",
+              "hp": 82,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-lancer-viii-wagon": {
+          "label": "Mitsubishi Lancer VIII Wagon",
+          "engines": [
+            {
+              "label": "Sport 2.0i 16V (135 Hp) (2003 - 2009)",
+              "hp": 135,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sport 1.6i 16V (98 Hp) (2003 - 2009)",
+              "hp": 98,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 i 16V (98 Hp) Automatic (2003 - 2009)",
+              "hp": 98,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 i 16V (98 Hp) (2003 - 2009)",
+              "hp": 98,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-lancer-cedia": {
+          "label": "Mitsubishi Lancer Cedia",
+          "engines": [
+            {
+              "label": "1.8i 16V (125 Hp) (2000 - 2004)",
+              "hp": 125,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5i (105 Hp) Automatic (2000 - 2004)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5i (105 Hp) (2000 - 2004)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-lancer-vi": {
+          "label": "Mitsubishi Lancer VI",
+          "engines": [
+            {
+              "label": "1.8 GSR (205 Hp) (1996 - 2000)",
+              "hp": 205,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 (110 Hp) (1996 - 2000)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 12V GL,GLX (75 Hp) Automatic (1995 - 2000)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 12V GL,GLX (75 Hp) (1995 - 2000)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-lancer-v": {
+          "label": "Mitsubishi Lancer V",
+          "engines": [
+            {
+              "label": "2.0 Diesel (68 Hp) (1992 - 1996)",
+              "hp": 68,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 16V (CB4A) (113 Hp) Automatic (1992 - 1996)",
+              "hp": 113,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 16V (CB4A) (113 Hp) (1992 - 1996)",
+              "hp": 113,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 16V (113 Hp) 4WD (1992 - 1996)",
+              "hp": 113,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (90 Hp) (1994 - 1996)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 CB3A (115 Hp) Automatic (1992 - 1996)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 CB3A (115 Hp) (1992 - 1996)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 (75 Hp) (1992 - 1996)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-lancer-v-wagon": {
+          "label": "Mitsubishi Lancer V Wagon",
+          "engines": [
+            {
+              "label": "2.0 D (68 Hp) (1992 - 2000)",
+              "hp": 68,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 16V (113 Hp) 4WD (1992 - 2000)",
+              "hp": 113,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 16V (113 Hp) (1992 - 2000)",
+              "hp": 113,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-lancer-iv": {
+          "label": "Mitsubishi Lancer IV",
+          "engines": [
+            {
+              "label": "GTi 1.8 16V (140 Hp) (1992 - 1993)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "GTi 1.8 16V (136 Hp) (1989 - 1992)",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 Diesel (60 Hp) (1988 - 1992)",
+              "hp": 60,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.8 (97 Hp) 4x4 (1989 - 1992)",
+              "hp": 97,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (160 Hp) (1988 - 1992)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 12V (90 Hp) (1989 - 1992)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 12V (75 Hp) (1992 - 1994)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-lancer-iv-hatchback": {
+          "label": "Mitsubishi Lancer IV Hatchback",
+          "engines": [
+            {
+              "label": "1.8 Diesel (60 Hp) (1988 - 1992)",
+              "hp": 60,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.8 (136 Hp) (1988 - 1992)",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 16V (113 Hp) (1992 - 1994)",
+              "hp": 113,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 12V (90 Hp) (1989 - 1992)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 (84 Hp) (1988 - 1992)",
+              "hp": 84,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 12V (C61A) (75 Hp) Automatic (1991 - 1992)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 12V (75 Hp) (1991 - 1992)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 (70 Hp) (1988 - 1992)",
+              "hp": 70,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 (60 Hp) (1988 - 1992)",
+              "hp": 60,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-lancer-iii-wagon": {
+          "label": "Mitsubishi Lancer III Wagon",
+          "engines": [
+            {
+              "label": "1.8 D (60 Hp) (1986 - 1992)",
+              "hp": 60,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 D (58 Hp) (1985 - 1986)",
+              "hp": 58,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 (94 Hp) 4x4 (1988 - 1992)",
+              "hp": 94,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 (90 Hp) 4x4 (1987 - 1987)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 (83 Hp) 4x4 (1987 - 1989)",
+              "hp": 83,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 12V (90 Hp) (1990 - 1991)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 (C12V) (75 Hp) Automatic (1985 - 1987)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 (83 Hp) (1988 - 1990)",
+              "hp": 83,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 (75 Hp) (1985 - 1987)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 (70 Hp) (1985 - 1989)",
+              "hp": 70,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-lancer-iii": {
+          "label": "Mitsubishi Lancer III",
+          "engines": [
+            {
+              "label": "1.8 Diesel (60 Hp) (1986 - 1988)",
+              "hp": 60,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.8 Diesel (58 Hp) (1984 - 1986)",
+              "hp": 58,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 (75 Hp) (1983 - 1988)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 (70 Hp) (1985 - 1988)",
+              "hp": 70,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 (60 Hp) (1986 - 1988)",
+              "hp": 60,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 (55 Hp) (1984 - 1986)",
+              "hp": 55,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-lancer-fiore-ii": {
+          "label": "Mitsubishi Lancer Fiore II",
+          "engines": [
+            {
+              "label": "1.4 (70 Hp) (1983 - 1984)",
+              "hp": 70,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 (105 Hp) (1983 - 1984)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 (55 Hp) (1983 - 1984)",
+              "hp": 55,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-lancer-ii": {
+          "label": "Mitsubishi Lancer II",
+          "engines": [
+            {
+              "label": "2.0 Turbo (170 Hp) (1981 - 1983)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (84 Hp) (1981 - 1983)",
+              "hp": 84,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (82 Hp) (1979 - 1983)",
+              "hp": 82,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 (68 Hp) (1979 - 1983)",
+              "hp": 68,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 (55 Hp) (1980 - 1981)",
+              "hp": 55,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-lancer-i": {
+          "label": "Mitsubishi Lancer I",
+          "engines": [
+            {
+              "label": "Keine exakte Motorliste verfügbar – bitte genaue Motorisierung im Freitext angeben"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "lancer-evolution": {
+      "label": "Lancer Evolution",
+      "series": {
+        "mitsubishi-lancer-evolution-x": {
+          "label": "Mitsubishi Lancer Evolution X",
+          "engines": [
+            {
+              "label": "2.0 MIVEC FQ-360 (359 Hp) S-AWC (2008 - 2014)",
+              "hp": 359,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 MIVEC (295 Hp) S-AWC TC-SST (2010 - 2014)",
+              "hp": 295,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 MIVEC (295 Hp) S-AWC (2010 - 2014)",
+              "hp": 295,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-lancer-evolution-ix": {
+          "label": "Mitsubishi Lancer Evolution IX",
+          "engines": [
+            {
+              "label": "2.0 MIVEC FQ-340 (345 Hp) 4WD (2005 - 2007)",
+              "hp": 345,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 MIVEC FQ-320 (326 Hp) 4WD (2005 - 2007)",
+              "hp": 326,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 MIVEC FQ-300 (305 Hp) 4WD (2005 - 2007)",
+              "hp": 305,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 MIVEC (286 Hp) 4WD (2005 - 2007)",
+              "hp": 286,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 MIVEC (280 Hp) 4WD (2005 - 2007)",
+              "hp": 280,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-lancer-evolution-viii": {
+          "label": "Mitsubishi Lancer Evolution VIII",
+          "engines": [
+            {
+              "label": "2.0 (280 Hp) 4WD (2003 - 2005)",
+              "hp": 280,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (265 Hp) 4WD (2003 - 2005)",
+              "hp": 265,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-lancer-evolution-vii": {
+          "label": "Mitsubishi Lancer Evolution VII",
+          "engines": [
+            {
+              "label": "2.0 T (280 Hp) 4WD (2001 - 2003)",
+              "hp": 280,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-lancer-evolution-vi": {
+          "label": "Mitsubishi Lancer Evolution VI",
+          "engines": [
+            {
+              "label": "2.0 (280 Hp) 4WD (1999 - 2001)",
+              "hp": 280,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-lancer-evolution-v": {
+          "label": "Mitsubishi Lancer Evolution V",
+          "engines": [
+            {
+              "label": "2.0 (280 Hp) 4WD (1998 - 1999)",
+              "hp": 280,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-lancer-evolution-iv": {
+          "label": "Mitsubishi Lancer Evolution IV",
+          "engines": [
+            {
+              "label": "2.0 (280 Hp) 4WD (1996 - 1998)",
+              "hp": 280,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-lancer-evolution-iii": {
+          "label": "Mitsubishi Lancer Evolution III",
+          "engines": [
+            {
+              "label": "2.0 (270 Hp) 4WD (1995 - 1996)",
+              "hp": 270,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-lancer-evolution-ii": {
+          "label": "Mitsubishi Lancer Evolution II",
+          "engines": [
+            {
+              "label": "Keine exakte Motorliste verfügbar – bitte genaue Motorisierung im Freitext angeben"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-lancer-evolution-i": {
+          "label": "Mitsubishi Lancer Evolution I",
+          "engines": [
+            {
+              "label": "Keine exakte Motorliste verfügbar – bitte genaue Motorisierung im Freitext angeben"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "legnum": {
+      "label": "Legnum",
+      "series": {
+        "mitsubishi-legnum-eao": {
+          "label": "Mitsubishi Legnum (EAO)",
+          "engines": [
+            {
+              "label": "2.5i ST (175 Hp) Automatic (1997 - 2002)",
+              "hp": 175,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5i ST (175 Hp) (1997 - 2002)",
+              "hp": 175,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 VR-4 Type-S 4WD (280 Hp) Automatic (1997 - 2002)",
+              "hp": 280,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 VR-4 Type-S 4WD (280 Hp) (1997 - 2002)",
+              "hp": 280,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4i ST (165 Hp) Automatic (1997 - 2002)",
+              "hp": 165,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4i ST (165 Hp) (1997 - 2002)",
+              "hp": 165,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Viento (145 Hp) Automatic (2000 - 2002)",
+              "hp": 145,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Viento (145 Hp) (2000 - 2002)",
+              "hp": 145,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8i Viento (140 Hp) Automatic (1997 - 2002)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8i Viento (140 Hp) (1997 - 2002)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8i ST (150 Hp) Automatic (1997 - 2002)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8i ST (150 Hp) (1997 - 2002)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "libero": {
+      "label": "Libero",
+      "series": {
+        "mitsubishi-libero": {
+          "label": "Mitsubishi Libero",
+          "engines": [
+            {
+              "label": "1.5 i 16V Limited (110 Hp) (1992 - 2002)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "minica": {
+      "label": "Minica",
+      "series": {
+        "mitsubishi-minica-vi": {
+          "label": "Mitsubishi Minica VI",
+          "engines": [
+            {
+              "label": "0.7 i 12V 4WD (50 Hp) (1999 - 2007)",
+              "hp": 50,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.7 i 12V (50 Hp) (1999 - 2007)",
+              "hp": 50,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-minica-v": {
+          "label": "Mitsubishi Minica V",
+          "engines": [
+            {
+              "label": "0.66 i 20V SR-Z (64 Hp) Automatic (1993 - 1999)",
+              "hp": 64,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.66 i 20V SR-Z (64 Hp) (1993 - 1999)",
+              "hp": 64,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.66 i 16V ST-4WD (55 Hp) Automatic (1993 - 1999)",
+              "hp": 55,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.66 i 16V ST-4WD (55 Hp) (1993 - 1999)",
+              "hp": 55,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.66 CE (40 Hp) Automatic (1993 - 1999)",
+              "hp": 40,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.66 CE (40 Hp) (1993 - 1999)",
+              "hp": 40,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.66 16V PG (50 Hp) Automatic (1993 - 1999)",
+              "hp": 50,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.66 16V PG (50 Hp) (1993 - 1999)",
+              "hp": 50,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "mirage": {
+      "label": "Mirage",
+      "series": {
+        "mitsubishi-mirage-g4-a10-facelift-2019": {
+          "label": "Mitsubishi Mirage G4 (A10, facelift 2019)",
+          "engines": [
+            {
+              "label": "1.2 MIVEC (78 Hp) CVT",
+              "hp": 78,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-mirage-vi-hatchback-facelift-2019": {
+          "label": "Mitsubishi Mirage VI Hatchback (facelift 2019)",
+          "engines": [
+            {
+              "label": "1.2 MIVEC (80 Hp) CVT",
+              "hp": 80,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 MIVEC (80 Hp)",
+              "hp": 80,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 MIVEC (78 Hp) CVT",
+              "hp": 78,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 MIVEC (78 Hp)",
+              "hp": 78,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-mirage-vi-hatchback-facelift-2017": {
+          "label": "Mitsubishi Mirage VI Hatchback (facelift 2017)",
+          "engines": [
+            {
+              "label": "1.2 MIVEC (78 Hp) CVT (2017 - 2019)",
+              "hp": 78,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 MIVEC (78 Hp) (2017 - 2019)",
+              "hp": 78,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-mirage-g4-a10": {
+          "label": "Mitsubishi Mirage G4 (A10)",
+          "engines": [
+            {
+              "label": "1.2 MIVEC (78 Hp) CVT (2013 - 2019)",
+              "hp": 78,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 MIVEC (78 Hp) (2013 - 2019)",
+              "hp": 78,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-mirage-vi-hatchback": {
+          "label": "Mitsubishi Mirage VI Hatchback",
+          "engines": [
+            {
+              "label": "1.2 MIVEC (80 Hp) CVT (2012 - 2016)",
+              "hp": 80,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 MIVEC (80 Hp) (2012 - 2016)",
+              "hp": 80,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 MIVEC (74 Hp) CVT (2014 - 2016)",
+              "hp": 74,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 MIVEC (74 Hp) (2014 - 2016)",
+              "hp": 74,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 MIVEC (71 Hp) (2012 - 2016)",
+              "hp": 71,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 MIVEC (69 Hp) CVT (2012 - 2016)",
+              "hp": 69,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-mirage-v-asti-cjo": {
+          "label": "Mitsubishi Mirage V Asti (CJO)",
+          "engines": [
+            {
+              "label": "1.6 i 16V (175 Hp) Automatic (1996 - 2002)",
+              "hp": 175,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 i 16V (175 Hp) (1996 - 2002)",
+              "hp": 175,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 i 16V (110 Hp) Automatic (1996 - 2002)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 i 16V (110 Hp) (1996 - 2002)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 i 12V (88 Hp) Automatic (1996 - 2002)",
+              "hp": 88,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 i 12V (88 Hp) (1996 - 2002)",
+              "hp": 88,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-mirage-v-cjo": {
+          "label": "Mitsubishi Mirage V (CJO)",
+          "engines": [
+            {
+              "label": "1.6 i 16V (175 Hp) (1995 - 2002)",
+              "hp": 175,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 i 12V (88 Hp) (1995 - 2002)",
+              "hp": 88,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-mirage-v-hatchback": {
+          "label": "Mitsubishi Mirage V Hatchback",
+          "engines": [
+            {
+              "label": "1.5 (110 Hp) (1995 - 2002)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 i 12V (88 Hp) Automatic (1995 - 2002)",
+              "hp": 88,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 i 12V (88 Hp) (1995 - 2002)",
+              "hp": 88,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "montero": {
+      "label": "Montero",
+      "series": {
+        "mitsubishi-montero": {
+          "label": "Mitsubishi Montero",
+          "engines": [
+            {
+              "label": "3.8 i V6 24V MIVEC (250 Hp) (2002 - 2006)",
+              "hp": 250,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.5 V6 GDI (202 Hp) Automatic (2000 - 2006)",
+              "hp": 202,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.5 V6 GDI (202 Hp) (2000 - 2006)",
+              "hp": 202,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.5 i V6 24V (208 Hp) Automatic (1994 - 2000)",
+              "hp": 208,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.5 i V6 24V (208 Hp) (1994 - 2000)",
+              "hp": 208,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 i V6 GLS (150 Hp) Automatic (1990 - 1996)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 i V6 GLS (150 Hp) (1990 - 1996)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "montero-sport": {
+      "label": "Montero Sport",
+      "series": {
+        "mitsubishi-montero-sport-iii-facelift-2019": {
+          "label": "Mitsubishi Montero Sport III (facelift 2019)",
+          "engines": [
+            {
+              "label": "GT 2.4 Clean Diesel (181 Hp) AWD Automatic",
+              "hp": 181,
+              "fuel": "diesel"
+            },
+            {
+              "label": "GT 2.4 Clean Diesel (181 Hp) AWD",
+              "hp": 181,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.4 Clean Diesel (181 Hp) Automatic",
+              "hp": 181,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.4 Clean Diesel (181 Hp)",
+              "hp": 181,
+              "fuel": "diesel"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-montero-sport-iii": {
+          "label": "Mitsubishi Montero Sport III",
+          "engines": [
+            {
+              "label": "3.0 MIVEC V6 (219 Hp) Super Select 4WD Automatic (2015 - 2019)",
+              "hp": 219,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 MIVEC V6 (219 Hp) Automatic (2015 - 2019)",
+              "hp": 219,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 MIVEC V6 (209 Hp) Super Select 4WD Automatic (2015 - 2019)",
+              "hp": 209,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 MIVEC V6 (209 Hp) Automatic (2015 - 2019)",
+              "hp": 209,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 DI-D (136 Hp) Super Select 4WD Automatic (2015 - 2019)",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 DI-D (136 Hp) Super Select 4WD (2015 - 2019)",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 DI-D (136 Hp) Automatic (2015 - 2019)",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 DI-D (136 Hp) (2015 - 2019)",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 MIVEC (181 Hp) Super Select 4WD Automatic (2015 - 2019)",
+              "hp": 181,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 MIVEC (181 Hp) Super Select 4WD (2015 - 2019)",
+              "hp": 181,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 MIVEC (181 Hp) Automatic (2015 - 2019)",
+              "hp": 181,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 MIVEC (181 Hp) (2015 - 2019)",
+              "hp": 181,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-montero-sport-i": {
+          "label": "Mitsubishi Montero Sport I",
+          "engines": [
+            {
+              "label": "3.5 XLS (203 Hp) Automatic (1998 - 2004)",
+              "hp": 203,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.5 XLS (203 Hp) (1998 - 2004)",
+              "hp": 203,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 i V6 24V GLS (177 Hp) (1996 - 2003)",
+              "hp": 177,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 i V6 24V (170 Hp) (1999 - 2003)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 TD (133 Hp) (1996 - 1999)",
+              "hp": 133,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 TD (115 Hp) (2000 - 2006)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 TD (99 Hp) (1998 - 2000)",
+              "hp": 99,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "outlander": {
+      "label": "Outlander",
+      "series": {
+        "mitsubishi-outlander-iv-facelift-2024": {
+          "label": "Mitsubishi Outlander IV (facelift 2024)",
+          "engines": [
+            {
+              "label": "2.4 MIVEC (306 Hp) Plug-in Hybrid 4WD Automatic",
+              "hp": 306,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-outlander-iv": {
+          "label": "Mitsubishi Outlander IV",
+          "engines": [
+            {
+              "label": "2.5 MIVEC (181 Hp) S-AWC CVT (2021 - 2024)",
+              "hp": 181,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 MIVEC (181 Hp) CVT (2021 - 2024)",
+              "hp": 181,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 MIVEC (252 Hp) Plug-in Hybrid 4WD (2021 - 2024)",
+              "hp": 252,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-outlander-iii-facelift-2018": {
+          "label": "Mitsubishi Outlander III (facelift 2018)",
+          "engines": [
+            {
+              "label": "3.0 MIVEC V6 (224 Hp) S-AWC Automatic (2018 - 2021)",
+              "hp": 224,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 MIVEC (166 Hp) S-AWC CVT (2018 - 2021)",
+              "hp": 166,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 MIVEC (166 Hp) CVT (2018 - 2021)",
+              "hp": 166,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 MIVEC (224 Hp) Plug-in Hybrid 4WD (2018 - 2021)",
+              "hp": 224,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "2.0 MIVEC (150 Hp) 4WD CVT (2019 - 2021)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-outlander-iii-facelift-2015": {
+          "label": "Mitsubishi Outlander III (facelift 2015)",
+          "engines": [
+            {
+              "label": "GT 3.0 MIVEC V6 (224 Hp) 4WD Automatic (2017 - 2018)",
+              "hp": 224,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 MIVEC (167 Hp) 4WD CVT (2015 - 2018)",
+              "hp": 167,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 DI-D (150 Hp) 4WD Automatic (2015 - 2018)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 DI-D (150 Hp) 4WD (2015 - 2018)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 MIVEC (150 Hp) 4WD Automatic (2015 - 2018)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 MIVEC (150 Hp) (2015 - 2018)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 MIVEC (203 Hp) Plug-in Hybrid 4WD (2015 - 2018)",
+              "hp": 203,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-outlander-iii": {
+          "label": "Mitsubishi Outlander III",
+          "engines": [
+            {
+              "label": "3.0 MIVEC V6 (224 Hp) AWD Automatic (2013 - 2015)",
+              "hp": 224,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 MIVEC (166 Hp) CVT (2013 - 2015)",
+              "hp": 166,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 MIVEC (166 Hp) AWD CVT (2013 - 2015)",
+              "hp": 166,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 (150 Hp) 4WD Automatic (2012 - 2015)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 (150 Hp) 4WD (2012 - 2015)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 MIVEC (150 Hp) 2WD Automatic (2012 - 2015)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 MIVEC (150 Hp) 2WD (2012 - 2015)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 MIVEC (200 Hp) Plug-in Hybrid 4WD (2013 - 2015)",
+              "hp": 200,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-outlander-ii-facelift-2009": {
+          "label": "Mitsubishi Outlander II (facelift 2009)",
+          "engines": [
+            {
+              "label": "3.0 V6 (230 Hp) Automatic 4WD (2009 - 2012)",
+              "hp": 230,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 (170 Hp) CVT 4WD (2009 - 2012)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 DI-D (177 Hp) 4WD (2010 - 2012)",
+              "hp": 177,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 DI-D (177 Hp) (2010 - 2012)",
+              "hp": 177,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 DI-D (156 Hp) TC-SST 4WD (2010 - 2012)",
+              "hp": 156,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 DI-D (156 Hp) 4WD (2010 - 2012)",
+              "hp": 156,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (147 Hp) CVT (2009 - 2012)",
+              "hp": 147,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (147 Hp) (2009 - 2012)",
+              "hp": 147,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-outlander-ii": {
+          "label": "Mitsubishi Outlander II",
+          "engines": [
+            {
+              "label": "3.0 i V6 24V XL (220 Hp) (2007 - 2009)",
+              "hp": 220,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4i (170 Hp) Automatic (2005 - 2009)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4i (170 Hp) (2005 - 2009)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 DI-D (140 Hp) Automatic (2006 - 2009)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 DI-D (140 Hp) (2006 - 2009)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-outlander-i": {
+          "label": "Mitsubishi Outlander I",
+          "engines": [
+            {
+              "label": "2.4 i 16V 4WD (158 Hp) Automatic (2003 - 2006)",
+              "hp": 158,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 i 16V 4WD (158 Hp) (2003 - 2006)",
+              "hp": 158,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 i 16V 4WD XLS (142 Hp) (2001 - 2003)",
+              "hp": 142,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 (140 Hp) Sportronic (2003 - 2004)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 i 16V 4WD Turbo (202 Hp) (2004 - 2006)",
+              "hp": 202,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 i 16V 4WD (136 Hp) (2001 - 2006)",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "pajero": {
+      "label": "Pajero",
+      "series": {
+        "mitsubishi-pajero-iv-facelift-2015": {
+          "label": "Mitsubishi Pajero IV (facelift 2015)",
+          "engines": [
+            {
+              "label": "3.2 DI-DC (190 Hp) L 4x4 Automatic (2015 - 2018)",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.2 DI-DC (190 Hp) 4x4 Automatic (2015 - 2018)",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-pajero-iv-facelift-2012": {
+          "label": "Mitsubishi Pajero IV (facelift 2012)",
+          "engines": [
+            {
+              "label": "3.2 DI-DC (197 Hp) L 4x4 Automatic (2012 - 2015)",
+              "hp": 197,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.2 DI-DC (197 Hp) L 4x4 7 Seat (2012 - 2015)",
+              "hp": 197,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.2 DI-DC (197 Hp) L 4x4 4 Seat (2012 - 2015)",
+              "hp": 197,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.2 DI-DC (197 Hp) 4x4 5 Seat Automatic (2012 - 2015)",
+              "hp": 197,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.2 DI-DC (197 Hp) 4x4 5 Seat (2012 - 2015)",
+              "hp": 197,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.2 DI-DC (197 Hp) 4x4 2 Seat Automatic (2012 - 2015)",
+              "hp": 197,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.2 DI-DC (197 Hp) 4x4 2 Seat (2012 - 2015)",
+              "hp": 197,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-pajero-iv": {
+          "label": "Mitsubishi Pajero IV",
+          "engines": [
+            {
+              "label": "3.8 i V6 24V MIVEC (250 Hp) 5-doors (2006 - 2011)",
+              "hp": 250,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.8 i V6 24V MIVEC (250 Hp) 3-doors (2007 - 2011)",
+              "hp": 250,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.2 Di-DC (165 Hp) Automatic 5-doors (2008 - 2010)",
+              "hp": 165,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.2 Di-DC (165 Hp) Automatic 3-doors (2007 - 2009)",
+              "hp": 165,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.2 Di-DC (165 Hp) 5-doors (2008 - 2010)",
+              "hp": 165,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.2 Di-DC (165 Hp) 3-doors (2007 - 2009)",
+              "hp": 165,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0i V6 (178 Hp) 5-doors (2006 - 2011)",
+              "hp": 178,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-pajero-iii": {
+          "label": "Mitsubishi Pajero III",
+          "engines": [
+            {
+              "label": "3.5 V6 GDI (202 Hp) 7 Seat Automatic (2000 - 2006)",
+              "hp": 202,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.5 V6 GDI (202 Hp) 7 Seat (2000 - 2006)",
+              "hp": 202,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.5 V6 GDI (202 Hp) 5 Seat Automatic (2000 - 2006)",
+              "hp": 202,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.5 V6 GDI (202 Hp) 5 Seat (2000 - 2006)",
+              "hp": 202,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.2 DI-D (165 Hp) 7 Seat Automatic (2000 - 2006)",
+              "hp": 165,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.2 DI-D (165 Hp) 5 Seat Automatic (2000 - 2006)",
+              "hp": 165,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.2 DI-D (165 Hp) (2000 - 2006)",
+              "hp": 165,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 TD (5 dr) (115 Hp) (2000 - 2006)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 TD (3 dr) (115 Hp) (2000 - 2006)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-pajero-io-h60": {
+          "label": "Mitsubishi Pajero IO (H60)",
+          "engines": [
+            {
+              "label": "1.8 i 16V GDI 4WD (5 dr) (160 Hp) (1998 - 2005)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-pajero-pinin-h60": {
+          "label": "Mitsubishi Pajero Pinin (H60)",
+          "engines": [
+            {
+              "label": "2.0 GDI 16V (129 Hp) 5dr Automatic (1999 - 2006)",
+              "hp": 129,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 GDI 16V (129 Hp) 5dr (1999 - 2006)",
+              "hp": 129,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 GDI 16V (129 Hp) 3dr Automatic (1999 - 2006)",
+              "hp": 129,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 GDI 16V (129 Hp) 3dr (1999 - 2006)",
+              "hp": 129,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 i 16V (114 Hp) 5dr Automatic (2001 - 2006)",
+              "hp": 114,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 i 16V (114 Hp) 5dr (2001 - 2006)",
+              "hp": 114,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 i 16V (114 Hp) 3dr Automatic (2001 - 2006)",
+              "hp": 114,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 i 16V (114 Hp) 3dr (2001 - 2006)",
+              "hp": 114,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 GDI (120 Hp) Automatic (1999 - 2000)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 GDI (120 Hp) (1999 - 2000)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-pajero-junior": {
+          "label": "Mitsubishi Pajero Junior",
+          "engines": [
+            {
+              "label": "1.1 (80 Hp) Automatic (1995 - 1998)",
+              "hp": 80,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.1 (80 Hp) (1995 - 1998)",
+              "hp": 80,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-pajero-mini": {
+          "label": "Mitsubishi Pajero Mini",
+          "engines": [
+            {
+              "label": "0.7 20V Turbo (64 Hp) Automatic (1994 - 1998)",
+              "hp": 64,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.7 20V Turbo (64 Hp) (1994 - 1998)",
+              "hp": 64,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.7 16V (52 Hp) (1994 - 1998)",
+              "hp": 52,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-pajero-ii-v2wv4w": {
+          "label": "Mitsubishi Pajero II (V2_W,V4_W)",
+          "engines": [
+            {
+              "label": "3.5i MIVEC EVO (288 Hp) (1998 - 1999)",
+              "hp": 288,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.5 i V6 24V GDI (245 Hp) (1998 - 2000)",
+              "hp": 245,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.5 i V6 24V (208 Hp) Automatic (1994 - 2000)",
+              "hp": 208,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.5 i V6 24V (208 Hp) (1994 - 2000)",
+              "hp": 208,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.5 i V6 24V GLS (194 Hp) (1996 - 2000)",
+              "hp": 194,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 i V6 24V (181 Hp) Automatic (1996 - 2000)",
+              "hp": 181,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 i V6 24V (181 Hp) (1996 - 2000)",
+              "hp": 181,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 i V6 24V GLS (177 Hp) (1996 - 2000)",
+              "hp": 177,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 i V6 GLS (150 Hp) Automatic (1990 - 1999)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 i V6 GLS (150 Hp) (1990 - 1999)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.8 TD GLX (125 Hp) Automatic (1994 - 2000)",
+              "hp": 125,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.8 TD GLX (125 Hp) (1994 - 2000)",
+              "hp": 125,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 TD GL (99 Hp) (1991 - 1999)",
+              "hp": 99,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4i (147 Hp) (1991 - 1999)",
+              "hp": 147,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-pajero-ii-canvas-top-v2wv4w": {
+          "label": "Mitsubishi Pajero II Canvas Top (V2_W,V4_W)",
+          "engines": [
+            {
+              "label": "3.0 V6 24V (181 Hp) (1994 - 2000)",
+              "hp": 181,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 (V23W,v43W,V23C) (150 Hp) (1990 - 1995)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 TD (V24C,V24W) (99 Hp) (1990 - 2000)",
+              "hp": 99,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 (112 Hp) (1991 - 2000)",
+              "hp": 112,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 GDI (131 Hp) (1998 - 2000)",
+              "hp": 131,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-pajero-ii-metal-top-v2wv4w": {
+          "label": "Mitsubishi Pajero II Metal Top (V2_W,V4_W)",
+          "engines": [
+            {
+              "label": "3.5 i V6 24V GDI (245 Hp) (1998 - 2000)",
+              "hp": 245,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.5 i V6 24V (208 Hp) Automatic (1994 - 2000)",
+              "hp": 208,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.5 i V6 24V (208 Hp) (1994 - 2000)",
+              "hp": 208,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.5 i V6 24V GLS (194 Hp) (1997 - 2000)",
+              "hp": 194,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 i V6 24V GLS (177 Hp) (1996 - 2000)",
+              "hp": 177,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 i V6 24V GLS (150 Hp) Automatic (1990 - 1999)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 i V6 24V GLS (150 Hp) (1990 - 1999)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.8 TD GLS (125 Hp) (1994 - 2000)",
+              "hp": 125,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 TD GL (99 Hp) (1992 - 1999)",
+              "hp": 99,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-pajero-i-l04gl14g": {
+          "label": "Mitsubishi Pajero I (L04_G,L14_G)",
+          "engines": [
+            {
+              "label": "3.0 V6 (L141G,L146G) (141 Hp) (1988 - 1990)",
+              "hp": 141,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 TD (L044G,L049G) (95 Hp) (1989 - 1990)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 TD (L044G,L049G) (87 Hp) (1990 - 1991)",
+              "hp": 87,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-pajero-i-canvas-top-l04g": {
+          "label": "Mitsubishi Pajero I Canvas Top (L04_G)",
+          "engines": [
+            {
+              "label": "2.5 TD (L044G,L049G) (95 Hp) (1989 - 1990)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 TD (84 Hp) (1986 - 1989)",
+              "hp": 84,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 (L042G,L047G) (103 Hp) (1983 - 1990)",
+              "hp": 103,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.3 TD (L043G,L048G) (84 Hp) (1984 - 1986)",
+              "hp": 84,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "pajero-sport": {
+      "label": "Pajero Sport",
+      "series": {
+        "mitsubishi-pajero-sport-iii-facelift-2024": {
+          "label": "Mitsubishi Pajero Sport III (facelift 2024)",
+          "engines": [
+            {
+              "label": "GT 2.4 (184 Hp) Automatic",
+              "hp": 184,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-pajero-sport-iii-facelift-2019": {
+          "label": "Mitsubishi Pajero Sport III (facelift 2019)",
+          "engines": [
+            {
+              "label": "2.4 DI-D (181 Hp) Automatic (2019 - 2024)",
+              "hp": 181,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 DI-D (181 Hp) 4WD Automatic (2019 - 2024)",
+              "hp": 181,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-pajero-sport-iii": {
+          "label": "Mitsubishi Pajero Sport III",
+          "engines": [
+            {
+              "label": "3.0 V6 MIVEC (219 Hp) Automatic (2016 - 2019)",
+              "hp": 219,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 MIVEC (219 Hp) 4WD Automatic (2016 - 2019)",
+              "hp": 219,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 MIVEC (209 Hp) Automatic (2016 - 2019)",
+              "hp": 209,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 MIVEC (209 Hp) 4WD Automatic (2016 - 2019)",
+              "hp": 209,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 DI-D (136 Hp) Automatic (2016 - 2019)",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 DI-D (136 Hp) 4WD Automatic (2016 - 2019)",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 DI-D (136 Hp) 4WD (2016 - 2019)",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 DI-D (136 Hp) (2016 - 2019)",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 DI-D (181 Hp) Automatic (2016 - 2019)",
+              "hp": 181,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 DI-D (181 Hp) 4WD Automatic (2016 - 2019)",
+              "hp": 181,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 DI-D (181 Hp) 4WD (2016 - 2019)",
+              "hp": 181,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 DI-D (181 Hp) (2016 - 2019)",
+              "hp": 181,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-pajero-sport-ii": {
+          "label": "Mitsubishi Pajero Sport II",
+          "engines": [
+            {
+              "label": "3.2 TD (160 Hp) (2008 - 2015)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 (220 Hp) (2008 - 2015)",
+              "hp": 220,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-pajero-sport-i-k90": {
+          "label": "Mitsubishi Pajero Sport I (K90)",
+          "engines": [
+            {
+              "label": "3.0 i V6 24V (177 Hp) Automatic (1998 - 2008)",
+              "hp": 177,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 i V6 24V (177 Hp) (1998 - 2008)",
+              "hp": 177,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 i V6 24V (170 Hp) (2000 - 2008)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 TD (133 Hp) (2004 - 2008)",
+              "hp": 133,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 TD (115 Hp) (2000 - 2008)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 TD (99 Hp) (1998 - 2004)",
+              "hp": 99,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "pistachio": {
+      "label": "Pistachio",
+      "series": {
+        "mitsubishi-pistachio": {
+          "label": "Mitsubishi Pistachio",
+          "engines": [
+            {
+              "label": "1.1 GDI (74 Hp) (1999 - 2000)",
+              "hp": 74,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "proudia-dignity": {
+      "label": "Proudia/dignity",
+      "series": {
+        "mitsubishi-proudia-dignity": {
+          "label": "Mitsubishi Proudia/dignity",
+          "engines": [
+            {
+              "label": "4.5 32V (280 Hp) (1999 - 2001)",
+              "hp": 280,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.5 24V (241 Hp) (1999 - 2001)",
+              "hp": 241,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "raider": {
+      "label": "Raider",
+      "series": {
+        "mitsubishi-raider": {
+          "label": "Mitsubishi Raider",
+          "engines": [
+            {
+              "label": "3.7 LS V6 (210 Hp) Automatic (2006 - 2009)",
+              "hp": 210,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.7 LS V6 (210 Hp) (2006 - 2009)",
+              "hp": 210,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "rvr": {
+      "label": "RVR",
+      "series": {
+        "mitsubishi-rvr-n61w": {
+          "label": "Mitsubishi RVR (N61W)",
+          "engines": [
+            {
+              "label": "2.0 i 16V Turbo (230 Hp) (1997 - 2002)",
+              "hp": 230,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 i 16V GDI (150 Hp) (1997 - 2002)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 i 16V GDI (140 Hp) (1999 - 2002)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 i 16V (140 Hp) 4dr (1997 - 1999)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-rvr-e-n23w": {
+          "label": "Mitsubishi RVR (E-N23W)",
+          "engines": [
+            {
+              "label": "2.0 i 16V 4WD R (160 Hp) Automatic (1991 - 1997)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 i 16V 4WD R (160 Hp) (1991 - 1997)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 i 16V Z (120 Hp) Automatic (1991 - 1997)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 i 16V Z (120 Hp) (1991 - 1997)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 i 16V 4WD Z (120 Hp) (1991 - 1997)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "santamo": {
+      "label": "Santamo",
+      "series": {
+        "mitsubishi-santamo": {
+          "label": "Mitsubishi Santamo",
+          "engines": [
+            {
+              "label": "2.0 i 16V AWD (139 Hp) (1999 - 2004)",
+              "hp": 139,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 i 16V (139 Hp) Automatic (1999 - 2004)",
+              "hp": 139,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 i 16V (139 Hp) (1999 - 2004)",
+              "hp": 139,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "sapporo": {
+      "label": "Sapporo",
+      "series": {
+        "mitsubishi-sapporo-iii-e16a": {
+          "label": "Mitsubishi Sapporo III (E16A)",
+          "engines": [
+            {
+              "label": "2.3 (E16A) (124 Hp) (1987 - 1990)",
+              "hp": 124,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-sapporo-ii-a16a": {
+          "label": "Mitsubishi Sapporo II (A16_A)",
+          "engines": [
+            {
+              "label": "2.0 Turbo ECi (A164) (170 Hp) (1982 - 1983)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 GSR (A164A) (112 Hp) (1980 - 1984)",
+              "hp": 112,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 GSL (A164A) (102 Hp) (1980 - 1983)",
+              "hp": 102,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 GLX (A161A) (75 Hp) (1980 - 1984)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-sapporo-i-a12": {
+          "label": "Mitsubishi Sapporo I (A12_)",
+          "engines": [
+            {
+              "label": "2.0 (A123) (107 Hp) (1978 - 1980)",
+              "hp": 107,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (A123) (98 Hp) (1978 - 1980)",
+              "hp": 98,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (A123) (90 Hp) (1978 - 1980)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 SL,GL (A121) (75 Hp) (1978 - 1980)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "shogun": {
+      "label": "Shogun",
+      "series": {
+        "mitsubishi-shogun-iv-5-door-facelift-2014": {
+          "label": "Mitsubishi Shogun IV (5-door, facelift 2014)",
+          "engines": [
+            {
+              "label": "3.2 DI-D (187 Hp) Super Select 4WD INVECS-II (2014 - 2019)",
+              "hp": 187,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-shogun-iv-3-door-facelift-2014": {
+          "label": "Mitsubishi Shogun IV (3-door, facelift 2014)",
+          "engines": [
+            {
+              "label": "3.2 DI-D (187 Hp) Super Select 4WD INVECS-II (2014 - 2019)",
+              "hp": 187,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-shogun-iv-5-door-facelift-2011": {
+          "label": "Mitsubishi Shogun IV (5-door, facelift 2011)",
+          "engines": [
+            {
+              "label": "3.2 DI-D (197 Hp) Super Select 4WD INVECS-II (2011 - 2014)",
+              "hp": 197,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.2 DI-D (197 Hp) Super Select 4WD (2011 - 2014)",
+              "hp": 197,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-shogun-iv-3-door-facelift-2011": {
+          "label": "Mitsubishi Shogun IV (3-door, facelift 2011)",
+          "engines": [
+            {
+              "label": "3.2 DI-D (197 Hp) Super Select 4WD INVECS-II (2011 - 2014)",
+              "hp": 197,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.2 DI-D (197 Hp) Super Select 4WD (2011 - 2014)",
+              "hp": 197,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-shogun-iv-5-door": {
+          "label": "Mitsubishi Shogun IV (5-door)",
+          "engines": [
+            {
+              "label": "Keine exakte Motorliste verfügbar – bitte genaue Motorisierung im Freitext angeben"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "sigma": {
+      "label": "Sigma",
+      "series": {
+        "mitsubishi-sigma-station-wagon-f07w": {
+          "label": "Mitsubishi Sigma Station Wagon (F07W)",
+          "engines": [
+            {
+              "label": "3.0 V6 (177 Hp) Automatic (1993 - 1996)",
+              "hp": 177,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 (170 Hp) (1993 - 1996)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-sigma-f16a": {
+          "label": "Mitsubishi Sigma (F16A)",
+          "engines": [
+            {
+              "label": "3.0 V6 (205 Hp) Automatic (1990 - 1996)",
+              "hp": 205,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 (205 Hp) (1990 - 1996)",
+              "hp": 205,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 (177 Hp) Automatic (1990 - 1996)",
+              "hp": 177,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 (177 Hp) (1990 - 1996)",
+              "hp": 177,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "space-gear": {
+      "label": "Space Gear",
+      "series": {
+        "mitsubishi-space-gear-pa0": {
+          "label": "Mitsubishi Space Gear (PA0)",
+          "engines": [
+            {
+              "label": "3.0 i V6 24V 4WD (185 Hp) (1996 - 2000)",
+              "hp": 185,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.8 TDI 4WD X (125 Hp) (1996 - 2000)",
+              "hp": 125,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.5 TD 4WD (99 Hp) (1997 - 2002)",
+              "hp": 99,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 TD (99 Hp) (1995 - 1996)",
+              "hp": 99,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 i 16V GL 4WD (128 Hp) (1997 - 2007)",
+              "hp": 128,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 i 16V GL (113 Hp) (1997 - 2000)",
+              "hp": 113,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "space-runner": {
+      "label": "Space Runner",
+      "series": {
+        "mitsubishi-space-runner-n50": {
+          "label": "Mitsubishi Space Runner (N50)",
+          "engines": [
+            {
+              "label": "2.4 GDI (150 Hp) (1999 - 2002)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (136 Hp) (1999 - 2002)",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-space-runner-n1wn2w": {
+          "label": "Mitsubishi Space Runner (N1_W,N2_W)",
+          "engines": [
+            {
+              "label": "2.0 TD GLX (82 Hp) (1992 - 1999)",
+              "hp": 82,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 16V (133 Hp) (1997 - 1999)",
+              "hp": 133,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 4x4 (N21W) (122 Hp) (1991 - 1999)",
+              "hp": 122,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 (N11W) (122 Hp) Automatic (1991 - 1999)",
+              "hp": 122,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 (N11W) (122 Hp) (1991 - 1999)",
+              "hp": 122,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "space-star": {
+      "label": "Space Star",
+      "series": {
+        "mitsubishi-space-star-facelift-2019": {
+          "label": "Mitsubishi Space Star (facelift 2019)",
+          "engines": [
+            {
+              "label": "1.2 MIVEC (80 Hp) CVT",
+              "hp": 80,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 MIVEC (80 Hp)",
+              "hp": 80,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 MIVEC (71 Hp)",
+              "hp": 71,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-space-star-facelift-2015": {
+          "label": "Mitsubishi Space Star (facelift 2015)",
+          "engines": [
+            {
+              "label": "1.2 MIVEC (80 Hp) CLEARTEC CVT (2015 - 2019)",
+              "hp": 80,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 MIVEC (80 Hp) CLEARTEC (2015 - 2019)",
+              "hp": 80,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 MIVEC (71 Hp) CLEARTEC (2015 - 2019)",
+              "hp": 71,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 MIVEC (71 Hp) (2015 - 2019)",
+              "hp": 71,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-space-star-2012": {
+          "label": "Mitsubishi Space Star (2012)",
+          "engines": [
+            {
+              "label": "1.2 (80 Hp) CVT (2013 - 2015)",
+              "hp": 80,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 (80 Hp) (2013 - 2015)",
+              "hp": 80,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 (71 Hp) (2013 - 2015)",
+              "hp": 71,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-space-star-dg0": {
+          "label": "Mitsubishi Space Star (DG0)",
+          "engines": [
+            {
+              "label": "1.9 DI-D (115 Hp) (2001 - 2004)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 DI-D (102 Hp) (2001 - 2004)",
+              "hp": 102,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 GDI (122 Hp) Automatic (1998 - 2004)",
+              "hp": 122,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 GDI (122 Hp) (1998 - 2004)",
+              "hp": 122,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 16V (112 Hp) Automatic (1998 - 2004)",
+              "hp": 112,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 16V (112 Hp) (1998 - 2004)",
+              "hp": 112,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (98 Hp) Automatic (2001 - 2004)",
+              "hp": 98,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (98 Hp) (2001 - 2004)",
+              "hp": 98,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 16V (86 Hp) (1998 - 2000)",
+              "hp": 86,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 16V (82 Hp) (1998 - 2000)",
+              "hp": 82,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "space-wagon": {
+      "label": "Space Wagon",
+      "series": {
+        "mitsubishi-space-wagon-iii": {
+          "label": "Mitsubishi Space Wagon III",
+          "engines": [
+            {
+              "label": "3.0 GDi 24V 4X4 (215 Hp) (1998 - 2004)",
+              "hp": 215,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 GDi 24V (215 Hp) (1998 - 2004)",
+              "hp": 215,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 GDi (165 Hp) Automatic (1998 - 2004)",
+              "hp": 165,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 GDi (165 Hp) (1998 - 2004)",
+              "hp": 165,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 GDI 4x4 (150 Hp) (1998 - 2002)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 GDI (150 Hp) (1998 - 2002)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 GDi 16V 4X4 (147 Hp) Automatic (1998 - 2004)",
+              "hp": 147,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 GDi 16V 4X4 (147 Hp) (1998 - 2004)",
+              "hp": 147,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 GDi 16V (147 Hp) Automatic (1998 - 2003)",
+              "hp": 147,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 GDi 16V (147 Hp) (1998 - 2003)",
+              "hp": 147,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 i 16V (133 Hp) (2002 - 2004)",
+              "hp": 133,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-space-wagon-ii": {
+          "label": "Mitsubishi Space Wagon II",
+          "engines": [
+            {
+              "label": "2.0 TD GLX (N38W) (82 Hp) (1992 - 1998)",
+              "hp": 82,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 GLXi 4x4 (N43W) (133 Hp) Automatic (1992 - 1998)",
+              "hp": 133,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 GLXi 4x4 (N43W) (133 Hp) (1992 - 1998)",
+              "hp": 133,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 GLXi (N33W) (133 Hp) Automatic (1992 - 1998)",
+              "hp": 133,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 GLXi (N33W) (133 Hp) (1992 - 1998)",
+              "hp": 133,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 TD (N35W) (75 Hp) (1991 - 1998)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 4x4 (N41W) (122 Hp) (1991 - 1998)",
+              "hp": 122,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 (N31W) (122 Hp) (1991 - 1998)",
+              "hp": 122,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-space-wagon-i": {
+          "label": "Mitsubishi Space Wagon I",
+          "engines": [
+            {
+              "label": "2.0 GLXi 4x4 (D08W) (101 Hp) (1988 - 1991)",
+              "hp": 101,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 GLXi (D04W) (101 Hp) (1988 - 1991)",
+              "hp": 101,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 GLX 4x4 (D08W) (84 Hp) (1986 - 1988)",
+              "hp": 84,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 GLX (D04W) (84 Hp) (1986 - 1988)",
+              "hp": 84,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 4x4 (D08W) (102 Hp) (1985 - 1991)",
+              "hp": 102,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 TD (D09W) (75 Hp) (1986 - 1991)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 GLX (D05V) (90 Hp) (1984 - 1988)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 4x4 (90 Hp) (1987 - 1988)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "starion": {
+      "label": "Starion",
+      "series": {
+        "mitsubishi-starion-a18a": {
+          "label": "Mitsubishi Starion (A18_A)",
+          "engines": [
+            {
+              "label": "2.6 Turbo ECi (A187A) (155 Hp) (1987 - 1990)",
+              "hp": 155,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Turbo ECi (A183A) (180 Hp) (1985 - 1987)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Turbo ECi (A183A) (170 Hp) (1982 - 1985)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "toppo": {
+      "label": "Toppo",
+      "series": {
+        "mitsubishi-toppo-bj": {
+          "label": "Mitsubishi Toppo (BJ)",
+          "engines": [
+            {
+              "label": "0.7 i 20V (64 Hp) (2000 - 2004)",
+              "hp": 64,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.7 i 12V 4WD (50 Hp) (2000 - 2004)",
+              "hp": 50,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.7 i 12V (50 Hp) (2000 - 2004)",
+              "hp": 50,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-toppo": {
+          "label": "Mitsubishi Toppo",
+          "engines": [
+            {
+              "label": "659 Rt (64 Hp) Automatic (1990 - 1999)",
+              "hp": 64
+            },
+            {
+              "label": "659 Rt (64 Hp) (1990 - 1999)",
+              "hp": 64
+            },
+            {
+              "label": "659 R-4WD (55 Hp) Automatic (1990 - 1999)",
+              "hp": 55
+            },
+            {
+              "label": "659 R-4WD (55 Hp) (1990 - 1999)",
+              "hp": 55
+            },
+            {
+              "label": "657 U (40 Hp) Automatic (1990 - 1999)",
+              "hp": 40
+            },
+            {
+              "label": "657 U (40 Hp) (1990 - 1999)",
+              "hp": 40
+            },
+            {
+              "label": "657 B (40 Hp) Automatic (1990 - 1999)",
+              "hp": 40
+            },
+            {
+              "label": "657 B (40 Hp) (1990 - 1999)",
+              "hp": 40
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "town-box": {
+      "label": "Town BOX",
+      "series": {
+        "mitsubishi-town-box": {
+          "label": "Mitsubishi Town Box",
+          "engines": [
+            {
+              "label": "0.7 i 20V RX (64 Hp) (1999 - 2011)",
+              "hp": 64,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.7 i 20V 4WD RX (64 Hp) (1999 - 2011)",
+              "hp": 64,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.7 i 12V LX (48 Hp) (1999 - 2011)",
+              "hp": 48,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "tredia": {
+      "label": "Tredia",
+      "series": {
+        "mitsubishi-tredia-a21": {
+          "label": "Mitsubishi Tredia (A21_)",
+          "engines": [
+            {
+              "label": "GLS 1.6 (A212) (75 Hp) (1982 - 1987)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1600 Turbo (114 Hp) (1982 - 1985)",
+              "hp": 114
+            },
+            {
+              "label": "1400 GLX (A211) (70 Hp) (1982 - 1985)",
+              "hp": 70
+            },
+            {
+              "label": "1.8 Turbo (136 Hp) (1984 - 1986)",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 GLS (A215) (90 Hp) (1984 - 1986)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 Turbo (A212) (116 Hp) (1982 - 1984)",
+              "hp": 116,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "triton": {
+      "label": "Triton",
+      "series": {
+        "mitsubishi-triton-vi-double-cab": {
+          "label": "Mitsubishi Triton VI Double Cab",
+          "engines": [
+            {
+              "label": "GSR 2.4 (204 Hp) 4WD Automatic",
+              "hp": 204,
+              "fuel": "benzin"
+            },
+            {
+              "label": "GLS 2.4 (204 Hp) 4WD Automatic",
+              "hp": 204,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 Hyper Power (184 Hp) Automatic",
+              "hp": 184,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 Hyper Power (184 Hp) 4WD",
+              "hp": 184,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 Hyper Power (184 Hp)",
+              "hp": 184,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-triton-vi-single-cab": {
+          "label": "Mitsubishi Triton VI Single Cab",
+          "engines": [
+            {
+              "label": "2.4 Hyper Power (184 Hp) 4WD Automatic",
+              "hp": 184,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 Hyper Power (184 Hp) 4WD",
+              "hp": 184,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-triton-v-double-cab-pick-up-facelift-2019": {
+          "label": "Mitsubishi Triton V Double Cab Pick Up (facelift 2019)",
+          "engines": [
+            {
+              "label": "Quest 2.5L (110 Hp) (2019 - 2023)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4L D4 (181 Hp) Automatic (2019 - 2023)",
+              "hp": 181,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4L D4 (181 Hp) 4WD Automatic (2019 - 2023)",
+              "hp": 181,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4L D4 (181 Hp) 4WD (2019 - 2023)",
+              "hp": 181,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-triton-v-club-cab-pick-up-facelift-2019": {
+          "label": "Mitsubishi Triton V Club Cab Pick Up (facelift 2019)",
+          "engines": [
+            {
+              "label": "2.4L D4 (181 Hp) 4WD Automatic (2019 - 2023)",
+              "hp": 181,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-triton-v-double-cab-chassis-facelift-2019": {
+          "label": "Mitsubishi Triton V Double Cab Chassis (facelift 2019)",
+          "engines": [
+            {
+              "label": "2.4L D4 (181 Hp) 4WD Automatic (2019 - 2023)",
+              "hp": 181,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4L D4 (181 Hp) 4WD (2019 - 2023)",
+              "hp": 181,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-triton-v-single-cab-chassis-facelift-2019": {
+          "label": "Mitsubishi Triton V Single Cab Chassis (facelift 2019)",
+          "engines": [
+            {
+              "label": "2.4L S4 (128 Hp) (2019 - 2023)",
+              "hp": 128,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4L D4 (181 Hp) 4WD Automatic (2019 - 2023)",
+              "hp": 181,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4L D4 (181 Hp) 4WD (2019 - 2023)",
+              "hp": 181,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4L D4 (181 Hp) (2019 - 2023)",
+              "hp": 181,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-triton-v-club-cab-chassis-facelift-2019": {
+          "label": "Mitsubishi Triton V Club Cab Chassis (facelift 2019)",
+          "engines": [
+            {
+              "label": "2.4L D4 (181 Hp) 4WD Automatic (2019 - 2023)",
+              "hp": 181,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4L D4 (181 Hp) 4WD (2019 - 2023)",
+              "hp": 181,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-triton-v": {
+          "label": "Mitsubishi Triton V",
+          "engines": [
+            {
+              "label": "2.5 DI-D (178 Hp) 4WD Automatic (2015 - 2018)",
+              "hp": 178,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 DI-D (178 Hp) 4WD (2015 - 2018)",
+              "hp": 178,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 DI-D (136 Hp) 4WD (2015 - 2018)",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 DI-D (110 Hp) (2015 - 2018)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "xforce": {
+      "label": "Xforce",
+      "series": {
+        "mitsubishi-xforce": {
+          "label": "Mitsubishi Xforce",
+          "engines": [
+            {
+              "label": "1.5 MIVEC (105 Hp) CVT",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "xpander": {
+      "label": "Xpander",
+      "series": {
+        "mitsubishi-xpander-cross-facelift-2025": {
+          "label": "Mitsubishi Xpander Cross (facelift 2025)",
+          "engines": [
+            {
+              "label": "1.5 MIVEC (105 Hp) CVT",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 MIVEC (105 Hp) Automatic",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 MIVEC (105 Hp)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-xpander-cross-facelift-2022": {
+          "label": "Mitsubishi Xpander Cross (facelift 2022)",
+          "engines": [
+            {
+              "label": "1.5 MIVEC (105 Hp) Automatic (2022 - 2025)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 MIVEC (105 Hp) (2022 - 2025)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-xpander-facelift-2021": {
+          "label": "Mitsubishi Xpander (facelift 2021)",
+          "engines": [
+            {
+              "label": "1.5 MIVEC (105 Hp) CVT",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 MIVEC (105 Hp)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-xpander-cross": {
+          "label": "Mitsubishi Xpander Cross",
+          "engines": [
+            {
+              "label": "1.5 MIVEC (105 Hp) Automatic (2019 - 2022)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 MIVEC (105 Hp) (2019 - 2022)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mitsubishi-xpander": {
+          "label": "Mitsubishi Xpander",
+          "engines": [
+            {
+              "label": "1.5 MIVEC (105 Hp) Automatic (2017 - 2021)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 MIVEC (105 Hp) (2017 - 2021)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

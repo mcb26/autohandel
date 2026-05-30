@@ -1,0 +1,22 @@
+[
+  {
+    "label": "M240i Cabrio Aut. (Benzin, 340 PS) M240i xDrive Cabrio Aut. (Benzin, 340 PS) M240i Coupe Aut. (Benzin, 340 PS)",
+    "fuel": "benzin",
+    "hp": 340
+  },
+  {
+    "label": "M240i Cabrio Aut. (Benzin, 340 PS)",
+    "fuel": "benzin",
+    "hp": 340
+  },
+  {
+    "label": "M240i xDrive Cabrio Aut. (Benzin, 340 PS)",
+    "fuel": "benzin",
+    "hp": 340
+  },
+  {
+    "label": "M240i Coupe Aut. (Benzin, 340 PS)",
+    "fuel": "benzin",
+    "hp": 340
+  }
+]

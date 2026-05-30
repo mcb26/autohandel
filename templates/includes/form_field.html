@@ -1,0 +1,37 @@
+{% if field.field.widget.input_type == "checkbox" %}
+    <div class="col-12{% if field.errors and not field.value %} is-field-invalid{% endif %}">
+        <div class="form-check">
+            {{ field }}
+            <label class="form-check-label" for="{{ field.id_for_label }}">{{ field.label }}</label>
+        </div>
+        {% if field.errors and not field.value %}
+            <div class="field-error-message" role="alert">
+                {% for error in field.errors %}<div>{{ error }}</div>{% endfor %}
+            </div>
+        {% endif %}
+    </div>
+{% else %}
+    <div class="{% if col_class %}{{ col_class }}{% elif field.name == 'message' %}col-12{% else %}col-md-6{% endif %}{% if field.errors %} is-field-invalid{% endif %}">
+        <div class="field-wrap{% if field.field.widget.input_type == 'select' %} field-wrap-select{% endif %}{% if field.name == 'images' %} images-upload-wrap{% endif %}">
+            <label class="form-label" for="{{ field.id_for_label }}">{{ field.label }}</label>
+            {% if field.name == "images" %}
+                {{ field }}
+                <div id="images-dropzone" class="images-dropzone" tabindex="0" role="button" aria-label="{{ field.label }}: Bilder auswählen oder ablegen">
+                    <span class="images-dropzone-title">Bilder auswählen oder hierher ziehen</span>
+                    <span class="images-dropzone-hint">Mehrere Fotos möglich · max. 10 · je max. 8 MB</span>
+                </div>
+                <div id="images-selected-list" class="images-selected-list" aria-live="polite"></div>
+            {% else %}
+                {{ field }}
+                {% if field.help_text %}
+                    <div class="form-text text-muted" id="{{ field.id_for_label }}_help">{{ field.help_text }}</div>
+                {% endif %}
+            {% endif %}
+            {% if field.errors %}
+                <div class="field-error-message" role="alert">
+                    {% for error in field.errors %}<div>{{ error }}</div>{% endfor %}
+                </div>
+            {% endif %}
+        </div>
+    </div>
+{% endif %}

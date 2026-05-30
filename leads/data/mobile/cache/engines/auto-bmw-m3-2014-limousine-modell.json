@@ -1,0 +1,32 @@
+[
+  {
+    "label": "Motorisierungsvariante Technische Daten und Motorisierung M3 DKG (Benzin, 431 PS) M3 (Benzin, 431 PS) M3 DKG (Benzin, 450 PS) M3 (Benzin, 450 PS)",
+    "fuel": "benzin",
+    "hp": 450
+  },
+  {
+    "label": "M3 DKG (Benzin, 431 PS) M3 (Benzin, 431 PS) M3 DKG (Benzin, 450 PS) M3 (Benzin, 450 PS)",
+    "fuel": "benzin",
+    "hp": 450
+  },
+  {
+    "label": "M3 DKG (Benzin, 431 PS)",
+    "fuel": "benzin",
+    "hp": 431
+  },
+  {
+    "label": "M3 (Benzin, 431 PS)",
+    "fuel": "benzin",
+    "hp": 431
+  },
+  {
+    "label": "M3 DKG (Benzin, 450 PS)",
+    "fuel": "benzin",
+    "hp": 450
+  },
+  {
+    "label": "M3 (Benzin, 450 PS)",
+    "fuel": "benzin",
+    "hp": 450
+  }
+]

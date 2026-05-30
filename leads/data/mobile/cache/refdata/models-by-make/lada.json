@@ -1,0 +1,107 @@
+[
+  {
+    "name": "110",
+    "description": "110",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LADA/model/110"
+  },
+  {
+    "name": "111",
+    "description": "111",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LADA/model/111"
+  },
+  {
+    "name": "112",
+    "description": "112",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LADA/model/112"
+  },
+  {
+    "name": "1200",
+    "description": "1200",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LADA/model/1200"
+  },
+  {
+    "name": "2107",
+    "description": "2107",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LADA/model/2107"
+  },
+  {
+    "name": "2110",
+    "description": "2110",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LADA/model/2110"
+  },
+  {
+    "name": "2111",
+    "description": "2111",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LADA/model/2111"
+  },
+  {
+    "name": "2112",
+    "description": "2112",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LADA/model/2112"
+  },
+  {
+    "name": "Aleko",
+    "description": "Aleko",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LADA/model/Aleko"
+  },
+  {
+    "name": "Forma",
+    "description": "Forma",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LADA/model/Forma"
+  },
+  {
+    "name": "Granta",
+    "description": "Granta",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LADA/model/Granta"
+  },
+  {
+    "name": "Kalina",
+    "description": "Kalina",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LADA/model/Kalina"
+  },
+  {
+    "name": "Niva",
+    "description": "Niva",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LADA/model/Niva"
+  },
+  {
+    "name": "Nova",
+    "description": "Nova",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LADA/model/Nova"
+  },
+  {
+    "name": "Priora",
+    "description": "Priora",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LADA/model/Priora"
+  },
+  {
+    "name": "Samara",
+    "description": "Samara",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LADA/model/Samara"
+  },
+  {
+    "name": "Taiga",
+    "description": "Taiga",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LADA/model/Taiga"
+  },
+  {
+    "name": "Urban",
+    "description": "Urban",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LADA/model/Urban"
+  },
+  {
+    "name": "Vesta",
+    "description": "Vesta",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LADA/model/Vesta"
+  },
+  {
+    "name": "X-Ray",
+    "description": "X-Ray",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LADA/model/X-Ray"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LADA/model/ANDERE"
+  }
+]

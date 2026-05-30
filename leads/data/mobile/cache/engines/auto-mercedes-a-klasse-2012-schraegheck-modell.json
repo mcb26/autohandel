@@ -1,0 +1,252 @@
+[
+  {
+    "label": "A 160 7G-DCT (Benzin, 102 PS)",
+    "fuel": "benzin",
+    "hp": 102
+  },
+  {
+    "label": "A 160 (Benzin, 102 PS)",
+    "fuel": "benzin",
+    "hp": 102
+  },
+  {
+    "label": "A 180 7G-DCT (Benzin, 122 PS)",
+    "fuel": "benzin",
+    "hp": 122
+  },
+  {
+    "label": "A 180 (BlueEFFICIENCY) 7G-DCT (Benzin, 122 PS)",
+    "fuel": "blueefficiency) 7g-dct (benzin",
+    "hp": 122
+  },
+  {
+    "label": "A 180 (Benzin, 122 PS)",
+    "fuel": "benzin",
+    "hp": 122
+  },
+  {
+    "label": "A 180 (BlueEFFICIENCY) (Benzin, 122 PS)",
+    "fuel": "blueefficiency) (benzin",
+    "hp": 122
+  },
+  {
+    "label": "A 180 BlueEFFICIENCY (Benzin, 122 PS)",
+    "fuel": "benzin",
+    "hp": 122
+  },
+  {
+    "label": "A 200 7G-DCT (Benzin, 156 PS)",
+    "fuel": "benzin",
+    "hp": 156
+  },
+  {
+    "label": "A 200 (BlueEFFICIENCY) 7G-DCT (Benzin, 156 PS)",
+    "fuel": "blueefficiency) 7g-dct (benzin",
+    "hp": 156
+  },
+  {
+    "label": "A 200 (Benzin, 156 PS)",
+    "fuel": "benzin",
+    "hp": 156
+  },
+  {
+    "label": "A 200 (BlueEFFICIENCY) (Benzin, 156 PS)",
+    "fuel": "blueefficiency) (benzin",
+    "hp": 156
+  },
+  {
+    "label": "A 220 4Matic 7G-DCT (Benzin, 184 PS)",
+    "fuel": "benzin",
+    "hp": 184
+  },
+  {
+    "label": "A 250 4Matic 7G-DCT (Benzin, 211 PS)",
+    "fuel": "benzin",
+    "hp": 211
+  },
+  {
+    "label": "A 250 7G-DCT (Benzin, 211 PS)",
+    "fuel": "benzin",
+    "hp": 211
+  },
+  {
+    "label": "A 250 (BlueEFFICIENCY) 7G-DCT (Benzin, 211 PS)",
+    "fuel": "blueefficiency) 7g-dct (benzin",
+    "hp": 211
+  },
+  {
+    "label": "A 250 Sport 4Matic 7G-DCT (Benzin, 211 PS)",
+    "fuel": "benzin",
+    "hp": 211
+  },
+  {
+    "label": "A 250 Sport 7G-DCT (Benzin, 211 PS)",
+    "fuel": "benzin",
+    "hp": 211
+  },
+  {
+    "label": "A 250 (Benzin, 211 PS)",
+    "fuel": "benzin",
+    "hp": 211
+  },
+  {
+    "label": "A 250 Sport 4Matic 7G-DCT (Benzin, 218 PS)",
+    "fuel": "benzin",
+    "hp": 218
+  },
+  {
+    "label": "A 250 Sport 7G-DCT (Benzin, 218 PS)",
+    "fuel": "benzin",
+    "hp": 218
+  },
+  {
+    "label": "A 250 Sport (Benzin, 218 PS)",
+    "fuel": "benzin",
+    "hp": 218
+  },
+  {
+    "label": "A 45 AMG 4Matic AMG Speedshift 7G-DCT (Benzin, 360 PS)",
+    "fuel": "benzin",
+    "hp": 360
+  },
+  {
+    "label": "AMG A 45 4Matic AMG Speedshift 7G-DCT (Benzin, 381 PS)",
+    "fuel": "benzin",
+    "hp": 381
+  },
+  {
+    "label": "A 160 d 7G-DCT (Diesel, 90 PS)",
+    "fuel": "diesel",
+    "hp": 90
+  },
+  {
+    "label": "A 160 CDI 7G-DCT (Diesel, 90 PS)",
+    "fuel": "diesel",
+    "hp": 90
+  },
+  {
+    "label": "A 160 d (Diesel, 90 PS)",
+    "fuel": "diesel",
+    "hp": 90
+  },
+  {
+    "label": "A 160 CDI (Diesel, 90 PS)",
+    "fuel": "diesel",
+    "hp": 90
+  },
+  {
+    "label": "A 180 d 7G-DCT (Diesel, 109 PS)",
+    "fuel": "diesel",
+    "hp": 109
+  },
+  {
+    "label": "A 180 CDI 7G-DCT (Diesel, 109 PS)",
+    "fuel": "diesel",
+    "hp": 109
+  },
+  {
+    "label": "A 180 CDI (BlueEFFICIENCY) 7G-DCT (Diesel, 109 PS)",
+    "fuel": "blueefficiency) 7g-dct (diesel",
+    "hp": 109
+  },
+  {
+    "label": "A 180 CDI 7G DCT (Diesel, 109 PS)",
+    "fuel": "diesel",
+    "hp": 109
+  },
+  {
+    "label": "A 180 d 7G DCT (Diesel, 109 PS)",
+    "fuel": "diesel",
+    "hp": 109
+  },
+  {
+    "label": "A 180 d (Diesel, 109 PS)",
+    "fuel": "diesel",
+    "hp": 109
+  },
+  {
+    "label": "A 180 CDI (BlueEFFICIENCY) (Diesel, 109 PS)",
+    "fuel": "blueefficiency) (diesel",
+    "hp": 109
+  },
+  {
+    "label": "A 180 CDI (Diesel, 109 PS)",
+    "fuel": "diesel",
+    "hp": 109
+  },
+  {
+    "label": "A 180 CDI BlueEFFICIENCY (Diesel, 109 PS)",
+    "fuel": "diesel",
+    "hp": 109
+  },
+  {
+    "label": "A 180 d BlueEFFICIENCY (Diesel, 109 PS)",
+    "fuel": "diesel",
+    "hp": 109
+  },
+  {
+    "label": "A 200 d 4Matic 7G-DCT (Diesel, 136 PS)",
+    "fuel": "diesel",
+    "hp": 136
+  },
+  {
+    "label": "A 200 d 7G-DCT (Diesel, 136 PS)",
+    "fuel": "diesel",
+    "hp": 136
+  },
+  {
+    "label": "A 200 CDI 4Matic 7G-DCT (Diesel, 136 PS)",
+    "fuel": "diesel",
+    "hp": 136
+  },
+  {
+    "label": "A 200 CDI 7G-DCT (Diesel, 136 PS)",
+    "fuel": "diesel",
+    "hp": 136
+  },
+  {
+    "label": "A 200 CDI (BlueEFFICIENCY) 7G-DCT (Diesel, 136 PS)",
+    "fuel": "blueefficiency) 7g-dct (diesel",
+    "hp": 136
+  },
+  {
+    "label": "A 200 d (Diesel, 136 PS)",
+    "fuel": "diesel",
+    "hp": 136
+  },
+  {
+    "label": "A 200 CDI (Diesel, 136 PS)",
+    "fuel": "diesel",
+    "hp": 136
+  },
+  {
+    "label": "A 200 CDI (BlueEFFICIENCY) (Diesel, 136 PS)",
+    "fuel": "blueefficiency) (diesel",
+    "hp": 136
+  },
+  {
+    "label": "A 220 CDI 4Matic 7G-DCT (Diesel, 170 PS)",
+    "fuel": "diesel",
+    "hp": 170
+  },
+  {
+    "label": "A 220 CDI (BlueEFFICIENCY) 7G-DCT (Diesel, 170 PS)",
+    "fuel": "blueefficiency) 7g-dct (diesel",
+    "hp": 170
+  },
+  {
+    "label": "A 220 CDI 7G-DCT (Diesel, 170 PS)",
+    "fuel": "diesel",
+    "hp": 170
+  },
+  {
+    "label": "A 220 d 4Matic 7G-DCT (Diesel, 177 PS)",
+    "fuel": "diesel",
+    "hp": 177
+  },
+  {
+    "label": "A 220 d 7G-DCT (Diesel, 177 PS)",
+    "fuel": "diesel",
+    "hp": 177
+  }
+]

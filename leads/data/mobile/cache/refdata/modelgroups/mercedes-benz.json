@@ -1,0 +1,142 @@
+[
+  {
+    "name": "A-Klasse",
+    "description": "A-Klasse",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/A-Klasse"
+  },
+  {
+    "name": "B-Klasse",
+    "description": "B-Klasse",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/B-Klasse"
+  },
+  {
+    "name": "C-Klasse",
+    "description": "C-Klasse",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/C-Klasse"
+  },
+  {
+    "name": "CE-Klasse",
+    "description": "CE-Klasse",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/CE-Klasse"
+  },
+  {
+    "name": "CL-Klasse",
+    "description": "CL-Klasse",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/CL-Klasse"
+  },
+  {
+    "name": "CLA-Klasse",
+    "description": "CLA-Klasse",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/CLA-Klasse"
+  },
+  {
+    "name": "CLC-Klasse",
+    "description": "CLC-Klasse",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/CLC-Klasse"
+  },
+  {
+    "name": "CLE-Klasse",
+    "description": "CLE-Klasse",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/CLE-Klasse"
+  },
+  {
+    "name": "CLK-Klasse",
+    "description": "CLK-Klasse",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/CLK-Klasse"
+  },
+  {
+    "name": "CLS-Klasse",
+    "description": "CLS-Klasse",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/CLS-Klasse"
+  },
+  {
+    "name": "E-Klasse",
+    "description": "E-Klasse",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/E-Klasse"
+  },
+  {
+    "name": "G-Klasse",
+    "description": "G-Klasse",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/G-Klasse"
+  },
+  {
+    "name": "GL-Klasse",
+    "description": "GL-Klasse",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/GL-Klasse"
+  },
+  {
+    "name": "GLA-Klasse",
+    "description": "GLA-Klasse",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/GLA-Klasse"
+  },
+  {
+    "name": "GLB-Klasse",
+    "description": "GLB-Klasse",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/GLB-Klasse"
+  },
+  {
+    "name": "GLC-Klasse",
+    "description": "GLC-Klasse",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/GLC-Klasse"
+  },
+  {
+    "name": "GLE-Klasse",
+    "description": "GLE-Klasse",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/GLE-Klasse"
+  },
+  {
+    "name": "GLK-Klasse",
+    "description": "GLK-Klasse",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/GLK-Klasse"
+  },
+  {
+    "name": "GLS-Klasse",
+    "description": "GLS-Klasse",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/GLS-Klasse"
+  },
+  {
+    "name": "GT-Klasse",
+    "description": "GT-Klasse",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/GT-Klasse"
+  },
+  {
+    "name": "ML-Klasse",
+    "description": "ML-Klasse",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/ML-Klasse"
+  },
+  {
+    "name": "R-Klasse",
+    "description": "R-Klasse",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/R-Klasse"
+  },
+  {
+    "name": "S-Klasse",
+    "description": "S-Klasse",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/S-Klasse"
+  },
+  {
+    "name": "SL-Klasse",
+    "description": "SL-Klasse",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/SL-Klasse"
+  },
+  {
+    "name": "SLC-Klasse",
+    "description": "SLC-Klasse",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/SLC-Klasse"
+  },
+  {
+    "name": "SLK-Klasse",
+    "description": "SLK-Klasse",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/SLK-Klasse"
+  },
+  {
+    "name": "V-Klasse",
+    "description": "V-Klasse",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/V-Klasse"
+  },
+  {
+    "name": "X-Klasse",
+    "description": "X-Klasse",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/X-Klasse"
+  }
+]

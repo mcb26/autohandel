@@ -1,0 +1,17 @@
+[
+  {
+    "name": "T10F",
+    "description": "T10F",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/TOGG/model/T10F"
+  },
+  {
+    "name": "T10X",
+    "description": "T10X",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/TOGG/model/T10X"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/TOGG/model/ANDERE"
+  }
+]

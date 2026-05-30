@@ -1,0 +1,67 @@
+[
+  {
+    "name": "1000",
+    "description": "1000",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/modelgroups/MINI_ALL/models/1000"
+  },
+  {
+    "name": "1300",
+    "description": "1300",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/modelgroups/MINI_ALL/models/1300"
+  },
+  {
+    "name": "COOPER",
+    "description": "Cooper",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/modelgroups/MINI_ALL/models/COOPER"
+  },
+  {
+    "name": "COOPER SE",
+    "description": "Cooper SE",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/modelgroups/MINI_ALL/models/COOPER%20SE"
+  },
+  {
+    "name": "COOPER_D",
+    "description": "Cooper D",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/modelgroups/MINI_ALL/models/COOPER_D"
+  },
+  {
+    "name": "COOPER_S",
+    "description": "Cooper S",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/modelgroups/MINI_ALL/models/COOPER_S"
+  },
+  {
+    "name": "COOPER_SD",
+    "description": "Cooper SD",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/modelgroups/MINI_ALL/models/COOPER_SD"
+  },
+  {
+    "name": "Cooper C",
+    "description": "Cooper C",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/modelgroups/MINI_ALL/models/Cooper%20C"
+  },
+  {
+    "name": "Cooper E",
+    "description": "Cooper E",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/modelgroups/MINI_ALL/models/Cooper%20E"
+  },
+  {
+    "name": "JOHN_COOPER_WORKS",
+    "description": "John Cooper Works",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/modelgroups/MINI_ALL/models/JOHN_COOPER_WORKS"
+  },
+  {
+    "name": "ONE",
+    "description": "ONE",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/modelgroups/MINI_ALL/models/ONE"
+  },
+  {
+    "name": "ONE_D",
+    "description": "One D",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/modelgroups/MINI_ALL/models/ONE_D"
+  },
+  {
+    "name": "ONE_FIRST",
+    "description": "One First",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/modelgroups/MINI_ALL/models/ONE_FIRST"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "label": "Bus VW ID. Buzz (EB) 2023 - Heute",
+    "href": "https://www.mobile.de/auto/vw/2022/idbuzz/modell/",
+    "modell_url": "https://www.mobile.de/auto/vw/2022/idbuzz/modell/",
+    "model_slug": "idbuzz",
+    "brand_slug": "vw"
+  },
+  {
+    "label": "Transporter VW ID. Buzz Cargo (EBN) 2022 - Heute",
+    "href": "https://www.mobile.de/auto/vw/2022/idbuzz/cargo/modell/",
+    "modell_url": "https://www.mobile.de/auto/vw/2022/idbuzz/cargo/modell/",
+    "model_slug": "idbuzz",
+    "brand_slug": "vw"
+  }
+]

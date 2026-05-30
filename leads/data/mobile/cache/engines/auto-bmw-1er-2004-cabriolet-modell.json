@@ -1,0 +1,72 @@
+[
+  {
+    "label": "118i Cabrio Aut. (Benzin, 143 PS)",
+    "fuel": "benzin",
+    "hp": 143
+  },
+  {
+    "label": "118i Cabrio (Benzin, 143 PS)",
+    "fuel": "benzin",
+    "hp": 143
+  },
+  {
+    "label": "120i Cabrio Aut. (Benzin, 170 PS)",
+    "fuel": "benzin",
+    "hp": 170
+  },
+  {
+    "label": "120i Cabrio (Benzin, 170 PS)",
+    "fuel": "benzin",
+    "hp": 170
+  },
+  {
+    "label": "125i Cabrio Aut. (Benzin, 218 PS)",
+    "fuel": "benzin",
+    "hp": 218
+  },
+  {
+    "label": "125i Cabrio (Benzin, 218 PS)",
+    "fuel": "benzin",
+    "hp": 218
+  },
+  {
+    "label": "135i Cabrio Aut. (Benzin, 306 PS)",
+    "fuel": "benzin",
+    "hp": 306
+  },
+  {
+    "label": "135i Cabrio (Benzin, 306 PS)",
+    "fuel": "benzin",
+    "hp": 306
+  },
+  {
+    "label": "118d Cabrio Aut. (Diesel, 143 PS)",
+    "fuel": "diesel",
+    "hp": 143
+  },
+  {
+    "label": "118d Cabrio (Diesel, 143 PS)",
+    "fuel": "diesel",
+    "hp": 143
+  },
+  {
+    "label": "120d Cabrio Aut. (Diesel, 177 PS)",
+    "fuel": "diesel",
+    "hp": 177
+  },
+  {
+    "label": "120d Cabrio (Diesel, 177 PS)",
+    "fuel": "diesel",
+    "hp": 177
+  },
+  {
+    "label": "123d Cabrio Aut. (Diesel, 204 PS)",
+    "fuel": "diesel",
+    "hp": 204
+  },
+  {
+    "label": "123d Cabrio (Diesel, 204 PS)",
+    "fuel": "diesel",
+    "hp": 204
+  }
+]

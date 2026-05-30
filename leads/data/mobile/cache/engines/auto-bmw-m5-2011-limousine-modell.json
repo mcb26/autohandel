@@ -1,0 +1,22 @@
+[
+  {
+    "label": "Motorisierungsvariante Technische Daten und Motorisierung M5 DKG (Benzin, 560 PS) M5 DKG Competition (Benzin, 575 PS)",
+    "fuel": "benzin",
+    "hp": 575
+  },
+  {
+    "label": "M5 DKG (Benzin, 560 PS) M5 DKG Competition (Benzin, 575 PS)",
+    "fuel": "benzin",
+    "hp": 575
+  },
+  {
+    "label": "M5 DKG (Benzin, 560 PS)",
+    "fuel": "benzin",
+    "hp": 560
+  },
+  {
+    "label": "M5 DKG Competition (Benzin, 575 PS)",
+    "fuel": "benzin",
+    "hp": 575
+  }
+]

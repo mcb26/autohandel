@@ -1,0 +1,27 @@
+[
+  {
+    "name": "BC3",
+    "description": "BC3",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BRILLIANCE/model/BC3"
+  },
+  {
+    "name": "BS2",
+    "description": "BS2",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BRILLIANCE/model/BS2"
+  },
+  {
+    "name": "BS4",
+    "description": "BS4",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BRILLIANCE/model/BS4"
+  },
+  {
+    "name": "BS6",
+    "description": "BS6",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BRILLIANCE/model/BS6"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BRILLIANCE/model/ANDERE"
+  }
+]

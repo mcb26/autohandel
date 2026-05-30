@@ -1,0 +1,122 @@
+[
+  {
+    "label": "E 200 (Benzin, 136 PS)",
+    "fuel": "benzin",
+    "hp": 136
+  },
+  {
+    "label": "E 230 (Benzin, 150 PS)",
+    "fuel": "benzin",
+    "hp": 150
+  },
+  {
+    "label": "E 200 Kompressor (Benzin, 163 PS)",
+    "fuel": "benzin",
+    "hp": 163
+  },
+  {
+    "label": "E 240 (Benzin, 170 PS)",
+    "fuel": "benzin",
+    "hp": 170
+  },
+  {
+    "label": "E 280 (Benzin, 193 PS)",
+    "fuel": "benzin",
+    "hp": 193
+  },
+  {
+    "label": "E 280 4-Matic (Benzin, 204 PS)",
+    "fuel": "benzin",
+    "hp": 204
+  },
+  {
+    "label": "E 280 (Benzin, 204 PS)",
+    "fuel": "benzin",
+    "hp": 204
+  },
+  {
+    "label": "E 320 (Benzin, 220 PS)",
+    "fuel": "benzin",
+    "hp": 220
+  },
+  {
+    "label": "E 320 4-Matic (Benzin, 224 PS)",
+    "fuel": "benzin",
+    "hp": 224
+  },
+  {
+    "label": "E 320 (Benzin, 224 PS)",
+    "fuel": "benzin",
+    "hp": 224
+  },
+  {
+    "label": "E 430 (Benzin, 279 PS)",
+    "fuel": "benzin",
+    "hp": 279
+  },
+  {
+    "label": "E 420 (Benzin, 279 PS)",
+    "fuel": "benzin",
+    "hp": 279
+  },
+  {
+    "label": "E 430 4-Matic (Benzin, 279 PS)",
+    "fuel": "benzin",
+    "hp": 279
+  },
+  {
+    "label": "E 55 (Benzin, 354 PS)",
+    "fuel": "benzin",
+    "hp": 354
+  },
+  {
+    "label": "E 220 D (Diesel, 95 PS)",
+    "fuel": "diesel",
+    "hp": 95
+  },
+  {
+    "label": "E 200 CDI (Diesel, 102 PS)",
+    "fuel": "diesel",
+    "hp": 102
+  },
+  {
+    "label": "E 200 CDI (Diesel, 115 PS)",
+    "fuel": "diesel",
+    "hp": 115
+  },
+  {
+    "label": "E 220 CDI (Diesel, 125 PS)",
+    "fuel": "diesel",
+    "hp": 125
+  },
+  {
+    "label": "E 290 TD (Diesel, 129 PS)",
+    "fuel": "diesel",
+    "hp": 129
+  },
+  {
+    "label": "E 300 D (Diesel, 136 PS)",
+    "fuel": "diesel",
+    "hp": 136
+  },
+  {
+    "label": "E 220 CDI (Diesel, 143 PS)",
+    "fuel": "diesel",
+    "hp": 143
+  },
+  {
+    "label": "E 270 CDI (Diesel, 170 PS)",
+    "fuel": "diesel",
+    "hp": 170
+  },
+  {
+    "label": "E 300 TD (Diesel, 177 PS)",
+    "fuel": "diesel",
+    "hp": 177
+  },
+  {
+    "label": "E 320 CDI (Diesel, 197 PS)",
+    "fuel": "diesel",
+    "hp": 197
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Bigster",
+    "description": "Bigster",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DACIA/model/Bigster"
+  },
+  {
+    "name": "Dokker",
+    "description": "Dokker",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DACIA/model/Dokker"
+  },
+  {
+    "name": "Duster",
+    "description": "Duster",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DACIA/model/Duster"
+  },
+  {
+    "name": "Jogger",
+    "description": "Jogger",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DACIA/model/Jogger"
+  },
+  {
+    "name": "Lodgy",
+    "description": "Lodgy",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DACIA/model/Lodgy"
+  },
+  {
+    "name": "Logan",
+    "description": "Logan",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DACIA/model/Logan"
+  },
+  {
+    "name": "Logan Pick-Up",
+    "description": "Logan Pick-Up",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DACIA/model/Logan%20Pick-Up"
+  },
+  {
+    "name": "Pick Up",
+    "description": "Pick Up",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DACIA/model/Pick%20Up"
+  },
+  {
+    "name": "Sandero",
+    "description": "Sandero",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DACIA/model/Sandero"
+  },
+  {
+    "name": "Spring",
+    "description": "Spring",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DACIA/model/Spring"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DACIA/model/ANDERE"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "IS 200",
+    "description": "IS 200",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LEXUS/modelgroups/IS__LEXUS_SERIES/models/IS%20200"
+  },
+  {
+    "name": "IS 220",
+    "description": "IS 220",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LEXUS/modelgroups/IS__LEXUS_SERIES/models/IS%20220"
+  },
+  {
+    "name": "IS 250",
+    "description": "IS 250",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LEXUS/modelgroups/IS__LEXUS_SERIES/models/IS%20250"
+  },
+  {
+    "name": "IS 300",
+    "description": "IS 300",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LEXUS/modelgroups/IS__LEXUS_SERIES/models/IS%20300"
+  },
+  {
+    "name": "IS 350",
+    "description": "IS 350",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LEXUS/modelgroups/IS__LEXUS_SERIES/models/IS%20350"
+  },
+  {
+    "name": "IS-F",
+    "description": "IS-F",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LEXUS/modelgroups/IS__LEXUS_SERIES/models/IS-F"
+  }
+]

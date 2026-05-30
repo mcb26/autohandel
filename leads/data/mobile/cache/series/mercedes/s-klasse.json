@@ -1,0 +1,44 @@
+[
+  {
+    "label": "Cabrio Mercedes S-Klasse Cabriolet (A217) 2015 - Heute",
+    "href": "https://www.mobile.de/auto/mercedes/s-klasse/2014/cabriolet/modell/",
+    "modell_url": "https://www.mobile.de/auto/mercedes/s-klasse/2014/cabriolet/modell/",
+    "model_slug": "s-klasse",
+    "brand_slug": "mercedes"
+  },
+  {
+    "label": "Limousine Mercedes-Maybach S-Klasse (X222) 2014 – 2020",
+    "href": "https://www.mobile.de/auto/mercedes/maybach-s-klasse/2014/limousine/modell/",
+    "modell_url": "https://www.mobile.de/auto/mercedes/maybach-s-klasse/2014/limousine/modell/",
+    "model_slug": "s-klasse",
+    "brand_slug": "mercedes"
+  },
+  {
+    "label": "Coupe Mercedes S-Klasse Coupé (C217) 2014 - Heute",
+    "href": "https://www.mobile.de/auto/mercedes/s-klasse/2014/coupe/modell/",
+    "modell_url": "https://www.mobile.de/auto/mercedes/s-klasse/2014/coupe/modell/",
+    "model_slug": "s-klasse",
+    "brand_slug": "mercedes"
+  },
+  {
+    "label": "Limousine Mercedes S-Klasse (W222) 2013 – 2020",
+    "href": "https://www.mobile.de/auto/mercedes/s-klasse/2013/limousine/modell/",
+    "modell_url": "https://www.mobile.de/auto/mercedes/s-klasse/2013/limousine/modell/",
+    "model_slug": "s-klasse",
+    "brand_slug": "mercedes"
+  },
+  {
+    "label": "Limousine Mercedes-Benz S-Klasse (W221) 2005 – 2013",
+    "href": "https://www.mobile.de/auto/mercedes/s-klasse/2005/limousine/modell/",
+    "modell_url": "https://www.mobile.de/auto/mercedes/s-klasse/2005/limousine/modell/",
+    "model_slug": "s-klasse",
+    "brand_slug": "mercedes"
+  },
+  {
+    "label": "Limousine Mercedes S-Klasse (W220) 1998 – 2005",
+    "href": "https://www.mobile.de/auto/mercedes/s-klasse/1998/limousine/modell/",
+    "modell_url": "https://www.mobile.de/auto/mercedes/s-klasse/1998/limousine/modell/",
+    "model_slug": "s-klasse",
+    "brand_slug": "mercedes"
+  }
+]

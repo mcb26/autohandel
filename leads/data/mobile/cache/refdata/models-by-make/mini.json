@@ -1,0 +1,277 @@
+[
+  {
+    "name": "1000",
+    "description": "1000",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/model/1000"
+  },
+  {
+    "name": "1300",
+    "description": "1300",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/model/1300"
+  },
+  {
+    "name": "Aceman",
+    "description": "Aceman",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/model/Aceman"
+  },
+  {
+    "name": "Aceman E",
+    "description": "Aceman E",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/model/Aceman%20E"
+  },
+  {
+    "name": "Aceman SE",
+    "description": "Aceman SE",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/model/Aceman%20SE"
+  },
+  {
+    "name": "CLUBVAN",
+    "description": "Clubvan",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/model/CLUBVAN"
+  },
+  {
+    "name": "COOPER",
+    "description": "Cooper",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/model/COOPER"
+  },
+  {
+    "name": "COOPER SE",
+    "description": "Cooper SE",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/model/COOPER%20SE"
+  },
+  {
+    "name": "COOPER_CABRIO",
+    "description": "Cooper Cabrio",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/model/COOPER_CABRIO"
+  },
+  {
+    "name": "COOPER_CLUBMAN",
+    "description": "Cooper Clubman",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/model/COOPER_CLUBMAN"
+  },
+  {
+    "name": "COOPER_COUNTRYMAN",
+    "description": "Cooper Countryman",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/model/COOPER_COUNTRYMAN"
+  },
+  {
+    "name": "COOPER_COUPE",
+    "description": "Cooper Coupé",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/model/COOPER_COUPE"
+  },
+  {
+    "name": "COOPER_D",
+    "description": "Cooper D",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/model/COOPER_D"
+  },
+  {
+    "name": "COOPER_D_CABRIO",
+    "description": "Cooper D Cabrio",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/model/COOPER_D_CABRIO"
+  },
+  {
+    "name": "COOPER_D_CLUBMAN",
+    "description": "Cooper D Clubman",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/model/COOPER_D_CLUBMAN"
+  },
+  {
+    "name": "COOPER_D_COUNTRYMAN",
+    "description": "Countryman D (Cooper)",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/model/COOPER_D_COUNTRYMAN"
+  },
+  {
+    "name": "COOPER_D_PACEMAN",
+    "description": "Cooper D Paceman",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/model/COOPER_D_PACEMAN"
+  },
+  {
+    "name": "COOPER_PACEMAN",
+    "description": "Cooper Paceman",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/model/COOPER_PACEMAN"
+  },
+  {
+    "name": "COOPER_ROADSTER",
+    "description": "Cooper Roadster",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/model/COOPER_ROADSTER"
+  },
+  {
+    "name": "COOPER_S",
+    "description": "Cooper S",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/model/COOPER_S"
+  },
+  {
+    "name": "COOPER_SD",
+    "description": "Cooper SD",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/model/COOPER_SD"
+  },
+  {
+    "name": "COOPER_SD_CABRIO",
+    "description": "Cooper SD Cabrio",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/model/COOPER_SD_CABRIO"
+  },
+  {
+    "name": "COOPER_SD_CLUBMAN",
+    "description": "Cooper SD Clubman",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/model/COOPER_SD_CLUBMAN"
+  },
+  {
+    "name": "COOPER_SD_COUNTRYMAN",
+    "description": "Cooper SD Countryman",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/model/COOPER_SD_COUNTRYMAN"
+  },
+  {
+    "name": "COOPER_SD_COUPE",
+    "description": "Cooper SD Coupé",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/model/COOPER_SD_COUPE"
+  },
+  {
+    "name": "COOPER_SD_PACEMAN",
+    "description": "Cooper SD Paceman",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/model/COOPER_SD_PACEMAN"
+  },
+  {
+    "name": "COOPER_SD_ROADSTER",
+    "description": "Cooper SD Roadster",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/model/COOPER_SD_ROADSTER"
+  },
+  {
+    "name": "COOPER_S_CABRIO",
+    "description": "Cooper S Cabrio",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/model/COOPER_S_CABRIO"
+  },
+  {
+    "name": "COOPER_S_CLUBMAN",
+    "description": "Cooper S Clubman",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/model/COOPER_S_CLUBMAN"
+  },
+  {
+    "name": "COOPER_S_COUNTRYMAN",
+    "description": "Countryman S (Cooper)",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/model/COOPER_S_COUNTRYMAN"
+  },
+  {
+    "name": "COOPER_S_COUPE",
+    "description": "Cooper S Coupé",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/model/COOPER_S_COUPE"
+  },
+  {
+    "name": "COOPER_S_PACEMAN",
+    "description": "Cooper S Paceman",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/model/COOPER_S_PACEMAN"
+  },
+  {
+    "name": "COOPER_S_ROADSTER",
+    "description": "Cooper S Roadster",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/model/COOPER_S_ROADSTER"
+  },
+  {
+    "name": "Cooper C",
+    "description": "Cooper C",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/model/Cooper%20C"
+  },
+  {
+    "name": "Cooper C Countryman",
+    "description": "Countryman C (Cooper)",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/model/Cooper%20C%20Countryman"
+  },
+  {
+    "name": "Cooper E",
+    "description": "Cooper E",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/model/Cooper%20E"
+  },
+  {
+    "name": "Cooper E Countryman",
+    "description": "Countryman E (Cooper)",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/model/Cooper%20E%20Countryman"
+  },
+  {
+    "name": "Cooper SE Countryman",
+    "description": "Countryman SE (Cooper)",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/model/Cooper%20SE%20Countryman"
+  },
+  {
+    "name": "JOHN_COOPER_WORKS",
+    "description": "John Cooper Works",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/model/JOHN_COOPER_WORKS"
+  },
+  {
+    "name": "JOHN_COOPER_WORKS_CABRIO",
+    "description": "John Cooper Works Cabrio",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/model/JOHN_COOPER_WORKS_CABRIO"
+  },
+  {
+    "name": "JOHN_COOPER_WORKS_CLUBMAN",
+    "description": "John Cooper Works Clubman",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/model/JOHN_COOPER_WORKS_CLUBMAN"
+  },
+  {
+    "name": "JOHN_COOPER_WORKS_COUNTRYMAN",
+    "description": "John Cooper Works Countryman",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/model/JOHN_COOPER_WORKS_COUNTRYMAN"
+  },
+  {
+    "name": "JOHN_COOPER_WORKS_COUPE",
+    "description": "John Cooper Works Coupé",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/model/JOHN_COOPER_WORKS_COUPE"
+  },
+  {
+    "name": "JOHN_COOPER_WORKS_PACEMAN",
+    "description": "John Cooper Works Paceman",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/model/JOHN_COOPER_WORKS_PACEMAN"
+  },
+  {
+    "name": "JOHN_COOPER_WORKS_ROADSTER",
+    "description": "John Cooper Works Roadster",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/model/JOHN_COOPER_WORKS_ROADSTER"
+  },
+  {
+    "name": "John Cooper Works Aceman",
+    "description": "John Cooper Works Aceman",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/model/John%20Cooper%20Works%20Aceman"
+  },
+  {
+    "name": "ONE",
+    "description": "ONE",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/model/ONE"
+  },
+  {
+    "name": "ONE_CABRIO",
+    "description": "One Cabrio",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/model/ONE_CABRIO"
+  },
+  {
+    "name": "ONE_CLUBMAN",
+    "description": "One Clubman",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/model/ONE_CLUBMAN"
+  },
+  {
+    "name": "ONE_COUNTRYMAN",
+    "description": "One Countryman",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/model/ONE_COUNTRYMAN"
+  },
+  {
+    "name": "ONE_D",
+    "description": "One D",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/model/ONE_D"
+  },
+  {
+    "name": "ONE_D_CLUBMAN",
+    "description": "One D Clubman",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/model/ONE_D_CLUBMAN"
+  },
+  {
+    "name": "ONE_D_COUNTRYMAN",
+    "description": "One D Countryman",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/model/ONE_D_COUNTRYMAN"
+  },
+  {
+    "name": "ONE_FIRST",
+    "description": "One First",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/model/ONE_FIRST"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/model/ANDERE"
+  }
+]

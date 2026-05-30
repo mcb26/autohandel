@@ -1,0 +1,137 @@
+[
+  {
+    "label": "S 320 L (Benzin, 224 PS)",
+    "fuel": "benzin",
+    "hp": 224
+  },
+  {
+    "label": "S 320 (Benzin, 224 PS)",
+    "fuel": "benzin",
+    "hp": 224
+  },
+  {
+    "label": "S 350 4Matic (Benzin, 245 PS)",
+    "fuel": "benzin",
+    "hp": 245
+  },
+  {
+    "label": "S 350 L 4Matic (Benzin, 245 PS)",
+    "fuel": "benzin",
+    "hp": 245
+  },
+  {
+    "label": "S 350 L (Benzin, 245 PS)",
+    "fuel": "benzin",
+    "hp": 245
+  },
+  {
+    "label": "S 350 (Benzin, 245 PS)",
+    "fuel": "benzin",
+    "hp": 245
+  },
+  {
+    "label": "S 430 L (Benzin, 279 PS)",
+    "fuel": "benzin",
+    "hp": 279
+  },
+  {
+    "label": "S 430 (Benzin, 279 PS)",
+    "fuel": "benzin",
+    "hp": 279
+  },
+  {
+    "label": "S 430 4Matic (Benzin, 279 PS)",
+    "fuel": "benzin",
+    "hp": 279
+  },
+  {
+    "label": "S 430 L 4Matic (Benzin, 279 PS)",
+    "fuel": "benzin",
+    "hp": 279
+  },
+  {
+    "label": "S 500 (ZAS) (Benzin, 299 PS)",
+    "fuel": "zas) (benzin",
+    "hp": 299
+  },
+  {
+    "label": "S 500 L (ZAS) (Benzin, 299 PS)",
+    "fuel": "zas) (benzin",
+    "hp": 299
+  },
+  {
+    "label": "S 500 L (Benzin, 306 PS)",
+    "fuel": "benzin",
+    "hp": 306
+  },
+  {
+    "label": "S 500 (Benzin, 306 PS)",
+    "fuel": "benzin",
+    "hp": 306
+  },
+  {
+    "label": "S 500 4Matic (Benzin, 306 PS)",
+    "fuel": "benzin",
+    "hp": 306
+  },
+  {
+    "label": "S 500 L 4Matic (Benzin, 306 PS)",
+    "fuel": "benzin",
+    "hp": 306
+  },
+  {
+    "label": "S 600 L (Benzin, 367 PS)",
+    "fuel": "benzin",
+    "hp": 367
+  },
+  {
+    "label": "S 55 AMG L (Benzin, 500 PS)",
+    "fuel": "benzin",
+    "hp": 500
+  },
+  {
+    "label": "S 55 AMG (Benzin, 500 PS)",
+    "fuel": "benzin",
+    "hp": 500
+  },
+  {
+    "label": "S 600 L (Benzin, 500 PS)",
+    "fuel": "benzin",
+    "hp": 500
+  },
+  {
+    "label": "S 320 CDI (Diesel, 197 PS)",
+    "fuel": "diesel",
+    "hp": 197
+  },
+  {
+    "label": "S 320 CDI L (Diesel, 204 PS)",
+    "fuel": "diesel",
+    "hp": 204
+  },
+  {
+    "label": "S 320 CDI (Diesel, 204 PS)",
+    "fuel": "diesel",
+    "hp": 204
+  },
+  {
+    "label": "S 400 CDI L (Diesel, 250 PS)",
+    "fuel": "diesel",
+    "hp": 250
+  },
+  {
+    "label": "S 400 CDI (Diesel, 250 PS)",
+    "fuel": "diesel",
+    "hp": 250
+  },
+  {
+    "label": "S 400 CDI L (Diesel, 260 PS)",
+    "fuel": "diesel",
+    "hp": 260
+  },
+  {
+    "label": "S 400 CDI (Diesel, 260 PS)",
+    "fuel": "diesel",
+    "hp": 260
+  }
+]

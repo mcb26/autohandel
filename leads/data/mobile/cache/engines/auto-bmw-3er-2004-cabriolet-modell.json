@@ -1,0 +1,117 @@
+[
+  {
+    "label": "318i Cabrio (Benzin, 143 PS)",
+    "fuel": "benzin",
+    "hp": 143
+  },
+  {
+    "label": "320i Cabrio Aut. (Benzin, 170 PS)",
+    "fuel": "benzin",
+    "hp": 170
+  },
+  {
+    "label": "320i Cabrio (Benzin, 170 PS)",
+    "fuel": "benzin",
+    "hp": 170
+  },
+  {
+    "label": "325i Cabrio Aut. (Benzin, 218 PS)",
+    "fuel": "benzin",
+    "hp": 218
+  },
+  {
+    "label": "325i Cabrio (Benzin, 218 PS)",
+    "fuel": "benzin",
+    "hp": 218
+  },
+  {
+    "label": "330i Cabrio Aut. (Benzin, 272 PS)",
+    "fuel": "benzin",
+    "hp": 272
+  },
+  {
+    "label": "330i Cabrio (Benzin, 272 PS)",
+    "fuel": "benzin",
+    "hp": 272
+  },
+  {
+    "label": "335i Cabrio Aut. (Benzin, 306 PS)",
+    "fuel": "benzin",
+    "hp": 306
+  },
+  {
+    "label": "335i Cabrio (Benzin, 306 PS)",
+    "fuel": "benzin",
+    "hp": 306
+  },
+  {
+    "label": "M3 Cabrio Drivelogic (Benzin, 420 PS)",
+    "fuel": "benzin",
+    "hp": 420
+  },
+  {
+    "label": "M3 Cabrio (Benzin, 420 PS)",
+    "fuel": "benzin",
+    "hp": 420
+  },
+  {
+    "label": "320d DPF Cabrio Aut. (Diesel, 177 PS)",
+    "fuel": "diesel",
+    "hp": 177
+  },
+  {
+    "label": "320d DPF Cabrio (Diesel, 177 PS)",
+    "fuel": "diesel",
+    "hp": 177
+  },
+  {
+    "label": "320d DPF Cabrio Aut. (Diesel, 183 PS)",
+    "fuel": "diesel",
+    "hp": 183
+  },
+  {
+    "label": "320d DPF Cabrio (Diesel, 183 PS)",
+    "fuel": "diesel",
+    "hp": 183
+  },
+  {
+    "label": "325d DPF Cabrio Aut. (Diesel, 197 PS)",
+    "fuel": "diesel",
+    "hp": 197
+  },
+  {
+    "label": "325d DPF Cabrio (Diesel, 197 PS)",
+    "fuel": "diesel",
+    "hp": 197
+  },
+  {
+    "label": "325d DPF Cabrio Aut. (Diesel, 204 PS)",
+    "fuel": "diesel",
+    "hp": 204
+  },
+  {
+    "label": "325d DPF Cabrio (Diesel, 204 PS)",
+    "fuel": "diesel",
+    "hp": 204
+  },
+  {
+    "label": "330d DPF Cabrio Aut. (Diesel, 231 PS)",
+    "fuel": "diesel",
+    "hp": 231
+  },
+  {
+    "label": "330d DPF Cabrio (Diesel, 231 PS)",
+    "fuel": "diesel",
+    "hp": 231
+  },
+  {
+    "label": "330d DPF Cabrio Aut. (Diesel, 245 PS)",
+    "fuel": "diesel",
+    "hp": 245
+  },
+  {
+    "label": "330d DPF Cabrio (Diesel, 245 PS)",
+    "fuel": "diesel",
+    "hp": 245
+  }
+]

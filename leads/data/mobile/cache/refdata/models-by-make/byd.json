@@ -1,0 +1,62 @@
+[
+  {
+    "name": "ATTO 2",
+    "description": "ATTO 2",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BYD/model/ATTO%202"
+  },
+  {
+    "name": "ATTO 3",
+    "description": "ATTO 3",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BYD/model/ATTO%203"
+  },
+  {
+    "name": "DOLPHIN",
+    "description": "DOLPHIN",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BYD/model/DOLPHIN"
+  },
+  {
+    "name": "ETP 3",
+    "description": "ETP 3",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BYD/model/ETP%203"
+  },
+  {
+    "name": "HAN",
+    "description": "HAN",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BYD/model/HAN"
+  },
+  {
+    "name": "SEAL",
+    "description": "SEAL",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BYD/model/SEAL"
+  },
+  {
+    "name": "SEAL 05",
+    "description": "SEAL 5",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BYD/model/SEAL%2005"
+  },
+  {
+    "name": "SEAL 06",
+    "description": "SEAL 6",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BYD/model/SEAL%2006"
+  },
+  {
+    "name": "SEALION 7",
+    "description": "SEALION 7",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BYD/model/SEALION%207"
+  },
+  {
+    "name": "Seal U",
+    "description": "SEAL U",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BYD/model/Seal%20U"
+  },
+  {
+    "name": "TANG",
+    "description": "TANG",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BYD/model/TANG"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BYD/model/ANDERE"
+  }
+]

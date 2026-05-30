@@ -1,0 +1,1364 @@
+{
+  "label": "SsangYong",
+  "models": {
+    "ssangyong-actyon": {
+      "label": "SsangYong Actyon",
+      "series": {
+        "ssangyong-actyon-sports-facelift-2012": {
+          "label": "SsangYong Actyon Sports (facelift 2012)",
+          "engines": [
+            {
+              "label": "200 CDI (141 Hp) 4WD Automatic (2012 - 2016)",
+              "hp": 141
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "ssangyong-actyon": {
+          "label": "SsangYong Actyon",
+          "engines": [
+            {
+              "label": "2.3 (150 Hp) Automatic (2006 - 2010)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.3 (150 Hp) (2006 - 2010)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Xdi (141 Hp) Automatic (2007 - 2010)",
+              "hp": 141,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Xdi (141 Hp) (2007 - 2010)",
+              "hp": 141,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "ssangyong-actyon-sports": {
+          "label": "SsangYong Actyon Sports",
+          "engines": [
+            {
+              "label": "2.0Xdi (141 Hp) Automatic (2006 - 2012)",
+              "hp": 141,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0Xdi (141 Hp) (2006 - 2012)",
+              "hp": 141,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "ssangyong-chairman": {
+      "label": "SsangYong Chairman",
+      "series": {
+        "ssangyong-chairman-w-facelift-2011": {
+          "label": "SsangYong Chairman W (facelift 2011)",
+          "engines": [
+            {
+              "label": "5.0 V8 (306 Hp) 4WD T-tronic L (2011 - 2017)",
+              "hp": 306,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.0 V8 (306 Hp) 4WD T-tronic (2011 - 2017)",
+              "hp": 306,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6 (250 Hp) 4WD T-tronic L (2011 - 2017)",
+              "hp": 250,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6 (250 Hp) 4WD T-tronic (2011 - 2017)",
+              "hp": 250,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.2 (224 Hp) 4WD T-tronic (2011 - 2017)",
+              "hp": 224,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.8 (197 Hp) 4WD T-tronic (2011 - 2017)",
+              "hp": 197,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "ssangyong-chairman-h": {
+          "label": "SsangYong Chairman H",
+          "engines": [
+            {
+              "label": "CM600S 3.2 i 24V (220 Hp) (1997 - 2014)",
+              "hp": 220,
+              "fuel": "benzin"
+            },
+            {
+              "label": "CM600 L 3.2 i 24V (220 Hp) (1999 - 2014)",
+              "hp": 220,
+              "fuel": "benzin"
+            },
+            {
+              "label": "CM500 2.8 i 24V (197 Hp) (1997 - 2014)",
+              "hp": 197,
+              "fuel": "benzin"
+            },
+            {
+              "label": "CM400 2.3 i 16V (150 Hp) (1997 - 2014)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "ssangyong-e-suv": {
+      "label": "SsangYong e-SUV",
+      "series": {
+        "ssangyong-e-suv-concept": {
+          "label": "SsangYong e-SUV (Concept)",
+          "engines": [
+            {
+              "label": "Keine exakte Motorliste verfügbar – bitte genaue Motorisierung im Freitext angeben"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "ssangyong-family": {
+      "label": "SsangYong Family",
+      "series": {
+        "ssangyong-family": {
+          "label": "SsangYong Family",
+          "engines": [
+            {
+              "label": "2.5 D (76 Hp) (1987 - 1998)",
+              "hp": 76,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 D (71 Hp) (1987 - 1998)",
+              "hp": 71,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 D (68 Hp) (1987 - 1998)",
+              "hp": 68,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "ssangyong-istana": {
+      "label": "SsangYong Istana",
+      "series": {
+        "ssangyong-istana": {
+          "label": "SsangYong Istana",
+          "engines": [
+            {
+              "label": "2.9 D (95 Hp) (1995 - 2003)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "ssangyong-kallista": {
+      "label": "SsangYong Kallista",
+      "series": {
+        "ssangyong-kallista": {
+          "label": "SsangYong Kallista",
+          "engines": [
+            {
+              "label": "1.6 (82 Hp) (1992 - 1994)",
+              "hp": 82,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "ssangyong-korando": {
+      "label": "SsangYong Korando",
+      "series": {
+        "ssangyong-korando-iv": {
+          "label": "SsangYong Korando IV",
+          "engines": [
+            {
+              "label": "e-Motion 61.5 kWh (190 Hp) BEV",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 MPI (149 Hp) AISIN",
+              "hp": 149,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6d (136 Hp) AISIN",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6d (136 Hp) 4WD AISIN",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6d (136 Hp) 4WD",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6d (136 Hp)",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 T-GDI (163 Hp) 4WD AISIN",
+              "hp": 163,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 T-GDI (163 Hp) 4WD",
+              "hp": 163,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 GDI (163 Hp) AISIN",
+              "hp": 163,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 GDI (163 Hp)",
+              "hp": 163,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "ssangyong-korando-iii-c-facelift-2017": {
+          "label": "SsangYong Korando III (C, facelift 2017)",
+          "engines": [
+            {
+              "label": "2.2 e-XDi (178 Hp) AWD Automatic (2017 - 2019)",
+              "hp": 178,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 e-XDi (178 Hp) AWD (2017 - 2019)",
+              "hp": 178,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 e-XDi (178 Hp) Automatic (2017 - 2019)",
+              "hp": 178,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 e-XDi (178 Hp) (2017 - 2019)",
+              "hp": 178,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 e-XGi (150 Hp) AWD Automatic (2017 - 2019)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 e-XGi (150 Hp) AWD (2017 - 2019)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 e-XGi (150 Hp) Automatic (2017 - 2019)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 e-XGi (150 Hp) (2017 - 2019)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "ssangyong-korando-iii-c-facelift-2013": {
+          "label": "SsangYong Korando III (C, facelift 2013)",
+          "engines": [
+            {
+              "label": "2.2 e-XDi (178 Hp) AWD Automatic (2013 - 2017)",
+              "hp": 178,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 e-XDi (178 Hp) AWD (2013 - 2017)",
+              "hp": 178,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 e-XDi (178 Hp) Automatic (2013 - 2017)",
+              "hp": 178,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 e-XDi (178 Hp) (2013 - 2017)",
+              "hp": 178,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 e-XGi (150 Hp) AWD Automatic (2013 - 2017)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 e-XGi (150 Hp) AWD (2013 - 2017)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 e-XGi (150 Hp) Automatic (2013 - 2017)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 e-XGi (150 Hp) (2013 - 2017)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "ssangyong-korando-iii-c": {
+          "label": "SsangYong Korando III (C)",
+          "engines": [
+            {
+              "label": "2.0 CDI (175 Hp) AWD High Power (2010 - 2013)",
+              "hp": 175,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 CDI (175 Hp) AWD Automatic High Power (2010 - 2013)",
+              "hp": 175,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "ssangyong-korando-ii-kj": {
+          "label": "SsangYong Korando II (KJ)",
+          "engines": [
+            {
+              "label": "3.2 i 24V (220 Hp) Automatic (2001 - 2006)",
+              "hp": 220,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.2 i 24V (220 Hp) (2001 - 2006)",
+              "hp": 220,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.2 i 24V (210 Hp) (1997 - 2006)",
+              "hp": 210,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.9 TD (120 Hp) (1996 - 2006)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.9 D (95 Hp) (1996 - 2006)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.3 TD (101 Hp) (1998 - 2006)",
+              "hp": 101,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.3 i 16V (140 Hp) (1997 - 2006)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.3 D (80 Hp) (1996 - 2006)",
+              "hp": 80,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 i 16V (126 Hp) (1998 - 2006)",
+              "hp": 126,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "ssangyong-korando-cabrio-ii-kj": {
+          "label": "SsangYong Korando Cabrio II (KJ)",
+          "engines": [
+            {
+              "label": "2.9 D (98 Hp) (1996 - 1999)",
+              "hp": 98,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.3 (140 Hp) (1996 - 1999)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "ssangyong-korando-i-k4": {
+          "label": "SsangYong Korando I (K4)",
+          "engines": [
+            {
+              "label": "2.2 D (68 Hp) (1982 - 1996)",
+              "hp": 68,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "ssangyong-korando-sports": {
+      "label": "SsangYong Korando Sports",
+      "series": {
+        "ssangyong-korando-sports": {
+          "label": "SsangYong Korando Sports",
+          "engines": [
+            {
+              "label": "2.2 eXDi 220 VGT (178 Hp) AISIN (2017 - 2023)",
+              "hp": 178,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 eXDi 220 VGT (178 Hp) 4WD AISIN (2017 - 2023)",
+              "hp": 178,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 eXDi 220 VGT (178 Hp) 4WD (2017 - 2023)",
+              "hp": 178,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 eXDi 220 VGT (178 Hp) (2017 - 2023)",
+              "hp": 178,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "ssangyong-kyron": {
+      "label": "SsangYong Kyron",
+      "series": {
+        "ssangyong-kyron-facelift-2007": {
+          "label": "SsangYong Kyron (facelift 2007)",
+          "engines": [
+            {
+              "label": "270 SPR (163 Hp) AWD T-Tronic (2007 - 2014)",
+              "hp": 163
+            },
+            {
+              "label": "200 Xdi (141 Hp) T-Tronic (2007 - 2014)",
+              "hp": 141
+            },
+            {
+              "label": "200 Xdi (141 Hp) AWD T-Tronic (2007 - 2014)",
+              "hp": 141
+            },
+            {
+              "label": "200 Xdi (141 Hp) AWD (2007 - 2014)",
+              "hp": 141
+            },
+            {
+              "label": "200 Xdi (141 Hp) (2007 - 2014)",
+              "hp": 141
+            },
+            {
+              "label": "2.3i 16V (150 Hp) (2007 - 2014)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "ssangyong-kyron": {
+          "label": "SsangYong Kyron",
+          "engines": [
+            {
+              "label": "2.0Xdi (141 Hp) Automatic (2005 - 2007)",
+              "hp": 141,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0Xdi (141 Hp) 4WD Automatic (2006 - 2007)",
+              "hp": 141,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0Xdi (141 Hp) 4WD (2006 - 2007)",
+              "hp": 141,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0Xdi (141 Hp) (2005 - 2007)",
+              "hp": 141,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TD (141 Hp) Automatic (2005 - 2007)",
+              "hp": 141,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TD (141 Hp) (2005 - 2007)",
+              "hp": 141,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "ssangyong-musso": {
+      "label": "SsangYong Musso",
+      "series": {
+        "ssangyong-musso-ii-grand-facelift-2021": {
+          "label": "SsangYong Musso II Grand (facelift 2021)",
+          "engines": [
+            {
+              "label": "2.2 e-XDi 220 (187 Hp) Automatic (2021 - 2023)",
+              "hp": 187,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 e-XDi 220 (187 Hp) 4WD Automatic (2021 - 2023)",
+              "hp": 187,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 e-XDi 220 (181 Hp) 4WD (2021 - 2023)",
+              "hp": 181,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 e-XDi 220 (181 Hp) (2021 - 2023)",
+              "hp": 181,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 e-XGDi 200T (225 Hp) Automatic (2021 - 2023)",
+              "hp": 225,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 e-XGDi 200T (225 Hp) 4WD Automatic (2021 - 2023)",
+              "hp": 225,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 e-XGDi 200T (225 Hp) 4WD (2021 - 2023)",
+              "hp": 225,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 e-XGDi 200T (225 Hp) (2021 - 2023)",
+              "hp": 225,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "ssangyong-musso-ii-facelift-2021": {
+          "label": "SsangYong Musso II (facelift 2021)",
+          "engines": [
+            {
+              "label": "2.2 e-XDi 220 (187 Hp) Automatic (2021 - 2023)",
+              "hp": 187,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 e-XDi 220 (187 Hp) 4WD Automatic (2021 - 2023)",
+              "hp": 187,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 e-XDi 220 (181 Hp) 4WD (2021 - 2023)",
+              "hp": 181,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 e-XDi 220 (181 Hp) (2021 - 2023)",
+              "hp": 181,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 e-XGDi 200T (225 Hp) Automatic (2021 - 2023)",
+              "hp": 225,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 e-XGDi 200T (225 Hp) 4WD Automatic (2021 - 2023)",
+              "hp": 225,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 e-XGDi 200T (225 Hp) 4WD (2021 - 2023)",
+              "hp": 225,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 e-XGDi 200T (225 Hp) (2021 - 2023)",
+              "hp": 225,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "ssangyong-musso-ii-grand": {
+          "label": "SsangYong Musso II Grand",
+          "engines": [
+            {
+              "label": "2.2 e-XDi (181 Hp) Automatic (2019 - 2021)",
+              "hp": 181,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 e-XDi (181 Hp) 4WD Automatic (2019 - 2021)",
+              "hp": 181,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 e-XDi (181 Hp) 4WD (2019 - 2021)",
+              "hp": 181,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 e-XDi (181 Hp) (2019 - 2021)",
+              "hp": 181,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "ssangyong-musso-ii": {
+          "label": "SsangYong Musso II",
+          "engines": [
+            {
+              "label": "2.2 e-XDi (181 Hp) Automatic (2018 - 2021)",
+              "hp": 181,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 e-XDi (181 Hp) 4WD Automatic (2018 - 2021)",
+              "hp": 181,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 e-XDi (181 Hp) 4WD (2018 - 2021)",
+              "hp": 181,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 e-XDi (181 Hp) (2018 - 2021)",
+              "hp": 181,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 e-XGDi (224 Hp) Automatic (2018 - 2021)",
+              "hp": 224,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 e-XGDi (224 Hp) 4WD Automatic (2018 - 2021)",
+              "hp": 224,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 e-XGDi (224 Hp) 4WD (2018 - 2021)",
+              "hp": 224,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 e-XGDi (224 Hp) (2018 - 2021)",
+              "hp": 224,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "ssangyong-musso-i": {
+          "label": "SsangYong Musso I",
+          "engines": [
+            {
+              "label": "3.2 i 24V (220 Hp) (1995 - 2005)",
+              "hp": 220,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.9 TD (129 Hp) Automatic (1999 - 2005)",
+              "hp": 129,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.9 TD (129 Hp) (1999 - 2005)",
+              "hp": 129,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.9 D (95 Hp) Automatic (1996 - 2005)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.9 D (95 Hp) (1996 - 2005)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.3 TD (101 Hp) (1999 - 2005)",
+              "hp": 101,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.3 i 16V (150 Hp) (1995 - 2005)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.3 i 16V (140 Hp) (1999 - 2005)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.3 D (80 Hp) (1996 - 2005)",
+              "hp": 80,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "ssangyong-rexton": {
+      "label": "SsangYong Rexton",
+      "series": {
+        "ssangyong-rexton-ii-facelift-2021": {
+          "label": "SsangYong Rexton II (facelift 2021)",
+          "engines": [
+            {
+              "label": "2.2 e-XDi (202 Hp) E-Tronic 7 Seat (2021 - 2023)",
+              "hp": 202,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 e-XDi (202 Hp) E-Tronic (2021 - 2023)",
+              "hp": 202,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 e-XDi (202 Hp) 4WD E-Tronic 7 Seat (2021 - 2023)",
+              "hp": 202,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 e-XDi (202 Hp) 4WD E-Tronic (2021 - 2023)",
+              "hp": 202,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "ssangyong-rexton-ii": {
+          "label": "SsangYong Rexton II",
+          "engines": [
+            {
+              "label": "2.2 e-XDi (181 Hp) Automatic 7 Seat (2017 - 2021)",
+              "hp": 181,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 e-XDi (181 Hp) Automatic (2017 - 2021)",
+              "hp": 181,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 e-XDi (181 Hp) 7 Seat (2017 - 2021)",
+              "hp": 181,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 e-XDi (181 Hp) 4WD Automatic 7 Seat (2017 - 2021)",
+              "hp": 181,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 e-XDi (181 Hp) 4WD Automatic (2017 - 2021)",
+              "hp": 181,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 e-XDi (181 Hp) 4WD 7 Seat (2017 - 2021)",
+              "hp": 181,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 e-XDi (181 Hp) 4WD (2017 - 2021)",
+              "hp": 181,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 e-XDi (181 Hp) (2017 - 2021)",
+              "hp": 181,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 e-XGDi (224 Hp) Automatic (2018 - 2021)",
+              "hp": 224,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 e-XGDi (224 Hp) 4WD Automatic (2018 - 2021)",
+              "hp": 224,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 e-XGDi (224 Hp) (2018 - 2021)",
+              "hp": 224,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "ssangyong-rexton-i-facelift-2012": {
+          "label": "SsangYong Rexton I (facelift 2012)",
+          "engines": [
+            {
+              "label": "RX 320 (220 Hp) AWD Automatic (2012 - 2017)",
+              "hp": 220
+            },
+            {
+              "label": "RX 320 (220 Hp) 4WD Automatic (2012 - 2017)",
+              "hp": 220
+            },
+            {
+              "label": "RX 270 XVT (186 Hp) AWD Automatic (2012 - 2017)",
+              "hp": 186
+            },
+            {
+              "label": "RX 270 XDi (165 Hp) TOD 4WD Automatic (2012 - 2017)",
+              "hp": 165
+            },
+            {
+              "label": "RX 270 XDi (165 Hp) TOD 4WD (2012 - 2017)",
+              "hp": 165
+            },
+            {
+              "label": "RX 270 XDi (161 Hp) DPF TOD 4WD Automatic (2012 - 2017)",
+              "hp": 161
+            },
+            {
+              "label": "RX 270 XDi (161 Hp) DPF TOD 4WD (2012 - 2017)",
+              "hp": 161
+            },
+            {
+              "label": "RX 220 e-XDi (178 Hp) Automatic (2015 - 2017)",
+              "hp": 178
+            },
+            {
+              "label": "RX 220 e-XDi (178 Hp) 4WD Automatic (2015 - 2017)",
+              "hp": 178
+            },
+            {
+              "label": "RX 220 e-XDi (178 Hp) 4WD (2015 - 2017)",
+              "hp": 178
+            },
+            {
+              "label": "RX 220 e-XDi (178 Hp) (2015 - 2017)",
+              "hp": 178
+            },
+            {
+              "label": "RX 200 e-XDi (155 Hp) Automatic (2012 - 2017)",
+              "hp": 155
+            },
+            {
+              "label": "RX 200 e-XDi (155 Hp) 4WD Automatic (2012 - 2017)",
+              "hp": 155
+            },
+            {
+              "label": "RX 200 e-XDi (155 Hp) 4WD (2012 - 2017)",
+              "hp": 155
+            },
+            {
+              "label": "RX 200 e-XDi (155 Hp) (2012 - 2017)",
+              "hp": 155
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "ssangyong-rexton-i-facelift-2006": {
+          "label": "SsangYong Rexton I (facelift 2006)",
+          "engines": [
+            {
+              "label": "RX 320 Automatic (220 Hp) (2006 - 2012)",
+              "hp": 220
+            },
+            {
+              "label": "RX 270 XVT (186 Hp) AWD Automatic (2006 - 2012)",
+              "hp": 186
+            },
+            {
+              "label": "RX 270 Xdi (163 Hp) TOD 4WD Automatic (2006 - 2012)",
+              "hp": 163
+            },
+            {
+              "label": "RX 270 Xdi (163 Hp) TOD 4WD (2006 - 2012)",
+              "hp": 163
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "ssangyong-rexton-i": {
+          "label": "SsangYong Rexton I",
+          "engines": [
+            {
+              "label": "RX 320 (220 Hp) Automatic (2001 - 2006)",
+              "hp": 220
+            },
+            {
+              "label": "RX 320 (220 Hp) (2001 - 2006)",
+              "hp": 220
+            },
+            {
+              "label": "RX 290 TD (120 Hp) Automatic (2001 - 2006)",
+              "hp": 120
+            },
+            {
+              "label": "RX 290 TD (120 Hp) (2001 - 2006)",
+              "hp": 120
+            },
+            {
+              "label": "RX 280 (201 Hp) (2003 - 2006)",
+              "hp": 201
+            },
+            {
+              "label": "RX 270 Xdi (163 Hp) AWD Automatic (2003 - 2006)",
+              "hp": 163
+            },
+            {
+              "label": "RX 270 Xdi (163 Hp) AWD (2003 - 2006)",
+              "hp": 163
+            },
+            {
+              "label": "RX 230 (143 Hp) Automatic (2001 - 2006)",
+              "hp": 143
+            },
+            {
+              "label": "RX 230 (143 Hp) (2001 - 2006)",
+              "hp": 143
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "ssangyong-rodius": {
+      "label": "SsangYong Rodius",
+      "series": {
+        "ssangyong-rodius-ii-facelift-2018": {
+          "label": "SsangYong Rodius II (facelift 2018)",
+          "engines": [
+            {
+              "label": "SV220 (178 Hp) Automatic (2018 - 2023)",
+              "hp": 178
+            },
+            {
+              "label": "SV220 (178 Hp) 4WD Automatic (2018 - 2023)",
+              "hp": 178
+            },
+            {
+              "label": "SV220 (178 Hp) (2018 - 2023)",
+              "hp": 178
+            },
+            {
+              "label": "SV200 (155 Hp) Automatic (2018 - 2023)",
+              "hp": 155
+            },
+            {
+              "label": "SV200 (155 Hp) 4WD Automatic (2018 - 2023)",
+              "hp": 155
+            },
+            {
+              "label": "SV200 (155 Hp) (2018 - 2023)",
+              "hp": 155
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "ssangyong-rodius-ii": {
+          "label": "SsangYong Rodius II",
+          "engines": [
+            {
+              "label": "200 CDI (155 Hp) 4WD Automatic (2012 - 2018)",
+              "hp": 155
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "ssangyong-rodius-i": {
+          "label": "SsangYong Rodius I",
+          "engines": [
+            {
+              "label": "2.7 20V (163 Hp) (2004 - 2013)",
+              "hp": 163,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "ssangyong-tager": {
+      "label": "SsangYong Tager",
+      "series": {
+        "ssangyong-tager": {
+          "label": "SsangYong Tager",
+          "engines": [
+            {
+              "label": "2.3 i 16V (140 Hp) (2008 - 2014)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "ssangyong-tivoli": {
+      "label": "SsangYong Tivoli",
+      "series": {
+        "ssangyong-tivoli-grand": {
+          "label": "SsangYong Tivoli Grand",
+          "engines": [
+            {
+              "label": "1.5 T-GDi (163 Hp) Automatic (2021 - 2023)",
+              "hp": 163,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 T-GDi (163 Hp) (2021 - 2023)",
+              "hp": 163,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "ssangyong-tivoli-facelift-2019": {
+          "label": "SsangYong Tivoli (facelift 2019)",
+          "engines": [
+            {
+              "label": "1.6 e-XDi (136 Hp) AWD AISIN (2019 - 2020)",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 e-XDi (136 Hp) AWD (2019 - 2020)",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 e-XDi (136 Hp) AISIN (2019 - 2020)",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 e-XDi (136 Hp) (2019 - 2020)",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 T-GDi (163 Hp) AWD AISIN (2019 - 2023)",
+              "hp": 163,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 T-GDi (163 Hp) AWD (2019 - 2023)",
+              "hp": 163,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 T-GDi (163 Hp) AISIN (2019 - 2023)",
+              "hp": 163,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 T-GDi (163 Hp) (2019 - 2023)",
+              "hp": 163,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 T-GDi (128 Hp) (2020 - 2023)",
+              "hp": 128,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "ssangyong-tivoli": {
+          "label": "SsangYong Tivoli",
+          "engines": [
+            {
+              "label": "1.6 VGT (115 Hp) AWD Automatic (2015 - 2019)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 VGT (115 Hp) AWD (2015 - 2019)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 VGT (115 Hp) Automatic (2015 - 2019)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 VGT (115 Hp) (2015 - 2019)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 CVVT (128 Hp) AWD Automatic (2015 - 2019)",
+              "hp": 128,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 CVVT (128 Hp) AWD (2015 - 2019)",
+              "hp": 128,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 CVVT (128 Hp) Automatic (2015 - 2019)",
+              "hp": 128,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 CVVT (128 Hp) (2015 - 2019)",
+              "hp": 128,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "ssangyong-torres": {
+      "label": "SsangYong Torres",
+      "series": {
+        "ssangyong-torres": {
+          "label": "SsangYong Torres",
+          "engines": [
+            {
+              "label": "EVX 73.4 kWh (207 Hp) Electric",
+              "hp": 207,
+              "fuel": "elektro"
+            },
+            {
+              "label": "1.5 T-GDI (170 Hp) Automatic",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 T-GDI (170 Hp) 4WD Automatic",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 T-GDI (163 Hp) Automatic",
+              "hp": 163,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 T-GDI (163 Hp) 4WD Automatic",
+              "hp": 163,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 T-GDI (163 Hp)",
+              "hp": 163,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "ssangyong-xlv": {
+      "label": "SsangYong XLV",
+      "series": {
+        "ssangyong-xlv-facelift-2021": {
+          "label": "SsangYong XLV (facelift 2021)",
+          "engines": [
+            {
+              "label": "1.6i (128 Hp) AISIN (2021 - 2023)",
+              "hp": 128,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6i (128 Hp) (2021 - 2023)",
+              "hp": 128,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "ssangyong-xlv": {
+          "label": "SsangYong XLV",
+          "engines": [
+            {
+              "label": "1.6 (128 Hp) AWD Automatic (2016 - 2021)",
+              "hp": 128,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (128 Hp) Automatic (2016 - 2021)",
+              "hp": 128,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (128 Hp) (2016 - 2021)",
+              "hp": 128,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (115 Hp) AWD Automatic (2016 - 2021)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (115 Hp) AWD (2016 - 2021)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (115 Hp) Automatic (2016 - 2021)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (115 Hp) (2016 - 2021)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,82 @@
+[
+  {
+    "label": "A4 allroad quattro 2.0 TFSI S tronic (Benzin, 211 PS)",
+    "fuel": "benzin",
+    "hp": 211
+  },
+  {
+    "label": "A4 allroad quattro 2.0 TFSI (Benzin, 211 PS)",
+    "fuel": "benzin",
+    "hp": 211
+  },
+  {
+    "label": "A4 allroad quattro 2.0 TFSI S tronic (Benzin, 225 PS)",
+    "fuel": "benzin",
+    "hp": 225
+  },
+  {
+    "label": "A4 allroad quattro 2.0 TFSI (Benzin, 225 PS)",
+    "fuel": "benzin",
+    "hp": 225
+  },
+  {
+    "label": "A4 allroad quattro 2.0 TDI DPF (Diesel, 143 PS)",
+    "fuel": "diesel",
+    "hp": 143
+  },
+  {
+    "label": "A4 allroad quattro 2.0 TDI (clean diesel) DPF (Diesel, 150 PS)",
+    "fuel": "clean diesel) dpf (diesel",
+    "hp": 150
+  },
+  {
+    "label": "A4 allroad quattro 2.0 TDI DPF (Diesel, 150 PS)",
+    "fuel": "diesel",
+    "hp": 150
+  },
+  {
+    "label": "A4 allroad quattro 2.0 TDI DPF (Diesel, 170 PS)",
+    "fuel": "diesel",
+    "hp": 170
+  },
+  {
+    "label": "A4 allroad quattro 2.0 TDI DPF S tronic (Diesel, 177 PS)",
+    "fuel": "diesel",
+    "hp": 177
+  },
+  {
+    "label": "A4 allroad quattro 2.0 TDI DPF (Diesel, 177 PS)",
+    "fuel": "diesel",
+    "hp": 177
+  },
+  {
+    "label": "A4 allroad quattro (clean die.) 2.0 TDI DPF S tron (Diesel, 190 PS)",
+    "fuel": "clean die.) 2.0 tdi dpf s tron (diesel",
+    "hp": 190
+  },
+  {
+    "label": "A4 allroad quattro (clean diesel) 2.0 TDI DPF (Diesel, 190 PS)",
+    "fuel": "clean diesel) 2.0 tdi dpf (diesel",
+    "hp": 190
+  },
+  {
+    "label": "A4 allroad quattro 3.0 TDI DPF S tronic (Diesel, 240 PS)",
+    "fuel": "diesel",
+    "hp": 240
+  },
+  {
+    "label": "A4 allroad quattro 3.0 TDI DPF (Diesel, 240 PS)",
+    "fuel": "diesel",
+    "hp": 240
+  },
+  {
+    "label": "A4 allroad quattro (clean die.) 3.0 TDI DPF S tron (Diesel, 245 PS)",
+    "fuel": "clean die.) 3.0 tdi dpf s tron (diesel",
+    "hp": 245
+  },
+  {
+    "label": "A4 allroad quattro 3.0 TDI DPF S tronic (Diesel, 245 PS)",
+    "fuel": "diesel",
+    "hp": 245
+  }
+]

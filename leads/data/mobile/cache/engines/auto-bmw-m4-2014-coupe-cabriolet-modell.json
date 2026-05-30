@@ -1,0 +1,42 @@
+[
+  {
+    "label": "M4 Cabrio DKG (Benzin, 431 PS)",
+    "fuel": "benzin",
+    "hp": 431
+  },
+  {
+    "label": "M4 Cabrio (Benzin, 431 PS)",
+    "fuel": "benzin",
+    "hp": 431
+  },
+  {
+    "label": "M4 Cabrio DKG (Benzin, 450 PS)",
+    "fuel": "benzin",
+    "hp": 450
+  },
+  {
+    "label": "M4 Cabrio (Benzin, 450 PS)",
+    "fuel": "benzin",
+    "hp": 450
+  },
+  {
+    "label": "M4 Coupe DKG (Benzin, 431 PS)",
+    "fuel": "benzin",
+    "hp": 431
+  },
+  {
+    "label": "M4 Coupe (Benzin, 431 PS)",
+    "fuel": "benzin",
+    "hp": 431
+  },
+  {
+    "label": "M4 Coupe DKG (Benzin, 450 PS)",
+    "fuel": "benzin",
+    "hp": 450
+  },
+  {
+    "label": "M4 Coupe (Benzin, 450 PS)",
+    "fuel": "benzin",
+    "hp": 450
+  }
+]

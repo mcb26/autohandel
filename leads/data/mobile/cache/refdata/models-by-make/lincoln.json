@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Aviator",
+    "description": "Aviator",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LINCOLN/model/Aviator"
+  },
+  {
+    "name": "Continental",
+    "description": "Continental",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LINCOLN/model/Continental"
+  },
+  {
+    "name": "LS",
+    "description": "LS",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LINCOLN/model/LS"
+  },
+  {
+    "name": "Mark",
+    "description": "Mark",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LINCOLN/model/Mark"
+  },
+  {
+    "name": "Navigator",
+    "description": "Navigator",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LINCOLN/model/Navigator"
+  },
+  {
+    "name": "Town Car",
+    "description": "Town Car",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LINCOLN/model/Town%20Car"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LINCOLN/model/ANDERE"
+  }
+]

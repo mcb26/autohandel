@@ -1,0 +1,117 @@
+[
+  {
+    "label": "A1 1.0 TFSI ultra Sportback (Benzin, 82 PS)",
+    "fuel": "benzin",
+    "hp": 82
+  },
+  {
+    "label": "A1 1.2 TFSI Sportback (Benzin, 86 PS)",
+    "fuel": "benzin",
+    "hp": 86
+  },
+  {
+    "label": "A1 1.0 TFSI ultra Sportback S tronic (Benzin, 95 PS)",
+    "fuel": "benzin",
+    "hp": 95
+  },
+  {
+    "label": "A1 1.0 TFSI ultra Sportback (Benzin, 95 PS)",
+    "fuel": "benzin",
+    "hp": 95
+  },
+  {
+    "label": "A1 1.4 TFSI Sportback S tronic (Benzin, 122 PS)",
+    "fuel": "benzin",
+    "hp": 122
+  },
+  {
+    "label": "A1 1.4 TFSI Sportback (Benzin, 122 PS)",
+    "fuel": "benzin",
+    "hp": 122
+  },
+  {
+    "label": "A1 1.4 TFSI Sportback S tronic (Benzin, 125 PS)",
+    "fuel": "benzin",
+    "hp": 125
+  },
+  {
+    "label": "A1 1.4 TFSI Sportback (Benzin, 125 PS)",
+    "fuel": "benzin",
+    "hp": 125
+  },
+  {
+    "label": "A1 1.4 TFSI Sportback cylinder on demand S tronic (Benzin, 140 PS)",
+    "fuel": "benzin",
+    "hp": 140
+  },
+  {
+    "label": "A1 1.4 TFSI Sportback cylinder on demand (Benzin, 140 PS)",
+    "fuel": "benzin",
+    "hp": 140
+  },
+  {
+    "label": "A1 1.4 TFSI Sportback cylinder on demand S tronic (Benzin, 150 PS)",
+    "fuel": "benzin",
+    "hp": 150
+  },
+  {
+    "label": "A1 1.4 TFSI Sportback cylinder on demand (Benzin, 150 PS)",
+    "fuel": "benzin",
+    "hp": 150
+  },
+  {
+    "label": "A1 1.4 TFSI Sportback S tronic (Benzin, 185 PS)",
+    "fuel": "benzin",
+    "hp": 185
+  },
+  {
+    "label": "A1 1.8 TFSI Sportback S tronic (Benzin, 192 PS)",
+    "fuel": "benzin",
+    "hp": 192
+  },
+  {
+    "label": "S1 Sportback (Benzin, 231 PS)",
+    "fuel": "benzin",
+    "hp": 231
+  },
+  {
+    "label": "A1 1.6 TDI Sportback S tronic (Diesel, 90 PS)",
+    "fuel": "diesel",
+    "hp": 90
+  },
+  {
+    "label": "A1 1.4 TDI (ultra) Sportback S tronic (Diesel, 90 PS)",
+    "fuel": "ultra) sportback s tronic (diesel",
+    "hp": 90
+  },
+  {
+    "label": "A1 1.6 TDI Sportback (Diesel, 90 PS)",
+    "fuel": "diesel",
+    "hp": 90
+  },
+  {
+    "label": "A1 1.4 TDI (ultra) Sportback (Diesel, 90 PS)",
+    "fuel": "ultra) sportback (diesel",
+    "hp": 90
+  },
+  {
+    "label": "A1 1.6 TDI Sportback (Diesel, 105 PS)",
+    "fuel": "diesel",
+    "hp": 105
+  },
+  {
+    "label": "A1 1.6 TDI Sportback S tronic (Diesel, 116 PS)",
+    "fuel": "diesel",
+    "hp": 116
+  },
+  {
+    "label": "A1 1.6 TDI Sportback (Diesel, 116 PS)",
+    "fuel": "diesel",
+    "hp": 116
+  },
+  {
+    "label": "A1 2.0 TDI Sportback (Diesel, 143 PS)",
+    "fuel": "diesel",
+    "hp": 143
+  }
+]

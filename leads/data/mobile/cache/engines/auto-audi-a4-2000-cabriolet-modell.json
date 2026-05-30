@@ -1,0 +1,77 @@
+[
+  {
+    "label": "A4 Cabriolet 1.8 T multitronic (Benzin, 163 PS)",
+    "fuel": "benzin",
+    "hp": 163
+  },
+  {
+    "label": "A4 Cabriolet 1.8 T (Benzin, 163 PS)",
+    "fuel": "benzin",
+    "hp": 163
+  },
+  {
+    "label": "A4 Cabriolet 2.0 TFSI multitronic (Benzin, 200 PS)",
+    "fuel": "benzin",
+    "hp": 200
+  },
+  {
+    "label": "A4 Cabriolet 2.0 TFSI (Benzin, 200 PS)",
+    "fuel": "benzin",
+    "hp": 200
+  },
+  {
+    "label": "A4 Cabriolet 3.2 FSI multitronic (Benzin, 255 PS)",
+    "fuel": "benzin",
+    "hp": 255
+  },
+  {
+    "label": "A4 Cabriolet 3.2 FSI quattro tiptronic (Benzin, 255 PS)",
+    "fuel": "benzin",
+    "hp": 255
+  },
+  {
+    "label": "A4 Cabriolet 3.2 FSI quattro (Benzin, 255 PS)",
+    "fuel": "benzin",
+    "hp": 255
+  },
+  {
+    "label": "S4 Cabriolet tiptronic (Benzin, 344 PS)",
+    "fuel": "benzin",
+    "hp": 344
+  },
+  {
+    "label": "S4 Cabriolet (Benzin, 344 PS)",
+    "fuel": "benzin",
+    "hp": 344
+  },
+  {
+    "label": "RS4 Cabriolet (Benzin, 420 PS)",
+    "fuel": "benzin",
+    "hp": 420
+  },
+  {
+    "label": "A4 Cabriolet 2.0 TDI DPF multitronic (Diesel, 140 PS)",
+    "fuel": "diesel",
+    "hp": 140
+  },
+  {
+    "label": "A4 Cabriolet 2.0 TDI DPF (Diesel, 140 PS)",
+    "fuel": "diesel",
+    "hp": 140
+  },
+  {
+    "label": "A4 Cabriolet 2.7 TDI DPF multitronic (Diesel, 180 PS)",
+    "fuel": "diesel",
+    "hp": 180
+  },
+  {
+    "label": "A4 Cabriolet 3.0 TDI DPF quattro tiptronic (Diesel, 232 PS)",
+    "fuel": "diesel",
+    "hp": 232
+  },
+  {
+    "label": "A4 Cabriolet 3.0 TDI DPF quattro (Diesel, 232 PS)",
+    "fuel": "diesel",
+    "hp": 232
+  }
+]

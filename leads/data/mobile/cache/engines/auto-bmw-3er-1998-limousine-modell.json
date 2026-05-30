@@ -1,0 +1,97 @@
+[
+  {
+    "label": "316i (Benzin, 105 PS)",
+    "fuel": "benzin",
+    "hp": 105
+  },
+  {
+    "label": "316i (Benzin, 115 PS)",
+    "fuel": "benzin",
+    "hp": 115
+  },
+  {
+    "label": "318i (Benzin, 118 PS)",
+    "fuel": "benzin",
+    "hp": 118
+  },
+  {
+    "label": "318i (Benzin, 143 PS)",
+    "fuel": "benzin",
+    "hp": 143
+  },
+  {
+    "label": "320i (Benzin, 150 PS)",
+    "fuel": "benzin",
+    "hp": 150
+  },
+  {
+    "label": "320i (Benzin, 170 PS)",
+    "fuel": "benzin",
+    "hp": 170
+  },
+  {
+    "label": "323i (Benzin, 170 PS)",
+    "fuel": "benzin",
+    "hp": 170
+  },
+  {
+    "label": "325i (Benzin, 192 PS)",
+    "fuel": "benzin",
+    "hp": 192
+  },
+  {
+    "label": "325xi (Benzin, 192 PS)",
+    "fuel": "benzin",
+    "hp": 192
+  },
+  {
+    "label": "328i (Benzin, 193 PS)",
+    "fuel": "benzin",
+    "hp": 193
+  },
+  {
+    "label": "330i (Benzin, 231 PS)",
+    "fuel": "benzin",
+    "hp": 231
+  },
+  {
+    "label": "330xi (Benzin, 231 PS)",
+    "fuel": "benzin",
+    "hp": 231
+  },
+  {
+    "label": "318d (Diesel, 115 PS)",
+    "fuel": "diesel",
+    "hp": 115
+  },
+  {
+    "label": "320d (Diesel, 136 PS)",
+    "fuel": "diesel",
+    "hp": 136
+  },
+  {
+    "label": "320d (Diesel, 150 PS)",
+    "fuel": "diesel",
+    "hp": 150
+  },
+  {
+    "label": "330d (Diesel, 184 PS)",
+    "fuel": "diesel",
+    "hp": 184
+  },
+  {
+    "label": "330xd (Diesel, 184 PS)",
+    "fuel": "diesel",
+    "hp": 184
+  },
+  {
+    "label": "330d (Diesel, 204 PS)",
+    "fuel": "diesel",
+    "hp": 204
+  },
+  {
+    "label": "330xd (Diesel, 204 PS)",
+    "fuel": "diesel",
+    "hp": 204
+  }
+]

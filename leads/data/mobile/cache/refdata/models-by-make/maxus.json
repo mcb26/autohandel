@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Deliver 7",
+    "description": "Deliver 7",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MAXUS/model/Deliver%207"
+  },
+  {
+    "name": "Deliver 9",
+    "description": "Deliver 9",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MAXUS/model/Deliver%209"
+  },
+  {
+    "name": "Euniq 5",
+    "description": "Euniq 5",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MAXUS/model/Euniq%205"
+  },
+  {
+    "name": "Euniq 6",
+    "description": "Euniq 6",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MAXUS/model/Euniq%206"
+  },
+  {
+    "name": "Mifa 9",
+    "description": "Mifa 9",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MAXUS/model/Mifa%209"
+  },
+  {
+    "name": "T60 MAX",
+    "description": "T60 MAX",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MAXUS/model/T60%20MAX"
+  },
+  {
+    "name": "T90",
+    "description": "T90",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MAXUS/model/T90"
+  },
+  {
+    "name": "eDeliver 3",
+    "description": "eDeliver 3",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MAXUS/model/eDeliver%203"
+  },
+  {
+    "name": "eDeliver 5",
+    "description": "eDeliver 5",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MAXUS/model/eDeliver%205"
+  },
+  {
+    "name": "eDeliver 9",
+    "description": "eDeliver 9",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MAXUS/model/eDeliver%209"
+  },
+  {
+    "name": "eTerron 9",
+    "description": "eTerron 9",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MAXUS/model/eTerron%209"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MAXUS/model/ANDERE"
+  }
+]

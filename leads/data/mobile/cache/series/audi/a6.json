@@ -1,0 +1,51 @@
+[
+  {
+    "label": "Kombi Audi RS6 Avant (C7/4G) 2013 – 2018",
+    "href": "https://www.mobile.de/auto/audi/rs6/2013/kombi/modell/",
+    "modell_url": "https://www.mobile.de/auto/audi/rs6/2013/kombi/modell/",
+    "model_slug": "a6",
+    "brand_slug": "audi"
+  },
+  {
+    "label": "Kombi Audi A6 Avant (4G) 2011 – 2018",
+    "href": "https://www.mobile.de/auto/audi/a6/2010/kombi/modell/",
+    "modell_url": "https://www.mobile.de/auto/audi/a6/2010/kombi/modell/",
+    "model_slug": "a6",
+    "brand_slug": "audi"
+  },
+  {
+    "label": "Limousine Audi A6 Limousine (4G) 2010 – 2018",
+    "href": "https://www.mobile.de/auto/audi/a6/2010/limousine/modell/",
+    "modell_url": "https://www.mobile.de/auto/audi/a6/2010/limousine/modell/",
+    "model_slug": "a6",
+    "brand_slug": "audi"
+  },
+  {
+    "label": "Limousine Audi A6 Limousine (4F) 2008 – 2010",
+    "href": "https://www.mobile.de/auto/audi/a6/2004/limousine/modell/",
+    "modell_url": "https://www.mobile.de/auto/audi/a6/2004/limousine/modell/",
+    "model_slug": "a6",
+    "brand_slug": "audi"
+  },
+  {
+    "label": "Kombi Audi A6 Avant (4F) 2008 – 2011",
+    "href": "https://www.mobile.de/auto/audi/a6/2004/kombi/modell/",
+    "modell_url": "https://www.mobile.de/auto/audi/a6/2004/kombi/modell/",
+    "model_slug": "a6",
+    "brand_slug": "audi"
+  },
+  {
+    "label": "Kombi Audi A6 Avant (C5) 1998 – 2005",
+    "href": "https://www.mobile.de/auto/audi/a6/1997/kombi/modell/",
+    "modell_url": "https://www.mobile.de/auto/audi/a6/1997/kombi/modell/",
+    "model_slug": "a6",
+    "brand_slug": "audi"
+  },
+  {
+    "label": "Limousine Audi A6 Limousine (4B) 1997 – 2004",
+    "href": "https://www.mobile.de/auto/audi/a6/1997/limousine/modell/",
+    "modell_url": "https://www.mobile.de/auto/audi/a6/1997/limousine/modell/",
+    "model_slug": "a6",
+    "brand_slug": "audi"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "label": "Cabrio VW Beetle Cabriolet (5C) 2012 – 2018",
+    "href": "https://www.mobile.de/auto/vw/beetle/2011/cabriolet/modell/",
+    "modell_url": "https://www.mobile.de/auto/vw/beetle/2011/cabriolet/modell/",
+    "model_slug": "beetle",
+    "brand_slug": "vw"
+  },
+  {
+    "label": "Limousine VW Beetle (5C) 2011 – 2017",
+    "href": "https://www.mobile.de/auto/vw/beetle/2011/coupe/modell/",
+    "modell_url": "https://www.mobile.de/auto/vw/beetle/2011/coupe/modell/",
+    "model_slug": "beetle",
+    "brand_slug": "vw"
+  }
+]

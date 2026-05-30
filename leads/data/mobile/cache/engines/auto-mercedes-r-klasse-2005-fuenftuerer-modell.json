@@ -1,0 +1,137 @@
+[
+  {
+    "label": "R 300 7G-TRONIC (Benzin, 231 PS)",
+    "fuel": "benzin",
+    "hp": 231
+  },
+  {
+    "label": "R 300 L 7G-TRONIC (Benzin, 231 PS)",
+    "fuel": "benzin",
+    "hp": 231
+  },
+  {
+    "label": "R 280 7G-TRONIC (Benzin, 231 PS)",
+    "fuel": "benzin",
+    "hp": 231
+  },
+  {
+    "label": "R 280 L 7G-TRONIC (Benzin, 231 PS)",
+    "fuel": "benzin",
+    "hp": 231
+  },
+  {
+    "label": "R 350 4Matic 7G-TRONIC (Benzin, 272 PS)",
+    "fuel": "benzin",
+    "hp": 272
+  },
+  {
+    "label": "R 350 L 4Matic 7G-TRONIC (Benzin, 272 PS)",
+    "fuel": "benzin",
+    "hp": 272
+  },
+  {
+    "label": "R 350 7G-TRONIC (Benzin, 272 PS)",
+    "fuel": "benzin",
+    "hp": 272
+  },
+  {
+    "label": "R 350 L 7G-TRONIC (Benzin, 272 PS)",
+    "fuel": "benzin",
+    "hp": 272
+  },
+  {
+    "label": "R 350 4Matic BlueEFFICIENCY 7G-TRONIC (Benzin, 306 PS)",
+    "fuel": "benzin",
+    "hp": 306
+  },
+  {
+    "label": "R 350 L 4Matic BlueEFFICIENCY 7G-TRONIC (Benzin, 306 PS)",
+    "fuel": "benzin",
+    "hp": 306
+  },
+  {
+    "label": "R 500 L 4Matic 7G-TRONIC (Benzin, 388 PS)",
+    "fuel": "benzin",
+    "hp": 388
+  },
+  {
+    "label": "R 500 4Matic 7G-TRONIC (Benzin, 387 PS)",
+    "fuel": "benzin",
+    "hp": 387
+  },
+  {
+    "label": "R 280 CDI 4Matic 7G-TRONIC (Diesel, 190 PS)",
+    "fuel": "diesel",
+    "hp": 190
+  },
+  {
+    "label": "R 280 CDI 7G-TRONIC (Diesel, 190 PS)",
+    "fuel": "diesel",
+    "hp": 190
+  },
+  {
+    "label": "R 280 CDI L 7G-TRONIC (Diesel, 190 PS)",
+    "fuel": "diesel",
+    "hp": 190
+  },
+  {
+    "label": "R 300 CDI 4Matic 7G-TRONIC (Diesel, 190 PS)",
+    "fuel": "diesel",
+    "hp": 190
+  },
+  {
+    "label": "R 300 CDI 7G-TRONIC DPF (Diesel, 190 PS)",
+    "fuel": "diesel",
+    "hp": 190
+  },
+  {
+    "label": "R 300 CDI L 7G-TRONIC DPF (Diesel, 190 PS)",
+    "fuel": "diesel",
+    "hp": 190
+  },
+  {
+    "label": "R 300 CDI DPF BlueEFFICIENCY 7G-TRONIC (Diesel, 190 PS)",
+    "fuel": "diesel",
+    "hp": 190
+  },
+  {
+    "label": "R 350 BlueTEC L 4Matic 7G-TRONIC (Diesel, 211 PS)",
+    "fuel": "diesel",
+    "hp": 211
+  },
+  {
+    "label": "R 350 BlueTEC L DPF 4Matic 7G-TRONIC (Diesel, 211 PS)",
+    "fuel": "diesel",
+    "hp": 211
+  },
+  {
+    "label": "R 320 CDI 4Matic 7G-TRONIC (Diesel, 224 PS)",
+    "fuel": "diesel",
+    "hp": 224
+  },
+  {
+    "label": "R 320 CDI L 4Matic 7G-TRONIC (Diesel, 224 PS)",
+    "fuel": "diesel",
+    "hp": 224
+  },
+  {
+    "label": "R 350 CDI 4Matic 7G-TRONIC (Diesel, 224 PS)",
+    "fuel": "diesel",
+    "hp": 224
+  },
+  {
+    "label": "R 350 CDI L 4Matic 7G-TRONIC (Diesel, 224 PS)",
+    "fuel": "diesel",
+    "hp": 224
+  },
+  {
+    "label": "R 350 CDI DPF 4Matic 7G-TRONIC (Diesel, 265 PS)",
+    "fuel": "diesel",
+    "hp": 265
+  },
+  {
+    "label": "R 350 CDI L DPF 4Matic 7G-TRONIC (Diesel, 265 PS)",
+    "fuel": "diesel",
+    "hp": 265
+  }
+]

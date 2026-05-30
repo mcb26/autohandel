@@ -1,0 +1,22 @@
+[
+  {
+    "label": "Motorisierungsvariante Technische Daten und Motorisierung RS6 Avant (Benzin, 560 PS) RS6 Avant (Benzin, 605 PS)",
+    "fuel": "benzin",
+    "hp": 605
+  },
+  {
+    "label": "RS6 Avant (Benzin, 560 PS) RS6 Avant (Benzin, 605 PS)",
+    "fuel": "benzin",
+    "hp": 605
+  },
+  {
+    "label": "RS6 Avant (Benzin, 560 PS)",
+    "fuel": "benzin",
+    "hp": 560
+  },
+  {
+    "label": "RS6 Avant (Benzin, 605 PS)",
+    "fuel": "benzin",
+    "hp": 605
+  }
+]

@@ -1,0 +1,372 @@
+[
+  {
+    "label": "318i Touring Aut. (Benzin, 136 PS)",
+    "fuel": "benzin",
+    "hp": 136
+  },
+  {
+    "label": "316i Touring Aut. (Benzin, 136 PS)",
+    "fuel": "benzin",
+    "hp": 136
+  },
+  {
+    "label": "318i Touring (Benzin, 136 PS)",
+    "fuel": "benzin",
+    "hp": 136
+  },
+  {
+    "label": "316i Touring (Benzin, 136 PS)",
+    "fuel": "benzin",
+    "hp": 136
+  },
+  {
+    "label": "320i Touring Aut. (Benzin, 184 PS)",
+    "fuel": "benzin",
+    "hp": 184
+  },
+  {
+    "label": "320i Touring xDrive Aut. (Benzin, 184 PS)",
+    "fuel": "benzin",
+    "hp": 184
+  },
+  {
+    "label": "320i Touring Sport-Aut. (Benzin, 184 PS)",
+    "fuel": "benzin",
+    "hp": 184
+  },
+  {
+    "label": "320i Touring xDrive Sport-Aut. (Benzin, 184 PS)",
+    "fuel": "benzin",
+    "hp": 184
+  },
+  {
+    "label": "320i Touring (Benzin, 184 PS)",
+    "fuel": "benzin",
+    "hp": 184
+  },
+  {
+    "label": "320i Touring xDrive (Benzin, 184 PS)",
+    "fuel": "benzin",
+    "hp": 184
+  },
+  {
+    "label": "328i Touring Aut. (Benzin, 245 PS)",
+    "fuel": "benzin",
+    "hp": 245
+  },
+  {
+    "label": "328i Touring Sport-Aut. (Benzin, 245 PS)",
+    "fuel": "benzin",
+    "hp": 245
+  },
+  {
+    "label": "328i Touring xDrive Aut. (Benzin, 245 PS)",
+    "fuel": "benzin",
+    "hp": 245
+  },
+  {
+    "label": "328i Touring xDrive Sport-Aut. (Benzin, 245 PS)",
+    "fuel": "benzin",
+    "hp": 245
+  },
+  {
+    "label": "328i Touring xDrive (Benzin, 245 PS)",
+    "fuel": "benzin",
+    "hp": 245
+  },
+  {
+    "label": "328i Touring (Benzin, 245 PS)",
+    "fuel": "benzin",
+    "hp": 245
+  },
+  {
+    "label": "330i Touring Aut. (Benzin, 252 PS)",
+    "fuel": "benzin",
+    "hp": 252
+  },
+  {
+    "label": "330i Touring xDrive Aut. (Benzin, 252 PS)",
+    "fuel": "benzin",
+    "hp": 252
+  },
+  {
+    "label": "330i Touring (Benzin, 252 PS)",
+    "fuel": "benzin",
+    "hp": 252
+  },
+  {
+    "label": "335i Touring Aut. (Benzin, 306 PS)",
+    "fuel": "benzin",
+    "hp": 306
+  },
+  {
+    "label": "335i Touring Sport-Aut. (Benzin, 306 PS)",
+    "fuel": "benzin",
+    "hp": 306
+  },
+  {
+    "label": "335i Touring xDrive Aut. (Benzin, 306 PS)",
+    "fuel": "benzin",
+    "hp": 306
+  },
+  {
+    "label": "335i Touring xDrive Sport-Aut. (Benzin, 306 PS)",
+    "fuel": "benzin",
+    "hp": 306
+  },
+  {
+    "label": "335i Touring (Benzin, 306 PS)",
+    "fuel": "benzin",
+    "hp": 306
+  },
+  {
+    "label": "340i Touring Aut. (Benzin, 326 PS)",
+    "fuel": "benzin",
+    "hp": 326
+  },
+  {
+    "label": "340i Touring xDrive Aut. (Benzin, 326 PS)",
+    "fuel": "benzin",
+    "hp": 326
+  },
+  {
+    "label": "316d Touring Aut. (Diesel, 116 PS)",
+    "fuel": "diesel",
+    "hp": 116
+  },
+  {
+    "label": "316d Touring (Diesel, 116 PS)",
+    "fuel": "diesel",
+    "hp": 116
+  },
+  {
+    "label": "318d Touring Aut. Blue Performance (Diesel, 143 PS)",
+    "fuel": "diesel",
+    "hp": 143
+  },
+  {
+    "label": "318d Touring Aut. (Diesel, 143 PS)",
+    "fuel": "diesel",
+    "hp": 143
+  },
+  {
+    "label": "318d Touring Blue Performance (Diesel, 143 PS)",
+    "fuel": "diesel",
+    "hp": 143
+  },
+  {
+    "label": "318d Touring (Diesel, 143 PS)",
+    "fuel": "diesel",
+    "hp": 143
+  },
+  {
+    "label": "318d xDrive Touring (Diesel, 143 PS)",
+    "fuel": "diesel",
+    "hp": 143
+  },
+  {
+    "label": "318d Touring Aut. (Diesel, 150 PS)",
+    "fuel": "diesel",
+    "hp": 150
+  },
+  {
+    "label": "318d Touring (Diesel, 150 PS)",
+    "fuel": "diesel",
+    "hp": 150
+  },
+  {
+    "label": "318d Touring xDrive (Diesel, 150 PS)",
+    "fuel": "diesel",
+    "hp": 150
+  },
+  {
+    "label": "320d Touring Aut. Efficient Dynamics Edition (Diesel, 163 PS)",
+    "fuel": "diesel",
+    "hp": 163
+  },
+  {
+    "label": "320d Touring Aut. Eff. Dynamics Edition Blue Perf. (Diesel, 163 PS)",
+    "fuel": "diesel",
+    "hp": 163
+  },
+  {
+    "label": "320d Touring Sport-Aut. Eff. Dyn. Edition Blue Per (Diesel, 163 PS)",
+    "fuel": "diesel",
+    "hp": 163
+  },
+  {
+    "label": "320d Touring Sport-Aut. Efficient Dynamics Edition (Diesel, 163 PS)",
+    "fuel": "diesel",
+    "hp": 163
+  },
+  {
+    "label": "320d Touring Efficient Dynamics Edition (Diesel, 163 PS)",
+    "fuel": "diesel",
+    "hp": 163
+  },
+  {
+    "label": "320d Touring Efficient Dynamics Edition Blue Perf. (Diesel, 163 PS)",
+    "fuel": "diesel",
+    "hp": 163
+  },
+  {
+    "label": "320d Touring Aut. Blue Performance (Diesel, 184 PS)",
+    "fuel": "diesel",
+    "hp": 184
+  },
+  {
+    "label": "320d Touring Aut. (Diesel, 184 PS)",
+    "fuel": "diesel",
+    "hp": 184
+  },
+  {
+    "label": "320d Touring Sport-Aut. Blue Performance (Diesel, 184 PS)",
+    "fuel": "diesel",
+    "hp": 184
+  },
+  {
+    "label": "320d Touring Sport-Aut. (Diesel, 184 PS)",
+    "fuel": "diesel",
+    "hp": 184
+  },
+  {
+    "label": "320d Touring xDrive Aut. (Diesel, 184 PS)",
+    "fuel": "diesel",
+    "hp": 184
+  },
+  {
+    "label": "320d Touring xDrive Sport-Aut. (Diesel, 184 PS)",
+    "fuel": "diesel",
+    "hp": 184
+  },
+  {
+    "label": "320d Touring Blue Performance (Diesel, 184 PS)",
+    "fuel": "diesel",
+    "hp": 184
+  },
+  {
+    "label": "320d Touring xDrive (Diesel, 184 PS)",
+    "fuel": "diesel",
+    "hp": 184
+  },
+  {
+    "label": "320d Touring (Diesel, 184 PS)",
+    "fuel": "diesel",
+    "hp": 184
+  },
+  {
+    "label": "320d Touring Aut. (Diesel, 190 PS)",
+    "fuel": "diesel",
+    "hp": 190
+  },
+  {
+    "label": "320d Touring xDrive Aut. (Diesel, 190 PS)",
+    "fuel": "diesel",
+    "hp": 190
+  },
+  {
+    "label": "320d Touring (Diesel, 190 PS)",
+    "fuel": "diesel",
+    "hp": 190
+  },
+  {
+    "label": "320d Touring xDrive (Diesel, 190 PS)",
+    "fuel": "diesel",
+    "hp": 190
+  },
+  {
+    "label": "325d Touring Aut. (Diesel, 218 PS)",
+    "fuel": "diesel",
+    "hp": 218
+  },
+  {
+    "label": "325d Touring Aut. Blue Performance (Diesel, 218 PS)",
+    "fuel": "diesel",
+    "hp": 218
+  },
+  {
+    "label": "325d Touring Sport-Aut. Blue Performance (Diesel, 218 PS)",
+    "fuel": "diesel",
+    "hp": 218
+  },
+  {
+    "label": "325d Touring Sport-Aut. (Diesel, 218 PS)",
+    "fuel": "diesel",
+    "hp": 218
+  },
+  {
+    "label": "325d Touring (Diesel, 218 PS)",
+    "fuel": "diesel",
+    "hp": 218
+  },
+  {
+    "label": "325d Touring Blue Performance (Diesel, 218 PS)",
+    "fuel": "diesel",
+    "hp": 218
+  },
+  {
+    "label": "325d Touring Blue Peformance (Diesel, 218 PS)",
+    "fuel": "diesel",
+    "hp": 218
+  },
+  {
+    "label": "325d Touring Aut. (Diesel, 224 PS)",
+    "fuel": "diesel",
+    "hp": 224
+  },
+  {
+    "label": "325d Touring (Diesel, 224 PS)",
+    "fuel": "diesel",
+    "hp": 224
+  },
+  {
+    "label": "330d Touring Aut. (Diesel, 258 PS)",
+    "fuel": "diesel",
+    "hp": 258
+  },
+  {
+    "label": "330d Touring xDrive Aut. (Diesel, 258 PS)",
+    "fuel": "diesel",
+    "hp": 258
+  },
+  {
+    "label": "330d Touring Aut. Blue Performance (Diesel, 258 PS)",
+    "fuel": "diesel",
+    "hp": 258
+  },
+  {
+    "label": "330d Touring Sport-Aut. Blue Performance (Diesel, 258 PS)",
+    "fuel": "diesel",
+    "hp": 258
+  },
+  {
+    "label": "330d Touring Sport-Aut. (Diesel, 258 PS)",
+    "fuel": "diesel",
+    "hp": 258
+  },
+  {
+    "label": "330d Touring xDrive Aut. Blue Performance (Diesel, 258 PS)",
+    "fuel": "diesel",
+    "hp": 258
+  },
+  {
+    "label": "330d Touring xDrive Sport-Aut. Blue Performance (Diesel, 258 PS)",
+    "fuel": "diesel",
+    "hp": 258
+  },
+  {
+    "label": "330d Touring xDrive Sport-Aut. (Diesel, 258 PS)",
+    "fuel": "diesel",
+    "hp": 258
+  },
+  {
+    "label": "335d Touring xDrive Aut. (Diesel, 313 PS)",
+    "fuel": "diesel",
+    "hp": 313
+  },
+  {
+    "label": "335d Touring xDrive Sport-Aut. (Diesel, 313 PS)",
+    "fuel": "diesel",
+    "hp": 313
+  }
+]

@@ -1,0 +1,892 @@
+[
+  {
+    "name": "ABARTH",
+    "description": "Abarth",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ABARTH"
+  },
+  {
+    "name": "AC",
+    "description": "AC",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/AC"
+  },
+  {
+    "name": "ACURA",
+    "description": "Acura",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ACURA"
+  },
+  {
+    "name": "AIWAYS",
+    "description": "Aiways",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/AIWAYS"
+  },
+  {
+    "name": "AIXAM",
+    "description": "Aixam",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/AIXAM"
+  },
+  {
+    "name": "ALFA ROMEO",
+    "description": "Alfa Romeo",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ALFA%20ROMEO"
+  },
+  {
+    "name": "ALPINA",
+    "description": "ALPINA",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ALPINA"
+  },
+  {
+    "name": "ALPINE",
+    "description": "Alpine",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ALPINE"
+  },
+  {
+    "name": "ALVIS",
+    "description": "Alvis",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ALVIS"
+  },
+  {
+    "name": "ARIEL",
+    "description": "Ariel",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ARIEL"
+  },
+  {
+    "name": "ARTEGA",
+    "description": "Artega",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ARTEGA"
+  },
+  {
+    "name": "ASIA MOTORS",
+    "description": "Asia Motors",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ASIA%20MOTORS"
+  },
+  {
+    "name": "ASTON MARTIN",
+    "description": "Aston Martin",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ASTON%20MARTIN"
+  },
+  {
+    "name": "AUDI",
+    "description": "Audi",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/AUDI"
+  },
+  {
+    "name": "AUSTIN",
+    "description": "Austin",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/AUSTIN"
+  },
+  {
+    "name": "AUSTIN HEALEY",
+    "description": "Austin Healey",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/AUSTIN%20HEALEY"
+  },
+  {
+    "name": "AUTO UNION",
+    "description": "Auto Union",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/AUTO%20UNION"
+  },
+  {
+    "name": "BAIC",
+    "description": "BAIC",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BAIC"
+  },
+  {
+    "name": "BARKAS",
+    "description": "Barkas",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BARKAS"
+  },
+  {
+    "name": "BAW",
+    "description": "BAW",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BAW"
+  },
+  {
+    "name": "BENTLEY",
+    "description": "Bentley",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BENTLEY"
+  },
+  {
+    "name": "BIZZARRINI",
+    "description": "Bizzarrini",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BIZZARRINI"
+  },
+  {
+    "name": "BMW",
+    "description": "BMW",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BMW"
+  },
+  {
+    "name": "BORGWARD",
+    "description": "Borgward",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BORGWARD"
+  },
+  {
+    "name": "BRILLIANCE",
+    "description": "Brilliance",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BRILLIANCE"
+  },
+  {
+    "name": "BUGATTI",
+    "description": "Bugatti",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BUGATTI"
+  },
+  {
+    "name": "BUICK",
+    "description": "Buick",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BUICK"
+  },
+  {
+    "name": "BYD",
+    "description": "BYD",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BYD"
+  },
+  {
+    "name": "CADILLAC",
+    "description": "Cadillac",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CADILLAC"
+  },
+  {
+    "name": "CASALINI",
+    "description": "Casalini",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CASALINI"
+  },
+  {
+    "name": "CATERHAM",
+    "description": "Caterham",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CATERHAM"
+  },
+  {
+    "name": "CENNTRO",
+    "description": "Cenntro",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CENNTRO"
+  },
+  {
+    "name": "CHANGAN",
+    "description": "Changan",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CHANGAN"
+  },
+  {
+    "name": "CHATENET",
+    "description": "Chatenet",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CHATENET"
+  },
+  {
+    "name": "CHEVROLET",
+    "description": "Chevrolet",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CHEVROLET"
+  },
+  {
+    "name": "CHRYSLER",
+    "description": "Chrysler",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CHRYSLER"
+  },
+  {
+    "name": "CITROEN",
+    "description": "Citroën",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CITROEN"
+  },
+  {
+    "name": "COBRA",
+    "description": "Cobra",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/COBRA"
+  },
+  {
+    "name": "CORVETTE",
+    "description": "Corvette",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CORVETTE"
+  },
+  {
+    "name": "CUPRA",
+    "description": "Cupra",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CUPRA"
+  },
+  {
+    "name": "DACIA",
+    "description": "Dacia",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DACIA"
+  },
+  {
+    "name": "DAEWOO",
+    "description": "Daewoo",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DAEWOO"
+  },
+  {
+    "name": "DAIHATSU",
+    "description": "Daihatsu",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DAIHATSU"
+  },
+  {
+    "name": "DALLARA",
+    "description": "Dallara",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DALLARA"
+  },
+  {
+    "name": "DATSUN",
+    "description": "Datsun",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DATSUN"
+  },
+  {
+    "name": "DELAHAYE",
+    "description": "Delahaye",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DELAHAYE"
+  },
+  {
+    "name": "DELOREAN",
+    "description": "DeLorean",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DELOREAN"
+  },
+  {
+    "name": "DETOMASO",
+    "description": "DeTomaso",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DETOMASO"
+  },
+  {
+    "name": "DFSK",
+    "description": "DFSK",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DFSK"
+  },
+  {
+    "name": "DODGE",
+    "description": "Dodge",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DODGE"
+  },
+  {
+    "name": "DONKERVOORT",
+    "description": "Donkervoort",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DONKERVOORT"
+  },
+  {
+    "name": "DS",
+    "description": "DS Automobiles",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DS"
+  },
+  {
+    "name": "E.GO",
+    "description": "e.GO",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/E.GO"
+  },
+  {
+    "name": "ELARIS",
+    "description": "Elaris",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ELARIS"
+  },
+  {
+    "name": "ESTRIMA",
+    "description": "Estrima",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ESTRIMA"
+  },
+  {
+    "name": "FACEL VEGA",
+    "description": "Facel Vega",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/FACEL%20VEGA"
+  },
+  {
+    "name": "FERRARI",
+    "description": "Ferrari",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/FERRARI"
+  },
+  {
+    "name": "FIAT",
+    "description": "Fiat",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/FIAT"
+  },
+  {
+    "name": "FISKER",
+    "description": "Fisker",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/FISKER"
+  },
+  {
+    "name": "FORD",
+    "description": "Ford",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/FORD"
+  },
+  {
+    "name": "FOTON",
+    "description": "Foton",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/FOTON"
+  },
+  {
+    "name": "GAC GONOW",
+    "description": "GAC Gonow",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/GAC%20GONOW"
+  },
+  {
+    "name": "GEMBALLA",
+    "description": "Gemballa",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/GEMBALLA"
+  },
+  {
+    "name": "GENESIS",
+    "description": "Genesis",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/GENESIS"
+  },
+  {
+    "name": "GMC",
+    "description": "GMC",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/GMC"
+  },
+  {
+    "name": "GRECAV",
+    "description": "Grecav",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/GRECAV"
+  },
+  {
+    "name": "GWM",
+    "description": "GWM",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/GWM"
+  },
+  {
+    "name": "HAMANN",
+    "description": "Hamann",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/HAMANN"
+  },
+  {
+    "name": "HEINKEL",
+    "description": "Heinkel",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/HEINKEL"
+  },
+  {
+    "name": "HOLDEN",
+    "description": "Holden",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/HOLDEN"
+  },
+  {
+    "name": "HONDA",
+    "description": "Honda",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/HONDA"
+  },
+  {
+    "name": "HONGQI",
+    "description": "Hongqi",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/HONGQI"
+  },
+  {
+    "name": "HORCH",
+    "description": "Horch",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/HORCH"
+  },
+  {
+    "name": "HUMMER",
+    "description": "Hummer",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/HUMMER"
+  },
+  {
+    "name": "HYUNDAI",
+    "description": "Hyundai",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/HYUNDAI"
+  },
+  {
+    "name": "INEOS",
+    "description": "INEOS",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/INEOS"
+  },
+  {
+    "name": "INFINITI",
+    "description": "Infiniti",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/INFINITI"
+  },
+  {
+    "name": "INVICTA",
+    "description": "Invicta",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/INVICTA"
+  },
+  {
+    "name": "ISUZU",
+    "description": "Isuzu",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ISUZU"
+  },
+  {
+    "name": "IVECO",
+    "description": "Iveco",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/IVECO"
+  },
+  {
+    "name": "JAC",
+    "description": "JAC",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/JAC"
+  },
+  {
+    "name": "JAECOO",
+    "description": "JAECOO",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/JAECOO"
+  },
+  {
+    "name": "JAGUAR",
+    "description": "Jaguar",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/JAGUAR"
+  },
+  {
+    "name": "JEEP",
+    "description": "Jeep",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/JEEP"
+  },
+  {
+    "name": "JIAYUAN",
+    "description": "Jiayuan",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/JIAYUAN"
+  },
+  {
+    "name": "KGM",
+    "description": "KGM",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/KGM"
+  },
+  {
+    "name": "KIA",
+    "description": "Kia",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/KIA"
+  },
+  {
+    "name": "KOENIGSEGG",
+    "description": "Koenigsegg",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/KOENIGSEGG"
+  },
+  {
+    "name": "KTM",
+    "description": "KTM",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/KTM"
+  },
+  {
+    "name": "LADA",
+    "description": "Lada",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LADA"
+  },
+  {
+    "name": "LAMBORGHINI",
+    "description": "Lamborghini",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LAMBORGHINI"
+  },
+  {
+    "name": "LANCIA",
+    "description": "Lancia",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LANCIA"
+  },
+  {
+    "name": "LAND ROVER",
+    "description": "Land Rover",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LAND%20ROVER"
+  },
+  {
+    "name": "LANDWIND",
+    "description": "Landwind",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LANDWIND"
+  },
+  {
+    "name": "LEAPMOTOR",
+    "description": "Leapmotor",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LEAPMOTOR"
+  },
+  {
+    "name": "LEVC",
+    "description": "LEVC",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LEVC"
+  },
+  {
+    "name": "LEXUS",
+    "description": "Lexus",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LEXUS"
+  },
+  {
+    "name": "LIGIER",
+    "description": "Ligier",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LIGIER"
+  },
+  {
+    "name": "LINCOLN",
+    "description": "Lincoln",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LINCOLN"
+  },
+  {
+    "name": "LOTUS",
+    "description": "Lotus",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LOTUS"
+  },
+  {
+    "name": "LUCID",
+    "description": "Lucid",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LUCID"
+  },
+  {
+    "name": "LYNC AND CO",
+    "description": "Lynk&Co",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LYNC%20AND%20CO"
+  },
+  {
+    "name": "MAHINDRA",
+    "description": "Mahindra",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MAHINDRA"
+  },
+  {
+    "name": "MAN",
+    "description": "MAN",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MAN"
+  },
+  {
+    "name": "MASERATI",
+    "description": "Maserati",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MASERATI"
+  },
+  {
+    "name": "MAXUS",
+    "description": "Maxus",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MAXUS"
+  },
+  {
+    "name": "MAYBACH",
+    "description": "Maybach",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MAYBACH"
+  },
+  {
+    "name": "MAZDA",
+    "description": "Mazda",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MAZDA"
+  },
+  {
+    "name": "MCLAREN",
+    "description": "McLaren",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MCLAREN"
+  },
+  {
+    "name": "MERCEDES-BENZ",
+    "description": "Mercedes-Benz",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ"
+  },
+  {
+    "name": "MESSERSCHMITT",
+    "description": "Messerschmitt",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MESSERSCHMITT"
+  },
+  {
+    "name": "MG",
+    "description": "MG",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MG"
+  },
+  {
+    "name": "MICROCAR",
+    "description": "Microcar",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MICROCAR"
+  },
+  {
+    "name": "MICROLINO",
+    "description": "Microlino",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MICROLINO"
+  },
+  {
+    "name": "MINI",
+    "description": "MINI",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI"
+  },
+  {
+    "name": "MITSUBISHI",
+    "description": "Mitsubishi",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MITSUBISHI"
+  },
+  {
+    "name": "MORGAN",
+    "description": "Morgan",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MORGAN"
+  },
+  {
+    "name": "NIO",
+    "description": "NIO",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/NIO"
+  },
+  {
+    "name": "NISSAN",
+    "description": "Nissan",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/NISSAN"
+  },
+  {
+    "name": "NSU",
+    "description": "NSU",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/NSU"
+  },
+  {
+    "name": "OLDSMOBILE",
+    "description": "Oldsmobile",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/OLDSMOBILE"
+  },
+  {
+    "name": "OMODA",
+    "description": "OMODA",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/OMODA"
+  },
+  {
+    "name": "OPEL",
+    "description": "Opel",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/OPEL"
+  },
+  {
+    "name": "ORA",
+    "description": "ORA",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ORA"
+  },
+  {
+    "name": "PACKARD",
+    "description": "Packard",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/PACKARD"
+  },
+  {
+    "name": "PAGANI",
+    "description": "Pagani",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/PAGANI"
+  },
+  {
+    "name": "PEUGEOT",
+    "description": "Peugeot",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/PEUGEOT"
+  },
+  {
+    "name": "PIAGGIO",
+    "description": "Piaggio",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/PIAGGIO"
+  },
+  {
+    "name": "PLYMOUTH",
+    "description": "Plymouth",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/PLYMOUTH"
+  },
+  {
+    "name": "POLESTAR",
+    "description": "Polestar",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/POLESTAR"
+  },
+  {
+    "name": "PONTIAC",
+    "description": "Pontiac",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/PONTIAC"
+  },
+  {
+    "name": "PORSCHE",
+    "description": "Porsche",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/PORSCHE"
+  },
+  {
+    "name": "PROTON",
+    "description": "Proton",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/PROTON"
+  },
+  {
+    "name": "RENAULT",
+    "description": "Renault",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/RENAULT"
+  },
+  {
+    "name": "RILEY",
+    "description": "Riley",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/RILEY"
+  },
+  {
+    "name": "RIMAC",
+    "description": "Rimac",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/RIMAC"
+  },
+  {
+    "name": "ROLLS ROYCE",
+    "description": "Rolls-Royce",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ROLLS%20ROYCE"
+  },
+  {
+    "name": "ROVER",
+    "description": "Rover",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ROVER"
+  },
+  {
+    "name": "RUF",
+    "description": "Ruf",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/RUF"
+  },
+  {
+    "name": "SAAB",
+    "description": "Saab",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SAAB"
+  },
+  {
+    "name": "SANTANA",
+    "description": "Santana",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SANTANA"
+  },
+  {
+    "name": "SEAT",
+    "description": "Seat",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SEAT"
+  },
+  {
+    "name": "SERES",
+    "description": "Seres",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SERES"
+  },
+  {
+    "name": "SILENCE",
+    "description": "Silence",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SILENCE"
+  },
+  {
+    "name": "SIMCA",
+    "description": "Simca",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SIMCA"
+  },
+  {
+    "name": "SKODA",
+    "description": "Skoda",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SKODA"
+  },
+  {
+    "name": "SMART",
+    "description": "Smart",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SMART"
+  },
+  {
+    "name": "SPEEDART",
+    "description": "speedART",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SPEEDART"
+  },
+  {
+    "name": "SPYKER",
+    "description": "Spyker",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SPYKER"
+  },
+  {
+    "name": "SSANGYONG",
+    "description": "Ssangyong",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SSANGYONG"
+  },
+  {
+    "name": "STUDEBAKER",
+    "description": "Studebaker",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/STUDEBAKER"
+  },
+  {
+    "name": "SUBARU",
+    "description": "Subaru",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SUBARU"
+  },
+  {
+    "name": "SUZUKI",
+    "description": "Suzuki",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SUZUKI"
+  },
+  {
+    "name": "SWM",
+    "description": "SWM",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SWM"
+  },
+  {
+    "name": "TALBOT",
+    "description": "Talbot",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/TALBOT"
+  },
+  {
+    "name": "TATA",
+    "description": "Tata",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/TATA"
+  },
+  {
+    "name": "TECHART",
+    "description": "TECHART",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/TECHART"
+  },
+  {
+    "name": "TESLA",
+    "description": "Tesla",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/TESLA"
+  },
+  {
+    "name": "TOGG",
+    "description": "Togg",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/TOGG"
+  },
+  {
+    "name": "TOYOTA",
+    "description": "Toyota",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/TOYOTA"
+  },
+  {
+    "name": "TRABANT",
+    "description": "Trabant",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/TRABANT"
+  },
+  {
+    "name": "TRIUMPH",
+    "description": "Triumph",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/TRIUMPH"
+  },
+  {
+    "name": "TVR",
+    "description": "TVR",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/TVR"
+  },
+  {
+    "name": "TYN-E",
+    "description": "TYN-e",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/TYN-E"
+  },
+  {
+    "name": "VINCENT",
+    "description": "Vincent",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VINCENT"
+  },
+  {
+    "name": "VINFAST",
+    "description": "VinFast",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VINFAST"
+  },
+  {
+    "name": "VOLVO",
+    "description": "Volvo",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VOLVO"
+  },
+  {
+    "name": "VOYAH",
+    "description": "Voyah",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VOYAH"
+  },
+  {
+    "name": "VW",
+    "description": "Volkswagen",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW"
+  },
+  {
+    "name": "WARTBURG",
+    "description": "Wartburg",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/WARTBURG"
+  },
+  {
+    "name": "WESTFIELD",
+    "description": "Westfield",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/WESTFIELD"
+  },
+  {
+    "name": "WEY",
+    "description": "WEY",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/WEY"
+  },
+  {
+    "name": "WIESMANN",
+    "description": "Wiesmann",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/WIESMANN"
+  },
+  {
+    "name": "XEV",
+    "description": "XEV",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/XEV"
+  },
+  {
+    "name": "XPENG",
+    "description": "XPENG",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/XPENG"
+  },
+  {
+    "name": "ZEEKR",
+    "description": "Zeekr",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ZEEKR"
+  },
+  {
+    "name": "ZHIDOU",
+    "description": "Zhidou",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ZHIDOU"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ANDERE"
+  }
+]

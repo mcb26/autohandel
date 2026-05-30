@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Karma",
+    "description": "Karma",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/FISKER/model/Karma"
+  },
+  {
+    "name": "Ocean",
+    "description": "Ocean",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/FISKER/model/Ocean"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/FISKER/model/ANDERE"
+  }
+]

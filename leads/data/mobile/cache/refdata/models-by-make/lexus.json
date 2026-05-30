@@ -1,0 +1,282 @@
+[
+  {
+    "name": "CT 200h",
+    "description": "CT 200h",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LEXUS/model/CT%20200h"
+  },
+  {
+    "name": "ES 300",
+    "description": "ES 300",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LEXUS/model/ES%20300"
+  },
+  {
+    "name": "ES 330",
+    "description": "ES 330",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LEXUS/model/ES%20330"
+  },
+  {
+    "name": "ES 350",
+    "description": "ES 350",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LEXUS/model/ES%20350"
+  },
+  {
+    "name": "GS 250",
+    "description": "GS 250",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LEXUS/model/GS%20250"
+  },
+  {
+    "name": "GS 300",
+    "description": "GS 300",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LEXUS/model/GS%20300"
+  },
+  {
+    "name": "GS 350",
+    "description": "GS 350",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LEXUS/model/GS%20350"
+  },
+  {
+    "name": "GS 430",
+    "description": "GS 430",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LEXUS/model/GS%20430"
+  },
+  {
+    "name": "GS 450",
+    "description": "GS 450",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LEXUS/model/GS%20450"
+  },
+  {
+    "name": "GS 460",
+    "description": "GS 460",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LEXUS/model/GS%20460"
+  },
+  {
+    "name": "GS F",
+    "description": "GS F",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LEXUS/model/GS%20F"
+  },
+  {
+    "name": "GX 460",
+    "description": "GX 460",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LEXUS/model/GX%20460"
+  },
+  {
+    "name": "GX 470",
+    "description": "GX 470",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LEXUS/model/GX%20470"
+  },
+  {
+    "name": "GX 550",
+    "description": "GX 550",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LEXUS/model/GX%20550"
+  },
+  {
+    "name": "IS 200",
+    "description": "IS 200",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LEXUS/model/IS%20200"
+  },
+  {
+    "name": "IS 220",
+    "description": "IS 220",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LEXUS/model/IS%20220"
+  },
+  {
+    "name": "IS 250",
+    "description": "IS 250",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LEXUS/model/IS%20250"
+  },
+  {
+    "name": "IS 300",
+    "description": "IS 300",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LEXUS/model/IS%20300"
+  },
+  {
+    "name": "IS 350",
+    "description": "IS 350",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LEXUS/model/IS%20350"
+  },
+  {
+    "name": "IS-F",
+    "description": "IS-F",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LEXUS/model/IS-F"
+  },
+  {
+    "name": "LBX",
+    "description": "LBX",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LEXUS/model/LBX"
+  },
+  {
+    "name": "LC 500",
+    "description": "LC 500",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LEXUS/model/LC%20500"
+  },
+  {
+    "name": "LC 500h",
+    "description": "LC 500h",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LEXUS/model/LC%20500h"
+  },
+  {
+    "name": "LFA",
+    "description": "LFA",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LEXUS/model/LFA"
+  },
+  {
+    "name": "LM",
+    "description": "LM",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LEXUS/model/LM"
+  },
+  {
+    "name": "LS 400",
+    "description": "LS 400",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LEXUS/model/LS%20400"
+  },
+  {
+    "name": "LS 430",
+    "description": "LS 430",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LEXUS/model/LS%20430"
+  },
+  {
+    "name": "LS 460",
+    "description": "LS 460",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LEXUS/model/LS%20460"
+  },
+  {
+    "name": "LS 500",
+    "description": "LS 500",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LEXUS/model/LS%20500"
+  },
+  {
+    "name": "LS 600",
+    "description": "LS 600",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LEXUS/model/LS%20600"
+  },
+  {
+    "name": "LX 450",
+    "description": "LX 450",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LEXUS/model/LX%20450"
+  },
+  {
+    "name": "LX 470",
+    "description": "LX 470",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LEXUS/model/LX%20470"
+  },
+  {
+    "name": "LX 500",
+    "description": "LX 500",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LEXUS/model/LX%20500"
+  },
+  {
+    "name": "LX 570",
+    "description": "LX 570",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LEXUS/model/LX%20570"
+  },
+  {
+    "name": "LX 600",
+    "description": "LX 600",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LEXUS/model/LX%20600"
+  },
+  {
+    "name": "LX 700",
+    "description": "LX 700",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LEXUS/model/LX%20700"
+  },
+  {
+    "name": "NX 200",
+    "description": "NX 200",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LEXUS/model/NX%20200"
+  },
+  {
+    "name": "NX 300",
+    "description": "NX 300",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LEXUS/model/NX%20300"
+  },
+  {
+    "name": "NX 350",
+    "description": "NX 350h",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LEXUS/model/NX%20350"
+  },
+  {
+    "name": "NX 450",
+    "description": "NX 450h",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LEXUS/model/NX%20450"
+  },
+  {
+    "name": "RC 200",
+    "description": "RC 200",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LEXUS/model/RC%20200"
+  },
+  {
+    "name": "RC 300",
+    "description": "RC 300",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LEXUS/model/RC%20300"
+  },
+  {
+    "name": "RC 350",
+    "description": "RC 350",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LEXUS/model/RC%20350"
+  },
+  {
+    "name": "RC F",
+    "description": "RC F",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LEXUS/model/RC%20F"
+  },
+  {
+    "name": "RX 200",
+    "description": "RX 200",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LEXUS/model/RX%20200"
+  },
+  {
+    "name": "RX 300",
+    "description": "RX 300",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LEXUS/model/RX%20300"
+  },
+  {
+    "name": "RX 330",
+    "description": "RX 330",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LEXUS/model/RX%20330"
+  },
+  {
+    "name": "RX 350",
+    "description": "RX 350",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LEXUS/model/RX%20350"
+  },
+  {
+    "name": "RX 400",
+    "description": "RX 400",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LEXUS/model/RX%20400"
+  },
+  {
+    "name": "RX 450",
+    "description": "RX 450",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LEXUS/model/RX%20450"
+  },
+  {
+    "name": "RX 500",
+    "description": "RX 500",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LEXUS/model/RX%20500"
+  },
+  {
+    "name": "RZ",
+    "description": "RZ",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LEXUS/model/RZ"
+  },
+  {
+    "name": "SC 400",
+    "description": "SC 400",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LEXUS/model/SC%20400"
+  },
+  {
+    "name": "SC 430",
+    "description": "SC 430",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LEXUS/model/SC%20430"
+  },
+  {
+    "name": "UX",
+    "description": "UX",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LEXUS/model/UX"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LEXUS/model/ANDERE"
+  }
+]

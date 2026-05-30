@@ -1,0 +1,434 @@
+{
+  "label": "Abarth",
+  "models": {
+    "124-spider": {
+      "label": "124 Spider",
+      "series": {
+        "abarth-124-gt": {
+          "label": "Abarth 124 GT",
+          "engines": [
+            {
+              "label": "1.4 MultiAir (170 Hp) Automatic (2018 - 2019)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 MultiAir (170 Hp) (2018 - 2019)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "abarth-124-spider": {
+          "label": "Abarth 124 Spider",
+          "engines": [
+            {
+              "label": "1.4 MultiAir (170 Hp) Automatic (2016 - 2019)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 MultiAir (170 Hp) (2016 - 2019)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "500": {
+      "label": "500",
+      "series": {
+        "abarth-500e-cabriolet": {
+          "label": "Abarth 500e Cabriolet",
+          "engines": [
+            {
+              "label": "42 kWh (155 Hp) Electric",
+              "hp": 155,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "abarth-500e": {
+          "label": "Abarth 500e",
+          "engines": [
+            {
+              "label": "42 kWh (155 Hp) Electric",
+              "hp": 155,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "abarth-500c": {
+          "label": "Abarth 500C",
+          "engines": [
+            {
+              "label": "1.4 T-Jet (140 Hp) MTA (2010 - 2014)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 T-Jet (135 Hp) (2012 - 2014)",
+              "hp": 135,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "abarth-500": {
+          "label": "Abarth 500",
+          "engines": [
+            {
+              "label": "1.4 T-Jet (140 Hp) MTA (2012 - 2014)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 T-Jet (135 Hp) (2014 - 2015)",
+              "hp": 135,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "595": {
+      "label": "595",
+      "series": {
+        "abarth-595c-facelift-2016": {
+          "label": "Abarth 595C (facelift 2016)",
+          "engines": [
+            {
+              "label": "Turismo 1.4 T-Jet (165 Hp) Automatic",
+              "hp": 165,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Turismo 1.4 T-Jet (165 Hp)",
+              "hp": 165,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Pista 1.4 T-Jet (160 Hp) Automatic",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Pista 1.4 T-Jet (160 Hp)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Competizione 1.4 T-Jet (180 Hp) Automatic (2016 - 2018)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Competizione 1.4 T-Jet (180 Hp) (2016 - 2018)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 T-Jet (145 Hp) Automatic",
+              "hp": 145,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 T-Jet (145 Hp)",
+              "hp": 145,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "abarth-595-facelift-2016": {
+          "label": "Abarth 595 (facelift 2016)",
+          "engines": [
+            {
+              "label": "Turismo 1.4 T-Jet (165 Hp) Automatic",
+              "hp": 165,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Turismo 1.4 T-Jet (165 Hp)",
+              "hp": 165,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Pista 1.4 T-Jet (165 Hp) Automatic",
+              "hp": 165,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Pista 1.4 T-Jet (165 Hp)",
+              "hp": 165,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Pista 1.4 T-Jet (160 Hp) Automatic (2017 - 2018)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Pista 1.4 T-Jet (160 Hp) (2018 - 2019)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Esseesse 1.4 T-Jet (180 Hp) Automatic",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Esseesse 1.4 T-Jet (180 Hp)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Competizione 1.4 T-Jet (180 Hp) Automatic",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Competizione 1.4 T-Jet (180 Hp)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 T-Jet (145 Hp) Automatic (2016 - 2018)",
+              "hp": 145,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 T-Jet (145 Hp)",
+              "hp": 145,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "abarth-595c": {
+          "label": "Abarth 595C",
+          "engines": [
+            {
+              "label": "1.4 T-Jet (160 Hp) MTA (2014 - 2016)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 T-Jet (160 Hp) (2014 - 2016)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "abarth-595": {
+          "label": "Abarth 595",
+          "engines": [
+            {
+              "label": "1.4 T-Jet (160 Hp) MTA (2014 - 2016)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 T-Jet (160 Hp) (2014 - 2016)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "600": {
+      "label": "600",
+      "series": {
+        "abarth-600e": {
+          "label": "Abarth 600e",
+          "engines": [
+            {
+              "label": "Turismo 54 kWh (237 Hp)",
+              "hp": 237
+            },
+            {
+              "label": "Scorpionissima 54 kWh (282 Hp)",
+              "hp": 282
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "695": {
+      "label": "695",
+      "series": {
+        "abarth-695": {
+          "label": "Abarth 695",
+          "engines": [
+            {
+              "label": "XSR Yamaha 1.4 T-Jet (165 Hp)",
+              "hp": 165,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Rivale 1.4 T-Jet (180 Hp) Automatic",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Rivale 1.4 T-Jet (180 Hp)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Biposto 1.4 T-Jet (190 Hp) (2014 - 2016)",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Anniversario 1.4 T-Jet (180 Hp)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "fastback": {
+      "label": "Fastback",
+      "series": {
+        "abarth-fastback": {
+          "label": "Abarth Fastback",
+          "engines": [
+            {
+              "label": "1.3 T270 (180/185 Hp) Flex Automatic",
+              "hp": 185,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 T270 (175 Hp) Automatic",
+              "hp": 175,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "pulse": {
+      "label": "Pulse",
+      "series": {
+        "abarth-pulse": {
+          "label": "Abarth Pulse",
+          "engines": [
+            {
+              "label": "1.3 T270 (180/185 Hp) Flex Automatic",
+              "hp": 185,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 T270 (175 Hp) Automatic",
+              "hp": 175,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "punto": {
+      "label": "Punto",
+      "series": {
+        "abarth-punto-199": {
+          "label": "Abarth Punto (199)",
+          "engines": [
+            {
+              "label": "SuperSport 1.4 Turbo MultiAir (180 Hp) (2011 - 2014)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 Turbo MultiAir (163 Hp) (2012 - 2013)",
+              "hp": 163,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "abarth-punto-evo-199": {
+          "label": "Abarth Punto Evo (199)",
+          "engines": [
+            {
+              "label": "Esseesse 1.4 Turbo MultiAir (180 Hp) (2010 - 2013)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 Turbo MultiAir (163 Hp) (2010 - 2012)",
+              "hp": 163,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "abarth-grande-punto-199": {
+          "label": "Abarth Grande Punto (199)",
+          "engines": [
+            {
+              "label": "Esseesse 1.4 T-Jet (180 Hp) (2007 - 2010)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 T-Jet (155 Hp) (2007 - 2010)",
+              "hp": 155,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

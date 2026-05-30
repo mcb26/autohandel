@@ -1,0 +1,542 @@
+{
+  "label": "Smart",
+  "models": {
+    "1": {
+      "label": "#1",
+      "series": {
+        "smart-1": {
+          "label": "Smart #1",
+          "engines": [
+            {
+              "label": "66 kWh (272 Hp)",
+              "hp": 272
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "3": {
+      "label": "#3",
+      "series": {
+        "smart-3": {
+          "label": "Smart #3",
+          "engines": [
+            {
+              "label": "66 kWh (428 Hp) AWD BEV",
+              "hp": 428
+            },
+            {
+              "label": "66 kWh (272 Hp) BEV",
+              "hp": 272
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "5": {
+      "label": "#5",
+      "series": {
+        "smart-5": {
+          "label": "Smart #5",
+          "engines": [
+            {
+              "label": "Brabus 100 kWh (646 Hp) AWD Electric",
+              "hp": 646,
+              "fuel": "elektro"
+            },
+            {
+              "label": "76 kWh (340 Hp) Electric",
+              "hp": 340,
+              "fuel": "elektro"
+            },
+            {
+              "label": "100 kWh (587 Hp) AWD Electric",
+              "hp": 587,
+              "fuel": "elektro"
+            },
+            {
+              "label": "100 kWh (363 Hp) Electric",
+              "hp": 363,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "smart-5-concept": {
+          "label": "Smart #5 concept",
+          "engines": [
+            {
+              "label": "Keine exakte Motorliste verfügbar – bitte genaue Motorisierung im Freitext angeben"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "crossblade": {
+      "label": "Crossblade",
+      "series": {
+        "smart-crossblade": {
+          "label": "Smart Crossblade",
+          "engines": [
+            {
+              "label": "0.6 i (70 Hp) (2001 - 2006)",
+              "hp": 70,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "eq-fortwo": {
+      "label": "EQ fortwo",
+      "series": {
+        "smart-eq-fortwo-c453-facelift-2019": {
+          "label": "Smart EQ fortwo (C453, facelift 2019)",
+          "engines": [
+            {
+              "label": "17.2 kWh (82 Hp)",
+              "hp": 82,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "smart-eq-fortwo-cabrio-a453-facelift-2019": {
+          "label": "Smart EQ fortwo cabrio (A453, facelift, 2019)",
+          "engines": [
+            {
+              "label": "17.2 kWh (82 Hp)",
+              "hp": 82,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "smart-eq-fortwo-c453": {
+          "label": "Smart EQ fortwo (C453)",
+          "engines": [
+            {
+              "label": "17.6 kWh (82 Hp) (2018 - 2019)",
+              "hp": 82,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "smart-eq-fortwo-cabrio-a453": {
+          "label": "Smart EQ fortwo cabrio (A453)",
+          "engines": [
+            {
+              "label": "17.6 kWh (82 Hp) (2018 - 2019)",
+              "hp": 82,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "forfour": {
+      "label": "Forfour",
+      "series": {
+        "smart-forfour-ii-w453": {
+          "label": "Smart Forfour II (W453)",
+          "engines": [
+            {
+              "label": "EQ 17.6 kWh (82 Hp) electric drive (2017 - 2018)",
+              "hp": 82,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Brabus 0.9 (109 Hp) Twinamic (2016 - 2018)",
+              "hp": 109,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 (71 Hp) Automatic (2014 - 2019)",
+              "hp": 71,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 (71 Hp) (2014 - 2019)",
+              "hp": 71,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 (61 Hp) (2015 - 2017)",
+              "hp": 61,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.9 (90 Hp) Automatic (2014 - 2019)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.9 (90 Hp) (2014 - 2019)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "smart-forfour-w454": {
+          "label": "Smart Forfour (W454)",
+          "engines": [
+            {
+              "label": "1.5i Brabus (177 Hp) (2005 - 2006)",
+              "hp": 177,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 cdi (95 Hp) (2004 - 2006)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 cdi (68 Hp) (2004 - 2006)",
+              "hp": 68,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3i (95 Hp) (2004 - 2006)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.1i (75 Hp) (2004 - 2006)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.1i (64 Hp) (2004 - 2006)",
+              "hp": 64,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "fortwo": {
+      "label": "Fortwo",
+      "series": {
+        "smart-fortwo-iii-cabrio-a453": {
+          "label": "Smart Fortwo III cabrio (A453)",
+          "engines": [
+            {
+              "label": "Brabus 0.9 (109 Hp) Twinamic (2016 - 2018)",
+              "hp": 109,
+              "fuel": "benzin"
+            },
+            {
+              "label": "17.6 kWh (82 Hp) electric drive (2017 - 2018)",
+              "hp": 82,
+              "fuel": "elektro"
+            },
+            {
+              "label": "1.0 (71 Hp) Automatic (2014 - 2019)",
+              "hp": 71,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.9 (90 Hp) Automatic (2014 - 2019)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "smart-fortwo-iii-coupe-c453": {
+          "label": "Smart Fortwo III coupe (C453)",
+          "engines": [
+            {
+              "label": "Brabus 0.9 (109 Hp) Twinamic (2016 - 2018)",
+              "hp": 109,
+              "fuel": "benzin"
+            },
+            {
+              "label": "17.6 kWh (82 Hp) electric drive (2017 - 2018)",
+              "hp": 82,
+              "fuel": "elektro"
+            },
+            {
+              "label": "1.0 (71 Hp) Automatic (2014 - 2019)",
+              "hp": 71,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 (71 Hp) (2014 - 2019)",
+              "hp": 71,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 (61 Hp) (2015 - 2017)",
+              "hp": 61,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.9 (90 Hp) Automatic (2014 - 2019)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.9 (90 Hp) (2014 - 2019)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "smart-fortwo-ii-cabrio-a451": {
+          "label": "Smart Fortwo II cabrio (A451)",
+          "engines": [
+            {
+              "label": "Brabus 1.0i turbo (98 Hp) (2007 - 2014)",
+              "hp": 98,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Brabus 17.6 kWh (82 Hp) electric drive (2012 - 2015)",
+              "hp": 82,
+              "fuel": "elektro"
+            },
+            {
+              "label": "17.6 kWh (75 Hp) electric drive (2012 - 2015)",
+              "hp": 75,
+              "fuel": "elektro"
+            },
+            {
+              "label": "1.0i (84 Hp) (2007 - 2014)",
+              "hp": 84,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0i (71 Hp) Automatic (2007 - 2014)",
+              "hp": 71,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0i (71 Hp) (2007 - 2014)",
+              "hp": 71,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.8d (45 Hp) Automatic (2007 - 2014)",
+              "hp": 45,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.8d (45 Hp) (2007 - 2014)",
+              "hp": 45,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "smart-fortwo-ii-coupe-c451": {
+          "label": "Smart Fortwo II coupe (C451)",
+          "engines": [
+            {
+              "label": "Brabus 1.0i turbo (98 Hp) (2007 - 2014)",
+              "hp": 98,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Brabus 17.6 kWh (82 Hp) electric drive (2012 - 2015)",
+              "hp": 82,
+              "fuel": "elektro"
+            },
+            {
+              "label": "17.6 kWh (75 Hp) electric drive (2012 - 2015)",
+              "hp": 75,
+              "fuel": "elektro"
+            },
+            {
+              "label": "1.0i (84 Hp) (2007 - 2014)",
+              "hp": 84,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0i (71 Hp) Automatic (2007 - 2014)",
+              "hp": 71,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0i (71 Hp) (2007 - 2014)",
+              "hp": 71,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0i (61 Hp) Automatic (2007 - 2014)",
+              "hp": 61,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0i (61 Hp) (2007 - 2014)",
+              "hp": 61,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.8 cdi (45 Hp) Automatic (2007 - 2009)",
+              "hp": 45,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.8 cdi (45 Hp) (2007 - 2009)",
+              "hp": 45,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "smart-fortwo-cabrio-a450": {
+          "label": "Smart Fortwo Cabrio (A450)",
+          "engines": [
+            {
+              "label": "Brabus 0.7i (75 Hp) (2003 - 2007)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.8d (41 Hp) (1999 - 2007)",
+              "hp": 41,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.7 i (61 Hp) (1999 - 2007)",
+              "hp": 61,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.7 i (50 Hp) (1998 - 2007)",
+              "hp": 50,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "smart-fortwo-coupe-c450": {
+          "label": "Smart Fortwo Coupe (C450)",
+          "engines": [
+            {
+              "label": "0.8d (41 Hp) (1999 - 2006)",
+              "hp": 41,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.7i Brabus (75 Hp) (1999 - 2006)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.7 i (61 Hp) (1999 - 2006)",
+              "hp": 61,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.7 i (50 Hp) (1998 - 2006)",
+              "hp": 50,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.6i (45 Hp) (1998 - 2006)",
+              "hp": 45,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "roadster": {
+      "label": "Roadster",
+      "series": {
+        "smart-roadster-cabrio": {
+          "label": "Smart Roadster cabrio",
+          "engines": [
+            {
+              "label": "0.7i (101 Hp) (2004 - 2005)",
+              "hp": 101,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.7 i (82 Hp) (2003 - 2005)",
+              "hp": 82,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.7 i (61 Hp) (2002 - 2005)",
+              "hp": 61,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "smart-roadster-coupe": {
+          "label": "Smart Roadster coupe",
+          "engines": [
+            {
+              "label": "Brabus 0.7i (101 Hp) (2004 - 2005)",
+              "hp": 101,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 i V6 (170 Hp) (2003 - 2005)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.7 i (82 Hp) (2002 - 2005)",
+              "hp": 82,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

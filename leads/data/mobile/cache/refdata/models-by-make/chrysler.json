@@ -1,0 +1,122 @@
+[
+  {
+    "name": "200",
+    "description": "200",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CHRYSLER/model/200"
+  },
+  {
+    "name": "300 M",
+    "description": "300 M",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CHRYSLER/model/300%20M"
+  },
+  {
+    "name": "300C",
+    "description": "300C",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CHRYSLER/model/300C"
+  },
+  {
+    "name": "Aspen",
+    "description": "Aspen",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CHRYSLER/model/Aspen"
+  },
+  {
+    "name": "Crossfire",
+    "description": "Crossfire",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CHRYSLER/model/Crossfire"
+  },
+  {
+    "name": "Daytona",
+    "description": "Daytona",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CHRYSLER/model/Daytona"
+  },
+  {
+    "name": "ES",
+    "description": "ES",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CHRYSLER/model/ES"
+  },
+  {
+    "name": "GS",
+    "description": "GS",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CHRYSLER/model/GS"
+  },
+  {
+    "name": "GTS",
+    "description": "GTS",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CHRYSLER/model/GTS"
+  },
+  {
+    "name": "Grand Voyager",
+    "description": "Grand Voyager",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CHRYSLER/model/Grand%20Voyager"
+  },
+  {
+    "name": "Imperial",
+    "description": "Imperial",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CHRYSLER/model/Imperial"
+  },
+  {
+    "name": "Le Baron",
+    "description": "Le Baron",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CHRYSLER/model/Le%20Baron"
+  },
+  {
+    "name": "Neon",
+    "description": "Neon",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CHRYSLER/model/Neon"
+  },
+  {
+    "name": "New Yorker",
+    "description": "New Yorker",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CHRYSLER/model/New%20Yorker"
+  },
+  {
+    "name": "PT Cruiser",
+    "description": "PT Cruiser",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CHRYSLER/model/PT%20Cruiser"
+  },
+  {
+    "name": "Pacifica",
+    "description": "Pacifica",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CHRYSLER/model/Pacifica"
+  },
+  {
+    "name": "Saratoga",
+    "description": "Saratoga",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CHRYSLER/model/Saratoga"
+  },
+  {
+    "name": "Sebring",
+    "description": "Sebring",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CHRYSLER/model/Sebring"
+  },
+  {
+    "name": "Stratus",
+    "description": "Stratus",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CHRYSLER/model/Stratus"
+  },
+  {
+    "name": "Valiant",
+    "description": "Valiant",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CHRYSLER/model/Valiant"
+  },
+  {
+    "name": "Viper",
+    "description": "Viper",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CHRYSLER/model/Viper"
+  },
+  {
+    "name": "Vision",
+    "description": "Vision",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CHRYSLER/model/Vision"
+  },
+  {
+    "name": "Voyager",
+    "description": "Voyager",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CHRYSLER/model/Voyager"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CHRYSLER/model/ANDERE"
+  }
+]

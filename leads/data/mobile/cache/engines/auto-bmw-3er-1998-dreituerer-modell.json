@@ -1,0 +1,27 @@
+[
+  {
+    "label": "316ti compact (Benzin, 115 PS)",
+    "fuel": "benzin",
+    "hp": 115
+  },
+  {
+    "label": "318ti compact (Benzin, 143 PS)",
+    "fuel": "benzin",
+    "hp": 143
+  },
+  {
+    "label": "325ti compact (Benzin, 192 PS)",
+    "fuel": "benzin",
+    "hp": 192
+  },
+  {
+    "label": "318td compact (Diesel, 115 PS)",
+    "fuel": "diesel",
+    "hp": 115
+  },
+  {
+    "label": "320td compact (Diesel, 150 PS)",
+    "fuel": "diesel",
+    "hp": 150
+  }
+]

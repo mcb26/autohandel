@@ -1,0 +1,327 @@
+[
+  {
+    "name": "Aerostar",
+    "description": "Aerostar",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/FORD/model/Aerostar"
+  },
+  {
+    "name": "B-Max",
+    "description": "B-Max",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/FORD/model/B-Max"
+  },
+  {
+    "name": "Bronco",
+    "description": "Bronco",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/FORD/model/Bronco"
+  },
+  {
+    "name": "Bronco Sport",
+    "description": "Bronco Sport",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/FORD/model/Bronco%20Sport"
+  },
+  {
+    "name": "C-Max",
+    "description": "C-Max",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/FORD/model/C-Max"
+  },
+  {
+    "name": "Capri",
+    "description": "Capri",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/FORD/model/Capri"
+  },
+  {
+    "name": "Cougar",
+    "description": "Cougar",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/FORD/model/Cougar"
+  },
+  {
+    "name": "Courier",
+    "description": "Courier",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/FORD/model/Courier"
+  },
+  {
+    "name": "Crown",
+    "description": "Crown",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/FORD/model/Crown"
+  },
+  {
+    "name": "EcoSport",
+    "description": "EcoSport",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/FORD/model/EcoSport"
+  },
+  {
+    "name": "Econoline",
+    "description": "Econoline",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/FORD/model/Econoline"
+  },
+  {
+    "name": "Econovan",
+    "description": "Econovan",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/FORD/model/Econovan"
+  },
+  {
+    "name": "Edge",
+    "description": "Edge",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/FORD/model/Edge"
+  },
+  {
+    "name": "Escape",
+    "description": "Escape",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/FORD/model/Escape"
+  },
+  {
+    "name": "Escort",
+    "description": "Escort",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/FORD/model/Escort"
+  },
+  {
+    "name": "Excursion",
+    "description": "Excursion",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/FORD/model/Excursion"
+  },
+  {
+    "name": "Expedition",
+    "description": "Expedition",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/FORD/model/Expedition"
+  },
+  {
+    "name": "Explorer",
+    "description": "Explorer",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/FORD/model/Explorer"
+  },
+  {
+    "name": "Express",
+    "description": "Express",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/FORD/model/Express"
+  },
+  {
+    "name": "F 100",
+    "description": "F 100",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/FORD/model/F%20100"
+  },
+  {
+    "name": "F 150",
+    "description": "F 150",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/FORD/model/F%20150"
+  },
+  {
+    "name": "F 250",
+    "description": "F 250",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/FORD/model/F%20250"
+  },
+  {
+    "name": "F 350",
+    "description": "F 350",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/FORD/model/F%20350"
+  },
+  {
+    "name": "Fairlane",
+    "description": "Fairlane",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/FORD/model/Fairlane"
+  },
+  {
+    "name": "Falcon",
+    "description": "Falcon",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/FORD/model/Falcon"
+  },
+  {
+    "name": "Fiesta",
+    "description": "Fiesta",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/FORD/model/Fiesta"
+  },
+  {
+    "name": "Flex",
+    "description": "Flex",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/FORD/model/Flex"
+  },
+  {
+    "name": "Focus",
+    "description": "Focus",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/FORD/model/Focus"
+  },
+  {
+    "name": "Fusion",
+    "description": "Fusion",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/FORD/model/Fusion"
+  },
+  {
+    "name": "GT",
+    "description": "GT",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/FORD/model/GT"
+  },
+  {
+    "name": "Galaxy",
+    "description": "Galaxy",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/FORD/model/Galaxy"
+  },
+  {
+    "name": "Granada",
+    "description": "Granada",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/FORD/model/Granada"
+  },
+  {
+    "name": "Grand C-Max",
+    "description": "Grand C-Max",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/FORD/model/Grand%20C-Max"
+  },
+  {
+    "name": "Grand Tourneo",
+    "description": "Grand Tourneo",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/FORD/model/Grand%20Tourneo"
+  },
+  {
+    "name": "Ka",
+    "description": "Ka/Ka+",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/FORD/model/Ka"
+  },
+  {
+    "name": "Kuga",
+    "description": "Kuga",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/FORD/model/Kuga"
+  },
+  {
+    "name": "Maverick",
+    "description": "Maverick",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/FORD/model/Maverick"
+  },
+  {
+    "name": "Mercury",
+    "description": "Mercury",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/FORD/model/Mercury"
+  },
+  {
+    "name": "Mondeo",
+    "description": "Mondeo",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/FORD/model/Mondeo"
+  },
+  {
+    "name": "Mustang",
+    "description": "Mustang",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/FORD/model/Mustang"
+  },
+  {
+    "name": "Mustang Mach-E",
+    "description": "Mustang Mach-E",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/FORD/model/Mustang%20Mach-E"
+  },
+  {
+    "name": "Orion",
+    "description": "Orion",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/FORD/model/Orion"
+  },
+  {
+    "name": "Probe",
+    "description": "Probe",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/FORD/model/Probe"
+  },
+  {
+    "name": "Puma",
+    "description": "Puma",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/FORD/model/Puma"
+  },
+  {
+    "name": "Puma Gen-E",
+    "description": "Puma Gen-E",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/FORD/model/Puma%20Gen-E"
+  },
+  {
+    "name": "Ranger",
+    "description": "Ranger",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/FORD/model/Ranger"
+  },
+  {
+    "name": "Raptor",
+    "description": "Raptor",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/FORD/model/Raptor"
+  },
+  {
+    "name": "S-Max",
+    "description": "S-Max",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/FORD/model/S-Max"
+  },
+  {
+    "name": "Scorpio",
+    "description": "Scorpio",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/FORD/model/Scorpio"
+  },
+  {
+    "name": "Sierra",
+    "description": "Sierra",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/FORD/model/Sierra"
+  },
+  {
+    "name": "Sportka",
+    "description": "Sportka",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/FORD/model/Sportka"
+  },
+  {
+    "name": "Streetka",
+    "description": "Streetka",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/FORD/model/Streetka"
+  },
+  {
+    "name": "Taunus",
+    "description": "Taunus",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/FORD/model/Taunus"
+  },
+  {
+    "name": "Taurus",
+    "description": "Taurus",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/FORD/model/Taurus"
+  },
+  {
+    "name": "Thunderbird",
+    "description": "Thunderbird",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/FORD/model/Thunderbird"
+  },
+  {
+    "name": "Tourneo",
+    "description": "Tourneo",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/FORD/model/Tourneo"
+  },
+  {
+    "name": "Tourneo Connect",
+    "description": "Tourneo Connect",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/FORD/model/Tourneo%20Connect"
+  },
+  {
+    "name": "Tourneo Courier",
+    "description": "Tourneo Courier",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/FORD/model/Tourneo%20Courier"
+  },
+  {
+    "name": "Tourneo Custom",
+    "description": "Tourneo Custom",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/FORD/model/Tourneo%20Custom"
+  },
+  {
+    "name": "Transit",
+    "description": "Transit",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/FORD/model/Transit"
+  },
+  {
+    "name": "Transit Connect",
+    "description": "Transit Connect",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/FORD/model/Transit%20Connect"
+  },
+  {
+    "name": "Transit Courier",
+    "description": "Transit Courier",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/FORD/model/Transit%20Courier"
+  },
+  {
+    "name": "Transit Custom",
+    "description": "Transit Custom",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/FORD/model/Transit%20Custom"
+  },
+  {
+    "name": "Windstar",
+    "description": "Windstar",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/FORD/model/Windstar"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/FORD/model/ANDERE"
+  }
+]

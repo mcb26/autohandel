@@ -1,0 +1,87 @@
+[
+  {
+    "label": "116i Aut. (Benzin, 122 PS)",
+    "fuel": "benzin",
+    "hp": 122
+  },
+  {
+    "label": "116i (Benzin, 122 PS)",
+    "fuel": "benzin",
+    "hp": 122
+  },
+  {
+    "label": "118i Aut. (Benzin, 143 PS)",
+    "fuel": "benzin",
+    "hp": 143
+  },
+  {
+    "label": "118i (Benzin, 143 PS)",
+    "fuel": "benzin",
+    "hp": 143
+  },
+  {
+    "label": "120i Aut. (Benzin, 170 PS)",
+    "fuel": "benzin",
+    "hp": 170
+  },
+  {
+    "label": "120i (Benzin, 170 PS)",
+    "fuel": "benzin",
+    "hp": 170
+  },
+  {
+    "label": "130i Aut. (Benzin, 258 PS)",
+    "fuel": "benzin",
+    "hp": 258
+  },
+  {
+    "label": "130i (Benzin, 258 PS)",
+    "fuel": "benzin",
+    "hp": 258
+  },
+  {
+    "label": "130i Aut. (Benzin, 265 PS)",
+    "fuel": "benzin",
+    "hp": 265
+  },
+  {
+    "label": "130i (Benzin, 265 PS)",
+    "fuel": "benzin",
+    "hp": 265
+  },
+  {
+    "label": "116d DPF (Diesel, 116 PS)",
+    "fuel": "diesel",
+    "hp": 116
+  },
+  {
+    "label": "118d DPF Aut. (Diesel, 143 PS)",
+    "fuel": "diesel",
+    "hp": 143
+  },
+  {
+    "label": "118d DPF (Diesel, 143 PS)",
+    "fuel": "diesel",
+    "hp": 143
+  },
+  {
+    "label": "120d DPF Aut. (Diesel, 177 PS)",
+    "fuel": "diesel",
+    "hp": 177
+  },
+  {
+    "label": "120d DPF (Diesel, 177 PS)",
+    "fuel": "diesel",
+    "hp": 177
+  },
+  {
+    "label": "123d DPF Aut. (Diesel, 204 PS)",
+    "fuel": "diesel",
+    "hp": 204
+  },
+  {
+    "label": "123d DPF (Diesel, 204 PS)",
+    "fuel": "diesel",
+    "hp": 204
+  }
+]

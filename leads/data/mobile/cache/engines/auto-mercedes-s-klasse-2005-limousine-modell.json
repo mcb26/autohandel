@@ -1,0 +1,247 @@
+[
+  {
+    "label": "S 350 4Matic 7G-TRONIC (Benzin, 272 PS)",
+    "fuel": "benzin",
+    "hp": 272
+  },
+  {
+    "label": "S 350 7G-TRONIC (Benzin, 272 PS)",
+    "fuel": "benzin",
+    "hp": 272
+  },
+  {
+    "label": "S 350 L 4Matic 7G-TRONIC (Benzin, 272 PS)",
+    "fuel": "benzin",
+    "hp": 272
+  },
+  {
+    "label": "S 350 L 7G-TRONIC (Benzin, 272 PS)",
+    "fuel": "benzin",
+    "hp": 272
+  },
+  {
+    "label": "S 350 4Matic BlueEFFICIENCY 7G-TRONIC (Benzin, 306 PS)",
+    "fuel": "benzin",
+    "hp": 306
+  },
+  {
+    "label": "S 350 BlueEFFICIENCY 7G-TRONIC (Benzin, 306 PS)",
+    "fuel": "benzin",
+    "hp": 306
+  },
+  {
+    "label": "S 350 L 4Matic BlueEFFICIENCY 7G-TRONIC (Benzin, 306 PS)",
+    "fuel": "benzin",
+    "hp": 306
+  },
+  {
+    "label": "S 350 L BlueEFFICIENCY 7G-TRONIC (Benzin, 306 PS)",
+    "fuel": "benzin",
+    "hp": 306
+  },
+  {
+    "label": "S 450 4Matic 7G-TRONIC (Benzin, 340 PS)",
+    "fuel": "benzin",
+    "hp": 340
+  },
+  {
+    "label": "S 450 7G-TRONIC (Benzin, 340 PS)",
+    "fuel": "benzin",
+    "hp": 340
+  },
+  {
+    "label": "S 450 L 4Matic 7G-TRONIC (Benzin, 340 PS)",
+    "fuel": "benzin",
+    "hp": 340
+  },
+  {
+    "label": "S 450 L 7G-TRONIC (Benzin, 340 PS)",
+    "fuel": "benzin",
+    "hp": 340
+  },
+  {
+    "label": "S 500 4Matic 7G-TRONIC (Benzin, 388 PS)",
+    "fuel": "benzin",
+    "hp": 388
+  },
+  {
+    "label": "S 500 7G-TRONIC (Benzin, 388 PS)",
+    "fuel": "benzin",
+    "hp": 388
+  },
+  {
+    "label": "S 500 L 4Matic 7G-TRONIC (Benzin, 388 PS)",
+    "fuel": "benzin",
+    "hp": 388
+  },
+  {
+    "label": "S 500 L 7G-TRONIC (Benzin, 388 PS)",
+    "fuel": "benzin",
+    "hp": 388
+  },
+  {
+    "label": "S 500 4Matic BlueEFFICIENCY 7G-TRONIC (Benzin, 435 PS)",
+    "fuel": "benzin",
+    "hp": 435
+  },
+  {
+    "label": "S 500 BlueEFFICIENCY 7G-TRONIC (Benzin, 435 PS)",
+    "fuel": "benzin",
+    "hp": 435
+  },
+  {
+    "label": "S 500 L 4Matic BlueEFFICIENCY 7G-TRONIC (Benzin, 435 PS)",
+    "fuel": "benzin",
+    "hp": 435
+  },
+  {
+    "label": "S 500 L BlueEFFICIENCY 7G-TRONIC (Benzin, 435 PS)",
+    "fuel": "benzin",
+    "hp": 435
+  },
+  {
+    "label": "S 600 L Automatik (Benzin, 517 PS)",
+    "fuel": "benzin",
+    "hp": 517
+  },
+  {
+    "label": "S 63 AMG 7G-TRONIC (Benzin, 525 PS)",
+    "fuel": "benzin",
+    "hp": 525
+  },
+  {
+    "label": "S 63 AMG L 7G-TRONIC (Benzin, 525 PS)",
+    "fuel": "benzin",
+    "hp": 525
+  },
+  {
+    "label": "S 63 AMG AMG Speedshift MCT (Benzin, 544 PS)",
+    "fuel": "benzin",
+    "hp": 544
+  },
+  {
+    "label": "S 63 AMG L AMG SPEEDSHIFT MCT (Benzin, 544 PS)",
+    "fuel": "benzin",
+    "hp": 544
+  },
+  {
+    "label": "S 63 AMG AMG SPEEDSHIFT MCT (Benzin, 571 PS)",
+    "fuel": "benzin",
+    "hp": 571
+  },
+  {
+    "label": "S 63 AMG L AMG SPEEDSHIFT MCT (Benzin, 571 PS)",
+    "fuel": "benzin",
+    "hp": 571
+  },
+  {
+    "label": "S 65 AMG L Automatik (Benzin, 612 PS)",
+    "fuel": "benzin",
+    "hp": 612
+  },
+  {
+    "label": "S 65 AMG L AMG SPEEDSHIFT (Benzin, 630 PS)",
+    "fuel": "benzin",
+    "hp": 630
+  },
+  {
+    "label": "S 400 HYBRID 7G-TRONIC (Benzin/Elektro, 279 PS)",
+    "fuel": "benzin/elektro",
+    "hp": 279
+  },
+  {
+    "label": "S 400 HYBRID L 7G-TRONIC (Benzin/Elektro, 279 PS)",
+    "fuel": "benzin/elektro",
+    "hp": 279
+  },
+  {
+    "label": "S 250 CDI DPF BlueEFFICIENCY 7G-TRONIC (Diesel, 204 PS)",
+    "fuel": "diesel",
+    "hp": 204
+  },
+  {
+    "label": "S 250 CDI L DPF BlueEFFICIENCY 7G-TRONIC (Diesel, 204 PS)",
+    "fuel": "diesel",
+    "hp": 204
+  },
+  {
+    "label": "S 320 CDI 4Matic DPF 7G-TRONIC (Diesel, 235 PS)",
+    "fuel": "diesel",
+    "hp": 235
+  },
+  {
+    "label": "S 320 CDI DPF 7G-TRONIC (Diesel, 235 PS)",
+    "fuel": "diesel",
+    "hp": 235
+  },
+  {
+    "label": "S 320 CDI L 4Matic DPF 7G-TRONIC (Diesel, 235 PS)",
+    "fuel": "diesel",
+    "hp": 235
+  },
+  {
+    "label": "S 320 CDI L DPF 7G-TRONIC (Diesel, 235 PS)",
+    "fuel": "diesel",
+    "hp": 235
+  },
+  {
+    "label": "S 350 CDI 4Matic DPF 7G-TRONIC BlueEFFICIENCY (Diesel, 235 PS)",
+    "fuel": "diesel",
+    "hp": 235
+  },
+  {
+    "label": "S 350 CDI DPF 7G-TRONIC BlueEFFICIENCY (Diesel, 235 PS)",
+    "fuel": "diesel",
+    "hp": 235
+  },
+  {
+    "label": "S 350 CDI L 4Matic DPF 7G-TRONIC BlueEFFICIENCY (Diesel, 235 PS)",
+    "fuel": "diesel",
+    "hp": 235
+  },
+  {
+    "label": "S 350 CDI L DPF 7G-TRONIC BlueEFFICIENCY (Diesel, 235 PS)",
+    "fuel": "diesel",
+    "hp": 235
+  },
+  {
+    "label": "S 350 BlueTEC DPF 4Matic 7G-TRONIC (Diesel, 258 PS)",
+    "fuel": "diesel",
+    "hp": 258
+  },
+  {
+    "label": "S 350 BlueTEC DPF 7G-TRONIC (Diesel, 258 PS)",
+    "fuel": "diesel",
+    "hp": 258
+  },
+  {
+    "label": "S 350 BlueTEC L DPF 4Matic 7G-TRONIC (Diesel, 258 PS)",
+    "fuel": "diesel",
+    "hp": 258
+  },
+  {
+    "label": "S 350 BlueTEC L DPF 7G-TRONIC (Diesel, 258 PS)",
+    "fuel": "diesel",
+    "hp": 258
+  },
+  {
+    "label": "S 420 CDI DPF 7G-TRONIC (Diesel, 319 PS)",
+    "fuel": "diesel",
+    "hp": 319
+  },
+  {
+    "label": "S 420 CDI L DPF 7G-TRONIC (Diesel, 319 PS)",
+    "fuel": "diesel",
+    "hp": 319
+  },
+  {
+    "label": "S 450 CDI DPF 7G-TRONIC (Diesel, 319 PS)",
+    "fuel": "diesel",
+    "hp": 319
+  },
+  {
+    "label": "S 450 CDI L DPF 7G-TRONIC (Diesel, 319 PS)",
+    "fuel": "diesel",
+    "hp": 319
+  }
+]

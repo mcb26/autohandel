@@ -1,0 +1,27 @@
+[
+  {
+    "name": "V8",
+    "description": "VF8",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VINFAST/model/V8"
+  },
+  {
+    "name": "V9",
+    "description": "VF9",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VINFAST/model/V9"
+  },
+  {
+    "name": "VF6",
+    "description": "VF6",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VINFAST/model/VF6"
+  },
+  {
+    "name": "VF7",
+    "description": "VF7",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VINFAST/model/VF7"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VINFAST/model/ANDERE"
+  }
+]

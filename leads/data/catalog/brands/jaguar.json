@@ -1,0 +1,2437 @@
+{
+  "label": "Jaguar",
+  "models": {
+    "c-x16": {
+      "label": "C-X16",
+      "series": {
+        "jaguar-c-x16": {
+          "label": "Jaguar C-X16",
+          "engines": [
+            {
+              "label": "3.0 V6 (467 Hp) FHEV Automatic (2011 - 2011)",
+              "hp": 467,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "e-pace": {
+      "label": "E-Pace",
+      "series": {
+        "jaguar-e-pace-facelift-2020": {
+          "label": "Jaguar E-Pace (facelift 2020)",
+          "engines": [
+            {
+              "label": "2.0i (300 Hp) Mild Hybrid AWD Automatic (2020 - 2023)",
+              "hp": 300,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "2.0i (249 Hp) Mild Hybrid AWD Automatic (2020 - 2024)",
+              "hp": 249,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "2.0i (200 Hp) Mild Hybrid AWD Automatic (2020 - 2022)",
+              "hp": 200,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "2.0d (204 Hp) Mild Hybrid AWD Automatic (2020 - 2024)",
+              "hp": 204,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "2.0d (163 Hp) Mild Hybrid AWD Automatic (2020 - 2024)",
+              "hp": 163,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "2.0d (163 Hp) (2020 - 2024)",
+              "hp": 163,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5i P300e (309 Hp) Plug-in Hybrid AWD Automatic (2020 - 2023)",
+              "hp": 309,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.5i P300e (269 Hp) Plug-in Hybrid AWD Automatic (2023 - 2024)",
+              "hp": 269,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.5i P270e (269 Hp) Plug-in Hybrid AWD Automatic (2024 - 2024)",
+              "hp": 269,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.5i (160 Hp) Mild Hybrid Automatic (2020 - 2024)",
+              "hp": 160,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "jaguar-e-pace": {
+          "label": "Jaguar E-Pace",
+          "engines": [
+            {
+              "label": "2.0 P300 (300 Hp) AWD Automatic (2018 - 2020)",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 P250 (250 Hp) AWD Automatic (2018 - 2020)",
+              "hp": 250,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 P200 (200 Hp) AWD Automatic (2018 - 2020)",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 D240 (240 Hp) AWD Automatic (2018 - 2020)",
+              "hp": 240,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 D180 (180 Hp) AWD Automatic (2018 - 2020)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 D180 (180 Hp) AWD (2018 - 2020)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 D150 (150 Hp) AWD Automatic (2018 - 2020)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 D150 (150 Hp) AWD (2018 - 2020)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 D150 (150 Hp) (2018 - 2020)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "e-type": {
+      "label": "E-type",
+      "series": {
+        "jaguar-e-type": {
+          "label": "Jaguar E-Type",
+          "engines": [
+            {
+              "label": "4.2 (Series2) (269 Hp) (1968 - 1971)",
+              "hp": 269,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.2 (Series 1) (265 Hp) (1964 - 1968)",
+              "hp": 265,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.2 (Series3) (173 Hp) (1971 - 1975)",
+              "hp": 173,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.8 (Series1) (265 Hp) (1961 - 1964)",
+              "hp": 265,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "jaguar-e-type-22": {
+          "label": "Jaguar E-type 2+2",
+          "engines": [
+            {
+              "label": "V12 5.3 (Series3) (276 Hp) (1971 - 1975)",
+              "hp": 276,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.2 (Series 1) (265 Hp) (1966 - 1968)",
+              "hp": 265,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.2 (Series3) (173 Hp) (1971 - 1975)",
+              "hp": 173,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.2 (Series2) (173 Hp) (1968 - 1971)",
+              "hp": 173,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "jaguar-e-type-convertible": {
+          "label": "Jaguar E-type Convertible",
+          "engines": [
+            {
+              "label": "V12 5.3 (Series3) (276 Hp) (1971 - 1975)",
+              "hp": 276,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.2 (Series2) (269 Hp) (1968 - 1971)",
+              "hp": 269,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.2 (Series 1) (265 Hp) (1964 - 1968)",
+              "hp": 265,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.2 (Series3) (173 Hp) (1971 - 1975)",
+              "hp": 173,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.8 (Series1) (265 Hp) (1961 - 1964)",
+              "hp": 265,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "jaguar-e-type-series-1": {
+          "label": "Jaguar E-type (Series 1)",
+          "engines": [
+            {
+              "label": "Keine exakte Motorliste verfügbar – bitte genaue Motorisierung im Freitext angeben"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "f-pace": {
+      "label": "F-Pace",
+      "series": {
+        "jaguar-f-pace-facelift-2020": {
+          "label": "Jaguar F-Pace (facelift 2020)",
+          "engines": [
+            {
+              "label": "SVR 5.0i V8 (550 Hp) AWD Automatic",
+              "hp": 550,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0i (400 Hp) Mild Hybrid AWD Automatic",
+              "hp": 400,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "3.0i (340 Hp) Mild Hybrid AWD Automatic",
+              "hp": 340,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "3.0d (300 Hp) Mild Hybrid AWD Automatic",
+              "hp": 300,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "3.0d (300 Hp) AWD Automatic",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0i (250 Hp) AWD Automatic",
+              "hp": 250,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0d (204 Hp) Mild Hybrid AWD Automatic",
+              "hp": 204,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "2.0d (163 Hp) Mild Hybrid AWD Automatic",
+              "hp": 163,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "2.0 P400e (404 Hp) Plug-in Hybrid AWD Automatic",
+              "hp": 404,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "jaguar-f-pace": {
+          "label": "Jaguar F-Pace",
+          "engines": [
+            {
+              "label": "SVR 5.0 V8 (550 Hp) AWD Automatic (2018 - 2020)",
+              "hp": 550,
+              "fuel": "benzin"
+            },
+            {
+              "label": "E-Performance 2.0d (163 Hp) (2019 - 2020)",
+              "hp": 163,
+              "fuel": "benzin"
+            },
+            {
+              "label": "30t (300 Hp) AWD Automatic (2019 - 2020)",
+              "hp": 300
+            },
+            {
+              "label": "30d V6 (300 Hp) AWD Automatic (2019 - 2020)",
+              "hp": 300
+            },
+            {
+              "label": "3.0t V6 (380 Hp) AWD Automatic (2016 - 2018)",
+              "hp": 380,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0t V6 (340 Hp) AWD Automatic (2016 - 2017)",
+              "hp": 340,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0d V6 (300 Hp) AWD Automatic (2015 - 2018)",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "25t (250 Hp) AWD Automatic (2019 - 2020)",
+              "hp": 250
+            },
+            {
+              "label": "25d (240 Hp) AWD Automatic (2019 - 2020)",
+              "hp": 240
+            },
+            {
+              "label": "20d (180 Hp) AWD Automatic (2019 - 2020)",
+              "hp": 180
+            },
+            {
+              "label": "20d (180 Hp) Automatic (2019 - 2020)",
+              "hp": 180
+            },
+            {
+              "label": "2.0t (300 Hp) AWD Automatic (2017 - 2018)",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0t (250 Hp) AWD Automatic (2017 - 2018)",
+              "hp": 250,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0t (250 Hp) Automatic (2017 - 2018)",
+              "hp": 250,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0d (240 Hp) AWD Automatic (2017 - 2018)",
+              "hp": 240,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0d (180 Hp) AWD Automatic (2015 - 2018)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0d (180 Hp) AWD (2015 - 2017)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0d (180 Hp) Automatic (2017 - 2018)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0d (180 Hp) (2015 - 2017)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0d (163 Hp) (2017 - 2018)",
+              "hp": 163,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "f-type": {
+      "label": "F-type",
+      "series": {
+        "jaguar-f-type-coupe-facelift-2020": {
+          "label": "Jaguar F-type Coupe (facelift 2020)",
+          "engines": [
+            {
+              "label": "5.0 V8 (575 Hp) AWD Quickshift",
+              "hp": 575,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.0 V8 (450 Hp) Quickshift",
+              "hp": 450,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.0 V8 (450 Hp) AWD Quickshift",
+              "hp": 450,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (300 Hp) Quickshift",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "jaguar-f-type-convertible-facelift-2020": {
+          "label": "Jaguar F-type Convertible (facelift 2020)",
+          "engines": [
+            {
+              "label": "5.0 V8 (575 Hp) AWD Quickshift",
+              "hp": 575,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.0 V8 (450 Hp) Quickshift",
+              "hp": 450,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.0 V8 (450 Hp) AWD Quickshift",
+              "hp": 450,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (300 Hp) Quickshift",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "jaguar-f-type-coupe-facelift-2017": {
+          "label": "Jaguar F-type Coupe (facelift 2017)",
+          "engines": [
+            {
+              "label": "SVR 5.0 V8 (575 Hp) AWD Automatic (2019 - 2020)",
+              "hp": 575,
+              "fuel": "benzin"
+            },
+            {
+              "label": "R 5.0 V8 (550 Hp) AWD Automatic (2019 - 2020)",
+              "hp": 550,
+              "fuel": "benzin"
+            },
+            {
+              "label": "R 5.0 V8 (550 Hp) Automatic (2017 - 2018)",
+              "hp": 550,
+              "fuel": "benzin"
+            },
+            {
+              "label": "P380 V6 (380 Hp) AWD Automatic (2019 - 2020)",
+              "hp": 380
+            },
+            {
+              "label": "P380 V6 (380 Hp) Automatic (2019 - 2020)",
+              "hp": 380
+            },
+            {
+              "label": "P380 V6 (380 Hp) (2019 - 2020)",
+              "hp": 380
+            },
+            {
+              "label": "P340 V6 (340 Hp) Automatic (2019 - 2020)",
+              "hp": 340
+            },
+            {
+              "label": "P340 V6 (340 Hp) (2019 - 2020)",
+              "hp": 340
+            },
+            {
+              "label": "P300 (300 Hp) Automatic (2019 - 2020)",
+              "hp": 300
+            },
+            {
+              "label": "3.0 V6 (400 Hp) AWD (2017 - 2018)",
+              "hp": 400,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 (400 Hp) Automatic (2017 - 2018)",
+              "hp": 400,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 (380 Hp) AWD (2017 - 2018)",
+              "hp": 380,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 (380 Hp) Automatic (2017 - 2018)",
+              "hp": 380,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 (380 Hp) (2017 - 2018)",
+              "hp": 380,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 (340 Hp) Automatic (2017 - 2018)",
+              "hp": 340,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 (340 Hp) (2017 - 2018)",
+              "hp": 340,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (300 Hp) Automatic (2017 - 2018)",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "jaguar-f-type-convertible-facelift-2017": {
+          "label": "Jaguar F-type Convertible (facelift 2017)",
+          "engines": [
+            {
+              "label": "SVR 5.0 V8 (575 Hp) AWD Automatic (2019 - 2020)",
+              "hp": 575,
+              "fuel": "benzin"
+            },
+            {
+              "label": "R 5.0 V8 (550 Hp) AWD Automatic (2019 - 2020)",
+              "hp": 550,
+              "fuel": "benzin"
+            },
+            {
+              "label": "R 5.0 V8 (550 Hp) AWD (2017 - 2018)",
+              "hp": 550,
+              "fuel": "benzin"
+            },
+            {
+              "label": "R 5.0 V8 (550 Hp) Automatic (2017 - 2018)",
+              "hp": 550,
+              "fuel": "benzin"
+            },
+            {
+              "label": "P380 V6 (380 Hp) AWD Automatic (2019 - 2020)",
+              "hp": 380
+            },
+            {
+              "label": "P380 V6 (380 Hp) Automatic (2019 - 2020)",
+              "hp": 380
+            },
+            {
+              "label": "P380 V6 (380 Hp) (2019 - 2020)",
+              "hp": 380
+            },
+            {
+              "label": "P340 V6 (340 Hp) Automatic (2019 - 2020)",
+              "hp": 340
+            },
+            {
+              "label": "P340 V6 (340 Hp) (2019 - 2020)",
+              "hp": 340
+            },
+            {
+              "label": "P300 (300 Hp) Automatic (2019 - 2020)",
+              "hp": 300
+            },
+            {
+              "label": "3.0 V6 (400 Hp) AWD (2017 - 2018)",
+              "hp": 400,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 (400 Hp) Automatic (2017 - 2018)",
+              "hp": 400,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 (380 Hp) AWD (2017 - 2018)",
+              "hp": 380,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 (380 Hp) Automatic (2017 - 2018)",
+              "hp": 380,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 (380 Hp) (2017 - 2018)",
+              "hp": 380,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 (340 Hp) Automatic (2017 - 2018)",
+              "hp": 340,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 (340 Hp) (2017 - 2018)",
+              "hp": 340,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (300 Hp) Automatic (2017 - 2018)",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "jaguar-f-type-coupe": {
+          "label": "Jaguar F-type Coupe",
+          "engines": [
+            {
+              "label": "SVR 5.0 V8 (575 Hp) AWD Automatic (2016 - 2017)",
+              "hp": 575,
+              "fuel": "benzin"
+            },
+            {
+              "label": "S 3.0 V6 (380 Hp) AWD Automatic (2014 - 2017)",
+              "hp": 380,
+              "fuel": "benzin"
+            },
+            {
+              "label": "S 3.0 V6 (380 Hp) Automatic (2014 - 2017)",
+              "hp": 380,
+              "fuel": "benzin"
+            },
+            {
+              "label": "S 3.0 V6 (380 Hp) (2014 - 2017)",
+              "hp": 380,
+              "fuel": "benzin"
+            },
+            {
+              "label": "R 5.0 V8 (550 Hp) AWD Automatic (2014 - 2017)",
+              "hp": 550,
+              "fuel": "benzin"
+            },
+            {
+              "label": "R 5.0 V8 (550 Hp) Automatic (2014 - 2017)",
+              "hp": 550,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 (340 Hp) Automatic (2014 - 2017)",
+              "hp": 340,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 (340 Hp) (2014 - 2017)",
+              "hp": 340,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "jaguar-f-type-convertible": {
+          "label": "Jaguar F-type Convertible",
+          "engines": [
+            {
+              "label": "SVR 5.0 V8 (575 Hp) AWD Automatic (2016 - 2017)",
+              "hp": 575,
+              "fuel": "benzin"
+            },
+            {
+              "label": "S 3.0 V6 (380 Hp) AWD Automatic (2013 - 2017)",
+              "hp": 380,
+              "fuel": "benzin"
+            },
+            {
+              "label": "S 3.0 V6 (380 Hp) Automatic (2013 - 2017)",
+              "hp": 380,
+              "fuel": "benzin"
+            },
+            {
+              "label": "S 3.0 V6 (380 Hp) (2013 - 2017)",
+              "hp": 380,
+              "fuel": "benzin"
+            },
+            {
+              "label": "R 5.0 V8 (550 Hp) AWD Automatic (2014 - 2017)",
+              "hp": 550,
+              "fuel": "benzin"
+            },
+            {
+              "label": "R 5.0 V8 (550 Hp) Automatic (2014 - 2017)",
+              "hp": 550,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.0 V8 (495 Hp) (2013 - 2017)",
+              "hp": 495,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 (340 Hp) Automatic (2013 - 2017)",
+              "hp": 340,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 (340 Hp) (2013 - 2017)",
+              "hp": 340,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "i-pace": {
+      "label": "I-Pace",
+      "series": {
+        "jaguar-i-pace-facelift-2023": {
+          "label": "Jaguar I-Pace (facelift 2023)",
+          "engines": [
+            {
+              "label": "EV400 90 kWh (400 Hp) AWD",
+              "hp": 400
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "jaguar-i-pace": {
+          "label": "Jaguar I-Pace",
+          "engines": [
+            {
+              "label": "EV400 90 kWh (400 Hp) AWD (2018 - 2023)",
+              "hp": 400
+            },
+            {
+              "label": "EV320 90 kWh (320 Hp) AWD (2020 - 2021)",
+              "hp": 320
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "s-type": {
+      "label": "S-type",
+      "series": {
+        "jaguar-s-type-ccx": {
+          "label": "Jaguar S-type (CCX)",
+          "engines": [
+            {
+              "label": "4.2 i V8 32V Type R (395 Hp) (2001 - 2007)",
+              "hp": 395,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.2 i V8 32V (298 Hp) (2001 - 2007)",
+              "hp": 298,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.0 i V8 32V (276 Hp) (1998 - 2002)",
+              "hp": 276,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0i V6 24V (238 Hp) Automatic (1998 - 2007)",
+              "hp": 238,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 i V6 24V (238 Hp) (1998 - 2007)",
+              "hp": 238,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.7 D (207 Hp) Automatic (2004 - 2007)",
+              "hp": 207,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.7 D (207 Hp) (2004 - 2007)",
+              "hp": 207,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 i V6 24V (200 Hp) Automatic (2001 - 2007)",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 i V6 24V (200 Hp) (2001 - 2007)",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "x-type": {
+      "label": "X-type",
+      "series": {
+        "jaguar-x-type-estate": {
+          "label": "Jaguar X-Type Estate",
+          "engines": [
+            {
+              "label": "3.0 i V6 24V Sport (231 Hp) (2003 - 2009)",
+              "hp": 231,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 i V6 24V Sport (196 Hp) (2003 - 2009)",
+              "hp": 196,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 D (155 Hp) (2005 - 2009)",
+              "hp": 155,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.1 i V6 (156 Hp) Sport (2003 - 2009)",
+              "hp": 156,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TDi (130 Hp) (2003 - 2009)",
+              "hp": 130,
+              "fuel": "diesel"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "jaguar-x-type-x400": {
+          "label": "Jaguar X-type (X400)",
+          "engines": [
+            {
+              "label": "3.0 i V6 24V (231 Hp) Automatic (2001 - 2009)",
+              "hp": 231,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 i V6 24V (231 Hp) (2001 - 2009)",
+              "hp": 231,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 i V6 24V (196 Hp) Automatic (2001 - 2009)",
+              "hp": 196,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 i V6 24V (196 Hp) (2001 - 2009)",
+              "hp": 196,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 D (155 Hp) (2005 - 2009)",
+              "hp": 155,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.1 i V6 24V (156 Hp) Automatic (2001 - 2009)",
+              "hp": 156,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.1 i V6 24V (156 Hp) (2001 - 2009)",
+              "hp": 156,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TDi (130 Hp) (2003 - 2009)",
+              "hp": 130,
+              "fuel": "diesel"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "xe": {
+      "label": "XE",
+      "series": {
+        "jaguar-xe-x760-facelift-2020": {
+          "label": "Jaguar XE (X760, facelift 2020)",
+          "engines": [
+            {
+              "label": "2.0i (300 Hp) AWD Automatic (2020 - 2024)",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0i (250 Hp) AWD Automatic (2020 - 2024)",
+              "hp": 250,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0i (250 Hp) Automatic (2020 - 2024)",
+              "hp": 250,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0d (204 Hp) Mild Hybrid AWD Automatic (2020 - 2024)",
+              "hp": 204,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "2.0d (204 Hp) Mild Hybrid Automatic (2020 - 2024)",
+              "hp": 204,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "jaguar-xe-x760-facelift-2019": {
+          "label": "Jaguar XE (X760, facelift 2019)",
+          "engines": [
+            {
+              "label": "P300 (300 Hp) AWD Automatic (2019 - 2020)",
+              "hp": 300
+            },
+            {
+              "label": "P300 (300 Hp) Automatic (2019 - 2020)",
+              "hp": 300
+            },
+            {
+              "label": "P250 (250 Hp) AWD Automatic (2019 - 2020)",
+              "hp": 250
+            },
+            {
+              "label": "P250 (250 Hp) Automatic (2019 - 2020)",
+              "hp": 250
+            },
+            {
+              "label": "D180 (180 Hp) AWD Automatic (2019 - 2020)",
+              "hp": 180
+            },
+            {
+              "label": "D180 (180 Hp) Automatic (2019 - 2020)",
+              "hp": 180
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "jaguar-xe-x760": {
+          "label": "Jaguar XE (X760)",
+          "engines": [
+            {
+              "label": "SV Project 8 5.0 V8 (600 Hp) AWD Automatic (2017 - 2017)",
+              "hp": 600,
+              "fuel": "benzin"
+            },
+            {
+              "label": "S 3.0 V6 (380 Hp) AWD Automatic (2017 - 2018)",
+              "hp": 380,
+              "fuel": "benzin"
+            },
+            {
+              "label": "S 3.0 (380 Hp) Automatic (2017 - 2018)",
+              "hp": 380,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 (340 Hp) AWD Automatic (2015 - 2017)",
+              "hp": 340,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 (340 Hp) Automatic (2015 - 2017)",
+              "hp": 340,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0d (240 Hp) AWD Automatic (2017 - 2018)",
+              "hp": 240,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0d (180 Hp) AWD Automatic (2016 - 2018)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0d (180 Hp) Automatic (2015 - 2018)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0d (180 Hp) (2015 - 2018)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0d (163 Hp) Automatic (2015 - 2018)",
+              "hp": 163,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0d (163 Hp) (2015 - 2018)",
+              "hp": 163,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (300 Hp) AWD Automatic (2017 - 2018)",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (300 Hp) Automatic (2017 - 2018)",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (250 Hp) AWD Automatic (2017 - 2018)",
+              "hp": 250,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (250 Hp) Automatic (2017 - 2018)",
+              "hp": 250,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (240 Hp) Automatic (2015 - 2017)",
+              "hp": 240,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (200 Hp) Automatic (2015 - 2017)",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "xf": {
+      "label": "XF",
+      "series": {
+        "jaguar-xf-sportbrake-x260-facelift-2020": {
+          "label": "Jaguar XF Sportbrake (X260, facelift 2020)",
+          "engines": [
+            {
+              "label": "2.0i (300 Hp) AWD Automatic (2020 - 2024)",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0i (250 Hp) Automatic (2020 - 2024)",
+              "hp": 250,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0d (204 Hp) Mild Hybrid AWD Automatic (2020 - 2024)",
+              "hp": 204,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "2.0d (204 Hp) Mild Hybrid Automatic (2020 - 2024)",
+              "hp": 204,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "jaguar-xf-x260-facelift-2020": {
+          "label": "Jaguar XF (X260, facelift 2020)",
+          "engines": [
+            {
+              "label": "2.0i (300 Hp) AWD Automatic (2020 - 2024)",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0i (250 Hp) AWD Automatic (2020 - 2024)",
+              "hp": 250,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0i (250 Hp) Automatic (2020 - 2024)",
+              "hp": 250,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0d (204 Hp) Mild Hybrid AWD Automatic (2020 - 2024)",
+              "hp": 204,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "2.0d (204 Hp) Mild Hybrid Automatic (2020 - 2024)",
+              "hp": 204,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "jaguar-xf-sportbrake-x260": {
+          "label": "Jaguar XF Sportbrake (X260)",
+          "engines": [
+            {
+              "label": "S 3.0 V6 (380 Hp) AWD Automatic (2015 - 2018)",
+              "hp": 380,
+              "fuel": "benzin"
+            },
+            {
+              "label": "E-Performance 2.0d (163 Hp) Automatic (2019 - 2020)",
+              "hp": 163,
+              "fuel": "benzin"
+            },
+            {
+              "label": "E-Performance 2.0d (163 Hp) (2019 - 2020)",
+              "hp": 163,
+              "fuel": "benzin"
+            },
+            {
+              "label": "30t (300 Hp) AWD Automatic (2019 - 2020)",
+              "hp": 300
+            },
+            {
+              "label": "30d V6 (300 Hp) Automatic (2019 - 2020)",
+              "hp": 300
+            },
+            {
+              "label": "3.0d V6 (300 Hp) Automatic (2015 - 2018)",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "25t (250 Hp) Automatic (2019 - 2020)",
+              "hp": 250
+            },
+            {
+              "label": "25d (240 Hp) AWD Automatic (2019 - 2020)",
+              "hp": 240
+            },
+            {
+              "label": "20d (180 Hp) AWD Automatic (2019 - 2020)",
+              "hp": 180
+            },
+            {
+              "label": "20d (180 Hp) Automatic (2019 - 2020)",
+              "hp": 180
+            },
+            {
+              "label": "2.0d (240 Hp) AWD Automatic (2015 - 2018)",
+              "hp": 240,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0d (180 Hp) AWD Automatic (2015 - 2018)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0d (180 Hp) Automatic (2015 - 2018)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0d (163 Hp) Automatic (2015 - 2018)",
+              "hp": 163,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0d (163 Hp) (2015 - 2018)",
+              "hp": 163,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (250 Hp) AWD Automatic (2015 - 2018)",
+              "hp": 250,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (250 Hp) Automatic (2015 - 2018)",
+              "hp": 250,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "jaguar-xf-x260": {
+          "label": "Jaguar XF (X260)",
+          "engines": [
+            {
+              "label": "S 3.0 V6 (380 Hp) AWD Automatic (2015 - 2018)",
+              "hp": 380,
+              "fuel": "benzin"
+            },
+            {
+              "label": "S 3.0 V6 (380 Hp) Automatic (2015 - 2018)",
+              "hp": 380,
+              "fuel": "benzin"
+            },
+            {
+              "label": "E-Performance 2.0d (163 Hp) Automatic (2019 - 2020)",
+              "hp": 163,
+              "fuel": "benzin"
+            },
+            {
+              "label": "E-Performance 2.0d (163 Hp) (2019 - 2020)",
+              "hp": 163,
+              "fuel": "benzin"
+            },
+            {
+              "label": "30t (300 Hp) AWD Automatic (2019 - 2020)",
+              "hp": 300
+            },
+            {
+              "label": "30d V6 (300 Hp) Automatic (2019 - 2020)",
+              "hp": 300
+            },
+            {
+              "label": "3.0d V6 (300 Hp) Automatic (2015 - 2018)",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 (340 Hp) AWD Automatic (2015 - 2017)",
+              "hp": 340,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 (340 Hp) Automatic (2015 - 2017)",
+              "hp": 340,
+              "fuel": "benzin"
+            },
+            {
+              "label": "25t (250 Hp) Automatic (2019 - 2020)",
+              "hp": 250
+            },
+            {
+              "label": "25d (240 Hp) AWD Automatic (2019 - 2020)",
+              "hp": 240
+            },
+            {
+              "label": "20d (180 Hp) AWD Automatic (2019 - 2020)",
+              "hp": 180
+            },
+            {
+              "label": "20d (180 Hp) Automatic (2019 - 2020)",
+              "hp": 180
+            },
+            {
+              "label": "20d (180 Hp) (2019 - 2020)",
+              "hp": 180
+            },
+            {
+              "label": "2.0d (240 Hp) AWD Automatic (2017 - 2018)",
+              "hp": 240,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0d (240 Hp) Automatic (2017 - 2018)",
+              "hp": 240,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0d (180 Hp) AWD Automatic (2015 - 2018)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0d (180 Hp) Automatic (2015 - 2018)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0d (180 Hp) (2015 - 2018)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0d (163 Hp) Automatic (2015 - 2018)",
+              "hp": 163,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0d (163 Hp) (2015 - 2018)",
+              "hp": 163,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (300 Hp) AWD Automatic (2017 - 2018)",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (250 Hp) AWD Automatic (2017 - 2018)",
+              "hp": 250,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (250 Hp) Automatic (2017 - 2018)",
+              "hp": 250,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (200 Hp) Automatic (2017 - 2018)",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "jaguar-xf-sportbrake-x250": {
+          "label": "Jaguar XF Sportbrake (X250)",
+          "engines": [
+            {
+              "label": "3.0d (275 Hp) Automatic (2012 - 2015)",
+              "hp": 275,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0d (240 Hp) Automatic (2012 - 2015)",
+              "hp": 240,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2d (200 Hp) Automatic (2012 - 2015)",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2d (163 Hp) Automatic (2012 - 2015)",
+              "hp": 163,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "jaguar-xf-x250-facelift-2011": {
+          "label": "Jaguar XF (X250, facelift 2011)",
+          "engines": [
+            {
+              "label": "R-S 5.0 V8 (550 Hp) Automatic (2012 - 2015)",
+              "hp": 550,
+              "fuel": "benzin"
+            },
+            {
+              "label": "R 5.0 V8 (510 Hp) Automatic (2011 - 2015)",
+              "hp": 510,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.0 V8 (470 Hp) Automatic (2011 - 2015)",
+              "hp": 470,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.0 V8 (385 Hp) Automatic (2011 - 2012)",
+              "hp": 385,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0d V6 (275 Hp) Automatic (2011 - 2015)",
+              "hp": 275,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0d V6 (240 Hp) Automatic (2011 - 2015)",
+              "hp": 240,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 (340 Hp) AWD Automatic (2012 - 2015)",
+              "hp": 340,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 (340 Hp) Automatic (2012 - 2015)",
+              "hp": 340,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 (238 Hp) Automatic (2011 - 2015)",
+              "hp": 238,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2d (200 Hp) Automatic (2012 - 2015)",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2d (190 Hp) Automatic (2011 - 2012)",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2d (163 Hp) Automatic (2012 - 2015)",
+              "hp": 163,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (240 Hp) Automatic (2012 - 2015)",
+              "hp": 240,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "jaguar-xf-x250": {
+          "label": "Jaguar XF (X250)",
+          "engines": [
+            {
+              "label": "R 5.0 V8 (510 Hp) Automatic (2009 - 2011)",
+              "hp": 510,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.0 V8 (470 Hp) Automatic (2009 - 2011)",
+              "hp": 470,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.0 V8 (385 Hp) Automatic (2009 - 2011)",
+              "hp": 385,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.2 V8 (416 Hp) Automatic (2007 - 2009)",
+              "hp": 416,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.2 V8 (298 Hp) Automatic (2007 - 2009)",
+              "hp": 298,
+              "fuel": "benzin"
+            },
+            {
+              "label": "S 3.0d V6 (275 Hp) Automatic (2009 - 2011)",
+              "hp": 275,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0d V6 (240 Hp) Automatic (2009 - 2011)",
+              "hp": 240,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0d V6 (211 Hp) Automatic (2010 - 2011)",
+              "hp": 211,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 (238 Hp) Automatic (2007 - 2011)",
+              "hp": 238,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.7D (207 Hp) Automatic (2007 - 2009)",
+              "hp": 207,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "xj": {
+      "label": "XJ",
+      "series": {
+        "jaguar-xj-long-x351-facelift-2015": {
+          "label": "Jaguar XJ Long (X351 facelift 2015)",
+          "engines": [
+            {
+              "label": "R 5.0 V8 (575 Hp) Automatic (2017 - 2018)",
+              "hp": 575,
+              "fuel": "benzin"
+            },
+            {
+              "label": "R 5.0 V8 (550 Hp) Automatic (2015 - 2017)",
+              "hp": 550,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.0 V8 (510 Hp) Automatic (2015 - 2018)",
+              "hp": 510,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.0 V8 (470 Hp) Automatic (2015 - 2018)",
+              "hp": 470,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0d V6 (300 Hp) Automatic (2015 - 2019)",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 (340 Hp) AWD Automatic (2015 - 2018)",
+              "hp": 340,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 (340 Hp) Automatic (2015 - 2018)",
+              "hp": 340,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (240 Hp) Automatic (2015 - 2018)",
+              "hp": 240,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "jaguar-xj-x351-facelift-2015": {
+          "label": "Jaguar XJ (X351 facelift 2015)",
+          "engines": [
+            {
+              "label": "R 5.0 V8 (575 Hp) Automatic (2017 - 2018)",
+              "hp": 575,
+              "fuel": "benzin"
+            },
+            {
+              "label": "R 5.0 V8 (550 Hp) Automatic (2015 - 2017)",
+              "hp": 550,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.0 V8 (510 Hp) Automatic (2015 - 2018)",
+              "hp": 510,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.0 V8 (470 Hp) Automatic (2015 - 2018)",
+              "hp": 470,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0d V6 (300 Hp) Automatic (2015 - 2019)",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 (340 Hp) AWD Automatic (2015 - 2018)",
+              "hp": 340,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 (340 Hp) Automatic (2015 - 2018)",
+              "hp": 340,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (240 Hp) Automatic (2015 - 2018)",
+              "hp": 240,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "jaguar-xj-long-x351": {
+          "label": "Jaguar XJ Long (X351)",
+          "engines": [
+            {
+              "label": "5.0 V8 Supercharged (510 Hp) Automatic 8-speed (2012 - 2013)",
+              "hp": 510,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.0 V8 Supercharged (510 Hp) Automatic 6-speed (2009 - 2012)",
+              "hp": 510,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.0 V8 Supercharged (470 Hp) Automatic 6-speed (2009 - 2012)",
+              "hp": 470,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.0 V8 (385 Hp) Automatic 8-speed (2012 - 2013)",
+              "hp": 385,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.0 V8 (385 Hp) Automatic 6-speed (2009 - 2012)",
+              "hp": 385,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0d V6 (275 Hp) Automatic 8-speed (2012 - 2015)",
+              "hp": 275,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0d V6 (275 Hp) Automatic 6-speed (2009 - 2012)",
+              "hp": 275,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 Supercharged (340 Hp) AWD Automatic (2012 - 2015)",
+              "hp": 340,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 Supercharged (340 Hp) Automatic (2012 - 2015)",
+              "hp": 340,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (240 Hp) Automatic (2012 - 2015)",
+              "hp": 240,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "jaguar-xj-x351": {
+          "label": "Jaguar XJ (X351)",
+          "engines": [
+            {
+              "label": "R 5.0 V8 Supercharged (550 Hp) Automatic (2013 - 2015)",
+              "hp": 550,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.0 V8 Supercharged (510 Hp) Automatic 6-speed (2009 - 2012)",
+              "hp": 510,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.0 V8 Supercharged (470 Hp) Automatic 6-speed (2009 - 2012)",
+              "hp": 470,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.0 V8 (385 Hp) Automatic 6-speed (2009 - 2012)",
+              "hp": 385,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0d V6 (275 Hp) Automatic 8-speed (2012 - 2015)",
+              "hp": 275,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0d V6 (275 Hp) Automatic 6-speed (2009 - 2012)",
+              "hp": 275,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 Supercharged (340 Hp) AWD Automatic (2012 - 2015)",
+              "hp": 340,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 Supercharged (340 Hp) Automatic (2012 - 2015)",
+              "hp": 340,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (240 Hp) Automatic (2012 - 2015)",
+              "hp": 240,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "jaguar-xj-sovereign-x358": {
+          "label": "Jaguar XJ Sovereign (X358)",
+          "engines": [
+            {
+              "label": "4.2 V8 (298 Hp) Automatic (2007 - 2009)",
+              "hp": 298,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.7 D V6 (207 Hp) Automatic (2007 - 2009)",
+              "hp": 207,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "jaguar-xj-x358": {
+          "label": "Jaguar XJ (X358)",
+          "engines": [
+            {
+              "label": "R 4.2 V8 (395 Hp) Automatic (2007 - 2009)",
+              "hp": 395,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.2 V8 (298 Hp) Automatic (2007 - 2009)",
+              "hp": 298,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.5 V8 (258 Hp) Automatic (2007 - 2009)",
+              "hp": 258,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 (238 Hp) Automatic (2007 - 2009)",
+              "hp": 238,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.7 D V6 (207 Hp) Automatic (2007 - 2009)",
+              "hp": 207,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "jaguar-xj-x350": {
+          "label": "Jaguar XJ (X350)",
+          "engines": [
+            {
+              "label": "4.2 V8 32V L Super (400 Hp) Automatic (2004 - 2006)",
+              "hp": 400,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.2 V8 32V (400 Hp) Automatic (2003 - 2006)",
+              "hp": 400,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.2 V8 32V (300 Hp) Automatic (2003 - 2006)",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.2 V8 32V L (298 Hp) Automatic (2004 - 2006)",
+              "hp": 298,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.5 V8 32V (258 Hp) Automatic (2003 - 2006)",
+              "hp": 258,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 24V (238 Hp) Automatic (2003 - 2006)",
+              "hp": 238,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.7D V6 32V (207 Hp) Automatic (2006 - 2006)",
+              "hp": 207,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "jaguar-xj-x308": {
+          "label": "Jaguar XJ (X308)",
+          "engines": [
+            {
+              "label": "R 4.0 V8 32V (363 Hp) Automatic (1997 - 2003)",
+              "hp": 363,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.0 V8 32V Sovereign LBW (284 Hp) Automatic (1997 - 2003)",
+              "hp": 284,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.0 V8 32V (284 Hp) Automatic (1997 - 2003)",
+              "hp": 284,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.2 V8 32V (237 Hp) Automatic (1997 - 2003)",
+              "hp": 237,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "jaguar-xj-x300": {
+          "label": "Jaguar XJ (X300)",
+          "engines": [
+            {
+              "label": "R 4.0 24V Sport (320 Hp) Automatic (1994 - 1997)",
+              "hp": 320,
+              "fuel": "benzin"
+            },
+            {
+              "label": "6.0 V12 Lang (311 Hp) Automatic (1994 - 1997)",
+              "hp": 311,
+              "fuel": "benzin"
+            },
+            {
+              "label": "6.0 V12 Classic (311 Hp) Automatic (1994 - 1997)",
+              "hp": 311,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.0 24V Sport (241 Hp) (1994 - 1997)",
+              "hp": 241,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.0 24V Classic Sovereign Lang (241 Hp) Automatic (1994 - 1997)",
+              "hp": 241,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.0 24V Classic Sovereign (241 Hp) Automatic (1994 - 1997)",
+              "hp": 241,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.2 24V Sport (211 Hp) (1994 - 1997)",
+              "hp": 211,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.2 24V Classic (211 Hp) Automatic (1994 - 1997)",
+              "hp": 211,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.2 24V Classic (211 Hp) (1994 - 1997)",
+              "hp": 211,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "jaguar-xj-xj40-xj81": {
+          "label": "Jaguar XJ (XJ40/XJ81)",
+          "engines": [
+            {
+              "label": "6.0 V12 (311 Hp) (1993 - 1994)",
+              "hp": 311,
+              "fuel": "benzin"
+            },
+            {
+              "label": "6 4.0 (222 Hp) (1989 - 1994)",
+              "hp": 222,
+              "fuel": "benzin"
+            },
+            {
+              "label": "6 3.6 (212 Hp) (1986 - 1989)",
+              "hp": 212,
+              "fuel": "benzin"
+            },
+            {
+              "label": "6 3.6 (197 Hp) (1986 - 1989)",
+              "hp": 197,
+              "fuel": "benzin"
+            },
+            {
+              "label": "6 3.6 (185 Hp) (1986 - 1989)",
+              "hp": 185,
+              "fuel": "benzin"
+            },
+            {
+              "label": "6 3.2 24V (199 Hp) (1990 - 1994)",
+              "hp": 199,
+              "fuel": "benzin"
+            },
+            {
+              "label": "6 2.9 (167 Hp) (1986 - 1990)",
+              "hp": 167,
+              "fuel": "benzin"
+            },
+            {
+              "label": "6 2.9 (159 Hp) (1986 - 1990)",
+              "hp": 159,
+              "fuel": "benzin"
+            },
+            {
+              "label": "6 2.9 (147 Hp) (1986 - 1990)",
+              "hp": 147,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "jaguar-xj": {
+          "label": "Jaguar XJ",
+          "engines": [
+            {
+              "label": "Sovereign V12 (268 Hp) (1985 - 1992)",
+              "hp": 268
+            },
+            {
+              "label": "Sovereign V12 (264 Hp) (1986 - 1992)",
+              "hp": 264
+            },
+            {
+              "label": "6 4.2 (205 Hp) (1979 - 1987)",
+              "hp": 205,
+              "fuel": "benzin"
+            },
+            {
+              "label": "6 4.2 (186 Hp) (1969 - 1975)",
+              "hp": 186,
+              "fuel": "benzin"
+            },
+            {
+              "label": "6 4.2 (181 Hp) (1985 - 1986)",
+              "hp": 181,
+              "fuel": "benzin"
+            },
+            {
+              "label": "6 4.2 (177 Hp) (1985 - 1986)",
+              "hp": 177,
+              "fuel": "benzin"
+            },
+            {
+              "label": "6 4.2 (173 Hp) (1975 - 1979)",
+              "hp": 173,
+              "fuel": "benzin"
+            },
+            {
+              "label": "6 4.2 (169 Hp) (1975 - 1979)",
+              "hp": 169,
+              "fuel": "benzin"
+            },
+            {
+              "label": "6 3.4 (162 Hp) (1975 - 1986)",
+              "hp": 162,
+              "fuel": "benzin"
+            },
+            {
+              "label": "6 2.8 (149 Hp) (1968 - 1973)",
+              "hp": 149,
+              "fuel": "benzin"
+            },
+            {
+              "label": "12 H.E. (295 Hp) (1981 - 1992)",
+              "hp": 295
+            },
+            {
+              "label": "12 5.3 (287 Hp) (1979 - 1982)",
+              "hp": 287,
+              "fuel": "benzin"
+            },
+            {
+              "label": "12 5.3 (269 Hp) (1972 - 1973)",
+              "hp": 269,
+              "fuel": "benzin"
+            },
+            {
+              "label": "12 5.3 (254 Hp) (1986 - 1989)",
+              "hp": 254,
+              "fuel": "benzin"
+            },
+            {
+              "label": "12 5.3 (253 Hp) (1973 - 1976)",
+              "hp": 253,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "xj220": {
+      "label": "XJ220",
+      "series": {
+        "jaguar-xj220": {
+          "label": "Jaguar XJ220",
+          "engines": [
+            {
+              "label": "3.5 BiTurbo V6 (542 Hp) (1992 - 1994)",
+              "hp": 542,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "xjs": {
+      "label": "XJS",
+      "series": {
+        "jaguar-xjs-coupe": {
+          "label": "Jaguar XJS Coupe",
+          "engines": [
+            {
+              "label": "6.0 (318 Hp) (1991 - 1994)",
+              "hp": 318,
+              "fuel": "benzin"
+            },
+            {
+              "label": "6.0 (302 Hp) (1993 - 1996)",
+              "hp": 302,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.3 HE V12 (295 Hp) (1981 - 1987)",
+              "hp": 295,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.3 HE V12 (264 Hp) (1986 - 1989)",
+              "hp": 264,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.3 (289 Hp) (1975 - 1981)",
+              "hp": 289,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.3 (287 Hp) (1988 - 1992)",
+              "hp": 287,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.3 (284 Hp) (1991 - 1994)",
+              "hp": 284,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.3 (275 Hp) (1988 - 1991)",
+              "hp": 275,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.3 (268 Hp) (1986 - 1989)",
+              "hp": 268,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.0 (233 Hp) Automatic (1994 - 1996)",
+              "hp": 233,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.0 (233 Hp) (1994 - 1996)",
+              "hp": 233,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.0 (226 Hp) (1990 - 1994)",
+              "hp": 226,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.0 (222 Hp) (1991 - 1994)",
+              "hp": 222,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6 (220 Hp) (1983 - 1988)",
+              "hp": 220,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6 (212 Hp) (1987 - 1989)",
+              "hp": 212,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6 (199 Hp) (1988 - 1991)",
+              "hp": 199,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6 (185 Hp) (1988 - 1992)",
+              "hp": 185,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "jaguar-xjsc-convertible": {
+          "label": "Jaguar XJSc Convertible",
+          "engines": [
+            {
+              "label": "6.0 (318 Hp) (1990 - 1994)",
+              "hp": 318,
+              "fuel": "benzin"
+            },
+            {
+              "label": "6.0 (302 Hp) (1993 - 1996)",
+              "hp": 302,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.3 HE V12 (295 Hp) (1985 - 1990)",
+              "hp": 295,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.3 HE V12 (264 Hp) (1985 - 1992)",
+              "hp": 264,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.3 (287 Hp) (1988 - 1992)",
+              "hp": 287,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.3 (284 Hp) (1990 - 1994)",
+              "hp": 284,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.3 (275 Hp) (1988 - 1991)",
+              "hp": 275,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.3 (268 Hp) (1986 - 1988)",
+              "hp": 268,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.0 (233 Hp) Automatic (1994 - 1996)",
+              "hp": 233,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.0 (233 Hp) (1994 - 1996)",
+              "hp": 233,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.0 (226 Hp) (1990 - 1994)",
+              "hp": 226,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.0 (222 Hp) (1991 - 1994)",
+              "hp": 222,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6 (220 Hp) (1986 - 1988)",
+              "hp": 220,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6 (212 Hp) (1987 - 1991)",
+              "hp": 212,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6 (185 Hp) (1987 - 1991)",
+              "hp": 185,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "xk": {
+      "label": "XK",
+      "series": {
+        "jaguar-xk-convertible-x150-facelift-2011": {
+          "label": "Jaguar XK Convertible (X150, facelift 2011)",
+          "engines": [
+            {
+              "label": "R-S 5.0 V8 (550 Hp) Automatic (2011 - 2014)",
+              "hp": 550,
+              "fuel": "benzin"
+            },
+            {
+              "label": "R 5.0 V8 (510 Hp) Automatic (2011 - 2014)",
+              "hp": 510,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.0 V8 (385 Hp) Automatic (2011 - 2014)",
+              "hp": 385,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "jaguar-xk-coupe-x150-facelift-2011": {
+          "label": "Jaguar XK Coupe (X150, facelift 2011)",
+          "engines": [
+            {
+              "label": "R-S 5.0 V8 (550 Hp) Automatic (2011 - 2014)",
+              "hp": 550,
+              "fuel": "benzin"
+            },
+            {
+              "label": "R 5.0 V8 (510 Hp) Automatic (2011 - 2014)",
+              "hp": 510,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.0 V8 (385 Hp) Automatic (2011 - 2014)",
+              "hp": 385,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "jaguar-xk-convertible-x150-facelift-2009": {
+          "label": "Jaguar XK Convertible (X150, facelift 2009)",
+          "engines": [
+            {
+              "label": "R 5.0 V8 (510 Hp) Automatic (2009 - 2011)",
+              "hp": 510,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.0 V8 (385 Hp) Automatic (2009 - 2011)",
+              "hp": 385,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "jaguar-xk-coupe-x150-facelift-2009": {
+          "label": "Jaguar XK Coupe (X150, facelift 2009)",
+          "engines": [
+            {
+              "label": "R 5.0 V8 (510 Hp) Automatic (2009 - 2011)",
+              "hp": 510,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.0 V8 (385 Hp) Automatic (2009 - 2011)",
+              "hp": 385,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "jaguar-xk-convertible-x150": {
+          "label": "Jaguar XK Convertible (X150)",
+          "engines": [
+            {
+              "label": "R 4.2 V8 (416 Hp) Automatic (2006 - 2009)",
+              "hp": 416,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.2 V8 (298 Hp) Automatic (2006 - 2009)",
+              "hp": 298,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "jaguar-xk-coupe-x150": {
+          "label": "Jaguar XK Coupe (X150)",
+          "engines": [
+            {
+              "label": "R 4.2 V8 (416 Hp) Automatic (2006 - 2009)",
+              "hp": 416,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.2 V8 (298 Hp) Automatic (2006 - 2009)",
+              "hp": 298,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "jaguar-xk-convertible-x100": {
+          "label": "Jaguar XK Convertible (X100)",
+          "engines": [
+            {
+              "label": "R 4.2 V8 (395 Hp) Automatic (2002 - 2005)",
+              "hp": 395,
+              "fuel": "benzin"
+            },
+            {
+              "label": "R 4.0 V8 (363 Hp) Automatic (1998 - 2002)",
+              "hp": 363,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.2 V8 (298 Hp) Automatic (2002 - 2005)",
+              "hp": 298,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.0 V8 (284 Hp) Automatic (1996 - 2002)",
+              "hp": 284,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "jaguar-xk-coupe-x100": {
+          "label": "Jaguar XK Coupe (X100)",
+          "engines": [
+            {
+              "label": "R 4.2 V8 (395 Hp) Automatic (2002 - 2005)",
+              "hp": 395,
+              "fuel": "benzin"
+            },
+            {
+              "label": "R 4.0 V8 (363 Hp) Automatic (1998 - 2002)",
+              "hp": 363,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.2 V8 (298 Hp) Automatic (2002 - 2005)",
+              "hp": 298,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.0 V8 (284 Hp) Automatic (1996 - 2002)",
+              "hp": 284,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "xk120": {
+      "label": "XK120",
+      "series": {
+        "jaguar-xk120": {
+          "label": "Jaguar XK120",
+          "engines": [
+            {
+              "label": "Keine exakte Motorliste verfügbar – bitte genaue Motorisierung im Freitext angeben"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

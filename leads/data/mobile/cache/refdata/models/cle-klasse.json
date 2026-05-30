@@ -1,0 +1,32 @@
+[
+  {
+    "name": "CLE 180",
+    "description": "CLE 180",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/CLE-Klasse/models/CLE%20180"
+  },
+  {
+    "name": "CLE 200",
+    "description": "CLE 200",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/CLE-Klasse/models/CLE%20200"
+  },
+  {
+    "name": "CLE 220",
+    "description": "CLE 220",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/CLE-Klasse/models/CLE%20220"
+  },
+  {
+    "name": "CLE 300",
+    "description": "CLE 300",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/CLE-Klasse/models/CLE%20300"
+  },
+  {
+    "name": "CLE 450",
+    "description": "CLE 450",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/CLE-Klasse/models/CLE%20450"
+  },
+  {
+    "name": "CLE 53 AMG",
+    "description": "CLE 53 AMG",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/CLE-Klasse/models/CLE%2053%20AMG"
+  }
+]

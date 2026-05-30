@@ -1,0 +1,87 @@
+[
+  {
+    "label": "E 200 4Matic T 9G-TRONIC (Benzin, 197 PS)",
+    "fuel": "benzin",
+    "hp": 197
+  },
+  {
+    "label": "E 200 T 9G-TRONIC (Benzin, 197 PS)",
+    "fuel": "benzin",
+    "hp": 197
+  },
+  {
+    "label": "E 200 4Matic T All-Terrain 9G-TRONIC (Benzin, 197 PS)",
+    "fuel": "benzin",
+    "hp": 197
+  },
+  {
+    "label": "E 300 T 9G-TRONIC (Benzin, 258 PS)",
+    "fuel": "benzin",
+    "hp": 258
+  },
+  {
+    "label": "E 450 4Matic T 9G-TRONIC (Benzin, 367 PS)",
+    "fuel": "benzin",
+    "hp": 367
+  },
+  {
+    "label": "E 450 4Matic T All-Terrain 9G-TRONIC (Benzin, 367 PS)",
+    "fuel": "benzin",
+    "hp": 367
+  },
+  {
+    "label": "AMG E 53 4Matic+ T AMG Speedshift TCT-9G (Benzin, 435 PS)",
+    "fuel": "benzin",
+    "hp": 435
+  },
+  {
+    "label": "AMG E 63 S 4Matic+ T AMG Speedshift MCT-9G (Benzin, 612 PS)",
+    "fuel": "benzin",
+    "hp": 612
+  },
+  {
+    "label": "E 300 e T 9G-TRONIC (Benzin/Elektro-PlugIn, 211 PS)",
+    "fuel": "benzin/elektro-plugin",
+    "hp": 211
+  },
+  {
+    "label": "E 200 d T 9G-TRONIC (Diesel, 160 PS)",
+    "fuel": "diesel",
+    "hp": 160
+  },
+  {
+    "label": "E 220 d 4Matic T 9G-TRONIC (Diesel, 194 PS)",
+    "fuel": "diesel",
+    "hp": 194
+  },
+  {
+    "label": "E 220 d T 9G-TRONIC (Diesel, 194 PS)",
+    "fuel": "diesel",
+    "hp": 194
+  },
+  {
+    "label": "E 220 d 4Matic T All-Terrain 9G-TRONIC (Diesel, 194 PS)",
+    "fuel": "diesel",
+    "hp": 194
+  },
+  {
+    "label": "E 400 d 4Matic T 9G-TRONIC (Diesel, 330 PS)",
+    "fuel": "diesel",
+    "hp": 330
+  },
+  {
+    "label": "E 400 d 4Matic T All-Terrain 9G-TRONIC (Diesel, 330 PS)",
+    "fuel": "diesel",
+    "hp": 330
+  },
+  {
+    "label": "E 300 de 4Matic T 9G-TRONIC (Diesel/Elektro-PlugIn, 194 PS)",
+    "fuel": "diesel/elektro-plugin",
+    "hp": 194
+  },
+  {
+    "label": "E 300 de T 9G-TRONIC (Diesel/Elektro-PlugIn, 194 PS)",
+    "fuel": "diesel/elektro-plugin",
+    "hp": 194
+  }
+]

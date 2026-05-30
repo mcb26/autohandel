@@ -1,0 +1,37 @@
+[
+  {
+    "name": "COOPER_CLUBMAN",
+    "description": "Cooper Clubman",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/modelgroups/CLUBMAN_SERIES_ALL/models/COOPER_CLUBMAN"
+  },
+  {
+    "name": "COOPER_D_CLUBMAN",
+    "description": "Cooper D Clubman",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/modelgroups/CLUBMAN_SERIES_ALL/models/COOPER_D_CLUBMAN"
+  },
+  {
+    "name": "COOPER_SD_CLUBMAN",
+    "description": "Cooper SD Clubman",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/modelgroups/CLUBMAN_SERIES_ALL/models/COOPER_SD_CLUBMAN"
+  },
+  {
+    "name": "COOPER_S_CLUBMAN",
+    "description": "Cooper S Clubman",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/modelgroups/CLUBMAN_SERIES_ALL/models/COOPER_S_CLUBMAN"
+  },
+  {
+    "name": "JOHN_COOPER_WORKS_CLUBMAN",
+    "description": "John Cooper Works Clubman",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/modelgroups/CLUBMAN_SERIES_ALL/models/JOHN_COOPER_WORKS_CLUBMAN"
+  },
+  {
+    "name": "ONE_CLUBMAN",
+    "description": "One Clubman",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/modelgroups/CLUBMAN_SERIES_ALL/models/ONE_CLUBMAN"
+  },
+  {
+    "name": "ONE_D_CLUBMAN",
+    "description": "One D Clubman",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/modelgroups/CLUBMAN_SERIES_ALL/models/ONE_D_CLUBMAN"
+  }
+]

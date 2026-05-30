@@ -1,0 +1,292 @@
+[
+  {
+    "label": "Golf 1.4 (Benzin, 80 PS)",
+    "fuel": "benzin",
+    "hp": 80
+  },
+  {
+    "label": "Golf Plus 1.4 (Benzin, 80 PS)",
+    "fuel": "benzin",
+    "hp": 80
+  },
+  {
+    "label": "Golf 1.6 Automatik (Benzin, 102 PS)",
+    "fuel": "benzin",
+    "hp": 102
+  },
+  {
+    "label": "Golf Plus 1.6 Automatik (Benzin, 102 PS)",
+    "fuel": "benzin",
+    "hp": 102
+  },
+  {
+    "label": "Golf Plus 1.6 (Benzin, 102 PS)",
+    "fuel": "benzin",
+    "hp": 102
+  },
+  {
+    "label": "Golf 1.6 (Benzin, 102 PS)",
+    "fuel": "benzin",
+    "hp": 102
+  },
+  {
+    "label": "Golf Plus 1.4 TSI DSG (Benzin, 122 PS)",
+    "fuel": "benzin",
+    "hp": 122
+  },
+  {
+    "label": "Golf 1.4 TSI DSG (Benzin, 122 PS)",
+    "fuel": "benzin",
+    "hp": 122
+  },
+  {
+    "label": "Golf 1.4 TSI (Benzin, 122 PS)",
+    "fuel": "benzin",
+    "hp": 122
+  },
+  {
+    "label": "Golf Plus 1.4 TSI (Benzin, 122 PS)",
+    "fuel": "benzin",
+    "hp": 122
+  },
+  {
+    "label": "Golf Plus 1.4 TSI DSG (Benzin, 140 PS)",
+    "fuel": "benzin",
+    "hp": 140
+  },
+  {
+    "label": "Golf 1.4 TSI DSG (Benzin, 140 PS)",
+    "fuel": "benzin",
+    "hp": 140
+  },
+  {
+    "label": "Golf Plus 1.4 TSI (Benzin, 140 PS)",
+    "fuel": "benzin",
+    "hp": 140
+  },
+  {
+    "label": "Golf 1.4 TSI (Benzin, 140 PS)",
+    "fuel": "benzin",
+    "hp": 140
+  },
+  {
+    "label": "Golf 2.0 FSI Automatik (Benzin, 150 PS)",
+    "fuel": "benzin",
+    "hp": 150
+  },
+  {
+    "label": "Golf Plus 2.0 FSI Automatik (Benzin, 150 PS)",
+    "fuel": "benzin",
+    "hp": 150
+  },
+  {
+    "label": "Golf 2.0 FSI 4Motion (Benzin, 150 PS)",
+    "fuel": "benzin",
+    "hp": 150
+  },
+  {
+    "label": "Golf 2.0 FSI (Benzin, 150 PS)",
+    "fuel": "benzin",
+    "hp": 150
+  },
+  {
+    "label": "Golf Plus 2.0 FSI (Benzin, 150 PS)",
+    "fuel": "benzin",
+    "hp": 150
+  },
+  {
+    "label": "Golf Plus 1.4 TSI DSG (Benzin, 160 PS)",
+    "fuel": "benzin",
+    "hp": 160
+  },
+  {
+    "label": "Golf Plus 1.4 TSI (Benzin, 160 PS)",
+    "fuel": "benzin",
+    "hp": 160
+  },
+  {
+    "label": "Golf 1.4 TSI DSG (Benzin, 170 PS)",
+    "fuel": "benzin",
+    "hp": 170
+  },
+  {
+    "label": "Golf Plus 1.4 TSI DSG (Benzin, 170 PS)",
+    "fuel": "benzin",
+    "hp": 170
+  },
+  {
+    "label": "Golf 1.4 TSI (Benzin, 170 PS)",
+    "fuel": "benzin",
+    "hp": 170
+  },
+  {
+    "label": "Golf Plus 1.4 TSI (Benzin, 170 PS)",
+    "fuel": "benzin",
+    "hp": 170
+  },
+  {
+    "label": "Golf 2.0 GTI DSG (Benzin, 200 PS)",
+    "fuel": "benzin",
+    "hp": 200
+  },
+  {
+    "label": "Golf 2.0 GTI (Benzin, 200 PS)",
+    "fuel": "benzin",
+    "hp": 200
+  },
+  {
+    "label": "Golf 2.0 GTI DSG (Benzin, 230 PS)",
+    "fuel": "benzin",
+    "hp": 230
+  },
+  {
+    "label": "Golf 2.0 GTI (Benzin, 230 PS)",
+    "fuel": "benzin",
+    "hp": 230
+  },
+  {
+    "label": "Golf R32 4Motion DSG (Benzin, 250 PS)",
+    "fuel": "benzin",
+    "hp": 250
+  },
+  {
+    "label": "Golf R32 4Motion (Benzin, 250 PS)",
+    "fuel": "benzin",
+    "hp": 250
+  },
+  {
+    "label": "Golf 2.0 SDI (Diesel, 75 PS)",
+    "fuel": "diesel",
+    "hp": 75
+  },
+  {
+    "label": "Golf 1.9 TDI DPF (Diesel, 90 PS)",
+    "fuel": "diesel",
+    "hp": 90
+  },
+  {
+    "label": "Golf 1.9 TDI (Diesel, 90 PS)",
+    "fuel": "diesel",
+    "hp": 90
+  },
+  {
+    "label": "Golf Plus 1.9 TDI DPF (Diesel, 90 PS)",
+    "fuel": "diesel",
+    "hp": 90
+  },
+  {
+    "label": "Golf Plus 1.9 TDI (Diesel, 90 PS)",
+    "fuel": "diesel",
+    "hp": 90
+  },
+  {
+    "label": "Golf Plus 1.9 TDI DPF DSG (Diesel, 105 PS)",
+    "fuel": "diesel",
+    "hp": 105
+  },
+  {
+    "label": "Golf 1.9 TDI DSG DPF (Diesel, 105 PS)",
+    "fuel": "diesel",
+    "hp": 105
+  },
+  {
+    "label": "Golf 1.9 TDI DSG (Diesel, 105 PS)",
+    "fuel": "diesel",
+    "hp": 105
+  },
+  {
+    "label": "Golf Plus 1.9 TDI DSG (Diesel, 105 PS)",
+    "fuel": "diesel",
+    "hp": 105
+  },
+  {
+    "label": "Golf Plus 1.9 TDI DPF (Diesel, 105 PS)",
+    "fuel": "diesel",
+    "hp": 105
+  },
+  {
+    "label": "Golf 1.9 TDI DPF (Diesel, 105 PS)",
+    "fuel": "diesel",
+    "hp": 105
+  },
+  {
+    "label": "Golf 1.9 TDI (Diesel, 105 PS)",
+    "fuel": "diesel",
+    "hp": 105
+  },
+  {
+    "label": "Golf 1.9 TDI 4Motion DPF (Diesel, 105 PS)",
+    "fuel": "diesel",
+    "hp": 105
+  },
+  {
+    "label": "Golf 1.9 TDI 4Motion (Diesel, 105 PS)",
+    "fuel": "diesel",
+    "hp": 105
+  },
+  {
+    "label": "Golf Plus 1.9 TDI (Diesel, 105 PS)",
+    "fuel": "diesel",
+    "hp": 105
+  },
+  {
+    "label": "Golf Plus 2.0 TDI DPF DSG (Diesel, 140 PS)",
+    "fuel": "diesel",
+    "hp": 140
+  },
+  {
+    "label": "Golf 2.0 TDI DPF DSG (Diesel, 140 PS)",
+    "fuel": "diesel",
+    "hp": 140
+  },
+  {
+    "label": "Golf 2.0 TDI DSG (Diesel, 140 PS)",
+    "fuel": "diesel",
+    "hp": 140
+  },
+  {
+    "label": "Golf Plus 2.0 TDI DSG (Diesel, 140 PS)",
+    "fuel": "diesel",
+    "hp": 140
+  },
+  {
+    "label": "Golf Plus 2.0 TDI DPF (Diesel, 140 PS)",
+    "fuel": "diesel",
+    "hp": 140
+  },
+  {
+    "label": "Golf 2.0 TDI 4Motion (Diesel, 140 PS)",
+    "fuel": "diesel",
+    "hp": 140
+  },
+  {
+    "label": "Golf 2.0 TDI DPF 4Motion (Diesel, 140 PS)",
+    "fuel": "diesel",
+    "hp": 140
+  },
+  {
+    "label": "Golf 2.0 TDI DPF (Diesel, 140 PS)",
+    "fuel": "diesel",
+    "hp": 140
+  },
+  {
+    "label": "Golf 2.0 TDI (Diesel, 140 PS)",
+    "fuel": "diesel",
+    "hp": 140
+  },
+  {
+    "label": "Golf Plus 2.0 TDI (Diesel, 140 PS)",
+    "fuel": "diesel",
+    "hp": 140
+  },
+  {
+    "label": "Golf 2.0 TDI DPF DSG (Diesel, 170 PS)",
+    "fuel": "diesel",
+    "hp": 170
+  },
+  {
+    "label": "Golf 2.0 TDI DPF (Diesel, 170 PS)",
+    "fuel": "diesel",
+    "hp": 170
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "name": "B 150",
+    "description": "B 150",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/B-Klasse/models/B%20150"
+  },
+  {
+    "name": "B 160",
+    "description": "B 160",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/B-Klasse/models/B%20160"
+  },
+  {
+    "name": "B 170",
+    "description": "B 170",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/B-Klasse/models/B%20170"
+  },
+  {
+    "name": "B 180",
+    "description": "B 180",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/B-Klasse/models/B%20180"
+  },
+  {
+    "name": "B 200",
+    "description": "B 200",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/B-Klasse/models/B%20200"
+  },
+  {
+    "name": "B 220",
+    "description": "B 220",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/B-Klasse/models/B%20220"
+  },
+  {
+    "name": "B 250",
+    "description": "B 250",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/B-Klasse/models/B%20250"
+  },
+  {
+    "name": "B Electric Drive",
+    "description": "B Electric Drive",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/B-Klasse/models/B%20Electric%20Drive"
+  }
+]

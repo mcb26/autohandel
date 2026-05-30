@@ -1,0 +1,42 @@
+[
+  {
+    "label": "Golf Alltrack 1.8 TSI 4Motion (BMT) DSG (Benzin, 180 PS)",
+    "fuel": "bmt) dsg (benzin",
+    "hp": 180
+  },
+  {
+    "label": "Golf Alltrack 1.8 TSI 4Motion BlueMotion Techn DSG (Benzin, 180 PS)",
+    "fuel": "benzin",
+    "hp": 180
+  },
+  {
+    "label": "Golf Alltrack 1.6 TDI 4Motion BlueMotion Technol. (Diesel, 110 PS)",
+    "fuel": "diesel",
+    "hp": 110
+  },
+  {
+    "label": "Golf Alltrack 2.0 TDI 4Motion DSG (Diesel, 150 PS)",
+    "fuel": "diesel",
+    "hp": 150
+  },
+  {
+    "label": "Golf Alltrack 2.0 TDI 4Motion (BMT) (Diesel, 150 PS)",
+    "fuel": "bmt) (diesel",
+    "hp": 150
+  },
+  {
+    "label": "Golf Alltrack 2.0 TDI 4Motion BlueMotion Technol. (Diesel, 150 PS)",
+    "fuel": "diesel",
+    "hp": 150
+  },
+  {
+    "label": "Golf Alltrack 2.0 TDI 4Motion (BMT) DSG (Diesel, 184 PS)",
+    "fuel": "bmt) dsg (diesel",
+    "hp": 184
+  },
+  {
+    "label": "Golf Alltrack 2.0 TDI 4Motion BlueMotion Techn DSG (Diesel, 184 PS)",
+    "fuel": "diesel",
+    "hp": 184
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "name": "EX30",
+    "description": "EX30",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/INFINITI/model/EX30"
+  },
+  {
+    "name": "EX35",
+    "description": "EX35",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/INFINITI/model/EX35"
+  },
+  {
+    "name": "EX37",
+    "description": "EX37",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/INFINITI/model/EX37"
+  },
+  {
+    "name": "FX",
+    "description": "FX",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/INFINITI/model/FX"
+  },
+  {
+    "name": "G35",
+    "description": "G35",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/INFINITI/model/G35"
+  },
+  {
+    "name": "G37",
+    "description": "G37",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/INFINITI/model/G37"
+  },
+  {
+    "name": "M30",
+    "description": "M30",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/INFINITI/model/M30"
+  },
+  {
+    "name": "M35",
+    "description": "M35",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/INFINITI/model/M35"
+  },
+  {
+    "name": "M37",
+    "description": "M37",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/INFINITI/model/M37"
+  },
+  {
+    "name": "Q30",
+    "description": "Q30",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/INFINITI/model/Q30"
+  },
+  {
+    "name": "Q45",
+    "description": "Q45",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/INFINITI/model/Q45"
+  },
+  {
+    "name": "Q50",
+    "description": "Q50",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/INFINITI/model/Q50"
+  },
+  {
+    "name": "Q60",
+    "description": "Q60",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/INFINITI/model/Q60"
+  },
+  {
+    "name": "Q70",
+    "description": "Q70",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/INFINITI/model/Q70"
+  },
+  {
+    "name": "QX30",
+    "description": "QX30",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/INFINITI/model/QX30"
+  },
+  {
+    "name": "QX50",
+    "description": "QX50",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/INFINITI/model/QX50"
+  },
+  {
+    "name": "QX56",
+    "description": "QX56",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/INFINITI/model/QX56"
+  },
+  {
+    "name": "QX60",
+    "description": "QX60",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/INFINITI/model/QX60"
+  },
+  {
+    "name": "QX70",
+    "description": "QX70",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/INFINITI/model/QX70"
+  },
+  {
+    "name": "QX80",
+    "description": "QX80",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/INFINITI/model/QX80"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/INFINITI/model/ANDERE"
+  }
+]

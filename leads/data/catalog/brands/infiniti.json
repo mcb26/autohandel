@@ -1,0 +1,1395 @@
+{
+  "label": "Infiniti",
+  "models": {
+    "ex": {
+      "label": "EX",
+      "series": {
+        "infiniti-ex-35": {
+          "label": "Infiniti EX 35",
+          "engines": [
+            {
+              "label": "3.5i V6 (302 Hp) 4WD Automatic (2009 - 2013)",
+              "hp": 302,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.5i V6 4WD (295 Hp) (2007 - 2013)",
+              "hp": 295,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.5i V6 2WD (295 Hp) (2007 - 2013)",
+              "hp": 295,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "infiniti-ex-37": {
+          "label": "Infiniti EX 37",
+          "engines": [
+            {
+              "label": "3.7i V6 (320 Hp) 4WD Automatic (2007 - 2013)",
+              "hp": 320,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "fx": {
+      "label": "FX",
+      "series": {
+        "infiniti-fx-ii-facelift-2011": {
+          "label": "Infiniti FX II (facelift 2011)",
+          "engines": [
+            {
+              "label": "50 V8 (390 Hp) ATTESA E-TS AWD Automatic (2011 - 2013)",
+              "hp": 390
+            },
+            {
+              "label": "37 V6 (325 Hp) Automatic (2012 - 2013)",
+              "hp": 325
+            },
+            {
+              "label": "37 V6 (325 Hp) ATTESA E-TS AWD Automatic (2012 - 2013)",
+              "hp": 325
+            },
+            {
+              "label": "35 V6 (303 Hp) Automatic (2011 - 2013)",
+              "hp": 303
+            },
+            {
+              "label": "35 V6 (303 Hp) ATTESA E-TS AWD Automatic (2011 - 2013)",
+              "hp": 303
+            },
+            {
+              "label": "30d (238 Hp) ATTESA E-TS AWD Automatic (2012 - 2013)",
+              "hp": 238
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "infiniti-fx-ii": {
+          "label": "Infiniti FX II",
+          "engines": [
+            {
+              "label": "50 V8 (390 Hp) ATTESA E-TS AWD Automatic (2008 - 2012)",
+              "hp": 390
+            },
+            {
+              "label": "35 V6 (303 Hp) Automatic (2008 - 2011)",
+              "hp": 303
+            },
+            {
+              "label": "35 V6 (303 Hp) ATTESA E-TS AWD Automatic (2008 - 2011)",
+              "hp": 303
+            },
+            {
+              "label": "30d (238 Hp) ATTESA E-TS AWD Automatic (2010 - 2012)",
+              "hp": 238
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "infiniti-fx-i-facelift-2006": {
+          "label": "Infiniti FX I (facelift 2006)",
+          "engines": [
+            {
+              "label": "45 V8 32V (328 Hp) AWD (2006 - 2008)",
+              "hp": 328
+            },
+            {
+              "label": "45 V8 32V (319 Hp) AWD (2006 - 2008)",
+              "hp": 319
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "infiniti-fx-i": {
+          "label": "Infiniti FX I",
+          "engines": [
+            {
+              "label": "35 V6 24V (283 Hp) AWD (2003 - 2006)",
+              "hp": 283
+            },
+            {
+              "label": "35 V6 24V (283 Hp) (2003 - 2006)",
+              "hp": 283
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "g": {
+      "label": "G",
+      "series": {
+        "infiniti-g25-sedan-v36-facelift-2011": {
+          "label": "Infiniti G25 Sedan (V36, facelift 2011)",
+          "engines": [
+            {
+              "label": "G25x 2.5 V6 (218 Hp) AWD Automatic (2011 - 2013)",
+              "hp": 218,
+              "fuel": "benzin"
+            },
+            {
+              "label": "G25 2.5 V6 (218 Hp) Automatic (2011 - 2013)",
+              "hp": 218,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "infiniti-g37-sedan-v36-facelift-2009": {
+          "label": "Infiniti G37 Sedan (V36, facelift 2009)",
+          "engines": [
+            {
+              "label": "3.7 V6 (328 Hp) AWD Automatic (2009 - 2015)",
+              "hp": 328,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.7 V6 (328 Hp) Automatic (2009 - 2015)",
+              "hp": 328,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.7 V6 (328 Hp) (2009 - 2013)",
+              "hp": 328,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "infiniti-g37-sedan-v36": {
+          "label": "Infiniti G37 Sedan (V36)",
+          "engines": [
+            {
+              "label": "3.7 V6 (328 Hp) AWD Automatic (2008 - 2009)",
+              "hp": 328,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.7 V6 (328 Hp) Automatic (2008 - 2009)",
+              "hp": 328,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.7 V6 (328 Hp) (2008 - 2009)",
+              "hp": 328,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "infiniti-g37-convertible-v36": {
+          "label": "Infiniti G37 Convertible (V36)",
+          "engines": [
+            {
+              "label": "3.7 V6 (320 Hp) Automatic (2009 - 2015)",
+              "hp": 320,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "infiniti-g37-coupe-v36": {
+          "label": "Infiniti G37 Coupe (V36)",
+          "engines": [
+            {
+              "label": "3.7I V6 (320 Hp) Automatic (2007 - 2015)",
+              "hp": 320,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.7I V6 (320 Hp) (2007 - 2015)",
+              "hp": 320,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.7 V6 (320 Hp) Automatic (2009 - 2015)",
+              "hp": 320,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "infiniti-g35-sedan-v36": {
+          "label": "Infiniti G35 Sedan (V36)",
+          "engines": [
+            {
+              "label": "3.5i V6 AWD (315 Hp) (2006 - 2008)",
+              "hp": 315,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.5 i V6 24V X AWD (309 Hp) (2006 - 2008)",
+              "hp": 309,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.5 i V6 24V (309 Hp) Automatic (2006 - 2008)",
+              "hp": 309,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.5 i V6 24V (309 Hp) (2006 - 2008)",
+              "hp": 309,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "infiniti-g35-coupe-v35": {
+          "label": "Infiniti G35 Coupe (V35)",
+          "engines": [
+            {
+              "label": "3.5 i V6 24V (283 Hp) Automatic (2002 - 2007)",
+              "hp": 283,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.5 i V6 24V (283 Hp) (2002 - 2007)",
+              "hp": 283,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "infiniti-g35-sedan-v35": {
+          "label": "Infiniti G35 Sedan (V35)",
+          "engines": [
+            {
+              "label": "3.5 i V6 24V (260 Hp) (2002 - 2006)",
+              "hp": 260,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "infiniti-g20": {
+          "label": "Infiniti G20",
+          "engines": [
+            {
+              "label": "2.0 i (140 Hp) Automatic (1991 - 1996)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 i (140 Hp) (1991 - 1996)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 16V (145 Hp) Automatic (1992 - 2000)",
+              "hp": 145,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 16V (145 Hp) (1992 - 2000)",
+              "hp": 145,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "i30": {
+      "label": "I30",
+      "series": {
+        "infiniti-i30-a33": {
+          "label": "Infiniti I30 (A33)",
+          "engines": [
+            {
+              "label": "3.0 i 24V (230 Hp) (1998 - 2002)",
+              "hp": 230,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "infiniti-i30": {
+          "label": "Infiniti I30",
+          "engines": [
+            {
+              "label": "3.0 (193 Hp) (1995 - 2000)",
+              "hp": 193,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "i35": {
+      "label": "I35",
+      "series": {
+        "infiniti-i35": {
+          "label": "Infiniti I35",
+          "engines": [
+            {
+              "label": "3.5 i V6 24V (259 Hp) (1998 - 2004)",
+              "hp": 259,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "j30": {
+      "label": "J30",
+      "series": {
+        "infiniti-j30": {
+          "label": "Infiniti J30",
+          "engines": [
+            {
+              "label": "3.0 V6 24V (213 Hp) (1992 - 1997)",
+              "hp": 213,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 i V6 24V (200 Hp) (1992 - 1997)",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "jx": {
+      "label": "JX",
+      "series": {
+        "infiniti-jx": {
+          "label": "Infiniti JX",
+          "engines": [
+            {
+              "label": "35 V6 (265 Hp) CVT (2012 - 2013)",
+              "hp": 265
+            },
+            {
+              "label": "35 V6 (265 Hp) AWD CVT (2012 - 2013)",
+              "hp": 265
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "m": {
+      "label": "M",
+      "series": {
+        "infiniti-m-iv-y51": {
+          "label": "Infiniti M IV (Y51)",
+          "engines": [
+            {
+              "label": "M56 V8 (420 Hp) AWD Automatic (2010 - 2019)",
+              "hp": 420
+            },
+            {
+              "label": "M56 V8 (420 Hp) Automatic (2010 - 2019)",
+              "hp": 420
+            },
+            {
+              "label": "M37 V6 (330 Hp) AWD Automatic (2010 - 2019)",
+              "hp": 330
+            },
+            {
+              "label": "M37 V6 (330 Hp) Automatic (2010 - 2019)",
+              "hp": 330
+            },
+            {
+              "label": "M35h V6 (360 Hp) Hybrid Automatic (2011 - 2019)",
+              "hp": 360,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "M30d V6 (238 Hp) Automatic (2010 - 2014)",
+              "hp": 238
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "infiniti-m-iii-y50": {
+          "label": "Infiniti M III (Y50)",
+          "engines": [
+            {
+              "label": "35 i V6 24V AWD (307 Hp) (2008 - 2010)",
+              "hp": 307
+            },
+            {
+              "label": "35 i V6 24V (307 Hp) (2008 - 2010)",
+              "hp": 307
+            },
+            {
+              "label": "35 i V6 24V AWD (303 Hp) (2008 - 2010)",
+              "hp": 303
+            },
+            {
+              "label": "35 i V6 24V (303 Hp) (2008 - 2010)",
+              "hp": 303
+            },
+            {
+              "label": "35 i V6 24V AWD (280 Hp) (2005 - 2008)",
+              "hp": 280
+            },
+            {
+              "label": "35 i V6 24V (280 Hp) (2005 - 2008)",
+              "hp": 280
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "infiniti-m-ii-y34": {
+          "label": "Infiniti M II (Y34)",
+          "engines": [
+            {
+              "label": "45i V8 32V (344 Hp) (2002 - 2004)",
+              "hp": 344
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "infiniti-m-i-convertible-f31": {
+          "label": "Infiniti M I Convertible (F31)",
+          "engines": [
+            {
+              "label": "30 (164 Hp) (1990 - 1992)",
+              "hp": 164
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "infiniti-m-i-coupe-f31": {
+          "label": "Infiniti M I Coupe (F31)",
+          "engines": [
+            {
+              "label": "30 (164 Hp) (1989 - 1992)",
+              "hp": 164
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "project-black-s": {
+      "label": "Project Black S",
+      "series": {
+        "infiniti-project-black-s-prototype": {
+          "label": "Infiniti Project Black S Prototype",
+          "engines": [
+            {
+              "label": "3.0 V6 (571 Hp) Hybrid Automatic",
+              "hp": 571,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "q30": {
+      "label": "Q30",
+      "series": {
+        "infiniti-q30": {
+          "label": "Infiniti Q30",
+          "engines": [
+            {
+              "label": "2.2 CDI (170 Hp) DCT (2015 - 2018)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 CDI (170 Hp) AWD DCT (2015 - 2018)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (211 Hp) AWD DCT (2015 - 2018)",
+              "hp": 211,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (156 Hp) DCT (2015 - 2018)",
+              "hp": 156,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (122 Hp) (2015 - 2018)",
+              "hp": 122,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 CDI (109 Hp) DCT (2015 - 2018)",
+              "hp": 109,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 CDI (109 Hp) (2015 - 2018)",
+              "hp": 109,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "q45": {
+      "label": "Q45",
+      "series": {
+        "infiniti-q45-iii": {
+          "label": "Infiniti Q45 III",
+          "engines": [
+            {
+              "label": "4.5 i V8 32V (340 Hp) (2001 - 2006)",
+              "hp": 340,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "infiniti-q45-ii": {
+          "label": "Infiniti Q45 II",
+          "engines": [
+            {
+              "label": "4.1 i V8 32 (269 Hp) (1996 - 2001)",
+              "hp": 269,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "infiniti-q45-i": {
+          "label": "Infiniti Q45 I",
+          "engines": [
+            {
+              "label": "4.5 (278 Hp) (1989 - 1996)",
+              "hp": 278,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "q50": {
+      "label": "Q50",
+      "series": {
+        "infiniti-q50-facelift-2017": {
+          "label": "Infiniti Q50 (facelift 2017)",
+          "engines": [
+            {
+              "label": "S 3.0t (405 Hp) Automatic",
+              "hp": 405,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.5 (364 Hp) Hybrid AWD Automatic",
+              "hp": 364,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "3.5 (364 Hp) Hybrid Automatic",
+              "hp": 364,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "3.0t V6 (400 Hp) AWD Automatic",
+              "hp": 400,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0t V6 (300 Hp) AWD Automatic",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2d (170 Hp) Automatic",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2d (170 Hp)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0t (211 Hp) Automatic",
+              "hp": 211,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "infiniti-q50": {
+          "label": "Infiniti Q50",
+          "engines": [
+            {
+              "label": "S 3.5 V6 (364 Hp) Hybrid AWD Automatic (2013 - 2017)",
+              "hp": 364,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "S 3.5 V6 (364 Hp) Hybrid Automatic (2013 - 2017)",
+              "hp": 364,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "S 3.0 V6 (405 Hp) Automatic (2016 - 2017)",
+              "hp": 405,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.7 V6 (328 Hp) AWD Automatic (2014 - 2015)",
+              "hp": 328,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.7 V6 (328 Hp) Automatic (2014 - 2015)",
+              "hp": 328,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2D (170 Hp) Automatic (2013 - 2017)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2D (170 Hp) (2013 - 2017)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (211 Hp) Automatic (2014 - 2017)",
+              "hp": 211,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "q60": {
+      "label": "Q60",
+      "series": {
+        "infiniti-q60-ii-coupe": {
+          "label": "Infiniti Q60 II Coupe",
+          "engines": [
+            {
+              "label": "S 3.0 V6 (405 Hp) AWD Automatic (2016 - 2018)",
+              "hp": 405,
+              "fuel": "benzin"
+            },
+            {
+              "label": "S 3.0 V6 (405 Hp) Automatic (2016 - 2018)",
+              "hp": 405,
+              "fuel": "benzin"
+            },
+            {
+              "label": "RED SPORT 3.0t V6 (400 Hp) AWD Automatic",
+              "hp": 400,
+              "fuel": "benzin"
+            },
+            {
+              "label": "RED SPORT 3.0t V6 (400 Hp) Automatic",
+              "hp": 400,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0t V6 (300 Hp) AWD Automatic",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0t V6 (300 Hp) Automatic",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 (304 Hp) AWD Automatic (2016 - 2018)",
+              "hp": 304,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 (304 Hp) Automatic (2016 - 2018)",
+              "hp": 304,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (211 Hp) AWD Automatic (2016 - 2018)",
+              "hp": 211,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (211 Hp) Automatic (2016 - 2018)",
+              "hp": 211,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "infiniti-q60-i-coupe": {
+          "label": "Infiniti Q60 I Coupe",
+          "engines": [
+            {
+              "label": "S Limited 3.7 V6 (335 Hp) Automatic (2015 - 2016)",
+              "hp": 335,
+              "fuel": "benzin"
+            },
+            {
+              "label": "S Limited 3.7 V6 (335 Hp) (2015 - 2016)",
+              "hp": 335,
+              "fuel": "benzin"
+            },
+            {
+              "label": "S 3.7 V6 (335 Hp) (2014 - 2016)",
+              "hp": 335,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Journey 3.7 V6 (335 Hp) Automatic (2014 - 2016)",
+              "hp": 335,
+              "fuel": "benzin"
+            },
+            {
+              "label": "IPL 3.7 V6 (353 Hp) Automatic (2014 - 2015)",
+              "hp": 353,
+              "fuel": "benzin"
+            },
+            {
+              "label": "IPL 3.7 V6 (353 Hp) (2014 - 2015)",
+              "hp": 353,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.7 V6 (335 Hp) AWD Automatic (2014 - 2016)",
+              "hp": 335,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.7 V6 (320 Hp) Automatic (2014 - 2016)",
+              "hp": 320,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "infiniti-q60-i-convertible": {
+          "label": "Infiniti Q60 I Convertible",
+          "engines": [
+            {
+              "label": "IPL 3.7 V6 (348 Hp) Automatic (2014 - 2016)",
+              "hp": 348,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.7 V6 (330 Hp) Automatic (2014 - 2016)",
+              "hp": 330,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.7 V6 (330 Hp) (2014 - 2016)",
+              "hp": 330,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.7 V6 (320 Hp) Automatic (2013 - 2016)",
+              "hp": 320,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "q70": {
+      "label": "Q70",
+      "series": {
+        "infiniti-q70l-facelift-2014": {
+          "label": "Infiniti Q70L (facelift 2014)",
+          "engines": [
+            {
+              "label": "5.6 V8 (416 Hp) AWD Automatic (2014 - 2018)",
+              "hp": 416,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.6 V8 (416 Hp) Automatic (2014 - 2018)",
+              "hp": 416,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.7 V6 (330 Hp) AWD Automatic (2014 - 2018)",
+              "hp": 330,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.7 V6 (330 Hp) Automatic (2014 - 2018)",
+              "hp": 330,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "infiniti-q70-facelift-2014": {
+          "label": "Infiniti Q70 (facelift 2014)",
+          "engines": [
+            {
+              "label": "5.6 V8 (420 Hp) AWD Automatic (2014 - 2018)",
+              "hp": 420,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.6 V8 (420 Hp) Automatic (2014 - 2018)",
+              "hp": 420,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.7 V6 (330 Hp) AWD Automatic (2014 - 2018)",
+              "hp": 330,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.7 V6 (330 Hp) Automatic (2014 - 2018)",
+              "hp": 330,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.7 V6 (320 Hp) Automatic (2014 - 2018)",
+              "hp": 320,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.5 V6 (360 Hp) Hybrid Automatic (2014 - 2018)",
+              "hp": 360,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "2.2D (170 Hp) Automatic (2014 - 2018)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "infiniti-q70": {
+          "label": "Infiniti Q70",
+          "engines": [
+            {
+              "label": "5.6 V8 (420 Hp) AWD Automatic (2013 - 2014)",
+              "hp": 420,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.6 V8 (420 Hp) Automatic (2013 - 2014)",
+              "hp": 420,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.7 V6 (330 Hp) AWD Automatic (2013 - 2014)",
+              "hp": 330,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.7 V6 (330 Hp) Automatic (2013 - 2014)",
+              "hp": 330,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.7 V6 (320 Hp) Automatic (2014 - 2014)",
+              "hp": 320,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.5 V6 (364 Hp) Hybrid Automatic (2013 - 2014)",
+              "hp": 364,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "3.0D V6 (238 Hp) Automatic (2014 - 2014)",
+              "hp": 238,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "qx30": {
+      "label": "QX30",
+      "series": {
+        "infiniti-qx30": {
+          "label": "Infiniti QX30",
+          "engines": [
+            {
+              "label": "2.2d (170 Hp) AWD DCT",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0t (211 Hp) AWD DCT",
+              "hp": 211,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "qx4": {
+      "label": "QX4",
+      "series": {
+        "infiniti-qx4": {
+          "label": "Infiniti QX4",
+          "engines": [
+            {
+              "label": "3.5 i V6 24V AWD (243 Hp) (1996 - 2002)",
+              "hp": 243,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.5 i V6 24V (243 Hp) (1996 - 2002)",
+              "hp": 243,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.3 i V6 24V (170 Hp) (1996 - 2002)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "qx50": {
+      "label": "QX50",
+      "series": {
+        "infiniti-qx50-ii": {
+          "label": "Infiniti QX50 II",
+          "engines": [
+            {
+              "label": "2.0 VC-Turbo (272 Hp) XTRONIC",
+              "hp": 272,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 VC-Turbo (272 Hp) AWD XTRONIC",
+              "hp": 272,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "infiniti-qx50-i-facelift-2015": {
+          "label": "Infiniti QX50 I (facelift 2015)",
+          "engines": [
+            {
+              "label": "3.7 V6 (325 Hp) AWD Automatic (2015 - 2016)",
+              "hp": 325,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.7 V6 (325 Hp) Automatic (2015 - 2016)",
+              "hp": 325,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 V6 (222 Hp) AWD Automatic (2015 - 2016)",
+              "hp": 222,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "infiniti-qx50-i": {
+          "label": "Infiniti QX50 I",
+          "engines": [
+            {
+              "label": "3.7 V6 (330 Hp) AWD Automatic (2013 - 2015)",
+              "hp": 330,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.7 V6 (320 Hp) AWD Automatic (2013 - 2015)",
+              "hp": 320,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0d V6 (238 Hp) AWD Automatic (2013 - 2015)",
+              "hp": 238,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 V6 (222 Hp) AWD Automatic (2013 - 2015)",
+              "hp": 222,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "qx55": {
+      "label": "QX55",
+      "series": {
+        "infiniti-qx55": {
+          "label": "Infiniti QX55",
+          "engines": [
+            {
+              "label": "2.0i Turbo (268 Hp) IAWD CVT",
+              "hp": 268,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "qx56": {
+      "label": "QX56",
+      "series": {
+        "infiniti-qx56-facelift-2007": {
+          "label": "Infiniti QX56 (facelift 2007)",
+          "engines": [
+            {
+              "label": "5.6 V8 (325 Hp) AWD Automatic (2007 - 2010)",
+              "hp": 325,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.6 V8 (325 Hp) Automatic (2007 - 2010)",
+              "hp": 325,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "infiniti-qx56": {
+          "label": "Infiniti QX56",
+          "engines": [
+            {
+              "label": "5.6 V8 (320 Hp) AWD Automatic (2004 - 2007)",
+              "hp": 320,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.6 V8 (320 Hp) Automatic (2004 - 2007)",
+              "hp": 320,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.6 V8 (313 Hp) AWD Automatic (2004 - 2007)",
+              "hp": 313,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.6 V8 (313 Hp) Automatic (2004 - 2007)",
+              "hp": 313,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "qx60": {
+      "label": "QX60",
+      "series": {
+        "infiniti-qx60-ii-l51-facelift-2025": {
+          "label": "Infiniti QX60 II (L51, facelift 2025)",
+          "engines": [
+            {
+              "label": "2.0 VC-Turbo (268 Hp) AWD Automatic",
+              "hp": 268,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 VC-Turbo (268 Hp) Automatic",
+              "hp": 268,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "infiniti-qx60-ii-l51": {
+          "label": "Infiniti QX60 II (L51)",
+          "engines": [
+            {
+              "label": "3.5 V6 (295 Hp) iAWD Automatic",
+              "hp": 295,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.5 V6 (295 Hp) Automatic",
+              "hp": 295,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0T (252 Hp) AWD Automatic",
+              "hp": 252,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0T (252 Hp) Automatic",
+              "hp": 252,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "infiniti-qx60-i-l50-facelift-2016": {
+          "label": "Infiniti QX60 I (L50, facelift 2016)",
+          "engines": [
+            {
+              "label": "3.5 V6 (295 Hp) AWD Automatic (2017 - 2021)",
+              "hp": 295,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.5 V6 (295 Hp) Automatic (2017 - 2021)",
+              "hp": 295,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.5 V6 (262 Hp) AWD XTRONIC (2016 - 2021)",
+              "hp": 262,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 (250 Hp) Hybrid AWD XTRONIC (2016 - 2021)",
+              "hp": 250,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "infiniti-qx60-i-l50": {
+          "label": "Infiniti QX60 I (L50)",
+          "engines": [
+            {
+              "label": "3.5 V6 (265 Hp) CVT (2013 - 2015)",
+              "hp": 265,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.5 V6 (265 Hp) AWD CVT (2013 - 2015)",
+              "hp": 265,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "qx65": {
+      "label": "QX65",
+      "series": {
+        "infiniti-qx65": {
+          "label": "Infiniti QX65",
+          "engines": [
+            {
+              "label": "2.0 VC-Turbo (268 Hp) AWD Automatic",
+              "hp": 268,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "qx70": {
+      "label": "QX70",
+      "series": {
+        "infiniti-qx70": {
+          "label": "Infiniti QX70",
+          "engines": [
+            {
+              "label": "5.0 V8 (390 Hp) Automatic AWD",
+              "hp": 390,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.7 V6 (320 Hp) Automatic AWD",
+              "hp": 320,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0D V6 (238 Hp) Automatic AWD",
+              "hp": 238,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "qx80": {
+      "label": "QX80",
+      "series": {
+        "infiniti-qx80-z63": {
+          "label": "Infiniti QX80 (Z63)",
+          "engines": [
+            {
+              "label": "3.5 V6 (450 Hp) Automatic",
+              "hp": 450,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.5 V6 (450 Hp) 4WD Automatic",
+              "hp": 450,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "infiniti-qx80-z62-facelift-2017": {
+          "label": "Infiniti QX80 (Z62, facelift 2017)",
+          "engines": [
+            {
+              "label": "5.6 V8 (400 Hp) AWD Automatic (2017 - 2024)",
+              "hp": 400,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.6 V8 (400 Hp) Automatic (2017 - 2024)",
+              "hp": 400,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "infiniti-qx80-z62": {
+          "label": "Infiniti QX80 (Z62)",
+          "engines": [
+            {
+              "label": "5.6 V8 (405 Hp) AWD Automatic (2014 - 2017)",
+              "hp": 405,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.6 V8 (405 Hp) Automatic (2014 - 2017)",
+              "hp": 405,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

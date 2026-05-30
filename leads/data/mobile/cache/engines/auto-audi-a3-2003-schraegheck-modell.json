@@ -1,0 +1,142 @@
+[
+  {
+    "label": "A3 1.6 S tronic (Benzin, 102 PS)",
+    "fuel": "benzin",
+    "hp": 102
+  },
+  {
+    "label": "A3 1.6 (Benzin, 102 PS)",
+    "fuel": "benzin",
+    "hp": 102
+  },
+  {
+    "label": "A3 1.2 TFSI S tronic (Benzin, 105 PS)",
+    "fuel": "benzin",
+    "hp": 105
+  },
+  {
+    "label": "A3 1.2 TFSI (Benzin, 105 PS)",
+    "fuel": "benzin",
+    "hp": 105
+  },
+  {
+    "label": "A3 1.4 TFSI S tronic (Benzin, 125 PS)",
+    "fuel": "benzin",
+    "hp": 125
+  },
+  {
+    "label": "A3 1.4 TFSI (Benzin, 125 PS)",
+    "fuel": "benzin",
+    "hp": 125
+  },
+  {
+    "label": "A3 1.8 TFSI S tronic (Benzin, 160 PS)",
+    "fuel": "benzin",
+    "hp": 160
+  },
+  {
+    "label": "A3 1.8 TFSI quattro (Benzin, 160 PS)",
+    "fuel": "benzin",
+    "hp": 160
+  },
+  {
+    "label": "A3 1.8 TFSI (Benzin, 160 PS)",
+    "fuel": "benzin",
+    "hp": 160
+  },
+  {
+    "label": "A3 2.0 TFSI S tronic (Benzin, 200 PS)",
+    "fuel": "benzin",
+    "hp": 200
+  },
+  {
+    "label": "A3 2.0 TFSI quattro S tronic (Benzin, 200 PS)",
+    "fuel": "benzin",
+    "hp": 200
+  },
+  {
+    "label": "A3 2.0 TFSI (Benzin, 200 PS)",
+    "fuel": "benzin",
+    "hp": 200
+  },
+  {
+    "label": "A3 3.2 quattro S tronic (Benzin, 250 PS)",
+    "fuel": "benzin",
+    "hp": 250
+  },
+  {
+    "label": "S3 S tronic (Benzin, 265 PS)",
+    "fuel": "benzin",
+    "hp": 265
+  },
+  {
+    "label": "S3 (Benzin, 265 PS)",
+    "fuel": "benzin",
+    "hp": 265
+  },
+  {
+    "label": "A3 1.6 TDI DPF (Diesel, 90 PS)",
+    "fuel": "diesel",
+    "hp": 90
+  },
+  {
+    "label": "A3 1.6 TDI DPF S tronic (Diesel, 105 PS)",
+    "fuel": "diesel",
+    "hp": 105
+  },
+  {
+    "label": "A3 1.9 TDI DPF S tronic (Diesel, 105 PS)",
+    "fuel": "diesel",
+    "hp": 105
+  },
+  {
+    "label": "A3 1.6 TDI DPF (Diesel, 105 PS)",
+    "fuel": "diesel",
+    "hp": 105
+  },
+  {
+    "label": "A3 1.9 TDI DPF (Diesel, 105 PS)",
+    "fuel": "diesel",
+    "hp": 105
+  },
+  {
+    "label": "A3 1.6 TDI 99g DPF (Diesel, 105 PS)",
+    "fuel": "diesel",
+    "hp": 105
+  },
+  {
+    "label": "A3 1.9 TDIe DPF (Diesel, 105 PS)",
+    "fuel": "diesel",
+    "hp": 105
+  },
+  {
+    "label": "A3 2.0 TDI DPF S tronic (Diesel, 140 PS)",
+    "fuel": "diesel",
+    "hp": 140
+  },
+  {
+    "label": "A3 2.0 TDI DPF quattro (Diesel, 140 PS)",
+    "fuel": "diesel",
+    "hp": 140
+  },
+  {
+    "label": "A3 2.0 TDI DPF (Diesel, 140 PS)",
+    "fuel": "diesel",
+    "hp": 140
+  },
+  {
+    "label": "A3 2.0 TDI DPF S tronic (Diesel, 170 PS)",
+    "fuel": "diesel",
+    "hp": 170
+  },
+  {
+    "label": "A3 2.0 TDI DPF quattro (Diesel, 170 PS)",
+    "fuel": "diesel",
+    "hp": 170
+  },
+  {
+    "label": "A3 2.0 TDI DPF (Diesel, 170 PS)",
+    "fuel": "diesel",
+    "hp": 170
+  }
+]

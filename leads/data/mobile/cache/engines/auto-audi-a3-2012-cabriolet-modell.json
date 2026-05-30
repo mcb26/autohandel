@@ -1,0 +1,157 @@
+[
+  {
+    "label": "A3 1.4 TFSI Cabrio S tronic (Benzin, 115 PS)",
+    "fuel": "benzin",
+    "hp": 115
+  },
+  {
+    "label": "A3 1.4 TFSI Cabrio (Benzin, 115 PS)",
+    "fuel": "benzin",
+    "hp": 115
+  },
+  {
+    "label": "A3 1.4 TFSI Cabrio S tronic (Benzin, 125 PS)",
+    "fuel": "benzin",
+    "hp": 125
+  },
+  {
+    "label": "A3 1.4 TFSI Cabrio (Benzin, 125 PS)",
+    "fuel": "benzin",
+    "hp": 125
+  },
+  {
+    "label": "A3 1.4 TFSI cylinder on demand Cabrio S tronic (Benzin, 140 PS)",
+    "fuel": "benzin",
+    "hp": 140
+  },
+  {
+    "label": "A3 1.4 TFSI cylinder on demand Cabrio (Benzin, 140 PS)",
+    "fuel": "benzin",
+    "hp": 140
+  },
+  {
+    "label": "A3 1.4 TFSI cylinder on demand ultra Cab. S tronic (Benzin, 150 PS)",
+    "fuel": "benzin",
+    "hp": 150
+  },
+  {
+    "label": "A3 1.5 TFSI cylinder on demand Cabrio S tronic (Benzin, 150 PS)",
+    "fuel": "benzin",
+    "hp": 150
+  },
+  {
+    "label": "A3 35 TFSI cylinder on demand Cabrio S tronic (Benzin, 150 PS)",
+    "fuel": "benzin",
+    "hp": 150
+  },
+  {
+    "label": "A3 1.4 TFSI cylinder on demand ultra Cabrio (Benzin, 150 PS)",
+    "fuel": "benzin",
+    "hp": 150
+  },
+  {
+    "label": "A3 1.5 TFSI cylinder on demand Cabrio (Benzin, 150 PS)",
+    "fuel": "benzin",
+    "hp": 150
+  },
+  {
+    "label": "A3 35 TFSI cylinder on demand Cabrio (Benzin, 150 PS)",
+    "fuel": "benzin",
+    "hp": 150
+  },
+  {
+    "label": "A3 1.8 TFSI Cabrio S tronic (Benzin, 180 PS)",
+    "fuel": "benzin",
+    "hp": 180
+  },
+  {
+    "label": "A3 1.8 TFSI Cabrio quattro S tronic (Benzin, 180 PS)",
+    "fuel": "benzin",
+    "hp": 180
+  },
+  {
+    "label": "A3 1.8 TFSI Cabrio (Benzin, 180 PS)",
+    "fuel": "benzin",
+    "hp": 180
+  },
+  {
+    "label": "A3 2.0 TFSI Cabrio quattro S tronic (Benzin, 190 PS)",
+    "fuel": "benzin",
+    "hp": 190
+  },
+  {
+    "label": "A3 40 TFSI Cabrio quattro S tronic (Benzin, 190 PS)",
+    "fuel": "benzin",
+    "hp": 190
+  },
+  {
+    "label": "S3 Cabrio S tronic (Benzin, 300 PS)",
+    "fuel": "benzin",
+    "hp": 300
+  },
+  {
+    "label": "S3 TFSI Cabrio S tronic (Benzin, 300 PS)",
+    "fuel": "benzin",
+    "hp": 300
+  },
+  {
+    "label": "S3 Cabrio S tronic (Benzin, 310 PS)",
+    "fuel": "benzin",
+    "hp": 310
+  },
+  {
+    "label": "A3 1.6 TDI Cabrio (clean diesel) (Diesel, 110 PS)",
+    "fuel": "clean diesel) (diesel",
+    "hp": 110
+  },
+  {
+    "label": "A3 2.0 TDI Cabrio S tronic (Diesel, 150 PS)",
+    "fuel": "diesel",
+    "hp": 150
+  },
+  {
+    "label": "A3 2.0 TDI Cabrio S tronic (clean diesel) (Diesel, 150 PS)",
+    "fuel": "clean diesel) (diesel",
+    "hp": 150
+  },
+  {
+    "label": "A3 2.0 TDI Cabrio (clean diesel) quattro (Diesel, 150 PS)",
+    "fuel": "clean diesel) quattro (diesel",
+    "hp": 150
+  },
+  {
+    "label": "A3 2.0 TDI Cabrio (clean diesel) (Diesel, 150 PS)",
+    "fuel": "clean diesel) (diesel",
+    "hp": 150
+  },
+  {
+    "label": "A3 2.0 TDI Cabrio quattro (Diesel, 150 PS)",
+    "fuel": "diesel",
+    "hp": 150
+  },
+  {
+    "label": "A3 2.0 TDI Cabrio (Diesel, 150 PS)",
+    "fuel": "diesel",
+    "hp": 150
+  },
+  {
+    "label": "A3 2.0 TDI Cabrio quattro S tronic (Diesel, 184 PS)",
+    "fuel": "diesel",
+    "hp": 184
+  },
+  {
+    "label": "A3 2.0 TDI Cabrio (clean diesel) quattro S tronic (Diesel, 184 PS)",
+    "fuel": "clean diesel) quattro s tronic (diesel",
+    "hp": 184
+  },
+  {
+    "label": "A3 2.0 TDI Cabrio clean (clean diesel) S tronic (Diesel, 184 PS)",
+    "fuel": "clean diesel) s tronic (diesel",
+    "hp": 184
+  },
+  {
+    "label": "A3 2.0 TDI Cabrio (clean diesel) (Diesel, 184 PS)",
+    "fuel": "clean diesel) (diesel",
+    "hp": 184
+  }
+]

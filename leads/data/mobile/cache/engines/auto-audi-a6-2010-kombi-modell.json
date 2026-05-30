@@ -1,0 +1,192 @@
+[
+  {
+    "label": "A6 Avant 2.0 TFSI multitronic (Benzin, 180 PS)",
+    "fuel": "benzin",
+    "hp": 180
+  },
+  {
+    "label": "A6 Avant 2.0 TFSI (Benzin, 180 PS)",
+    "fuel": "benzin",
+    "hp": 180
+  },
+  {
+    "label": "A6 Avant 1.8 TFSI ultra S tronic (Benzin, 190 PS)",
+    "fuel": "benzin",
+    "hp": 190
+  },
+  {
+    "label": "A6 Avant 1.8 TFSI (Benzin, 190 PS)",
+    "fuel": "benzin",
+    "hp": 190
+  },
+  {
+    "label": "A6 Avant 2.8 FSI multitronic (Benzin, 204 PS)",
+    "fuel": "benzin",
+    "hp": 204
+  },
+  {
+    "label": "A6 Avant 2.8 FSI quattro S tronic (Benzin, 204 PS)",
+    "fuel": "benzin",
+    "hp": 204
+  },
+  {
+    "label": "A6 Avant 2.8 FSI (Benzin, 204 PS)",
+    "fuel": "benzin",
+    "hp": 204
+  },
+  {
+    "label": "A6 Avant 2.0 TFSI S tronic (Benzin, 252 PS)",
+    "fuel": "benzin",
+    "hp": 252
+  },
+  {
+    "label": "A6 Avant 2.0 TFSI quattro S tronic (Benzin, 252 PS)",
+    "fuel": "benzin",
+    "hp": 252
+  },
+  {
+    "label": "A6 Avant 3.0 TFSI quattro S tronic (Benzin, 300 PS)",
+    "fuel": "benzin",
+    "hp": 300
+  },
+  {
+    "label": "A6 Avant 3.0 TFSI quattro S tronic (Benzin, 310 PS)",
+    "fuel": "benzin",
+    "hp": 310
+  },
+  {
+    "label": "A6 Avant 3.0 TFSI quattro S tronic (Benzin, 333 PS)",
+    "fuel": "benzin",
+    "hp": 333
+  },
+  {
+    "label": "S6 Avant (Benzin, 420 PS)",
+    "fuel": "benzin",
+    "hp": 420
+  },
+  {
+    "label": "S6 Avant (Benzin, 450 PS)",
+    "fuel": "benzin",
+    "hp": 450
+  },
+  {
+    "label": "RS6 Avant (Benzin, 560 PS)",
+    "fuel": "benzin",
+    "hp": 560
+  },
+  {
+    "label": "RS6 Avant (Benzin, 605 PS)",
+    "fuel": "benzin",
+    "hp": 605
+  },
+  {
+    "label": "A6 Avant 2.0 TDI DPF multitronic (Diesel, 136 PS)",
+    "fuel": "diesel",
+    "hp": 136
+  },
+  {
+    "label": "A6 Avant 2.0 TDI DPF (Diesel, 136 PS)",
+    "fuel": "diesel",
+    "hp": 136
+  },
+  {
+    "label": "A6 Avant 2.0 TDI ultra S tronic (Diesel, 150 PS)",
+    "fuel": "diesel",
+    "hp": 150
+  },
+  {
+    "label": "A6 Avant 2.0 TDI ultra (Diesel, 150 PS)",
+    "fuel": "diesel",
+    "hp": 150
+  },
+  {
+    "label": "A6 Avant 2.0 TDI DPF multitronic (Diesel, 177 PS)",
+    "fuel": "diesel",
+    "hp": 177
+  },
+  {
+    "label": "A6 Avant 2.0 TDI DPF (Diesel, 177 PS)",
+    "fuel": "diesel",
+    "hp": 177
+  },
+  {
+    "label": "A6 Avant 2.0 TDI Ultra DPF S tronic (Diesel, 190 PS)",
+    "fuel": "diesel",
+    "hp": 190
+  },
+  {
+    "label": "A6 Avant 2.0 TDI quattro S tronic (Diesel, 190 PS)",
+    "fuel": "diesel",
+    "hp": 190
+  },
+  {
+    "label": "A6 Avant 2.0 TDI ultra S tronic (Diesel, 190 PS)",
+    "fuel": "diesel",
+    "hp": 190
+  },
+  {
+    "label": "A6 Avant 2.0 TDI Ultra DPF (Diesel, 190 PS)",
+    "fuel": "diesel",
+    "hp": 190
+  },
+  {
+    "label": "A6 Avant 2.0 TDI ultra (Diesel, 190 PS)",
+    "fuel": "diesel",
+    "hp": 190
+  },
+  {
+    "label": "A6 Avant 3.0 TDI DPF multitronic (Diesel, 204 PS)",
+    "fuel": "diesel",
+    "hp": 204
+  },
+  {
+    "label": "A6 Avant 3.0 TDI DPF quattro S tronic (Diesel, 204 PS)",
+    "fuel": "diesel",
+    "hp": 204
+  },
+  {
+    "label": "A6 Avant 3.0 TDI DPF (Diesel, 204 PS)",
+    "fuel": "diesel",
+    "hp": 204
+  },
+  {
+    "label": "A6 Avant 3.0 TDI S tronic (Diesel, 218 PS)",
+    "fuel": "diesel",
+    "hp": 218
+  },
+  {
+    "label": "A6 Avant 3.0 TDI quattro S tronic (Diesel, 218 PS)",
+    "fuel": "diesel",
+    "hp": 218
+  },
+  {
+    "label": "A6 Avant 3.0 TDI DPF clean diesel quattro S tronic (Diesel, 245 PS)",
+    "fuel": "diesel",
+    "hp": 245
+  },
+  {
+    "label": "A6 Avant 3.0 TDI DPF quattro S tronic (Diesel, 245 PS)",
+    "fuel": "diesel",
+    "hp": 245
+  },
+  {
+    "label": "A6 Avant 3.0 TDI quattro S tronic (Diesel, 272 PS)",
+    "fuel": "diesel",
+    "hp": 272
+  },
+  {
+    "label": "A6 Avant 3.0 TDI DPF quattro tiptronic (Diesel, 313 PS)",
+    "fuel": "diesel",
+    "hp": 313
+  },
+  {
+    "label": "A6 Avant 3.0 TDI quattro tiptronic (Diesel, 320 PS)",
+    "fuel": "diesel",
+    "hp": 320
+  },
+  {
+    "label": "A6 Avant 3.0 TDI competition quattro tiptronic (Diesel, 326 PS)",
+    "fuel": "diesel",
+    "hp": 326
+  }
+]

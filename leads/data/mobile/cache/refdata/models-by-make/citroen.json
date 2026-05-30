@@ -1,0 +1,267 @@
+[
+  {
+    "name": "2 CV",
+    "description": "2 CV",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CITROEN/model/2%20CV"
+  },
+  {
+    "name": "AMI",
+    "description": "AMI",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CITROEN/model/AMI"
+  },
+  {
+    "name": "AX",
+    "description": "AX",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CITROEN/model/AX"
+  },
+  {
+    "name": "BX",
+    "description": "BX",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CITROEN/model/BX"
+  },
+  {
+    "name": "Berlingo",
+    "description": "Berlingo",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CITROEN/model/Berlingo"
+  },
+  {
+    "name": "C-Crosser",
+    "description": "C-Crosser",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CITROEN/model/C-Crosser"
+  },
+  {
+    "name": "C-Elysee",
+    "description": "C-Elysée",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CITROEN/model/C-Elysee"
+  },
+  {
+    "name": "C-Zero",
+    "description": "C-Zero",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CITROEN/model/C-Zero"
+  },
+  {
+    "name": "C1",
+    "description": "C1",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CITROEN/model/C1"
+  },
+  {
+    "name": "C2",
+    "description": "C2",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CITROEN/model/C2"
+  },
+  {
+    "name": "C3",
+    "description": "C3",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CITROEN/model/C3"
+  },
+  {
+    "name": "C3 Aircross",
+    "description": "C3 Aircross",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CITROEN/model/C3%20Aircross"
+  },
+  {
+    "name": "C3 Picasso",
+    "description": "C3 Picasso",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CITROEN/model/C3%20Picasso"
+  },
+  {
+    "name": "C4",
+    "description": "C4",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CITROEN/model/C4"
+  },
+  {
+    "name": "C4 Aircross",
+    "description": "C4 Aircross",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CITROEN/model/C4%20Aircross"
+  },
+  {
+    "name": "C4 Cactus",
+    "description": "C4 Cactus",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CITROEN/model/C4%20Cactus"
+  },
+  {
+    "name": "C4 Picasso",
+    "description": "C4 Picasso",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CITROEN/model/C4%20Picasso"
+  },
+  {
+    "name": "C4 SpaceTourer",
+    "description": "C4 SpaceTourer",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CITROEN/model/C4%20SpaceTourer"
+  },
+  {
+    "name": "C4 X",
+    "description": "C4 X",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CITROEN/model/C4%20X"
+  },
+  {
+    "name": "C5",
+    "description": "C5",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CITROEN/model/C5"
+  },
+  {
+    "name": "C5 Aircross",
+    "description": "C5 Aircross",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CITROEN/model/C5%20Aircross"
+  },
+  {
+    "name": "C5 X",
+    "description": "C5 X",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CITROEN/model/C5%20X"
+  },
+  {
+    "name": "C6",
+    "description": "C6",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CITROEN/model/C6"
+  },
+  {
+    "name": "C8",
+    "description": "C8",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CITROEN/model/C8"
+  },
+  {
+    "name": "CX",
+    "description": "CX",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CITROEN/model/CX"
+  },
+  {
+    "name": "DS",
+    "description": "DS",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CITROEN/model/DS"
+  },
+  {
+    "name": "DS3",
+    "description": "DS3",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CITROEN/model/DS3"
+  },
+  {
+    "name": "DS4",
+    "description": "DS4",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CITROEN/model/DS4"
+  },
+  {
+    "name": "DS4 Crossback",
+    "description": "DS4 Crossback",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CITROEN/model/DS4%20Crossback"
+  },
+  {
+    "name": "DS5",
+    "description": "DS5",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CITROEN/model/DS5"
+  },
+  {
+    "name": "E-MEHARI",
+    "description": "E-MEHARI",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CITROEN/model/E-MEHARI"
+  },
+  {
+    "name": "Evasion",
+    "description": "Evasion",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CITROEN/model/Evasion"
+  },
+  {
+    "name": "GSA",
+    "description": "GSA",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CITROEN/model/GSA"
+  },
+  {
+    "name": "Grand C4 Picasso",
+    "description": "Grand C4 Picasso / SpaceTourer",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CITROEN/model/Grand%20C4%20Picasso"
+  },
+  {
+    "name": "Jumper",
+    "description": "Jumper",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CITROEN/model/Jumper"
+  },
+  {
+    "name": "Jumpy",
+    "description": "Jumpy",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CITROEN/model/Jumpy"
+  },
+  {
+    "name": "Nemo",
+    "description": "Nemo",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CITROEN/model/Nemo"
+  },
+  {
+    "name": "SAXO",
+    "description": "SAXO",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CITROEN/model/SAXO"
+  },
+  {
+    "name": "SM",
+    "description": "SM",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CITROEN/model/SM"
+  },
+  {
+    "name": "SpaceTourer",
+    "description": "SpaceTourer",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CITROEN/model/SpaceTourer"
+  },
+  {
+    "name": "Visa",
+    "description": "Visa",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CITROEN/model/Visa"
+  },
+  {
+    "name": "XM",
+    "description": "XM",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CITROEN/model/XM"
+  },
+  {
+    "name": "Xantia",
+    "description": "Xantia",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CITROEN/model/Xantia"
+  },
+  {
+    "name": "Xsara",
+    "description": "Xsara",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CITROEN/model/Xsara"
+  },
+  {
+    "name": "Xsara Picasso",
+    "description": "Xsara Picasso",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CITROEN/model/Xsara%20Picasso"
+  },
+  {
+    "name": "ZX",
+    "description": "ZX",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CITROEN/model/ZX"
+  },
+  {
+    "name": "ë-Berlingo",
+    "description": "ë-Berlingo",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CITROEN/model/%C3%AB-Berlingo"
+  },
+  {
+    "name": "ë-C3",
+    "description": "ë-C3",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CITROEN/model/%C3%AB-C3"
+  },
+  {
+    "name": "ë-C3 Aircross",
+    "description": "ë-C3 Aircross",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CITROEN/model/%C3%AB-C3%20Aircross"
+  },
+  {
+    "name": "ë-C4",
+    "description": "ë-C4",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CITROEN/model/%C3%AB-C4"
+  },
+  {
+    "name": "ë-C4 X",
+    "description": "ë-C4 X",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CITROEN/model/%C3%AB-C4%20X"
+  },
+  {
+    "name": "ë-Spacetourer",
+    "description": "ë-Spacetourer",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CITROEN/model/%C3%AB-Spacetourer"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CITROEN/model/ANDERE"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "name": "BJ20",
+    "description": "BJ20",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BAIC/model/BJ20"
+  },
+  {
+    "name": "BJ30",
+    "description": "BJ30",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BAIC/model/BJ30"
+  },
+  {
+    "name": "BJ40",
+    "description": "BJ40",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BAIC/model/BJ40"
+  },
+  {
+    "name": "BJ60",
+    "description": "BJ60",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BAIC/model/BJ60"
+  },
+  {
+    "name": "Beijing X35",
+    "description": "Beijing X35",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BAIC/model/Beijing%20X35"
+  },
+  {
+    "name": "Beijing X55",
+    "description": "Beijing X55",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BAIC/model/Beijing%20X55"
+  },
+  {
+    "name": "Senova D20",
+    "description": "Senova D20",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BAIC/model/Senova%20D20"
+  },
+  {
+    "name": "Senova X25",
+    "description": "Senova X25",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BAIC/model/Senova%20X25"
+  },
+  {
+    "name": "Senova X35",
+    "description": "Senova X35",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BAIC/model/Senova%20X35"
+  },
+  {
+    "name": "Senova X55",
+    "description": "Senova X55",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BAIC/model/Senova%20X55"
+  },
+  {
+    "name": "Senova X65",
+    "description": "Senova X65",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BAIC/model/Senova%20X65"
+  },
+  {
+    "name": "X55",
+    "description": "X55",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BAIC/model/X55"
+  },
+  {
+    "name": "X75",
+    "description": "Beijing X75",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BAIC/model/X75"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BAIC/model/ANDERE"
+  }
+]

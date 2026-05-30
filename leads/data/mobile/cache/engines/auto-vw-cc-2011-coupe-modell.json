@@ -1,0 +1,92 @@
+[
+  {
+    "label": "CC 1.4 TSI BlueMotion Technology DSG (Benzin, 160 PS)",
+    "fuel": "benzin",
+    "hp": 160
+  },
+  {
+    "label": "CC 1.8 TSI DSG (Benzin, 160 PS)",
+    "fuel": "benzin",
+    "hp": 160
+  },
+  {
+    "label": "CC 1.4 TSI BlueMotion Technology (Benzin, 160 PS)",
+    "fuel": "benzin",
+    "hp": 160
+  },
+  {
+    "label": "CC 1.4 TSI (Benzin, 160 PS)",
+    "fuel": "benzin",
+    "hp": 160
+  },
+  {
+    "label": "CC 1.8 TSI (Benzin, 160 PS)",
+    "fuel": "benzin",
+    "hp": 160
+  },
+  {
+    "label": "CC 2.0 TSI DSG (Benzin, 210 PS)",
+    "fuel": "benzin",
+    "hp": 210
+  },
+  {
+    "label": "CC 2.0 TSI (Benzin, 210 PS)",
+    "fuel": "benzin",
+    "hp": 210
+  },
+  {
+    "label": "CC 3.6 V6 4Motion DSG (Benzin, 300 PS)",
+    "fuel": "benzin",
+    "hp": 300
+  },
+  {
+    "label": "CC 2.0 Blue TDI DSG SCR (Diesel, 140 PS)",
+    "fuel": "diesel",
+    "hp": 140
+  },
+  {
+    "label": "CC 2.0 TDI BlueMotion Technology DSG (Diesel, 140 PS)",
+    "fuel": "diesel",
+    "hp": 140
+  },
+  {
+    "label": "CC 2.0 Blue TDI SCR (Diesel, 140 PS)",
+    "fuel": "diesel",
+    "hp": 140
+  },
+  {
+    "label": "CC 2.0 TDI 4Motion BlueMotion Technology (Diesel, 140 PS)",
+    "fuel": "diesel",
+    "hp": 140
+  },
+  {
+    "label": "CC 2.0 TDI BlueMotion Technology (Diesel, 140 PS)",
+    "fuel": "diesel",
+    "hp": 140
+  },
+  {
+    "label": "CC 2.0 TDI BlueMotion Technology DSG (Diesel, 170 PS)",
+    "fuel": "diesel",
+    "hp": 170
+  },
+  {
+    "label": "CC 2.0 TDI BlueMotion Technology (Diesel, 170 PS)",
+    "fuel": "diesel",
+    "hp": 170
+  },
+  {
+    "label": "CC 2.0 TDI 4Motion BlueMotion Technology DSG (Diesel, 177 PS)",
+    "fuel": "diesel",
+    "hp": 177
+  },
+  {
+    "label": "CC 2.0 TDI BlueMotion Technology DSG (Diesel, 177 PS)",
+    "fuel": "diesel",
+    "hp": 177
+  },
+  {
+    "label": "CC 2.0 TDI BlueMotion Technology (Diesel, 177 PS)",
+    "fuel": "diesel",
+    "hp": 177
+  }
+]

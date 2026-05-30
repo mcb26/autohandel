@@ -1,0 +1,42 @@
+[
+  {
+    "name": "GL 320",
+    "description": "GL 320",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/GL-Klasse/models/GL%20320"
+  },
+  {
+    "name": "GL 350",
+    "description": "GL 350",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/GL-Klasse/models/GL%20350"
+  },
+  {
+    "name": "GL 400",
+    "description": "GL 400",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/GL-Klasse/models/GL%20400"
+  },
+  {
+    "name": "GL 420",
+    "description": "GL 420",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/GL-Klasse/models/GL%20420"
+  },
+  {
+    "name": "GL 450",
+    "description": "GL 450",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/GL-Klasse/models/GL%20450"
+  },
+  {
+    "name": "GL 500",
+    "description": "GL 500",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/GL-Klasse/models/GL%20500"
+  },
+  {
+    "name": "GL 55 AMG",
+    "description": "GL 55 AMG",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/GL-Klasse/models/GL%2055%20AMG"
+  },
+  {
+    "name": "GL 63 AMG",
+    "description": "GL 63 AMG",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/GL-Klasse/models/GL%2063%20AMG"
+  }
+]

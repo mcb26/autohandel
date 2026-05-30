@@ -1,0 +1,1953 @@
+{
+  "label": "Chrysler",
+  "models": {
+    "200": {
+      "label": "200",
+      "series": {
+        "chrysler-200-ii": {
+          "label": "Chrysler 200 II",
+          "engines": [
+            {
+              "label": "3.6 V6 (294 Hp) AWD Automatic (2015 - 2017)",
+              "hp": 294,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6 V6 (294 Hp) Automatic (2015 - 2017)",
+              "hp": 294,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 (184 Hp) Automatic Stop-Start (2015 - 2017)",
+              "hp": 184,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "chrysler-200-i-convertible": {
+          "label": "Chrysler 200 I Convertible",
+          "engines": [
+            {
+              "label": "3.6 V6 (287 Hp) Automatic (2011 - 2014)",
+              "hp": 287,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 (175 Hp) Automatic (2011 - 2014)",
+              "hp": 175,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "chrysler-200-i": {
+          "label": "Chrysler 200 I",
+          "engines": [
+            {
+              "label": "3.6 V6 (287 Hp) Automatic (2011 - 2014)",
+              "hp": 287,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 (175 Hp) Automatic (2010 - 2014)",
+              "hp": 175,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 (175 Hp) 6 Automatic (2010 - 2014)",
+              "hp": 175,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "300": {
+      "label": "300",
+      "series": {
+        "chrysler-300-ii-facelift-2015": {
+          "label": "Chrysler 300 II (facelift 2015)",
+          "engines": [
+            {
+              "label": "SRT 6.4 V8 (476 Hp) Automatic (2015 - 2021)",
+              "hp": 476,
+              "fuel": "benzin"
+            },
+            {
+              "label": "S 3.6 (305 Hp) AWD Automatic (2015 - 2023)",
+              "hp": 305,
+              "fuel": "benzin"
+            },
+            {
+              "label": "S 3.6 (305 Hp) Automatic (2015 - 2023)",
+              "hp": 305,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.7 V8 (363 Hp) Automatic (2015 - 2023)",
+              "hp": 363,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6 (296 Hp) AWD Automatic (2015 - 2023)",
+              "hp": 296,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6 (296 Hp) Automatic (2015 - 2023)",
+              "hp": 296,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6 (286 Hp) Automatic (2015 - 2021)",
+              "hp": 286,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "chrysler-300-ii": {
+          "label": "Chrysler 300 II",
+          "engines": [
+            {
+              "label": "SRT8 6.4 HEMI V8 (470 Hp) Automatic (2012 - 2014)",
+              "hp": 470,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.7 (363 Hp) AWD Automatic (2011 - 2014)",
+              "hp": 363,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.7 (363 Hp) Automatic (2011 - 2014)",
+              "hp": 363,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6 (292 Hp) AWD Automatic (2011 - 2014)",
+              "hp": 292,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6 (292 Hp) Automatic (2011 - 2014)",
+              "hp": 292,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6 (286 Hp) Automatic (2011 - 2014)",
+              "hp": 286,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "chrysler-300": {
+          "label": "Chrysler 300",
+          "engines": [
+            {
+              "label": "LWB 3.5 V6 (253 Hp) Automatic (2004 - 2010)",
+              "hp": 253,
+              "fuel": "benzin"
+            },
+            {
+              "label": "6.1 i V8 16V SRT-8 (425 Hp) (2005 - 2010)",
+              "hp": 425,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.7 i V8 AWD (340 Hp) (2005 - 2010)",
+              "hp": 340,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.7 i V8 16V (340 Hp) (2004 - 2010)",
+              "hp": 340,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.5 V6 (253 Hp) Automatic AWD (2004 - 2010)",
+              "hp": 253,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.5 V6 (253 Hp) Automatic (2004 - 2010)",
+              "hp": 253,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 24V CRD (218 Hp) (2006 - 2010)",
+              "hp": 218,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.7 V6 (181 Hp) Automatic (2004 - 2010)",
+              "hp": 181,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "chrysler-300-touring": {
+          "label": "Chrysler 300 Touring",
+          "engines": [
+            {
+              "label": "6.1 i V8 16V SRT-8 (431 Hp) (2005 - 2010)",
+              "hp": 431,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.7 i V8 AWD (340 Hp) (2004 - 2010)",
+              "hp": 340,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.7 i V8 16V (340 Hp) (2004 - 2010)",
+              "hp": 340,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.5 i V6 24V AWD (249 Hp) (2004 - 2010)",
+              "hp": 249,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.5 i V6 24V (249 Hp) (2004 - 2010)",
+              "hp": 249,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 24V CRD (218 Hp) (2006 - 2010)",
+              "hp": 218,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.7 i V6 24V (193 Hp) (2004 - 2010)",
+              "hp": 193,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "300m": {
+      "label": "300M",
+      "series": {
+        "chrysler-300m": {
+          "label": "Chrysler 300M",
+          "engines": [
+            {
+              "label": "3.5 i V6 24V (252 Hp) (1998 - 2004)",
+              "hp": 252,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.7 i V6 24V (203 Hp) (1998 - 2004)",
+              "hp": 203,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "aspen": {
+      "label": "Aspen",
+      "series": {
+        "chrysler-aspen": {
+          "label": "Chrysler Aspen",
+          "engines": [
+            {
+              "label": "5.7 i V8 16V (376 Hp) Automatic (2008 - 2009)",
+              "hp": 376,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.7 i V8 16V (376 Hp) 4WD Automatic (2008 - 2009)",
+              "hp": 376,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.7 i V8 16V (385 Hp) Hybrid 4WD EVT (2008 - 2009)",
+              "hp": 385,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "5.7 i V8 16V (335 Hp) Automatic (2006 - 2008)",
+              "hp": 335,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.7 i V8 16V (335 Hp) 4WD Automatic (2006 - 2008)",
+              "hp": 335,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.7 i V8 16V (303 Hp) FlexFuel Automatic (2008 - 2009)",
+              "hp": 303,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.7 i V8 16V (303 Hp) FlexFuel 4WD Automatic (2008 - 2009)",
+              "hp": 303,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.7 i V8 16V (235 Hp) Automatic (2006 - 2008)",
+              "hp": 235,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.7 i V8 16V (235 Hp) 4WD Automatic (2006 - 2008)",
+              "hp": 235,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "cirrus": {
+      "label": "Cirrus",
+      "series": {
+        "chrysler-cirrus": {
+          "label": "Chrysler Cirrus",
+          "engines": [
+            {
+              "label": "2.5 i V6 24V (168 Hp) Automatic (1995 - 2000)",
+              "hp": 168,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 i 16V (150 Hp) Automatic (1996 - 2000)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "chrysler-cirrus-coupe": {
+          "label": "Chrysler Cirrus Coupe",
+          "engines": [
+            {
+              "label": "2.0 i 16V (132 Hp) (1995 - 2000)",
+              "hp": 132,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "concorde": {
+      "label": "Concorde",
+      "series": {
+        "chrysler-concorde-ii": {
+          "label": "Chrysler Concorde II",
+          "engines": [
+            {
+              "label": "3.5 i V6 24V (258 Hp) (2002 - 2004)",
+              "hp": 258,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.5 i V6 24V Limited (253 Hp) (2002 - 2004)",
+              "hp": 253,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.5 i V6 24V (237 Hp) (2002 - 2004)",
+              "hp": 237,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.2 i V6 24V (228 Hp) (1997 - 2002)",
+              "hp": 228,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.7 i V6 24V (203 Hp) (1997 - 2004)",
+              "hp": 203,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "chrysler-concorde": {
+          "label": "Chrysler Concorde",
+          "engines": [
+            {
+              "label": "3.5 V6 24V (214 Hp) (1992 - 1997)",
+              "hp": 214,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.3 V6 (163 Hp) (1992 - 1997)",
+              "hp": 163,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "conquest": {
+      "label": "Conquest",
+      "series": {
+        "chrysler-conquest": {
+          "label": "Chrysler Conquest",
+          "engines": [
+            {
+              "label": "2.6 (176 Hp) (1986 - 1989)",
+              "hp": 176,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "crossfire": {
+      "label": "Crossfire",
+      "series": {
+        "chrysler-crossfire": {
+          "label": "Chrysler Crossfire",
+          "engines": [
+            {
+              "label": "SRT-6 3.2i V6 (330 Hp) Automatic (2004 - 2006)",
+              "hp": 330,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.2i V6 18V (215 Hp) Automatic (2003 - 2007)",
+              "hp": 215,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.2i V6 18V (215 Hp) (2003 - 2007)",
+              "hp": 215,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "chrysler-crossfire-roadster": {
+          "label": "Chrysler Crossfire Roadster",
+          "engines": [
+            {
+              "label": "SRT-6 3.2i V6 (330 Hp) Automatic (2004 - 2006)",
+              "hp": 330,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.2i V6 18V (215 Hp) Automatic (2004 - 2007)",
+              "hp": 215,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.2i V6 18V (215 Hp) (2004 - 2007)",
+              "hp": 215,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "daytona-shelby": {
+      "label": "Daytona Shelby",
+      "series": {
+        "chrysler-daytona-shelby": {
+          "label": "Chrysler Daytona Shelby",
+          "engines": [
+            {
+              "label": "2.5 i Turbo (155 Hp) (1991 - 1992)",
+              "hp": 155,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 i Turbo (177 Hp) (1987 - 1993)",
+              "hp": 177,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "dynasty": {
+      "label": "Dynasty",
+      "series": {
+        "chrysler-dynasty": {
+          "label": "Chrysler Dynasty",
+          "engines": [
+            {
+              "label": "3.3L V6 (163 Hp) (1988 - 1993)",
+              "hp": 163,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0L V6 (141 Hp) (1988 - 1993)",
+              "hp": 141,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5L (101 Hp) (1988 - 1993)",
+              "hp": 101,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "fifth-avenue": {
+      "label": "Fifth Avenue",
+      "series": {
+        "chrysler-fifth-avenue-ii": {
+          "label": "Chrysler Fifth Avenue II",
+          "engines": [
+            {
+              "label": "3.8i (162 Hp) (1990 - 1993)",
+              "hp": 162,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.3i (162 Hp) (1990 - 1993)",
+              "hp": 162,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "chrysler-fifth-avenue-i": {
+          "label": "Chrysler Fifth Avenue I",
+          "engines": [
+            {
+              "label": "5.2 V8 (175 Hp) (1982 - 1989)",
+              "hp": 175,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "intrepid": {
+      "label": "Intrepid",
+      "series": {
+        "chrysler-intrepid": {
+          "label": "Chrysler Intrepid",
+          "engines": [
+            {
+              "label": "3.5 i V6 24V (245 Hp) (1998 - 2004)",
+              "hp": 245,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.2 i V6 24V (228 Hp) (1998 - 2004)",
+              "hp": 228,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.7 V6 (203 Hp) (1998 - 2004)",
+              "hp": 203,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "le-baron": {
+      "label": "LE Baron",
+      "series": {
+        "chrysler-le-baron-coupe": {
+          "label": "Chrysler LE Baron Coupe",
+          "engines": [
+            {
+              "label": "3.0 i V6 (143 Hp) Automatic (1991 - 1995)",
+              "hp": 143,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 i V6 (143 Hp) (1991 - 1995)",
+              "hp": 143,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 i V6 (136 Hp) Automatic (1991 - 1995)",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 i V6 (136 Hp) (1991 - 1995)",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 i Turbo (155 Hp) Automatic 4-speed (1989 - 1994)",
+              "hp": 155,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 i Turbo (155 Hp) Automatic 3-speed (1989 - 1995)",
+              "hp": 155,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 i Turbo (155 Hp) 5 Seat (1989 - 1994)",
+              "hp": 155,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 i Turbo (155 Hp) 4 Seat (1989 - 1995)",
+              "hp": 155,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 i (101 Hp) (1986 - 1995)",
+              "hp": 101,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 i Turbo (177 Hp) (1986 - 1990)",
+              "hp": 177,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 i Turbo (148 Hp) (1986 - 1990)",
+              "hp": 148,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "chrysler-le-baron": {
+          "label": "Chrysler Le Baron",
+          "engines": [
+            {
+              "label": "3.0 i V6 (143 Hp) (1990 - 1994)",
+              "hp": 143,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 i Turbo (152 Hp) Automatic (1989 - 1994)",
+              "hp": 152,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 i Turbo (152 Hp) (1989 - 1994)",
+              "hp": 152,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 i (101 Hp) (1986 - 1994)",
+              "hp": 101,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 i Turbo (177 Hp) (1986 - 1991)",
+              "hp": 177,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 i (94 Hp) (1986 - 1994)",
+              "hp": 94,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "chrysler-le-baron-cabrio": {
+          "label": "Chrysler LE Baron Cabrio",
+          "engines": [
+            {
+              "label": "3.0 i V6 (143 Hp) Automatic (1990 - 1996)",
+              "hp": 143,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 i V6 (143 Hp) (1990 - 1996)",
+              "hp": 143,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 i V6 (136 Hp) Automatic (1989 - 1995)",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 i V6 (136 Hp) (1989 - 1995)",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 i (101 Hp) (1986 - 1993)",
+              "hp": 101,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "lhs": {
+      "label": "LHS",
+      "series": {
+        "chrysler-lhs-ii": {
+          "label": "Chrysler LHS II",
+          "engines": [
+            {
+              "label": "3.5 i V6 24V (257 Hp) Automatic (1999 - 2001)",
+              "hp": 257,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.5 i V6 24V (218 Hp) Automatic (1999 - 2001)",
+              "hp": 218,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "chrysler-lhs-i": {
+          "label": "Chrysler LHS I",
+          "engines": [
+            {
+              "label": "3.5i V6 (214 Hp) Automatic (1994 - 1997)",
+              "hp": 214,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "nassau": {
+      "label": "Nassau",
+      "series": {
+        "chrysler-nassau-concept": {
+          "label": "Chrysler Nassau Concept",
+          "engines": [
+            {
+              "label": "6.1 (425 Hp) Automatic (2007 - 2007)",
+              "hp": 425,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "neon": {
+      "label": "Neon",
+      "series": {
+        "chrysler-neon-ii": {
+          "label": "Chrysler Neon II",
+          "engines": [
+            {
+              "label": "2.0 16V (133 Hp) Automatic (1997 - 2002)",
+              "hp": 133,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 16V (133 Hp) (1998 - 2002)",
+              "hp": 133,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 16V (122 Hp) (1999 - 2005)",
+              "hp": 122,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 i 16V (115 Hp) (2001 - 2005)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "chrysler-neon-pl": {
+          "label": "Chrysler Neon (PL)",
+          "engines": [
+            {
+              "label": "2.0 i 16V (147 Hp) (1994 - 1999)",
+              "hp": 147,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 16V (133 Hp) Automatic (1994 - 1999)",
+              "hp": 133,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 16V (133 Hp) (1994 - 1999)",
+              "hp": 133,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "new-yorker": {
+      "label": "New Yorker",
+      "series": {
+        "chrysler-new-yorker-xiv": {
+          "label": "Chrysler New Yorker XIV",
+          "engines": [
+            {
+              "label": "3.5i V6 (214 Hp) (1994 - 1996)",
+              "hp": 214,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "chrysler-new-yorker-xiii-salon": {
+          "label": "Chrysler New Yorker XIII Salon",
+          "engines": [
+            {
+              "label": "3.3 V6 (150 Hp) (1988 - 1993)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "chrysler-new-yorker-fifth-avenue": {
+          "label": "Chrysler New Yorker Fifth Avenue",
+          "engines": [
+            {
+              "label": "3.8 V6 (152 Hp) (1991 - 1993)",
+              "hp": 152,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.3 V6 (150 Hp) (1989 - 1993)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "pacifica-crossover": {
+      "label": "Pacifica (crossover)",
+      "series": {
+        "chrysler-pacifica": {
+          "label": "Chrysler Pacifica",
+          "engines": [
+            {
+              "label": "4.0 V6 (256 Hp) AWD Automatic (2004 - 2008)",
+              "hp": 256,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.0 V6 (256 Hp) Automatic (2004 - 2008)",
+              "hp": 256,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.8 V6 (218 Hp) (2004 - 2008)",
+              "hp": 218,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.5 V6 (253 Hp) AWD (2004 - 2008)",
+              "hp": 253,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.5 V6 (253 Hp) (2004 - 2008)",
+              "hp": 253,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "pacifica-minivan": {
+      "label": "Pacifica (minivan)",
+      "series": {
+        "chrysler-pacifica-facelift-2021": {
+          "label": "Chrysler Pacifica (facelift 2021)",
+          "engines": [
+            {
+              "label": "3.6 Pentastar V6 (291 Hp) AWD Automatic",
+              "hp": 291,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6 Pentastar V6 (291 Hp) Automatic",
+              "hp": 291,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6 Pentastar V6 (264 Hp) Plug-in Hybrid EVT",
+              "hp": 264,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "chrysler-pacifica": {
+          "label": "Chrysler Pacifica",
+          "engines": [
+            {
+              "label": "3.6 V6 (291 Hp) Automatic (2016 - 2021)",
+              "hp": 291,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6 V6 (264 Hp) Plug-in Hybrid CVT (2016 - 2021)",
+              "hp": 264,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "prowler": {
+      "label": "Prowler",
+      "series": {
+        "chrysler-prowler": {
+          "label": "Chrysler Prowler",
+          "engines": [
+            {
+              "label": "3.5 i V6 24V (257 Hp) (1997 - 2002)",
+              "hp": 257,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "pt-cruiser": {
+      "label": "PT Cruiser",
+      "series": {
+        "chrysler-pt-cruiser-cabrio": {
+          "label": "Chrysler PT Cruiser Cabrio",
+          "engines": [
+            {
+              "label": "2.4 i 16V Turbo (220 Hp) (2004 - 2010)",
+              "hp": 220,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 i 16V Turbo (182 Hp) (2004 - 2010)",
+              "hp": 182,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 i 16V (150 Hp) (2005 - 2010)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 i 16V (136 Hp) Automatic (2004 - 2010)",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 i 16V (136 Hp) (2004 - 2010)",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "chrysler-pt-cruiser": {
+          "label": "Chrysler PT Cruiser",
+          "engines": [
+            {
+              "label": "2.4 i 16V Turbo (220 Hp) Automatic (2003 - 2010)",
+              "hp": 220,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 i 16V Turbo (220 Hp) (2003 - 2010)",
+              "hp": 220,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 i 16V Turbo (182 Hp) Automatic (2004 - 2010)",
+              "hp": 182,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 i 16V Turbo (182 Hp) (2004 - 2010)",
+              "hp": 182,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 i 16V (150 Hp) Automatic (2000 - 2010)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 i 16V (150 Hp) (2000 - 2010)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 CRD (121 Hp) (2002 - 2010)",
+              "hp": 121,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 16V CRD (150 Hp) (2005 - 2010)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 i 16V (150 Hp) Automatic (2000 - 2010)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 i 16V (150 Hp) (2000 - 2010)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 i 16V (141 Hp) Automatic (2000 - 2010)",
+              "hp": 141,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 i 16V (141 Hp) (2000 - 2010)",
+              "hp": 141,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 i 16V (115 Hp) (2002 - 2010)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "saratoga": {
+      "label": "Saratoga",
+      "series": {
+        "chrysler-saratoga": {
+          "label": "Chrysler Saratoga",
+          "engines": [
+            {
+              "label": "3.0 i V6 (141 Hp) Automatic (1989 - 1995)",
+              "hp": 141,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 i (97 Hp) Automatic (1989 - 1995)",
+              "hp": 97,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 i (97 Hp) (1989 - 1995)",
+              "hp": 97,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "sebring": {
+      "label": "Sebring",
+      "series": {
+        "chrysler-sebring-convertible-js": {
+          "label": "Chrysler Sebring Convertible (JS)",
+          "engines": [
+            {
+              "label": "Soft Top 2.0 CRD (140 Hp) (2007 - 2010)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Hard Top 2.0 CRD (140 Hp) (2007 - 2010)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.5i V6 (235 Hp) Automatic (2007 - 2010)",
+              "hp": 235,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.5i V6 (235 Hp) (2007 - 2010)",
+              "hp": 235,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.7i V6 (188 Hp) Automatic (2007 - 2010)",
+              "hp": 188,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.7i V6 (188 Hp) (2007 - 2010)",
+              "hp": 188,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4i 16V (172 Hp) Automatic (2007 - 2010)",
+              "hp": 172,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4i 16V (172 Hp) (2007 - 2010)",
+              "hp": 172,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 i (156 Hp) Automatic (2007 - 2010)",
+              "hp": 156,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 i (156 Hp) (2007 - 2010)",
+              "hp": 156,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "chrysler-sebring-sedan-js": {
+          "label": "Chrysler Sebring Sedan (JS)",
+          "engines": [
+            {
+              "label": "3.5i V6 (235 Hp) Automatic (2006 - 2010)",
+              "hp": 235,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.5i V6 (235 Hp) (2006 - 2010)",
+              "hp": 235,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.7i V6 (188 Hp) Automatic (2006 - 2010)",
+              "hp": 188,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.7i V6 (188 Hp) (2006 - 2010)",
+              "hp": 188,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4i 16V (172 Hp) Automatic (2006 - 2010)",
+              "hp": 172,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4i 16V (172 Hp) (2006 - 2010)",
+              "hp": 172,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 CRD (150 Hp) Automatic (2006 - 2010)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 CRD (150 Hp) (2006 - 2010)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0i 16V (156 Hp) Automatic (2006 - 2010)",
+              "hp": 156,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0i 16V (156 Hp) (2006 - 2010)",
+              "hp": 156,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "chrysler-sebring-sedan-jr": {
+          "label": "Chrysler Sebring Sedan (JR)",
+          "engines": [
+            {
+              "label": "2.7 i V6 24V (200 Hp) Automatic (2000 - 2006)",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 i 16V (150 Hp) Automatic (2001 - 2006)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 i 16V (141 Hp) Automatic (2000 - 2006)",
+              "hp": 141,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 i 16V (141 Hp) (2000 - 2006)",
+              "hp": 141,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "chrysler-sebring-convertible-jr": {
+          "label": "Chrysler Sebring Convertible (JR)",
+          "engines": [
+            {
+              "label": "2.7 i V6 24V (203 Hp) (2000 - 2007)",
+              "hp": 203,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 i 16V (152 Hp) (2005 - 2007)",
+              "hp": 152,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 i 16V (141 Hp) (2000 - 2007)",
+              "hp": 141,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "chrysler-sebring-coupe-st-22": {
+          "label": "Chrysler Sebring Coupe (ST-22)",
+          "engines": [
+            {
+              "label": "3.0 V6 24V (203 Hp) Automatic (2000 - 2007)",
+              "hp": 203,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 24V (203 Hp) (2000 - 2007)",
+              "hp": 203,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 i 16V (147 Hp) Automatic (2001 - 2007)",
+              "hp": 147,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 i 16V (147 Hp) (2001 - 2007)",
+              "hp": 147,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "chrysler-sebring-convertible-jx": {
+          "label": "Chrysler Sebring Convertible (JX)",
+          "engines": [
+            {
+              "label": "2.5 V6 24V (168 Hp) Automatic (1996 - 2000)",
+              "hp": 168,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 i 16V (150 Hp) Automatic (1996 - 2000)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "chrysler-sebring-coupe-fj": {
+          "label": "Chrysler Sebring Coupe (FJ)",
+          "engines": [
+            {
+              "label": "2.5 V6 (166 Hp) (1996 - 2000)",
+              "hp": 166,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 i 16V (147 Hp) Automatic (1994 - 2000)",
+              "hp": 147,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 i 16V (147 Hp) (1994 - 2000)",
+              "hp": 147,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 i 16V (141 Hp) (1994 - 2000)",
+              "hp": 141,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "stratus": {
+      "label": "Stratus",
+      "series": {
+        "chrysler-stratus-cabrio-jx": {
+          "label": "Chrysler Stratus Cabrio (JX)",
+          "engines": [
+            {
+              "label": "2.5 V6 (163 Hp) Automatic (1996 - 2000)",
+              "hp": 163,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 LE (131 Hp) (1996 - 2000)",
+              "hp": 131,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "chrysler-stratus-ja": {
+          "label": "Chrysler Stratus (JA)",
+          "engines": [
+            {
+              "label": "2.5 LX V6 (163 Hp) (1995 - 2000)",
+              "hp": 163,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 LE (131 Hp) Automatic (1995 - 2000)",
+              "hp": 131,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 LE (131 Hp) (1995 - 2000)",
+              "hp": 131,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "town-und-country": {
+      "label": "Town & Country",
+      "series": {
+        "chrysler-town-und-country-v": {
+          "label": "Chrysler Town & Country V",
+          "engines": [
+            {
+              "label": "4.0 V6 (254 Hp) Automatic (2008 - 2016)",
+              "hp": 254,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.8 V6 (200 Hp) Automatic (2008 - 2016)",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6 V6 (287 Hp) Automatic (2008 - 2016)",
+              "hp": 287,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.3 V6 (177 Hp) Automatic (2008 - 2016)",
+              "hp": 177,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "chrysler-town-und-country-iv": {
+          "label": "Chrysler Town & Country IV",
+          "engines": [
+            {
+              "label": "3.8 V6 (218 Hp) AWD Automatic (2001 - 2007)",
+              "hp": 218,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.8 V6 (218 Hp) Automatic (2001 - 2007)",
+              "hp": 218,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.3 V6 (182 Hp) AWD Automatic (2001 - 2007)",
+              "hp": 182,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.3 V6 (182 Hp) Automatic (2001 - 2007)",
+              "hp": 182,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "chrysler-town-und-country-iii": {
+          "label": "Chrysler Town & Country III",
+          "engines": [
+            {
+              "label": "3.8 V6 (180 Hp) AWD Automatic (1996 - 2000)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.8 V6 (180 Hp) Automatic (1996 - 2000)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.8 V6 (166 Hp) AWD Automatic (1996 - 2000)",
+              "hp": 166,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.8 V6 (166 Hp) Automatic (1996 - 2000)",
+              "hp": 166,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.3 V6 (158 Hp) Automatic (1996 - 2000)",
+              "hp": 158,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "chrysler-town-und-country-ii": {
+          "label": "Chrysler Town & Country II",
+          "engines": [
+            {
+              "label": "3.3 V6 (152 Hp) AWD Automatic (1991 - 1995)",
+              "hp": 152,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.3 V6 (152 Hp) Automatic (1991 - 1995)",
+              "hp": 152,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "chrysler-town-und-country-i": {
+          "label": "Chrysler Town & Country I",
+          "engines": [
+            {
+              "label": "3.3 V6 (152 Hp) Automatic (1990 - 1990)",
+              "hp": 152,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 (144 Hp) Automatic (1990 - 1990)",
+              "hp": 144,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "viper": {
+      "label": "Viper",
+      "series": {
+        "chrysler-viper": {
+          "label": "Chrysler Viper",
+          "engines": [
+            {
+              "label": "8.0 V10 (455 Hp) (1997 - 2002)",
+              "hp": 455,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "chrysler-viper-rt-10": {
+          "label": "Chrysler Viper RT/10",
+          "engines": [
+            {
+              "label": "8.0 V10 (394 Hp) (1992 - 1997)",
+              "hp": 394,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "vision": {
+      "label": "Vision",
+      "series": {
+        "chrysler-vision": {
+          "label": "Chrysler Vision",
+          "engines": [
+            {
+              "label": "3.5 TSi (211 Hp) (1993 - 1997)",
+              "hp": 211,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "voyager": {
+      "label": "Voyager",
+      "series": {
+        "chrysler-voyager-vi": {
+          "label": "Chrysler Voyager VI",
+          "engines": [
+            {
+              "label": "3.6 Pentastar V6 (291 Hp) TorqueFlite",
+              "hp": 291,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "chrysler-grand-voyager-v": {
+          "label": "Chrysler Grand Voyager V",
+          "engines": [
+            {
+              "label": "3.8i V6 (193 Hp) Automatic (2008 - 2011)",
+              "hp": 193,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.3i V6 (172 Hp) (2007 - 2015)",
+              "hp": 172,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.8 CRD (163 Hp) Automatic (2008 - 2011)",
+              "hp": 163,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.8 CRD (150 Hp) (2007 - 2015)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4i R4 16V (147 Hp) (2007 - 2015)",
+              "hp": 147,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "chrysler-voyager-v": {
+          "label": "Chrysler Voyager V",
+          "engines": [
+            {
+              "label": "3.3i V6 (174 Hp) (2008 - 2010)",
+              "hp": 174,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.8 CRD (150 Hp) (2007 - 2016)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4i R4 16V (147 Hp) (2007 - 2011)",
+              "hp": 147,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "chrysler-grand-voyager-iv": {
+          "label": "Chrysler Grand Voyager IV",
+          "engines": [
+            {
+              "label": "3.8 i V6 (218 Hp) (2001 - 2007)",
+              "hp": 218,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.3 i V6 AWD (174 Hp) (2001 - 2007)",
+              "hp": 174,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.3 i V6 (174 Hp) (2001 - 2007)",
+              "hp": 174,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.8 CRD TD (150 Hp) Automatic (2001 - 2007)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 CRD (143 Hp) (2001 - 2007)",
+              "hp": 143,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 i 16V (147 Hp) Automatic (2001 - 2007)",
+              "hp": 147,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 i 16V (147 Hp) (2001 - 2007)",
+              "hp": 147,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "chrysler-voyager-iv": {
+          "label": "Chrysler Voyager IV",
+          "engines": [
+            {
+              "label": "3.8 i V6 (218 Hp) AWD (2001 - 2007)",
+              "hp": 218,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.8 i V6 (218 Hp) (2001 - 2007)",
+              "hp": 218,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.3 i V6 (174 Hp) AWD Automatic (2001 - 2007)",
+              "hp": 174,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.3 i V6 (174 Hp) Automatic (2001 - 2007)",
+              "hp": 174,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.8 CRD TD (150 Hp) Automatic (2004 - 2007)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 CRD TD (143 Hp) (2001 - 2008)",
+              "hp": 143,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 i 16V (152 Hp) Automatic (2001 - 2008)",
+              "hp": 152,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 i 16V (152 Hp) (2001 - 2008)",
+              "hp": 152,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 i 16V (147 Hp) Automatic (2001 - 2008)",
+              "hp": 147,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 i 16V (147 Hp) (2001 - 2008)",
+              "hp": 147,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "chrysler-grand-voyager-iii": {
+          "label": "Chrysler Grand Voyager III",
+          "engines": [
+            {
+              "label": "3.8 V6 (178 Hp) 4x4 Automatic (1996 - 2000)",
+              "hp": 178,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.3 V6 (158 Hp) (1995 - 2000)",
+              "hp": 158,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 TD (115 Hp) (1995 - 2000)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "chrysler-voyager-iii": {
+          "label": "Chrysler Voyager III",
+          "engines": [
+            {
+              "label": "3.8 i (178 Hp) AWD Automatic (1995 - 2000)",
+              "hp": 178,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.8 i (166 Hp) AWD (1995 - 2000)",
+              "hp": 166,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.3 V6 (158 Hp) (1995 - 2000)",
+              "hp": 158,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 TD (116 Hp) (1995 - 2000)",
+              "hp": 116,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 i (150 Hp) (1996 - 2000)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 i (133 Hp) (1996 - 2000)",
+              "hp": 133,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "chrysler-grand-voyager-ii": {
+          "label": "Chrysler Grand Voyager II",
+          "engines": [
+            {
+              "label": "3.3 V6 AWD (163 Hp) (1990 - 1995)",
+              "hp": 163,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.3 V6 (163 Hp) (1990 - 1995)",
+              "hp": 163,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 TD (118 Hp) (1992 - 1995)",
+              "hp": 118,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "chrysler-voyager-ii": {
+          "label": "Chrysler Voyager II",
+          "engines": [
+            {
+              "label": "3.3 V6 (152 Hp) AWD Automatic (1990 - 1995)",
+              "hp": 152,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.3 V6 (152 Hp) Automatic (1990 - 1995)",
+              "hp": 152,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.3 i (163 Hp) AWD Automatic (1990 - 1995)",
+              "hp": 163,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.3 i (163 Hp) Automatic (1990 - 1995)",
+              "hp": 163,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 TD (118 Hp) (1992 - 1995)",
+              "hp": 118,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 i (101 Hp) Automatic (1990 - 1995)",
+              "hp": 101,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 i (101 Hp) (1990 - 1995)",
+              "hp": 101,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 i (99 Hp) Automatic (1990 - 1995)",
+              "hp": 99,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 i (99 Hp) (1990 - 1995)",
+              "hp": 99,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "chrysler-voyager-i": {
+          "label": "Chrysler Voyager I",
+          "engines": [
+            {
+              "label": "3.0 V6 (144 Hp) Automatic (1988 - 1990)",
+              "hp": 144,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 (141 Hp) Automatic (1988 - 1990)",
+              "hp": 141,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 i (98 Hp) (1988 - 1990)",
+              "hp": 98,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

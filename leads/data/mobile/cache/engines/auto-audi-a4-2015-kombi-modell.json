@@ -1,0 +1,62 @@
+[
+  {
+    "label": "A4 Avant 35 TFSI S tronic (Benzin, 150 PS)",
+    "fuel": "benzin",
+    "hp": 150
+  },
+  {
+    "label": "A4 Avant 35 TFSI (Benzin, 150 PS)",
+    "fuel": "benzin",
+    "hp": 150
+  },
+  {
+    "label": "A4 Avant 40 TFSI S tronic (Benzin, 204 PS)",
+    "fuel": "benzin",
+    "hp": 204
+  },
+  {
+    "label": "A4 Avant 40 TFSI quattro S tronic (Benzin, 204 PS)",
+    "fuel": "benzin",
+    "hp": 204
+  },
+  {
+    "label": "A4 Avant 45 TFSI quattro S tronic (Benzin, 265 PS)",
+    "fuel": "benzin",
+    "hp": 265
+  },
+  {
+    "label": "RS4 Avant quattro tiptronic (Benzin, 450 PS)",
+    "fuel": "benzin",
+    "hp": 450
+  },
+  {
+    "label": "A4 Avant 40 g-tron S tronic (Benzin/Gas, 170 PS)",
+    "fuel": "benzin/gas",
+    "hp": 170
+  },
+  {
+    "label": "A4 Avant 30 TDI S tronic (Diesel, 136 PS)",
+    "fuel": "diesel",
+    "hp": 136
+  },
+  {
+    "label": "A4 Avant 35 TDI S tronic (Diesel, 163 PS)",
+    "fuel": "diesel",
+    "hp": 163
+  },
+  {
+    "label": "A4 Avant 40 TDI S tronic (Diesel, 204 PS)",
+    "fuel": "diesel",
+    "hp": 204
+  },
+  {
+    "label": "A4 Avant 40 TDI quattro S tronic (Diesel, 204 PS)",
+    "fuel": "diesel",
+    "hp": 204
+  },
+  {
+    "label": "A4 Avant 50 TDI quattro tiptronic (Diesel, 286 PS)",
+    "fuel": "diesel",
+    "hp": 286
+  }
+]

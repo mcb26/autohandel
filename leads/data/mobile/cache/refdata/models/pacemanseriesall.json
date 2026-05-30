@@ -1,0 +1,27 @@
+[
+  {
+    "name": "COOPER_D_PACEMAN",
+    "description": "Cooper D Paceman",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/modelgroups/PACEMAN_SERIES_ALL/models/COOPER_D_PACEMAN"
+  },
+  {
+    "name": "COOPER_PACEMAN",
+    "description": "Cooper Paceman",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/modelgroups/PACEMAN_SERIES_ALL/models/COOPER_PACEMAN"
+  },
+  {
+    "name": "COOPER_SD_PACEMAN",
+    "description": "Cooper SD Paceman",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/modelgroups/PACEMAN_SERIES_ALL/models/COOPER_SD_PACEMAN"
+  },
+  {
+    "name": "COOPER_S_PACEMAN",
+    "description": "Cooper S Paceman",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/modelgroups/PACEMAN_SERIES_ALL/models/COOPER_S_PACEMAN"
+  },
+  {
+    "name": "JOHN_COOPER_WORKS_PACEMAN",
+    "description": "John Cooper Works Paceman",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/modelgroups/PACEMAN_SERIES_ALL/models/JOHN_COOPER_WORKS_PACEMAN"
+  }
+]

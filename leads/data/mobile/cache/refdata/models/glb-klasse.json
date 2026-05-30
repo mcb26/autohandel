@@ -1,0 +1,27 @@
+[
+  {
+    "name": "GLB 180",
+    "description": "GLB 180",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/GLB-Klasse/models/GLB%20180"
+  },
+  {
+    "name": "GLB 200",
+    "description": "GLB 200",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/GLB-Klasse/models/GLB%20200"
+  },
+  {
+    "name": "GLB 220",
+    "description": "GLB 220",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/GLB-Klasse/models/GLB%20220"
+  },
+  {
+    "name": "GLB 250",
+    "description": "GLB 250",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/GLB-Klasse/models/GLB%20250"
+  },
+  {
+    "name": "GLB 35 AMG",
+    "description": "GLB 35 AMG",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/GLB-Klasse/models/GLB%2035%20AMG"
+  }
+]

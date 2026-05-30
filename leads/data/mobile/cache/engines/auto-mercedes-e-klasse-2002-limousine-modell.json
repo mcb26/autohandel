@@ -1,0 +1,122 @@
+[
+  {
+    "label": "E 200 Kompressor Automatik (Benzin, 183 PS)",
+    "fuel": "benzin",
+    "hp": 183
+  },
+  {
+    "label": "E 200 Kompressor (Benzin, 183 PS)",
+    "fuel": "benzin",
+    "hp": 183
+  },
+  {
+    "label": "E 230 7G-TRONIC (Benzin, 204 PS)",
+    "fuel": "benzin",
+    "hp": 204
+  },
+  {
+    "label": "E 230 (Benzin, 204 PS)",
+    "fuel": "benzin",
+    "hp": 204
+  },
+  {
+    "label": "E 280 4Matic Automatik (Benzin, 231 PS)",
+    "fuel": "benzin",
+    "hp": 231
+  },
+  {
+    "label": "E 280 7G-TRONIC (Benzin, 231 PS)",
+    "fuel": "benzin",
+    "hp": 231
+  },
+  {
+    "label": "E 280 (Benzin, 231 PS)",
+    "fuel": "benzin",
+    "hp": 231
+  },
+  {
+    "label": "E 350 4Matic Automatik (Benzin, 272 PS)",
+    "fuel": "benzin",
+    "hp": 272
+  },
+  {
+    "label": "E 350 7G-TRONIC (Benzin, 272 PS)",
+    "fuel": "benzin",
+    "hp": 272
+  },
+  {
+    "label": "E 350 CGI 7G-TRONIC (Benzin, 292 PS)",
+    "fuel": "benzin",
+    "hp": 292
+  },
+  {
+    "label": "E 500 4Matic Automatik (Benzin, 387 PS)",
+    "fuel": "benzin",
+    "hp": 387
+  },
+  {
+    "label": "E 500 7G-TRONIC (Benzin, 387 PS)",
+    "fuel": "benzin",
+    "hp": 387
+  },
+  {
+    "label": "E 63 AMG 7G-TRONIC (Benzin, 514 PS)",
+    "fuel": "benzin",
+    "hp": 514
+  },
+  {
+    "label": "E 200 CDI Automatik (Diesel, 136 PS)",
+    "fuel": "diesel",
+    "hp": 136
+  },
+  {
+    "label": "E 200 CDI (Diesel, 136 PS)",
+    "fuel": "diesel",
+    "hp": 136
+  },
+  {
+    "label": "E 220 CDI Automatik (Diesel, 170 PS)",
+    "fuel": "diesel",
+    "hp": 170
+  },
+  {
+    "label": "E 220 CDI (Diesel, 170 PS)",
+    "fuel": "diesel",
+    "hp": 170
+  },
+  {
+    "label": "E 280 CDI 7G-TRONIC (Diesel, 190 PS)",
+    "fuel": "diesel",
+    "hp": 190
+  },
+  {
+    "label": "E 280 CDI 4Matic Automatik (Diesel, 190 PS)",
+    "fuel": "diesel",
+    "hp": 190
+  },
+  {
+    "label": "E 280 CDI (Diesel, 190 PS)",
+    "fuel": "diesel",
+    "hp": 190
+  },
+  {
+    "label": "E 300 BLUETEC 7G-TRONIC (Diesel, 211 PS)",
+    "fuel": "diesel",
+    "hp": 211
+  },
+  {
+    "label": "E 320 CDI 7G-TRONIC (Diesel, 224 PS)",
+    "fuel": "diesel",
+    "hp": 224
+  },
+  {
+    "label": "E 320 CDI 4Matic Automatik (Diesel, 224 PS)",
+    "fuel": "diesel",
+    "hp": 224
+  },
+  {
+    "label": "E 420 CDI 7G-TRONIC (Diesel, 314 PS)",
+    "fuel": "diesel",
+    "hp": 314
+  }
+]

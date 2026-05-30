@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Chiron",
+    "description": "Chiron",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BUGATTI/model/Chiron"
+  },
+  {
+    "name": "EB 110",
+    "description": "EB 110",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BUGATTI/model/EB%20110"
+  },
+  {
+    "name": "Veyron",
+    "description": "Veyron",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BUGATTI/model/Veyron"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BUGATTI/model/ANDERE"
+  }
+]

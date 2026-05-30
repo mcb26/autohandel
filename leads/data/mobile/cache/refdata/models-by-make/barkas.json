@@ -1,0 +1,12 @@
+[
+  {
+    "name": "B1000",
+    "description": "B1000",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BARKAS/model/B1000"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BARKAS/model/ANDERE"
+  }
+]

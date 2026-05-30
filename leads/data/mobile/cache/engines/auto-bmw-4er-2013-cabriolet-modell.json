@@ -1,0 +1,217 @@
+[
+  {
+    "label": "420i Cabrio Aut. (Benzin, 184 PS)",
+    "fuel": "benzin",
+    "hp": 184
+  },
+  {
+    "label": "420i Cabrio Sport-Aut. (Benzin, 184 PS)",
+    "fuel": "benzin",
+    "hp": 184
+  },
+  {
+    "label": "420i Cabrio (Benzin, 184 PS)",
+    "fuel": "benzin",
+    "hp": 184
+  },
+  {
+    "label": "428i Cabrio Aut. (Benzin, 245 PS)",
+    "fuel": "benzin",
+    "hp": 245
+  },
+  {
+    "label": "428i Cabrio Sport-Aut. (Benzin, 245 PS)",
+    "fuel": "benzin",
+    "hp": 245
+  },
+  {
+    "label": "428i Cabrio xDrive Aut. (Benzin, 245 PS)",
+    "fuel": "benzin",
+    "hp": 245
+  },
+  {
+    "label": "428i Cabrio xDrive Sport-Aut. (Benzin, 245 PS)",
+    "fuel": "benzin",
+    "hp": 245
+  },
+  {
+    "label": "428i Cabrio (Benzin, 245 PS)",
+    "fuel": "benzin",
+    "hp": 245
+  },
+  {
+    "label": "430i Cabrio Aut. (Benzin, 252 PS)",
+    "fuel": "benzin",
+    "hp": 252
+  },
+  {
+    "label": "430i Cabrio xDrive Aut. (Benzin, 252 PS)",
+    "fuel": "benzin",
+    "hp": 252
+  },
+  {
+    "label": "430i Cabrio Sport-Aut. (Benzin, 252 PS)",
+    "fuel": "benzin",
+    "hp": 252
+  },
+  {
+    "label": "430i Cabrio xDrive Sport-Aut. (Benzin, 252 PS)",
+    "fuel": "benzin",
+    "hp": 252
+  },
+  {
+    "label": "430i Cabrio (Benzin, 252 PS)",
+    "fuel": "benzin",
+    "hp": 252
+  },
+  {
+    "label": "435i Cabrio Aut. (Benzin, 306 PS)",
+    "fuel": "benzin",
+    "hp": 306
+  },
+  {
+    "label": "435i Cabrio Sport-Aut. (Benzin, 306 PS)",
+    "fuel": "benzin",
+    "hp": 306
+  },
+  {
+    "label": "435i Cabrio xDrive Aut. (Benzin, 306 PS)",
+    "fuel": "benzin",
+    "hp": 306
+  },
+  {
+    "label": "435i Cabrio xDrive Sport-Aut. (Benzin, 306 PS)",
+    "fuel": "benzin",
+    "hp": 306
+  },
+  {
+    "label": "435i Cabrio xDrive (Benzin, 306 PS)",
+    "fuel": "benzin",
+    "hp": 306
+  },
+  {
+    "label": "435i Cabrio (Benzin, 306 PS)",
+    "fuel": "benzin",
+    "hp": 306
+  },
+  {
+    "label": "440i Cabrio Aut. (Benzin, 326 PS)",
+    "fuel": "benzin",
+    "hp": 326
+  },
+  {
+    "label": "440i Cabrio xDrive Aut. (Benzin, 326 PS)",
+    "fuel": "benzin",
+    "hp": 326
+  },
+  {
+    "label": "440i Cabrio Sport-Aut. (Benzin, 326 PS)",
+    "fuel": "benzin",
+    "hp": 326
+  },
+  {
+    "label": "440i Cabrio xDrive Sport-Aut. (Benzin, 326 PS)",
+    "fuel": "benzin",
+    "hp": 326
+  },
+  {
+    "label": "M4 Cabrio DKG (Benzin, 431 PS)",
+    "fuel": "benzin",
+    "hp": 431
+  },
+  {
+    "label": "M4 Cabrio (Benzin, 431 PS)",
+    "fuel": "benzin",
+    "hp": 431
+  },
+  {
+    "label": "M4 Cabrio DKG (Benzin, 450 PS)",
+    "fuel": "benzin",
+    "hp": 450
+  },
+  {
+    "label": "M4 Cabrio (Benzin, 450 PS)",
+    "fuel": "benzin",
+    "hp": 450
+  },
+  {
+    "label": "420d Cabrio Aut. (Diesel, 184 PS)",
+    "fuel": "diesel",
+    "hp": 184
+  },
+  {
+    "label": "420d Cabrio Sport-Aut. (Diesel, 184 PS)",
+    "fuel": "diesel",
+    "hp": 184
+  },
+  {
+    "label": "420d Cabrio (Diesel, 184 PS)",
+    "fuel": "diesel",
+    "hp": 184
+  },
+  {
+    "label": "420d Cabrio Aut. (Diesel, 190 PS)",
+    "fuel": "diesel",
+    "hp": 190
+  },
+  {
+    "label": "420d Cabrio Sport-Aut. (Diesel, 190 PS)",
+    "fuel": "diesel",
+    "hp": 190
+  },
+  {
+    "label": "420d Cabrio (Diesel, 190 PS)",
+    "fuel": "diesel",
+    "hp": 190
+  },
+  {
+    "label": "425d Cabrio Aut. (Diesel, 218 PS)",
+    "fuel": "diesel",
+    "hp": 218
+  },
+  {
+    "label": "425d Cabrio Sport-Aut. (Diesel, 218 PS)",
+    "fuel": "diesel",
+    "hp": 218
+  },
+  {
+    "label": "425d Cabrio (Diesel, 218 PS)",
+    "fuel": "diesel",
+    "hp": 218
+  },
+  {
+    "label": "425d Cabrio Aut. (Diesel, 224 PS)",
+    "fuel": "diesel",
+    "hp": 224
+  },
+  {
+    "label": "425d Cabrio Sport-Aut. (Diesel, 224 PS)",
+    "fuel": "diesel",
+    "hp": 224
+  },
+  {
+    "label": "425d Cabrio (Diesel, 224 PS)",
+    "fuel": "diesel",
+    "hp": 224
+  },
+  {
+    "label": "430d Cabrio Aut. (Diesel, 258 PS)",
+    "fuel": "diesel",
+    "hp": 258
+  },
+  {
+    "label": "430d Cabrio Sport-Aut. (Diesel, 258 PS)",
+    "fuel": "diesel",
+    "hp": 258
+  },
+  {
+    "label": "435d Cabrio xDrive Aut. (Diesel, 313 PS)",
+    "fuel": "diesel",
+    "hp": 313
+  },
+  {
+    "label": "435d Cabrio xDrive Sport-Aut. (Diesel, 313 PS)",
+    "fuel": "diesel",
+    "hp": 313
+  }
+]

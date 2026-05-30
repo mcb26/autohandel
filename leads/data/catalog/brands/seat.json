@@ -1,0 +1,5167 @@
+{
+  "label": "SEAT",
+  "models": {
+    "seat-133": {
+      "label": "Seat 133",
+      "series": {
+        "seat-133": {
+          "label": "Seat 133",
+          "engines": [
+            {
+              "label": "0.8 (34 Hp) (1974 - 1979)",
+              "hp": 34,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "seat-1500": {
+      "label": "Seat 1500",
+      "series": {
+        "seat-1500": {
+          "label": "Seat 1500",
+          "engines": [
+            {
+              "label": "1.5 (80 Hp) (1963 - 1973)",
+              "hp": 80,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "seat-alhambra": {
+      "label": "Seat Alhambra",
+      "series": {
+        "seat-alhambra-ii-7n-facelift-2015": {
+          "label": "Seat Alhambra II (7N, facelift 2015)",
+          "engines": [
+            {
+              "label": "2.0 TSI (220 Hp) DSG 7 Seat (2015 - 2018)",
+              "hp": 220,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TSI (220 Hp) DSG (2015 - 2018)",
+              "hp": 220,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TDI (184 Hp) DSG 7 Seat (2015 - 2018)",
+              "hp": 184,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (184 Hp) DSG (2015 - 2018)",
+              "hp": 184,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (184 Hp) 7 Seat (2015 - 2018)",
+              "hp": 184,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (184 Hp) (2015 - 2018)",
+              "hp": 184,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (177 Hp) DSG (2019 - 2020)",
+              "hp": 177,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (177 Hp) 4Drive DSG (2019 - 2020)",
+              "hp": 177,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) DSG 7 Seat (2015 - 2020)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) DSG (2015 - 2020)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) 7 Seat (2015 - 2020)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) 4Drive 7 Seat (2015 - 2020)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) 4Drive (2015 - 2020)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) (2015 - 2020)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (115 Hp) 7 Seat (2015 - 2016)",
+              "hp": 115,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (115 Hp) (2015 - 2016)",
+              "hp": 115,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.4 TSI (150 Hp) DSG 7 Seat (2015 - 2020)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TSI (150 Hp) DSG (2015 - 2020)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TSI (150 Hp) 7 Seat (2015 - 2020)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TSI (150 Hp) (2015 - 2020)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "seat-alhambra-ii-7n": {
+          "label": "Seat Alhambra II (7N)",
+          "engines": [
+            {
+              "label": "2.0 TSI (200 Hp) Ecomotive DSG (2010 - 2015)",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TDI (177 Hp) DSG (2010 - 2015)",
+              "hp": 177,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (177 Hp) (2010 - 2015)",
+              "hp": 177,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (170 Hp) DPF Ecomotive DSG (2010 - 2015)",
+              "hp": 170,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (170 Hp) DPF Ecomotive 7 Seat (2010 - 2015)",
+              "hp": 170,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (170 Hp) DPF Ecomotive (2010 - 2015)",
+              "hp": 170,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (140 Hp) DPF Ecomotive DSG 7 Seat (2010 - 2015)",
+              "hp": 140,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (140 Hp) DPF Ecomotive DSG (2010 - 2015)",
+              "hp": 140,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (140 Hp) DPF E-Ecomotive 7 Seat (2010 - 2015)",
+              "hp": 140,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (140 Hp) DPF E-Ecomotive (2010 - 2015)",
+              "hp": 140,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (140 Hp) 4Drive 7 Seat (2010 - 2015)",
+              "hp": 140,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (140 Hp) 4Drive (2010 - 2015)",
+              "hp": 140,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (136 Hp) DSG 7 Seat (2010 - 2015)",
+              "hp": 136,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (136 Hp) DSG (2010 - 2015)",
+              "hp": 136,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (136 Hp) 7 Seat (2010 - 2015)",
+              "hp": 136,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (136 Hp) (2010 - 2015)",
+              "hp": 136,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (115 Hp) 7 Seat (2011 - 2015)",
+              "hp": 115,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (115 Hp) (2011 - 2015)",
+              "hp": 115,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.4 TSI (150 Hp) Ecomotive Technology (2011 - 2015)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TSI (150 Hp) Ecomotive DSG 7 Seat (2011 - 2015)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TSI (150 Hp) Ecomotive DSG (2011 - 2015)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TSI (150 Hp) Ecomotive 7 Seat (2011 - 2015)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "seat-alhambra-i-7m-facelift-2000": {
+          "label": "Seat Alhambra I (7M, facelift 2000)",
+          "engines": [
+            {
+              "label": "2.8 V6 (204 Hp) Tiptronic (2000 - 2010)",
+              "hp": 204,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.8 V6 (204 Hp) 4 (2000 - 2010)",
+              "hp": 204,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.8 V6 (204 Hp) (2000 - 2010)",
+              "hp": 204,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TDI (140 Hp) DPF (2005 - 2010)",
+              "hp": 140,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (140 Hp) (2005 - 2010)",
+              "hp": 140,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 (115 Hp) Tiptronic (2000 - 2010)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (115 Hp) (2000 - 2010)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 TDI (130 Hp) (2002 - 2005)",
+              "hp": 130,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.9 TDI (115 Hp) Tiptronic (2006 - 2010)",
+              "hp": 115,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.9 TDI (115 Hp) 4 (2006 - 2010)",
+              "hp": 115,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.9 TDI (115 Hp) (2006 - 2010)",
+              "hp": 115,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.9 TDI (90 Hp) (2000 - 2006)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.8 T (150 Hp) Tiptronic (2000 - 2010)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 T (150 Hp) (2000 - 2010)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "seat-alhambra-i-7m": {
+          "label": "Seat Alhambra I (7M)",
+          "engines": [
+            {
+              "label": "2.0 i (115 Hp) Automatic (1996 - 2000)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 i (115 Hp) (1996 - 2000)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 TDI (110 Hp) Automatic (1997 - 2000)",
+              "hp": 110,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.9 TDI (110 Hp) (1997 - 2000)",
+              "hp": 110,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.9 TDI (90 Hp) (1996 - 2000)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.8 T 20V (150 Hp) (1998 - 2000)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "seat-altea": {
+      "label": "Seat Altea",
+      "series": {
+        "seat-altea-freetrack-facelift-2009": {
+          "label": "Seat Altea Freetrack (facelift 2009)",
+          "engines": [
+            {
+              "label": "2.0 TSI (211 Hp) DSG (2009 - 2015)",
+              "hp": 211,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TFSI (200 Hp) Automatic (2009 - 2010)",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TDI (170 Hp) 4Drive (2010 - 2013)",
+              "hp": 170,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (140 Hp) 4Drive (2010 - 2015)",
+              "hp": 140,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI (105 Hp) start/stop (2009 - 2015)",
+              "hp": 105,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI (105 Hp) (2009 - 2015)",
+              "hp": 105,
+              "fuel": "diesel"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "seat-altea-xl-facelift-2009": {
+          "label": "Seat Altea XL (facelift 2009)",
+          "engines": [
+            {
+              "label": "2.0 TDI (140 Hp) DSG (2010 - 2015)",
+              "hp": 140,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (140 Hp) (2010 - 2015)",
+              "hp": 140,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.9 TDI (90 Hp) (2009 - 2010)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.8 TSI (160 Hp) DSG (2009 - 2013)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 TSI (160 Hp) (2009 - 2011)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 TDI (105 Hp) Ecomotive start/stop (2009 - 2015)",
+              "hp": 105,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI (105 Hp) DSG (2009 - 2015)",
+              "hp": 105,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI (105 Hp) (2009 - 2015)",
+              "hp": 105,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI (90 Hp) (2010 - 2015)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 (102 Hp) LPG (2009 - 2015)",
+              "hp": 102,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (102 Hp) Ethanol (2010 - 2013)",
+              "hp": 102,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TSI (125 Hp) (2009 - 2010)",
+              "hp": 125,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 (85 Hp) (2010 - 2013)",
+              "hp": 85,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TSI (105 Hp) Ecomotive start/stop (2010 - 2015)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TSI (105 Hp) (2010 - 2015)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "seat-altea-facelift-2009": {
+          "label": "Seat Altea (facelift 2009)",
+          "engines": [
+            {
+              "label": "2.0 TDI (140 Hp) DSG (2010 - 2015)",
+              "hp": 140,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (140 Hp) (2010 - 2015)",
+              "hp": 140,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.9 TDI (90 Hp) (2009 - 2010)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.8 TSI (160 Hp) DSG (2009 - 2015)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 TSI (160 Hp) (2009 - 2011)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 TDI (105 Hp) Ecomotive start/stop (2009 - 2015)",
+              "hp": 105,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI (105 Hp) DSG (2009 - 2015)",
+              "hp": 105,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI (105 Hp) (2009 - 2015)",
+              "hp": 105,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI (90 Hp) (2010 - 2015)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 (102 Hp) LPG (2009 - 2015)",
+              "hp": 102,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (102 Hp) Ethanol (2010 - 2013)",
+              "hp": 102,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TSI (125 Hp) (2009 - 2010)",
+              "hp": 125,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 (85 Hp) (2010 - 2013)",
+              "hp": 85,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TSI (105 Hp) Ecomotive start/stop (2009 - 2015)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TSI (105 Hp) (2010 - 2015)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "seat-altea-freetrack": {
+          "label": "Seat Altea Freetrack",
+          "engines": [
+            {
+              "label": "2.0 TDI (170 Hp) 4WD DPF (2007 - 2009)",
+              "hp": 170,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (140 Hp) DPF (2007 - 2009)",
+              "hp": 140,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 FSI (200 Hp) 4WD (2007 - 2009)",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "seat-altea-xl": {
+          "label": "Seat Altea XL",
+          "engines": [
+            {
+              "label": "2.0 TDI (140 Hp) DPF DSG (2006 - 2009)",
+              "hp": 140,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (140 Hp) (2006 - 2009)",
+              "hp": 140,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 FSI (150 Hp) (2006 - 2009)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 TDI (105 Hp) (2006 - 2009)",
+              "hp": 105,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.8 TSI (160 Hp) (2007 - 2009)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 TDI CR (105 Hp) DPF DSG (2009 - 2009)",
+              "hp": 105,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI CR (105 Hp) DPF (2009 - 2009)",
+              "hp": 105,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 MPI (102 Hp) (2006 - 2009)",
+              "hp": 102,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TSI (125 Hp) (2007 - 2009)",
+              "hp": 125,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 MPI (85 Hp) (2006 - 2009)",
+              "hp": 85,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "seat-altea-5p": {
+          "label": "Seat Altea (5P)",
+          "engines": [
+            {
+              "label": "FR 2.0 TFSI (200 Hp) Automatic (2006 - 2009)",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "FR 2.0 TFSI (200 Hp) (2006 - 2009)",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "FR 2.0 TDI (170 Hp) DPF (2004 - 2009)",
+              "hp": 170,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (140 Hp) SPORT UP (2004 - 2009)",
+              "hp": 140,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (140 Hp) DSG SPORT UP (2004 - 2009)",
+              "hp": 140,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (140 Hp) DSG (2004 - 2009)",
+              "hp": 140,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (140 Hp) (2004 - 2009)",
+              "hp": 140,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 FSI (150 Hp) Automatic (2004 - 2009)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 FSI (150 Hp) (2004 - 2009)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 TDI (105 Hp) (2005 - 2009)",
+              "hp": 105,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.8 TSI (160 Hp) DSG (2007 - 2009)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 TDI CR (105 Hp) DPF DSG Ecomotive (2009 - 2009)",
+              "hp": 105,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI CR (105 Hp) DPF (2009 - 2009)",
+              "hp": 105,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 MPI (102 Hp) (2004 - 2009)",
+              "hp": 102,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TSI (125 Hp) (2007 - 2009)",
+              "hp": 125,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 MPI (85 Hp) (2006 - 2009)",
+              "hp": 85,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "seat-arona": {
+      "label": "Seat Arona",
+      "series": {
+        "seat-arona-facelift-2025": {
+          "label": "Seat Arona (facelift 2025)",
+          "engines": [
+            {
+              "label": "1.5 TSI (150 Hp) DSG",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TSI (115 Hp) DSG",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TSI (115 Hp)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TSI (95 Hp)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "seat-arona-facelift-2021": {
+          "label": "Seat Arona (facelift 2021)",
+          "engines": [
+            {
+              "label": "1.5 TSI (150 Hp) DSG (2021 - 2025)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TSI (115 Hp) DSG (2024 - 2025)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TSI (115 Hp) (2024 - 2025)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TSI (110 Hp) DSG (2021 - 2024)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TSI (110 Hp) (2021 - 2024)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TSI (95 Hp) (2021 - 2025)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TGI (90 Hp) (2021 - 2023)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "seat-arona": {
+          "label": "Seat Arona",
+          "engines": [
+            {
+              "label": "1.6 TDI (115 Hp) (2018 - 2021)",
+              "hp": 115,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI (95 Hp) DSG (2019 - 2021)",
+              "hp": 95,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI (95 Hp) (2019 - 2021)",
+              "hp": 95,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 MPI (110 Hp) Automatic (2017 - 2021)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 MPI (110 Hp) (2017 - 2021)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 TSI EVO (150 Hp) ACT (2017 - 2018)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TSI (115 Hp) DSG (2019 - 2021)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TSI (115 Hp) (2019 - 2021)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TSI (95 Hp) (2019 - 2020)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TGI (90 Hp) CNG (2019 - 2021)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 EcoTSI (115 Hp) DSG (2017 - 2018)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 EcoTSI (115 Hp) (2017 - 2018)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 EcoTSI (95 Hp) (2017 - 2018)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "seat-arosa": {
+      "label": "Seat Arosa",
+      "series": {
+        "seat-arosa-6h-facelift-2000": {
+          "label": "Seat Arosa (6H, facelift 2000)",
+          "engines": [
+            {
+              "label": "1.7 SDI (60 Hp) (2000 - 2003)",
+              "hp": 60,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TDI (75 Hp) (2000 - 2004)",
+              "hp": 75,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.4 MPi (60 Hp) Automatic (2000 - 2004)",
+              "hp": 60,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 MPi (60 Hp) (2000 - 2004)",
+              "hp": 60,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 16V (100 Hp) (2000 - 2005)",
+              "hp": 100,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TDI 3L (61 Hp) (2000 - 2005)",
+              "hp": 61,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.0 MPi (50 Hp) (2000 - 2004)",
+              "hp": 50,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "seat-arosa-6h": {
+          "label": "Seat Arosa (6H)",
+          "engines": [
+            {
+              "label": "1.7 SDI (60 Hp) (1997 - 2000)",
+              "hp": 60,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 (60 Hp) Automatic (1997 - 1998)",
+              "hp": 60,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 (60 Hp) (1997 - 1998)",
+              "hp": 60,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 (50 Hp) (1997 - 1999)",
+              "hp": 50,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "seat-ateca": {
+      "label": "Seat Ateca",
+      "series": {
+        "seat-ateca-i-facelift-2020": {
+          "label": "Seat Ateca I (facelift 2020)",
+          "engines": [
+            {
+              "label": "2.0 TSI (190 Hp) 4Drive DSG (2021 - 2023)",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) DSG",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) 4Drive DSG (2020 - 2023)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) (2020 - 2024)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (115 Hp) (2020 - 2023)",
+              "hp": 115,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 EcoTSI (150 Hp) DSG",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 EcoTSI (150 Hp)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 EcoTSI (150 Hp) Automatic (2020 - 2020)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TSI (110 Hp) (2020 - 2024)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 EcoTSI (116 Hp)",
+              "hp": 116,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "seat-ateca-i": {
+          "label": "Seat Ateca I",
+          "engines": [
+            {
+              "label": "2.0 TSI (190 Hp) 4Drive DSG (2018 - 2020)",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TDI (190 Hp) 4DRIVE DSG Start/Stop (2016 - 2018)",
+              "hp": 190,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) Start/Stop (2016 - 2018)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) DSG Start/Stop (2016 - 2018)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) 4DRIVE Start/Stop (2016 - 2018)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI (115 Hp) Start/Stop (2016 - 2018)",
+              "hp": 115,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI (115 Hp) DSG (2016 - 2018)",
+              "hp": 115,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 TSI (150 Hp) DSG ACT (2018 - 2020)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 TSI (150 Hp) ACT (2018 - 2020)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 TSI (150 Hp) 4DRIVE DSG ACT (2018 - 2020)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TSI (150 Hp) Start/Stop (2016 - 2018)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TSI (150 Hp) DSG Start/Stop (2016 - 2018)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TSI (150 Hp) 4DRIVE Start/Stop (2016 - 2018)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TSI (150 Hp) 4DRIVE DSG Start/Stop (2016 - 2018)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TSI (115 Hp) Start/Stop Ecomotive (2016 - 2018)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "seat-cordoba": {
+      "label": "Seat Cordoba",
+      "series": {
+        "seat-cordoba-ii": {
+          "label": "Seat Cordoba II",
+          "engines": [
+            {
+              "label": "2.0 i Sport (115 Hp) (2002 - 2008)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 TDI Sport (130 Hp) (2002 - 2008)",
+              "hp": 130,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.9 TDI (130 Hp) (2002 - 2008)",
+              "hp": 130,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.9 TDI (100 Hp) (2002 - 2008)",
+              "hp": 100,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.9 SDi (64 Hp) (2002 - 2008)",
+              "hp": 64,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TDI (75 Hp) (2002 - 2008)",
+              "hp": 75,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.4 16V (100 Hp) (2005 - 2008)",
+              "hp": 100,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 16V (75 Hp) Automatic (2002 - 2008)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 16V (75 Hp) (2002 - 2008)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 12V (64 Hp) (2002 - 2006)",
+              "hp": 64,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "seat-cordoba-coupe-i-facelift-1999": {
+          "label": "Seat Cordoba Coupe I (facelift 1999)",
+          "engines": [
+            {
+              "label": "Cupra 1.8 T 20V (156 Hp) (1999 - 2002)",
+              "hp": 156,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 TDi (110 Hp) (1999 - 2002)",
+              "hp": 110,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 (75 Hp) (1999 - 2002)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (101 Hp) Automatic (1999 - 2002)",
+              "hp": 101,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (101 Hp) (1999 - 2002)",
+              "hp": 101,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 16V (100 Hp) (2000 - 2002)",
+              "hp": 100,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 16V (75 Hp) (1999 - 2002)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 16V (70 Hp) (2000 - 2002)",
+              "hp": 70,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 (50 Hp) (1999 - 2002)",
+              "hp": 50,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "seat-cordoba-vario-i-facelift-1999": {
+          "label": "Seat Cordoba Vario I (facelift 1999)",
+          "engines": [
+            {
+              "label": "1.9 TDI (110 Hp) (1999 - 2002)",
+              "hp": 110,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.9 TDI (90 Hp) (1999 - 2002)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.9 SDI (68 Hp) (1999 - 2002)",
+              "hp": 68,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (75 Hp) (1999 - 2002)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (101 Hp) (1999 - 2002)",
+              "hp": 101,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 16V (75 Hp) (1999 - 2002)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 (60 Hp) (1999 - 2002)",
+              "hp": 60,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "seat-cordoba-i-facelift-1999": {
+          "label": "Seat Cordoba I (facelift 1999)",
+          "engines": [
+            {
+              "label": "1.9 TDI (110 Hp) (1999 - 2002)",
+              "hp": 110,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.9 TDI (90 Hp) (1999 - 2002)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.9 SDI (68 Hp) (1999 - 2002)",
+              "hp": 68,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (75 Hp) (1999 - 2002)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (101 Hp) (1999 - 2002)",
+              "hp": 101,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 16V (75 Hp) (1999 - 2002)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 (60 Hp) (1999 - 2002)",
+              "hp": 60,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 i (50 Hp) (1999 - 2002)",
+              "hp": 50,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "seat-cordoba-coupe-i": {
+          "label": "Seat Cordoba Coupe I",
+          "engines": [
+            {
+              "label": "2.0 i (115 Hp) (1993 - 1999)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 16V (150 Hp) (1996 - 1999)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 TDi (90 Hp) (1996 - 1999)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.8 i 16V (129 Hp) (1994 - 1996)",
+              "hp": 129,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 MPi (75 Hp) (1997 - 1998)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 i (100 Hp) (1995 - 1999)",
+              "hp": 100,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "seat-cordoba-vario-i": {
+          "label": "Seat Cordoba Vario I",
+          "engines": [
+            {
+              "label": "1.9 TDI (110 Hp) (1999 - 1999)",
+              "hp": 110,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.9 TDI (90 Hp) (1996 - 1999)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.9 SDI (64 Hp) (1996 - 1999)",
+              "hp": 64,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 MPi (75 Hp) (1997 - 1998)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 i (101 Hp) (1996 - 1999)",
+              "hp": 101,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 i (60 Hp) (1996 - 1999)",
+              "hp": 60,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "seat-cordoba-i": {
+          "label": "Seat Cordoba I",
+          "engines": [
+            {
+              "label": "2.0 i (115 Hp) (1996 - 1999)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 TDI (110 Hp) (1999 - 1999)",
+              "hp": 110,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.9 TDI (90 Hp) (1996 - 1999)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.9 TD (75 Hp) (1993 - 1996)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 SDI (64 Hp) (1995 - 1999)",
+              "hp": 64,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 D (68 Hp) (1993 - 1996)",
+              "hp": 68,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 D (64 Hp) (1993 - 1999)",
+              "hp": 64,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 i 16V (129 Hp) (1994 - 1996)",
+              "hp": 129,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 i (90 Hp) Automatic (1993 - 1999)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 i (90 Hp) (1993 - 1999)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 i (101 Hp) (1995 - 1999)",
+              "hp": 101,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 i (75 Hp) (1997 - 1998)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 i 16V (101 Hp) (1997 - 1999)",
+              "hp": 101,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 i (60 Hp) (1994 - 1995)",
+              "hp": 60,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "seat-el-born": {
+      "label": "Seat El-Born",
+      "series": {
+        "seat-el-born-concept": {
+          "label": "Seat El-Born Concept",
+          "engines": [
+            {
+              "label": "Keine exakte Motorliste verfügbar – bitte genaue Motorisierung im Freitext angeben"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "seat-exeo": {
+      "label": "Seat Exeo",
+      "series": {
+        "seat-exeo-st-facelift-2011": {
+          "label": "Seat Exeo ST (facelift 2011)",
+          "engines": [
+            {
+              "label": "2.0 TSI (211 Hp) (2011 - 2012)",
+              "hp": 211,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TSI (200 Hp) Multitronic (2011 - 2012)",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TDI (170 Hp) (2011 - 2013)",
+              "hp": 170,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (143 Hp) Multitronic (2011 - 2013)",
+              "hp": 143,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (143 Hp) Ecomotive (2011 - 2013)",
+              "hp": 143,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (143 Hp) (2011 - 2013)",
+              "hp": 143,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (120 Hp) Ecomotive (2011 - 2013)",
+              "hp": 120,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (120 Hp) (2011 - 2013)",
+              "hp": 120,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.8 TSI (160 Hp) (2011 - 2013)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 TSI (120 Hp) (2011 - 2013)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "seat-exeo-facelift-2011": {
+          "label": "Seat Exeo (facelift 2011)",
+          "engines": [
+            {
+              "label": "2.0 TSI (211 Hp) (2011 - 2012)",
+              "hp": 211,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TSI (200 Hp) Multitronic (2011 - 2012)",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TDI (170 Hp) (2011 - 2013)",
+              "hp": 170,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (143 Hp) Multitronic (2011 - 2013)",
+              "hp": 143,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (143 Hp) Ecomotive (2011 - 2013)",
+              "hp": 143,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (143 Hp) (2011 - 2013)",
+              "hp": 143,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (120 Hp) Ecomotive (2011 - 2013)",
+              "hp": 120,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (120 Hp) (2011 - 2013)",
+              "hp": 120,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.8 TSI (160 Hp) (2011 - 2013)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 TSI (120 Hp) (2011 - 2013)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "seat-exeo-st": {
+          "label": "Seat Exeo ST",
+          "engines": [
+            {
+              "label": "2.0 TSI (200 Hp) Multitronic (2009 - 2011)",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TSI (200 Hp) (2009 - 2011)",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TDI (170 Hp) (2009 - 2011)",
+              "hp": 170,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (143 Hp) (2008 - 2011)",
+              "hp": 143,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (120 Hp) (2009 - 2011)",
+              "hp": 120,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.8 TSI (160 Hp) (2010 - 2011)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 TSI (120 Hp) (2010 - 2011)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 T (150 Hp) (2009 - 2010)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 T (102 Hp) (2009 - 2010)",
+              "hp": 102,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "seat-exeo": {
+          "label": "Seat Exeo",
+          "engines": [
+            {
+              "label": "2.0 TSI (211 Hp) (2010 - 2011)",
+              "hp": 211,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TSI (200 Hp) (2009 - 2011)",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TDI (170 Hp) DPF (2009 - 2011)",
+              "hp": 170,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (143 Hp) DPF (2008 - 2011)",
+              "hp": 143,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI CR (120 Hp) DPF (2009 - 2011)",
+              "hp": 120,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.8 TSI (160 Hp) (2010 - 2011)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 TSI (120 Hp) (2010 - 2011)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 T (150 Hp) (2009 - 2010)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (102 Hp) (2009 - 2010)",
+              "hp": 102,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "seat-fura": {
+      "label": "Seat Fura",
+      "series": {
+        "seat-fura-025a": {
+          "label": "Seat Fura (025A)",
+          "engines": [
+            {
+              "label": "1.4 (75 Hp) (1981 - 1986)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.9 (43 Hp) (1981 - 1986)",
+              "hp": 43,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.9 (40 Hp) (1984 - 1986)",
+              "hp": 40,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "seat-ibiza": {
+      "label": "Seat Ibiza",
+      "series": {
+        "seat-ibiza-v-facelift-2025": {
+          "label": "Seat Ibiza V (facelift 2025)",
+          "engines": [
+            {
+              "label": "1.5 TSI (150 Hp) DSG",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TSI (115 Hp) DSG",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TSI (115 Hp)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TSI (95 Hp)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 MPI (80 Hp)",
+              "hp": 80,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "seat-ibiza-v-facelift-2021": {
+          "label": "Seat Ibiza V (facelift 2021)",
+          "engines": [
+            {
+              "label": "1.5 TSI (150 Hp) DSG (2021 - 2025)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TSI (115 Hp) DSG (2024 - 2025)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TSI (115 Hp) (2024 - 2025)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TSI (110 Hp) DSG (2021 - 2024)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TSI (110 Hp) (2021 - 2024)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TSI (95 Hp) (2021 - 2025)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TGI (90 Hp) (2021 - 2023)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 MPI (80 Hp) (2021 - 2023)",
+              "hp": 80,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "seat-ibiza-v": {
+          "label": "Seat Ibiza V",
+          "engines": [
+            {
+              "label": "1.6 TDI (115 Hp) Start&Stop (2018 - 2018)",
+              "hp": 115,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI (95 Hp) Start&Stop DSG (2017 - 2018)",
+              "hp": 95,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI (95 Hp) Start&Stop (2019 - 2020)",
+              "hp": 95,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI (80 Hp) Start&Stop (2017 - 2018)",
+              "hp": 80,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 MPI (110 Hp) Automatic (2017 - 2021)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 MPI (110 Hp) (2017 - 2021)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 MPI (90 Hp) (2017 - 2019)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 TSI EVO (150 Hp) ACT (2017 - 2018)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 EcoTSI (150 Hp) DSG (2019 - 2021)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TGI (90 Hp) CNG (2019 - 2021)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 MPI EVO (80 Hp) (2019 - 2021)",
+              "hp": 80,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 MPI (80 Hp) (2018 - 2019)",
+              "hp": 80,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 MPI (75 Hp) Start&Stop (2017 - 2021)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 MPI (65 Hp) Start&Stop (2017 - 2018)",
+              "hp": 65,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 MPI (65 Hp) (2018 - 2019)",
+              "hp": 65,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 EcoTSI (115 Hp) Start&Stop DSG (2019 - 2021)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 EcoTSI (115 Hp) Start&Stop (2019 - 2021)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 EcoTSI (95 Hp) Start&Stop (2017 - 2018)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 EcoTSI (95 Hp) (2019 - 2021)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "seat-ibiza-iv-facelift-2015": {
+          "label": "Seat Ibiza IV (facelift 2015)",
+          "engines": [
+            {
+              "label": "1.4 TDI (105 Hp) (2015 - 2017)",
+              "hp": 105,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.4 TDI (90 Hp) DSG (2015 - 2017)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.4 TDI (90 Hp) (2015 - 2017)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.4 TDI (75 Hp) (2015 - 2017)",
+              "hp": 75,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.4 Eco TSI (150 Hp) ACT (2015 - 2017)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TSI (90 Hp) (2015 - 2017)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 Eco TSI (110 Hp) DSG (2015 - 2017)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 Eco TSI (110 Hp) (2015 - 2017)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 Eco TSI (95 Hp) (2015 - 2017)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 (75 Hp) (2015 - 2017)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "seat-ibiza-iv-sc-facelift-2015": {
+          "label": "Seat Ibiza IV SC (facelift 2015)",
+          "engines": [
+            {
+              "label": "Cupra 1.8 TSI (192 Hp) start/stop (2015 - 2017)",
+              "hp": 192,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TDI (105 Hp) (2015 - 2017)",
+              "hp": 105,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.4 TDI (90 Hp) DSG (2015 - 2017)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.4 TDI (90 Hp) (2015 - 2017)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.4 TDI (75 Hp) (2015 - 2017)",
+              "hp": 75,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.4 Eco TSI (150 Hp) ACT (2015 - 2017)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TSI (90 Hp) (2015 - 2017)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 Eco TSI (110 Hp) DSG (2015 - 2017)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 Eco TSI (110 Hp) (2015 - 2017)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 Eco TSI (95 Hp) (2015 - 2017)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 (75 Hp) (2015 - 2017)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "seat-ibiza-iv-st-facelift-2015": {
+          "label": "Seat Ibiza IV ST (facelift 2015)",
+          "engines": [
+            {
+              "label": "1.4 TDI (105 Hp) (2015 - 2017)",
+              "hp": 105,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.4 TDI (90 Hp) DSG (2015 - 2017)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.4 TDI (90 Hp) (2015 - 2017)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.4 TDI (75 Hp) (2015 - 2017)",
+              "hp": 75,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.4 Eco TSI (150 Hp) ACT (2015 - 2017)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TSI (90 Hp) (2015 - 2017)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 Eco TSI (110 Hp) DSG (2015 - 2017)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 Eco TSI (110 Hp) (2015 - 2017)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 Eco TSI (95 Hp) (2015 - 2017)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 (75 Hp) (2015 - 2017)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "seat-ibiza-iv-facelift-2012": {
+          "label": "Seat Ibiza IV (facelift 2012)",
+          "engines": [
+            {
+              "label": "FR 1.4 TSI (150 Hp) DSG (2012 - 2015)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TDI (143 Hp) (2012 - 2015)",
+              "hp": 143,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI (105 Hp) (2012 - 2015)",
+              "hp": 105,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI (90 Hp) DSG (2012 - 2015)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI (90 Hp) (2012 - 2015)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 (81 Hp) GLP (2012 - 2015)",
+              "hp": 81,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TSI (140 Hp) ACT (2013 - 2015)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 (85 Hp) (2012 - 2015)",
+              "hp": 85,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TSI (105 Hp) start/stop (2012 - 2015)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TSI (105 Hp) Eco Technology (2012 - 2015)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TSI (105 Hp) DSG (2012 - 2015)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TSI (105 Hp) (2012 - 2015)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TSI (85 Hp) (2012 - 2015)",
+              "hp": 85,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TDI (75 Hp) start/stop (2012 - 2015)",
+              "hp": 75,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.2 TDI (75 Hp) (2012 - 2015)",
+              "hp": 75,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.2 12V (70 Hp) (2012 - 2015)",
+              "hp": 70,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 12V (60 Hp) (2012 - 2015)",
+              "hp": 60,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "seat-ibiza-iv-sc-facelift-2012": {
+          "label": "Seat Ibiza IV SC (facelift 2012)",
+          "engines": [
+            {
+              "label": "FR 1.4 TSI (150 Hp) DSG (2012 - 2015)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cupra 1.4 TSI (180 Hp) DSG (2012 - 2015)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TDI (143 Hp) (2012 - 2015)",
+              "hp": 143,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI (105 Hp) (2012 - 2015)",
+              "hp": 105,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI (90 Hp) DSG (2012 - 2015)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI (90 Hp) (2012 - 2015)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 (81 Hp) LPG (2012 - 2015)",
+              "hp": 81,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (81 Hp) (2012 - 2015)",
+              "hp": 81,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TSI (140 Hp) ACT (2013 - 2015)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 16V (85 Hp) (2012 - 2015)",
+              "hp": 85,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TSI (105 Hp) start/stop (2012 - 2015)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TSI (105 Hp) Eco Technology (2012 - 2015)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TSI (105 Hp) DSG (2012 - 2015)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TSI (105 Hp) (2012 - 2015)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TSI (85 Hp) (2012 - 2015)",
+              "hp": 85,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TDI (75 Hp) start/stop (2012 - 2015)",
+              "hp": 75,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.2 TDI (75 Hp) (2012 - 2015)",
+              "hp": 75,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.2 12V (70 Hp) (2012 - 2015)",
+              "hp": 70,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 12V (60 Hp) (2012 - 2015)",
+              "hp": 60,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "seat-ibiza-iv-st-facelift-2012": {
+          "label": "Seat Ibiza IV ST (facelift 2012)",
+          "engines": [
+            {
+              "label": "FR 1.4 TSI (150 Hp) DSG (2012 - 2015)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 TDI (105 Hp) (2012 - 2015)",
+              "hp": 105,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI (90 Hp) DSG (2012 - 2015)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI (90 Hp) (2012 - 2015)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.4 TSI (140 Hp) ACT (2012 - 2015)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TSI (105 Hp) DSG (2012 - 2015)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TSI (105 Hp) (2012 - 2015)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TSI (85 Hp) (2012 - 2015)",
+              "hp": 85,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TDI (75 Hp) start/stop (2012 - 2015)",
+              "hp": 75,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.2 TDI (75 Hp) (2012 - 2015)",
+              "hp": 75,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.2 (70 Hp) (2012 - 2015)",
+              "hp": 70,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 (60 Hp) (2012 - 2015)",
+              "hp": 60,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "seat-ibiza-iv-st": {
+          "label": "Seat Ibiza IV ST",
+          "engines": [
+            {
+              "label": "1.6 TDI (105 Hp) DPF (2010 - 2011)",
+              "hp": 105,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI (90 Hp) (2010 - 2012)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.4 (85 Hp) (2010 - 2012)",
+              "hp": 85,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TSI (105 Hp) Start & Stop Ecomotive (2010 - 2012)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TSI (105 Hp) DSG (2010 - 2012)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TDI (75 Hp) Start & Stop E-Ecomotive (2010 - 2012)",
+              "hp": 75,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.2 TDI (75 Hp) (2010 - 2012)",
+              "hp": 75,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.2 (70 Hp) (2010 - 2012)",
+              "hp": 70,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "seat-ibiza-iv": {
+          "label": "Seat Ibiza IV",
+          "engines": [
+            {
+              "label": "FR 1.4 TSI (150 Hp) DSG (2009 - 2012)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TDI (143 Hp) (2010 - 2012)",
+              "hp": 143,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.9 TDI (105 Hp) DPF (2008 - 2010)",
+              "hp": 105,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.9 TDI (90 Hp) DPF (2008 - 2010)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI (105 Hp) (2009 - 2012)",
+              "hp": 105,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI (90 Hp) (2009 - 2012)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 MPI (105 Hp) DSG (2008 - 2009)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 MPI (105 Hp) (2008 - 2009)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TDI (80 Hp) (2008 - 2010)",
+              "hp": 80,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.4 (85 Hp) (2008 - 2012)",
+              "hp": 85,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TSI (105 Hp) DSG (2010 - 2012)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TSI (105 Hp) (2010 - 2012)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TDI (75 Hp) Start & Stop E-Ecomotive (2010 - 2012)",
+              "hp": 75,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.2 TDI (75 Hp) (2010 - 2012)",
+              "hp": 75,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.2 (70 Hp) (2008 - 2012)",
+              "hp": 70,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 (60 Hp) (2009 - 2012)",
+              "hp": 60,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "seat-ibiza-iv-sc": {
+          "label": "Seat Ibiza IV SC",
+          "engines": [
+            {
+              "label": "FR 2.0 TDI (143 Hp) (2010 - 2012)",
+              "hp": 143,
+              "fuel": "diesel"
+            },
+            {
+              "label": "FR 1.4 TSI (150 Hp) DSG (2009 - 2012)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cupra 1.4 TSI (180 Hp) (2009 - 2012)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 TDI (105 Hp) DPF (2008 - 2009)",
+              "hp": 105,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.9 TDI (90 Hp) DPF (2008 - 2009)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 MPI (105 Hp) DSG (2008 - 2009)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 MPI (105 Hp) (2008 - 2009)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TDI (80 Hp) DPF (2008 - 2010)",
+              "hp": 80,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.4 (85 Hp) (2008 - 2012)",
+              "hp": 85,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TSI (105 Hp) DSG (2010 - 2012)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TSI (105 Hp) (2010 - 2012)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TDI (75 Hp) Start & Stop E-Ecomotive (2010 - 2012)",
+              "hp": 75,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.2 TDI (75 Hp) (2010 - 2010)",
+              "hp": 75,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.2 (70 Hp) (2009 - 2012)",
+              "hp": 70,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 (60 Hp) (2009 - 2012)",
+              "hp": 60,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "seat-ibiza-iii-facelift-2006": {
+          "label": "Seat Ibiza III (facelift 2006)",
+          "engines": [
+            {
+              "label": "FR 1.9 TDi (130 Hp) (2006 - 2008)",
+              "hp": 130,
+              "fuel": "diesel"
+            },
+            {
+              "label": "FR 1.8T 20V (150 Hp) (2006 - 2008)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cupra 1.8 T (180 Hp) (2006 - 2008)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cupra 1.9 TDI (160 Hp) (2006 - 2008)",
+              "hp": 160,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.9 TDi (101 Hp) (2006 - 2008)",
+              "hp": 101,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 (105 Hp) (2006 - 2008)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TDi (80 Hp) (2006 - 2007)",
+              "hp": 80,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.4 TDi (70 Hp) (2006 - 2008)",
+              "hp": 70,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.4 16V (100 Hp) (2007 - 2008)",
+              "hp": 100,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 (86 Hp) (2006 - 2008)",
+              "hp": 86,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 (70 Hp) (2006 - 2008)",
+              "hp": 70,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 (60 Hp) (2007 - 2008)",
+              "hp": 60,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 (54 Hp) (2006 - 2007)",
+              "hp": 54,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "seat-ibiza-iii": {
+          "label": "Seat Ibiza III",
+          "engines": [
+            {
+              "label": "Sport 2.0i (115 Hp) (2002 - 2006)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "FR 1.9 TDi (130 Hp) (2002 - 2006)",
+              "hp": 130,
+              "fuel": "diesel"
+            },
+            {
+              "label": "FR 1.8 i 20V (150 Hp) (2003 - 2006)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cupra 1.8 i 20V (180 Hp) (2004 - 2006)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cupra 1.9 TDI (160 Hp) (2005 - 2006)",
+              "hp": 160,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.9 TDi (101 Hp) (2002 - 2006)",
+              "hp": 101,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.9 SDi (64 Hp) (2002 - 2006)",
+              "hp": 64,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TDi (75 Hp) (2002 - 2005)",
+              "hp": 75,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.4 16V (100 Hp) (2002 - 2006)",
+              "hp": 100,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 16V (75 Hp) Automatic (2002 - 2006)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 16V (75 Hp) (2002 - 2006)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 12V (64 Hp) (2002 - 2006)",
+              "hp": 64,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 (54 Hp) (2002 - 2006)",
+              "hp": 54,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "seat-ibiza-ii-facelift-1999": {
+          "label": "Seat Ibiza II (facelift 1999)",
+          "engines": [
+            {
+              "label": "1.9 TDI (110 Hp) (1999 - 2000)",
+              "hp": 110,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.9 TDI (90 Hp) (1999 - 2002)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.9 SDI (68 Hp) (1999 - 2002)",
+              "hp": 68,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 T 20V (156 Hp) (1999 - 2002)",
+              "hp": 156,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (75 Hp) (1999 - 2002)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (101 Hp) (1999 - 2002)",
+              "hp": 101,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 16V (75 Hp) (1999 - 2002)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 (60 Hp) (1999 - 2002)",
+              "hp": 60,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 i (50 Hp) (1999 - 2002)",
+              "hp": 50,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "seat-ibiza-ii": {
+          "label": "Seat Ibiza II",
+          "engines": [
+            {
+              "label": "Cupra 2.0 i 16V (150 Hp) (1996 - 1999)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 i (115 Hp) (1993 - 1999)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 TDI (110 Hp) (1997 - 1999)",
+              "hp": 110,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.9 TDI (90 Hp) (1996 - 1999)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.9 TD (75 Hp) (1993 - 1995)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 SDI (64 Hp) (1995 - 1999)",
+              "hp": 64,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 D (68 Hp) (1994 - 1996)",
+              "hp": 68,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 D (64 Hp) (1993 - 1999)",
+              "hp": 64,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 i 16V (129 Hp) (1994 - 1996)",
+              "hp": 129,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 i (90 Hp) Automatic (1993 - 1999)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 i (90 Hp) (1993 - 1999)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 MPi (75 Hp) (1997 - 1998)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 i (101 Hp) (1995 - 1999)",
+              "hp": 101,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 i 16V (101 Hp) (1997 - 1999)",
+              "hp": 101,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 i (60 Hp) (1993 - 1995)",
+              "hp": 60,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.05 (45 Hp) (1993 - 1996)",
+              "hp": 45,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 i (50 Hp) (1996 - 1999)",
+              "hp": 50,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "seat-ibiza-i": {
+          "label": "Seat Ibiza I",
+          "engines": [
+            {
+              "label": "1.7 i (100 Hp) (1991 - 1993)",
+              "hp": 100,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.7 D (57 Hp) (1990 - 1993)",
+              "hp": 57,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.7 D (54 Hp) (1984 - 1993)",
+              "hp": 54,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.7 (98 Hp) (1991 - 1993)",
+              "hp": 98,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 i (100 Hp) (1986 - 1993)",
+              "hp": 100,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 i (90 Hp) (1986 - 1991)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 i (89 Hp) (1986 - 1993)",
+              "hp": 89,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 (85 Hp) (1984 - 1993)",
+              "hp": 85,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 i (71 Hp) (1989 - 1993)",
+              "hp": 71,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 (60 Hp) (1984 - 1993)",
+              "hp": 60,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.9 (44 Hp) (1986 - 1993)",
+              "hp": 44,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.9 (40 Hp) (1990 - 1993)",
+              "hp": 40,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "seat-inca": {
+      "label": "Seat Inca",
+      "series": {
+        "seat-inca-9k": {
+          "label": "Seat Inca (9K)",
+          "engines": [
+            {
+              "label": "1.9 SDi (64 Hp) (1999 - 2004)",
+              "hp": 64,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 i (75 Hp) (1996 - 2000)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 MPi (60 Hp) (2001 - 2004)",
+              "hp": 60,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "seat-leon": {
+      "label": "Seat Leon",
+      "series": {
+        "seat-leon-iv": {
+          "label": "Seat Leon IV",
+          "engines": [
+            {
+              "label": "2.0 TSI (190 Hp) DSG (2021 - 2023)",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) DSG",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (115 Hp)",
+              "hp": 115,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 TSI (272 Hp) e-Hybrid DSG",
+              "hp": 272,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.5 TSI (150 Hp)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 TSI (130 Hp) (2020 - 2023)",
+              "hp": 130,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 TSI (116 Hp)",
+              "hp": 116,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 TGI (130 Hp) DSG (2021 - 2023)",
+              "hp": 130,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 TGI (130 Hp) (2021 - 2023)",
+              "hp": 130,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 eTSI (150 Hp) Mild Hybrid DSG",
+              "hp": 150,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.5 eTSI (116 Hp) Mild Hybrid DSG",
+              "hp": 116,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.4 e-Hybrid (204 Hp) DSG (2020 - 2024)",
+              "hp": 204,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.0 TSI (110 Hp) (2020 - 2024)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TSI (90 Hp) (2020 - 2023)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 eTSI (110 Hp) Mild Hybrid DSG (2021 - 2024)",
+              "hp": 110,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "seat-leon-iv-sportstourer": {
+          "label": "Seat Leon IV Sportstourer",
+          "engines": [
+            {
+              "label": "2.0 TDI (150 Hp) DSG",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) 4Drive DSG (2021 - 2023)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (115 Hp)",
+              "hp": 115,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 TSI (272 Hp) e-Hybrid DSG",
+              "hp": 272,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.5 TSI (150 Hp)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 TSI (130 Hp) (2020 - 2023)",
+              "hp": 130,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 TSI (116 Hp)",
+              "hp": 116,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 TGI (130 Hp) DSG (2021 - 2023)",
+              "hp": 130,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 eTSI (150 Hp) Mild Hybrid DSG",
+              "hp": 150,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.5 eTSI (116 Hp) Mild Hybrid DSG",
+              "hp": 116,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.4 e-Hybrid (204 Hp) DSG (2020 - 2024)",
+              "hp": 204,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.0 TSI (110 Hp) (2021 - 2024)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TSI (90 Hp) (2020 - 2023)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 eTSI (110 Hp) Mild Hybrid DSG (2021 - 2024)",
+              "hp": 110,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "seat-leon-iii-st-facelift-2016": {
+          "label": "Seat Leon III ST (facelift 2016)",
+          "engines": [
+            {
+              "label": "Cupra 2.0 TSI (300 Hp) DSG (2017 - 2018)",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cupra 2.0 TSI (300 Hp) 4Drive DSG (2018 - 2020)",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cupra 2.0 TSI (300 Hp) (2017 - 2018)",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cupra 2.0 TSI (290 Hp) DSG (2018 - 2020)",
+              "hp": 290,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TSI (190 Hp) DSG (2018 - 2020)",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TDI (184 Hp) DSG (2018 - 2020)",
+              "hp": 184,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (184 Hp) (2016 - 2018)",
+              "hp": 184,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) DSG (2016 - 2020)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) 4Drive DSG (2018 - 2020)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) (2016 - 2020)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (110 Hp) (2016 - 2020)",
+              "hp": 110,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.8 TSI (180 Hp) DSG (2016 - 2018)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 TSI (180 Hp) (2016 - 2018)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 TDI (115 Hp) DSG (2016 - 2020)",
+              "hp": 115,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI (115 Hp) 4Drive (2018 - 2020)",
+              "hp": 115,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI (115 Hp) (2016 - 2020)",
+              "hp": 115,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI (90 Hp) (2016 - 2020)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 TSI (150 Hp) DSG (2018 - 2020)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 TSI (150 Hp) (2018 - 2020)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 TSI (130 Hp) (2018 - 2020)",
+              "hp": 130,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 TGI (130 Hp) DSG (2018 - 2020)",
+              "hp": 130,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 TGI (130 Hp) (2018 - 2020)",
+              "hp": 130,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 EcoTSI (150 Hp) DSG (2018 - 2020)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 EcoTSI (150 Hp) (2018 - 2020)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 EcoTSI (130 Hp) (2018 - 2020)",
+              "hp": 130,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TSI (150 Hp) ACT DSG (2016 - 2018)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TSI (150 Hp) ACT (2016 - 2018)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TSI (125 Hp) (2016 - 2018)",
+              "hp": 125,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TGI (110 Hp) CNG DSG (2016 - 2018)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TGI (110 Hp) CNG (2016 - 2018)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TSI (110 Hp) (2016 - 2018)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TSI (86 Hp) (2016 - 2018)",
+              "hp": 86,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TSI (115 Hp) DSG (2016 - 2020)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TSI (115 Hp) (2016 - 2020)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TSI (86 Hp) (2018 - 2020)",
+              "hp": 86,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 EcoTSI (115 Hp) ECOMOTIVE (2018 - 2020)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "seat-leon-iii-sc-facelift-2016": {
+          "label": "Seat Leon III SC (facelift 2016)",
+          "engines": [
+            {
+              "label": "FR 2.0 TDI (184 Hp) DSG (2016 - 2018)",
+              "hp": 184,
+              "fuel": "diesel"
+            },
+            {
+              "label": "FR 2.0 TDI (184 Hp) (2016 - 2018)",
+              "hp": 184,
+              "fuel": "diesel"
+            },
+            {
+              "label": "FR 2.0 TDI (150 Hp) DSG (2016 - 2018)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "FR 2.0 TDI (150 Hp) (2016 - 2018)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "FR 1.8 TSI (180 Hp) DSG (2016 - 2018)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "FR 1.8 TSI (180 Hp) (2016 - 2018)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "FR 1.4 TSI (150 Hp) DSG (2016 - 2018)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "FR 1.4 TSI (150 Hp) (2016 - 2018)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "FR 1.4 TSI (125 Hp) (2016 - 2018)",
+              "hp": 125,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cupra 2.0 TSI (300 Hp) DSG (2017 - 2018)",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cupra 2.0 TSI (300 Hp) (2017 - 2018)",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 TDI (115 Hp) DSG (2016 - 2018)",
+              "hp": 115,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI (115 Hp) (2016 - 2018)",
+              "hp": 115,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI (90 Hp) (2016 - 2018)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.2 TSI (110 Hp) (2016 - 2018)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TSI (86 Hp) (2016 - 2018)",
+              "hp": 86,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TSI (115 Hp) DSG (2016 - 2018)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TSI (115 Hp) (2016 - 2018)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "seat-leon-iii-facelift-2016": {
+          "label": "Seat Leon III (facelift 2016)",
+          "engines": [
+            {
+              "label": "FR 2.0 TDI (184 Hp) DSG (2016 - 2020)",
+              "hp": 184,
+              "fuel": "diesel"
+            },
+            {
+              "label": "FR 2.0 TDI (184 Hp) (2016 - 2018)",
+              "hp": 184,
+              "fuel": "diesel"
+            },
+            {
+              "label": "FR 2.0 TDI (150 Hp) DSG (2016 - 2020)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "FR 2.0 TDI (150 Hp) (2016 - 2018)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "FR 1.8 TSI (180 Hp) DSG (2016 - 2018)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "FR 1.8 TSI (180 Hp) (2016 - 2018)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "FR 1.4 TSI (150 Hp) DSG (2016 - 2018)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "FR 1.4 TSI (150 Hp) (2016 - 2018)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "FR 1.4 TSI (125 Hp) (2016 - 2018)",
+              "hp": 125,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cupra R 2.0 TSI (310 Hp) (2017 - 2018)",
+              "hp": 310,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cupra 2.0 TSI (300 Hp) DSG (2017 - 2018)",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cupra 2.0 TSI (300 Hp) (2017 - 2018)",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cupra 2.0 TSI (290 Hp) DSG (2018 - 2020)",
+              "hp": 290,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TSI (190 Hp) DSG (2018 - 2020)",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TDI (184 Hp) DSG (2018 - 2020)",
+              "hp": 184,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (184 Hp) (2016 - 2018)",
+              "hp": 184,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) DSG (2016 - 2020)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) (2016 - 2020)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.8 TSI (180 Hp) DSG (2016 - 2018)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 TSI (180 Hp) (2016 - 2018)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 TDI (115 Hp) DSG (2016 - 2020)",
+              "hp": 115,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI (115 Hp) (2016 - 2020)",
+              "hp": 115,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI (90 Hp) (2016 - 2020)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 TSI (150 Hp) DSG (2018 - 2020)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 TSI (150 Hp) (2018 - 2020)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 TSI (130 Hp) (2018 - 2020)",
+              "hp": 130,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 TGI (130 Hp) DSG (2018 - 2020)",
+              "hp": 130,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 TGI (130 Hp) (2018 - 2020)",
+              "hp": 130,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TSI (150 Hp) DSG (2016 - 2018)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TSI (150 Hp) (2016 - 2018)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TSI (125 Hp) (2016 - 2018)",
+              "hp": 125,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TGI (110 Hp) CNG DSG (2016 - 2018)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TGI (110 Hp) CNG (2016 - 2018)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TSI (110 Hp) (2016 - 2018)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TSI (86 Hp) (2016 - 2018)",
+              "hp": 86,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TSI (115 Hp) DSG (2016 - 2020)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TSI (115 Hp) (2016 - 2020)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TSI (86 Hp) (2018 - 2020)",
+              "hp": 86,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 EcoTSI (115 Hp) ECOMOTIVE (2018 - 2020)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "seat-leon-x-perience": {
+          "label": "Seat Leon X-Perience",
+          "engines": [
+            {
+              "label": "2.0 TSI (190 Hp) 4Drive DSG (2018 - 2019)",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TDI (184 Hp) DSG 4Drive start/stop (2014 - 2019)",
+              "hp": 184,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) 4Drive start/stop (2014 - 2015)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.8 TSI (180 Hp) DSG 4Drive start/stop (2014 - 2018)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 TDI (115 Hp) 4Drive",
+              "hp": 115,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI (115 Hp)",
+              "hp": 115,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI (110 Hp) 4Drive start/stop (2014 - 2018)",
+              "hp": 110,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.4 TSI (125 Hp) 4Drive start/stop (2015 - 2018)",
+              "hp": 125,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "seat-leon-iii-st": {
+          "label": "Seat Leon III ST",
+          "engines": [
+            {
+              "label": "Cupra 2.0 TSI (290 Hp) start/stop (2015 - 2016)",
+              "hp": 290,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cupra 2.0 TSI (290 Hp) DSG start/stop (2015 - 2016)",
+              "hp": 290,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cupra 2.0 TSI (280 Hp) start/stop (2014 - 2015)",
+              "hp": 280,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cupra 2.0 TSI (280 Hp) DSG start/stop (2014 - 2015)",
+              "hp": 280,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cupra 2.0 TSI (265 Hp) start/stop (2014 - 2016)",
+              "hp": 265,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cupra 2.0 TSI (265 Hp) DSG start/stop (2014 - 2016)",
+              "hp": 265,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TDI (184 Hp) start/stop DSG (2014 - 2015)",
+              "hp": 184,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (184 Hp) start/stop (2014 - 2015)",
+              "hp": 184,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) start/stop DSG (2015 - 2016)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) start/stop 4Drive (2015 - 2016)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) start/stop (2015 - 2016)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.8 TSI (180 Hp) start/stop DSG (2013 - 2016)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 TSI (180 Hp) start/stop (2013 - 2016)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 TDI (110 Hp) ECOMOTIVE (2014 - 2016)",
+              "hp": 110,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI (105 Hp) start/stop DSG (2014 - 2015)",
+              "hp": 105,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI (105 Hp) start/stop 4Drive (2014 - 2016)",
+              "hp": 105,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI (105 Hp) start/stop (2014 - 2015)",
+              "hp": 105,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI (90 Hp) (2014 - 2015)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.4 TSI (150 Hp) ACT start/stop DSD (2012 - 2016)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TSI (150 Hp) ACT start/stop (2014 - 2016)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TSI (125 Hp) start/stop (2014 - 2016)",
+              "hp": 125,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TSI (110 Hp) start/stop DSG (2014 - 2016)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TSI (110 Hp) start/stop (2014 - 2016)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TSI (86 Hp) (2014 - 2016)",
+              "hp": 86,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "seat-leon-iii-sc": {
+          "label": "Seat Leon III SC",
+          "engines": [
+            {
+              "label": "Cupra 2.0 TSI (290 Hp) DSG (2015 - 2016)",
+              "hp": 290,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cupra 2.0 TSI (290 Hp) (2015 - 2016)",
+              "hp": 290,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cupra 2.0 TSI (280 Hp) start/stop (2014 - 2015)",
+              "hp": 280,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cupra 2.0 TSI (280 Hp) DSG start/stop (2014 - 2015)",
+              "hp": 280,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cupra 2.0 TSI (265 Hp) start/stop (2013 - 2015)",
+              "hp": 265,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cupra 2.0 TSI (265 Hp) DSG start/stop (2013 - 2015)",
+              "hp": 265,
+              "fuel": "benzin"
+            },
+            {
+              "label": "FR 2.0 TDI (184 Hp) start/stop (2013 - 2016)",
+              "hp": 184,
+              "fuel": "diesel"
+            },
+            {
+              "label": "FR 2.0 TDI (184 Hp) DSG start/stop (2013 - 2016)",
+              "hp": 184,
+              "fuel": "diesel"
+            },
+            {
+              "label": "FR 2.0 TDI (150 Hp) start/stop (2015 - 2016)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "FR 2.0 TDI (150 Hp) DSG start/stop (2015 - 2016)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "FR 1.8 TSI (180 Hp) start/stop (2013 - 2016)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "FR 1.8 TSI (180 Hp) DSG start/stop (2013 - 2016)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "FR 1.4 TSI (150 Hp) ACT start/stop DSG (2014 - 2016)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "FR 1.4 TSI (150 Hp) ACT start/stop (2014 - 2016)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "FR 1.4 TSI (125 Hp) start/stop (2014 - 2015)",
+              "hp": 125,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) start/stop (2012 - 2015)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) DSG start/stop (2012 - 2015)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI (110 Hp) ECOMOTIVE (2013 - 2016)",
+              "hp": 110,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI (105 Hp) start/stop (2012 - 2015)",
+              "hp": 105,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI (105 Hp) DSG start/stop (2012 - 2015)",
+              "hp": 105,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI (90 Hp) (2013 - 2015)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.4 TSI (150 Hp) ACT start/stop DSG (2014 - 2016)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TSI (150 Hp) ACT start/stop (2014 - 2016)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TSI (140 Hp) start/stop (2012 - 2014)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TSI (125 Hp) start/stop (2014 - 2015)",
+              "hp": 125,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TSI (122 Hp) start/stop (2012 - 2014)",
+              "hp": 122,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TGI (110 Hp) start/stop (2013 - 2016)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TSI (110 Hp) start/stop DSG (2014 - 2016)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TSI (110 Hp) start/stop (2014 - 2016)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TSI (105 Hp) start/stop DSG (2013 - 2014)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TSI (105 Hp) start/stop (2013 - 2014)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TSI (86 Hp) (2013 - 2016)",
+              "hp": 86,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "seat-leon-iii": {
+          "label": "Seat Leon III",
+          "engines": [
+            {
+              "label": "Cupra 2.0 TSI (290 Hp) DSG (2015 - 2016)",
+              "hp": 290,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cupra 2.0 TSI (290 Hp) (2015 - 2016)",
+              "hp": 290,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cupra 2.0 TSI (280 Hp) start/stop (2014 - 2015)",
+              "hp": 280,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cupra 2.0 TSI (280 Hp) DSG start/stop (2014 - 2015)",
+              "hp": 280,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cupra 2.0 TSI (265 Hp) start/stop (2013 - 2015)",
+              "hp": 265,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cupra 2.0 TSI (265 Hp) DSG start/stop (2013 - 2015)",
+              "hp": 265,
+              "fuel": "benzin"
+            },
+            {
+              "label": "FR 2.0 TDI (184 Hp) start/stop (2013 - 2016)",
+              "hp": 184,
+              "fuel": "diesel"
+            },
+            {
+              "label": "FR 2.0 TDI (184 Hp) DSG start/stop (2013 - 2016)",
+              "hp": 184,
+              "fuel": "diesel"
+            },
+            {
+              "label": "FR 2.0 TDI (150 Hp) start/stop (2012 - 2015)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "FR 2.0 TDI (150 Hp) DSG start/stop (2012 - 2015)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "FR 1.8 TSI (180 Hp) start/stop (2013 - 2016)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "FR 1.8 TSI (180 Hp) DSG start/stop (2013 - 2016)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "FR 1.4 TSI (150 Hp) ACT start/stop DSG (2014 - 2016)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "FR 1.4 TSI (150 Hp) ACT start/stop (2014 - 2016)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "FR 1.4 TSI (125 Hp) start/stop (2013 - 2015)",
+              "hp": 125,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) start/stop (2015 - 2016)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) DSG start/stop (2015 - 2016)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI (110 Hp) ECOMOTIVE (2013 - 2016)",
+              "hp": 110,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI (105 Hp) start/stop (2012 - 2015)",
+              "hp": 105,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI (105 Hp) DSG start/stop (2012 - 2015)",
+              "hp": 105,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI (90 Hp) (2012 - 2015)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.4 TSI (150 Hp) ACT start/stop DSG (2014 - 2016)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TSI (150 Hp) ACT start/stop (2014 - 2016)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TSI (140 Hp) start/stop (2012 - 2014)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TSI (125 Hp) start/stop (2014 - 2015)",
+              "hp": 125,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TSI (122 Hp) start/stop (2012 - 2014)",
+              "hp": 122,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TGI (110 Hp) start/stop (2013 - 2016)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TSI (110 Hp) start/stop DSG (2014 - 2016)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TSI (110 Hp) start/stop (2014 - 2016)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TSI (105 Hp) start/stop DSG (2013 - 2014)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TSI (105 Hp) start/stop (2013 - 2014)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TSI (86 Hp) (2012 - 2016)",
+              "hp": 86,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "seat-leon-ii-1p-facelift-2009": {
+          "label": "Seat Leon II (1P, facelift 2009)",
+          "engines": [
+            {
+              "label": "Cupra R 2.0 TFSI (265 Hp) (2009 - 2012)",
+              "hp": 265,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cupra 2.0 TFSI (240 Hp) (2009 - 2010)",
+              "hp": 240,
+              "fuel": "benzin"
+            },
+            {
+              "label": "FR 2.0 TFSI (211 Hp) DSG (2009 - 2012)",
+              "hp": 211,
+              "fuel": "benzin"
+            },
+            {
+              "label": "FR 2.0 TFSI (211 Hp) (2009 - 2012)",
+              "hp": 211,
+              "fuel": "benzin"
+            },
+            {
+              "label": "FR 2.0 TDI CR (170 Hp) DPF DSG (2009 - 2012)",
+              "hp": 170,
+              "fuel": "diesel"
+            },
+            {
+              "label": "FR 2.0 TDI CR (170 Hp) DPF (2009 - 2012)",
+              "hp": 170,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI PD (140 Hp) DSG (2009 - 2010)",
+              "hp": 140,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI PD (140 Hp) (2009 - 2010)",
+              "hp": 140,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI CR (140 Hp) DPF DSG (2010 - 2012)",
+              "hp": 140,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI CR (140 Hp) DPF (2010 - 2012)",
+              "hp": 140,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.9 TDI PD (105 Hp) DSG (2009 - 2010)",
+              "hp": 105,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.9 TDI PD (105 Hp) (2009 - 2010)",
+              "hp": 105,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.9 TDI PD (90 Hp) (2009 - 2010)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.8 TSI (160 Hp) DSG (2009 - 2012)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 TSI (160 Hp) (2009 - 2012)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 TDI CR (105 Hp) Ecomotive Tehnology (2010 - 2012)",
+              "hp": 105,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI CR (105 Hp) DPF Start&Stop (2010 - 2012)",
+              "hp": 105,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI CR (105 Hp) DPF DSG (2009 - 2012)",
+              "hp": 105,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI CR (105 Hp) DPF (2009 - 2012)",
+              "hp": 105,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI CR (90 Hp) DPF (2011 - 2012)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 MPI (102/98 Hp) LPG (2009 - 2012)",
+              "hp": 98,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 MPI (102 Hp) Ethanol (2011 - 2012)",
+              "hp": 102,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 MPI (102 Hp) (2009 - 2012)",
+              "hp": 102,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TSI (125 Hp) (2009 - 2012)",
+              "hp": 125,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 MPI (85 Hp) (2009 - 2012)",
+              "hp": 85,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TSI (105 Hp) Start&Stop (2010 - 2012)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TSI (105 Hp) (2010 - 2012)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "seat-leon-ii-1p": {
+          "label": "Seat Leon II (1P)",
+          "engines": [
+            {
+              "label": "Cupra 2.0 TFSI (240 Hp) (2006 - 2009)",
+              "hp": 240,
+              "fuel": "benzin"
+            },
+            {
+              "label": "FR 2.0 TFSI (200 Hp) DSG (2006 - 2009)",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "FR 2.0 TFSI (200 Hp) (2005 - 2009)",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "FR 2.0 TDI (170 Hp) DPF Automatic (2006 - 2009)",
+              "hp": 170,
+              "fuel": "diesel"
+            },
+            {
+              "label": "FR 2.0 TDI (170 Hp) DPF (2006 - 2009)",
+              "hp": 170,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TFSI (185 Hp) (2005 - 2006)",
+              "hp": 185,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TDI 8V (140 Hp) DPF Automatic (2006 - 2009)",
+              "hp": 140,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI 8V (140 Hp) DPF (2006 - 2009)",
+              "hp": 140,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI 16V (140 Hp) Automatic (2005 - 2009)",
+              "hp": 140,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI 16V (140 Hp) (2005 - 2009)",
+              "hp": 140,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI 16V (136 Hp) Automatic (2005 - 2009)",
+              "hp": 136,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI 16V (136 Hp) (2005 - 2009)",
+              "hp": 136,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 FSI (150 Hp) Automatic (2005 - 2009)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 FSI (150 Hp) (2005 - 2009)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 TDI (105 Hp) DPF Automatic (2007 - 2009)",
+              "hp": 105,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.9 TDI (105 Hp) DPF (2006 - 2009)",
+              "hp": 105,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.9 TDI (105 Hp) (2005 - 2006)",
+              "hp": 105,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.9 TDI (90 Hp) (2007 - 2009)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.8 TSI (160 Hp) DSG (2008 - 2009)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 TSI (160 Hp) (2007 - 2009)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 MPI (102 Hp) (2005 - 2009)",
+              "hp": 102,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TSI (125 Hp) (2007 - 2009)",
+              "hp": 125,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 MPI (85 Hp) (2006 - 2009)",
+              "hp": 85,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "seat-leon-i-1m": {
+          "label": "Seat Leon I (1M)",
+          "engines": [
+            {
+              "label": "FR 1.9 TDI (150 Hp) (2003 - 2005)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "Cupra R 1.8 T (225 Hp) (2003 - 2005)",
+              "hp": 225,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cupra R 1.8 T (210 Hp) (2002 - 2003)",
+              "hp": 210,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cupra 2.8 V6 4 (204 Hp) (2000 - 2004)",
+              "hp": 204,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 TDI (150 Hp) (2000 - 2005)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.9 TDI (130 Hp) (2003 - 2006)",
+              "hp": 130,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.9 TDI (110 Hp) (1999 - 2005)",
+              "hp": 110,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.9 TDI (90 Hp) (1999 - 2005)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.9 SDI (68 Hp) (2000 - 2003)",
+              "hp": 68,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 T 20V 4 (180 Hp) (1999 - 2005)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 T 20V (180 Hp) (1999 - 2005)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 20V (125 Hp) Automatic (1999 - 2005)",
+              "hp": 125,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 20V (125 Hp) (1999 - 2005)",
+              "hp": 125,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (100 Hp) (1999 - 2005)",
+              "hp": 100,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 16V (75 Hp) (1999 - 2005)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "seat-malaga": {
+      "label": "Seat Malaga",
+      "series": {
+        "seat-malaga-023a": {
+          "label": "Seat Malaga (023A)",
+          "engines": [
+            {
+              "label": "1.7 D (55 Hp) (1986 - 1991)",
+              "hp": 55,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 i (100 Hp) (1988 - 1991)",
+              "hp": 100,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 i (90 Hp) (1988 - 1991)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 (90 Hp) (1984 - 1991)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 (85 Hp) (1984 - 1991)",
+              "hp": 85,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 i (71 Hp) (1989 - 1991)",
+              "hp": 71,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 (60 Hp) (1984 - 1991)",
+              "hp": 60,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "seat-marbella": {
+      "label": "Seat Marbella",
+      "series": {
+        "seat-marbella-28": {
+          "label": "Seat Marbella (28)",
+          "engines": [
+            {
+              "label": "0.9 CAT (41 Hp) (1996 - 1998)",
+              "hp": 41,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.9 CAT (40 Hp) (1990 - 1996)",
+              "hp": 40,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.9 (40 Hp) (1987 - 1993)",
+              "hp": 40,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.8 (34 Hp) (1986 - 1993)",
+              "hp": 34,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "seat-mii": {
+      "label": "Seat Mii",
+      "series": {
+        "seat-mii-electric": {
+          "label": "Seat Mii Electric",
+          "engines": [
+            {
+              "label": "36.8 kWh (83 Hp) (2019 - 2021)",
+              "hp": 83,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "seat-mii": {
+          "label": "Seat Mii",
+          "engines": [
+            {
+              "label": "1.0 12V (75 Hp) Ecomotive (2011 - 2019)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 12V (75 Hp) Auto (2011 - 2018)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 12V (75 Hp) (2011 - 2019)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 12V (60 Hp) Ecomotive (2011 - 2018)",
+              "hp": 60,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 12V (60 Hp) Auto (2011 - 2018)",
+              "hp": 60,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 12V (60 Hp) (2011 - 2019)",
+              "hp": 60,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "seat-ronda": {
+      "label": "Seat Ronda",
+      "series": {
+        "seat-ronda-022a": {
+          "label": "Seat Ronda (022A)",
+          "engines": [
+            {
+              "label": "1.7 Diesel (56 Hp) (1983 - 1985)",
+              "hp": 56,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.7 Diesel (54 Hp) (1982 - 1986)",
+              "hp": 54,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 (95 Hp) (1983 - 1985)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 (85 Hp) (1984 - 1986)",
+              "hp": 85,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 (73 Hp) (1982 - 1986)",
+              "hp": 73,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 (64 Hp) (1983 - 1985)",
+              "hp": 64,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 (60 Hp) (1984 - 1986)",
+              "hp": 60,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "seat-tarraco": {
+      "label": "Seat Tarraco",
+      "series": {
+        "seat-tarraco": {
+          "label": "Seat Tarraco",
+          "engines": [
+            {
+              "label": "2.0 TSI (245 Hp) 4Drive DSG 7 Seat (2021 - 2023)",
+              "hp": 245,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TSI (190 Hp) 4Drive DSG 7 Seat (2019 - 2020)",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TSI (190 Hp) 4Drive DSG (2019 - 2020)",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TDI (200 Hp) 4Drive DSG 7 Seat (2020 - 2023)",
+              "hp": 200,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (200 Hp) 4Drive DSG (2020 - 2023)",
+              "hp": 200,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (190 Hp) 4Drive DSG 7 Seat (2018 - 2020)",
+              "hp": 190,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (190 Hp) 4Drive DSG (2018 - 2020)",
+              "hp": 190,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) DSG 7 Seat (2020 - 2024)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) DSG (2020 - 2024)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) 7 Seat (2020 - 2024)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) 4Drive DSG 7 Seat (2019 - 2020)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) 4Drive DSG (2019 - 2020)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) (2020 - 2024)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 TSI (150 Hp) ACT DSG 7 Seat (2019 - 2020)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 TSI (150 Hp) ACT DSG (2019 - 2020)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 TSI (150 Hp) ACT 7 Seat (2018 - 2020)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 TSI (150 Hp) ACT (2018 - 2020)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 EcoTSI EVO (150 Hp) ACT DSG 7 Seat (2020 - 2024)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 EcoTSI EVO (150 Hp) ACT DSG (2020 - 2024)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 EcoTSI EVO (150 Hp) ACT 7 Seat (2020 - 2024)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 EcoTSI EVO (150 Hp) ACT (2020 - 2024)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TSI (245 Hp) e-HYBRID DSG (2021 - 2024)",
+              "hp": 245,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.4 TSI (150 Hp) DSG 7 Seat (2019 - 2020)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TSI (150 Hp) DSG (2019 - 2020)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "seat-toledo": {
+      "label": "Seat Toledo",
+      "series": {
+        "seat-toledo--iv-nh": {
+          "label": "Seat Toledo  IV (NH)",
+          "engines": [
+            {
+              "label": "1.6 TDI (115 Hp) (2015 - 2018)",
+              "hp": 115,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI (105 Hp) start/stop (2012 - 2015)",
+              "hp": 105,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI (105 Hp) (2012 - 2015)",
+              "hp": 105,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI (90 Hp) DSG (2013 - 2015)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI (90 Hp) (2013 - 2015)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.4 TSI (125 Hp) Automatic (2015 - 2018)",
+              "hp": 125,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TSI (122 Hp) DSG (2012 - 2015)",
+              "hp": 122,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TDI (90 Hp) start/stop DSG (2015 - 2016)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.4 TDI (90 Hp) start/stop (2015 - 2016)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.2 TSI (110 Hp) (2015 - 2017)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TSI (105 Hp) start/stop (2012 - 2015)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TSI (90 Hp) (2015 - 2017)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TSI (85 Hp) (2012 - 2015)",
+              "hp": 85,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 (75 Hp) (2012 - 2015)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TSI (110 Hp) (2017 - 2018)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TSI (95 Hp) (2017 - 2018)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "seat-toledo--iii-5p": {
+          "label": "Seat Toledo  III (5P)",
+          "engines": [
+            {
+              "label": "2.0 TDI (170 Hp) DPF (2005 - 2009)",
+              "hp": 170,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (140 Hp) DSG (2004 - 2009)",
+              "hp": 140,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (140 Hp) (2004 - 2009)",
+              "hp": 140,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 FSI (150 Hp) Automatic (2004 - 2009)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 FSI (150 Hp) (2004 - 2009)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 TDI (105 Hp) DSG (2004 - 2009)",
+              "hp": 105,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.9 TDI (105 Hp) (2004 - 2009)",
+              "hp": 105,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.8 TSI (160 Hp) (2007 - 2009)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (102 Hp) (2004 - 2009)",
+              "hp": 102,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "seat-toledo-ii-1m2": {
+          "label": "Seat Toledo II (1M2)",
+          "engines": [
+            {
+              "label": "2.3 V5 (170 Hp) (2000 - 2003)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.3 V5 (150 Hp) (1998 - 2000)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 TDI (150 Hp) (2000 - 2004)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.9 TDI (110 Hp) (1999 - 2004)",
+              "hp": 110,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.9 TDI (90 Hp) (1999 - 2004)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.8 20VT (180 Hp) (2000 - 2004)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 20V (125 Hp) Automatic (1998 - 2003)",
+              "hp": 125,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 20V (125 Hp) (1998 - 2004)",
+              "hp": 125,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 16V (105 Hp) (2000 - 2004)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (100 Hp) (1998 - 2004)",
+              "hp": 100,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "seat-toledo-i-1l-facelift-1995": {
+          "label": "Seat Toledo I (1L, facelift 1995)",
+          "engines": [
+            {
+              "label": "1.9 TDI (110 Hp) (1996 - 1999)",
+              "hp": 110,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.9 TDI (90 Hp) Automatic (1995 - 1999)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.9 TDI (90 Hp) (1995 - 1999)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.8 20V (125 Hp) Automatic (1998 - 1999)",
+              "hp": 125,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 20V (125 Hp) (1998 - 1999)",
+              "hp": 125,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 MPi (100 Hp) (1996 - 1999)",
+              "hp": 100,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 i (101 Hp) Automatic (1996 - 1999)",
+              "hp": 101,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 i (101 Hp) (1996 - 1999)",
+              "hp": 101,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "seat-toledo-i-1l": {
+          "label": "Seat Toledo I (1L)",
+          "engines": [
+            {
+              "label": "2.0 i 16V (150 Hp) (1994 - 1995)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 i (115 Hp) Automatic (1991 - 1995)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 i (115 Hp) (1991 - 1995)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 TD (75 Hp) (1994 - 1995)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 D (68 Hp) (1991 - 1994)",
+              "hp": 68,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 D (64 Hp) (1994 - 1995)",
+              "hp": 64,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 i (90 Hp) (1993 - 1995)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 i (88 Hp) (1991 - 1993)",
+              "hp": 88,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 16V (133 Hp) (1991 - 1992)",
+              "hp": 133,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 16V (128 Hp) (1991 - 1994)",
+              "hp": 128,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 i (75 Hp) (1991 - 1995)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 i (71 Hp) (1991 - 1994)",
+              "hp": 71,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (72 Hp) (1991 - 1994)",
+              "hp": 72,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,47 @@
+[
+  {
+    "name": "3 Wheeler",
+    "description": "3 Wheeler",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MORGAN/model/3%20Wheeler"
+  },
+  {
+    "name": "4_4",
+    "description": "4/4",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MORGAN/model/4_4"
+  },
+  {
+    "name": "Aero 8",
+    "description": "Aero 8",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MORGAN/model/Aero%208"
+  },
+  {
+    "name": "Plus 4",
+    "description": "Plus 4",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MORGAN/model/Plus%204"
+  },
+  {
+    "name": "Plus 6",
+    "description": "Plus 6",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MORGAN/model/Plus%206"
+  },
+  {
+    "name": "Plus 8",
+    "description": "Plus 8",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MORGAN/model/Plus%208"
+  },
+  {
+    "name": "Roadster",
+    "description": "Roadster",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MORGAN/model/Roadster"
+  },
+  {
+    "name": "Supersport",
+    "description": "Supersport",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MORGAN/model/Supersport"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MORGAN/model/ANDERE"
+  }
+]

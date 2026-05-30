@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Crossblade",
+    "description": "Crossblade",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SMART/model/Crossblade"
+  },
+  {
+    "name": "FIVE",
+    "description": "#5",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SMART/model/FIVE"
+  },
+  {
+    "name": "ForFour",
+    "description": "ForFour",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SMART/model/ForFour"
+  },
+  {
+    "name": "ForTwo",
+    "description": "ForTwo",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SMART/model/ForTwo"
+  },
+  {
+    "name": "ONE",
+    "description": "#1",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SMART/model/ONE"
+  },
+  {
+    "name": "Roadster",
+    "description": "Roadster",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SMART/model/Roadster"
+  },
+  {
+    "name": "THREE",
+    "description": "#3",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SMART/model/THREE"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SMART/model/ANDERE"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "SLC 180",
+    "description": "SLC 180",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/SLC-Klasse/models/SLC%20180"
+  },
+  {
+    "name": "SLC 200",
+    "description": "SLC 200",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/SLC-Klasse/models/SLC%20200"
+  },
+  {
+    "name": "SLC 250",
+    "description": "SLC 250",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/SLC-Klasse/models/SLC%20250"
+  },
+  {
+    "name": "SLC 280",
+    "description": "SLC 280",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/SLC-Klasse/models/SLC%20280"
+  },
+  {
+    "name": "SLC 300",
+    "description": "SLC 300",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/SLC-Klasse/models/SLC%20300"
+  },
+  {
+    "name": "SLC 43 AMG",
+    "description": "SLC 43 AMG",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/SLC-Klasse/models/SLC%2043%20AMG"
+  }
+]

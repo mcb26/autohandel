@@ -1,0 +1,187 @@
+[
+  {
+    "label": "Golf 1.4 (Benzin, 75 PS)",
+    "fuel": "benzin",
+    "hp": 75
+  },
+  {
+    "label": "Golf 1.4 Aktion (Benzin, 75 PS)",
+    "fuel": "benzin",
+    "hp": 75
+  },
+  {
+    "label": "Golf 1.6 Automatik (Benzin, 100 PS)",
+    "fuel": "benzin",
+    "hp": 100
+  },
+  {
+    "label": "Golf 1.6 (Benzin, 100 PS)",
+    "fuel": "benzin",
+    "hp": 100
+  },
+  {
+    "label": "Golf 1.6 Aktion (Benzin, 100 PS)",
+    "fuel": "benzin",
+    "hp": 100
+  },
+  {
+    "label": "Golf 1.6 Automatik (Benzin, 102 PS)",
+    "fuel": "benzin",
+    "hp": 102
+  },
+  {
+    "label": "Golf 1.6 (Benzin, 105 PS)",
+    "fuel": "benzin",
+    "hp": 105
+  },
+  {
+    "label": "Golf 1.6 Aktion (Benzin, 105 PS)",
+    "fuel": "benzin",
+    "hp": 105
+  },
+  {
+    "label": "Golf 1.6 FSI (Benzin, 110 PS)",
+    "fuel": "benzin",
+    "hp": 110
+  },
+  {
+    "label": "Golf 2.0 (Benzin, 115 PS)",
+    "fuel": "benzin",
+    "hp": 115
+  },
+  {
+    "label": "Golf 2.0 4Motion (Benzin, 115 PS)",
+    "fuel": "benzin",
+    "hp": 115
+  },
+  {
+    "label": "Golf 2.0 Aktion (Benzin, 115 PS)",
+    "fuel": "benzin",
+    "hp": 115
+  },
+  {
+    "label": "Golf 1.8 4Motion (Benzin, 125 PS)",
+    "fuel": "benzin",
+    "hp": 125
+  },
+  {
+    "label": "Golf 1.8 (Benzin, 125 PS)",
+    "fuel": "benzin",
+    "hp": 125
+  },
+  {
+    "label": "Golf 1.8 Turbo (Benzin, 150 PS)",
+    "fuel": "benzin",
+    "hp": 150
+  },
+  {
+    "label": "Golf 2.3 V5 (Benzin, 150 PS)",
+    "fuel": "benzin",
+    "hp": 150
+  },
+  {
+    "label": "Golf 2.3 V5 4Motion (Benzin, 150 PS)",
+    "fuel": "benzin",
+    "hp": 150
+  },
+  {
+    "label": "Golf 2.3 V5 (Benzin, 170 PS)",
+    "fuel": "benzin",
+    "hp": 170
+  },
+  {
+    "label": "Golf 2.3 V5 4Motion (Benzin, 170 PS)",
+    "fuel": "benzin",
+    "hp": 170
+  },
+  {
+    "label": "Golf 1.8 5V Turbo (Benzin, 180 PS)",
+    "fuel": "benzin",
+    "hp": 180
+  },
+  {
+    "label": "Golf 1.8 5V (Benzin, 180 PS)",
+    "fuel": "benzin",
+    "hp": 180
+  },
+  {
+    "label": "Golf 2.8 V6 4Motion (Benzin, 204 PS)",
+    "fuel": "benzin",
+    "hp": 204
+  },
+  {
+    "label": "Golf 3.2 R32 4Motion DSG (Benzin, 241 PS)",
+    "fuel": "benzin",
+    "hp": 241
+  },
+  {
+    "label": "Golf 3.2 R32 4Motion (Benzin, 241 PS)",
+    "fuel": "benzin",
+    "hp": 241
+  },
+  {
+    "label": "Golf 1.9 SDI (Diesel, 68 PS)",
+    "fuel": "diesel",
+    "hp": 68
+  },
+  {
+    "label": "Golf 1.9 TDI (Diesel, 90 PS)",
+    "fuel": "diesel",
+    "hp": 90
+  },
+  {
+    "label": "Golf 1.9 TDI 4Motion (Diesel, 90 PS)",
+    "fuel": "diesel",
+    "hp": 90
+  },
+  {
+    "label": "Golf 1.9 TDI Automatik (Diesel, 100 PS)",
+    "fuel": "diesel",
+    "hp": 100
+  },
+  {
+    "label": "Golf 1.9 TDI (Diesel, 100 PS)",
+    "fuel": "diesel",
+    "hp": 100
+  },
+  {
+    "label": "Golf 1.9 TDI 4Motion (Diesel, 100 PS)",
+    "fuel": "diesel",
+    "hp": 100
+  },
+  {
+    "label": "Golf 1.9 TDI (Diesel, 110 PS)",
+    "fuel": "diesel",
+    "hp": 110
+  },
+  {
+    "label": "Golf 1.9 TDI (Diesel, 115 PS)",
+    "fuel": "diesel",
+    "hp": 115
+  },
+  {
+    "label": "Golf 1.9 TDI 4Motion (Diesel, 115 PS)",
+    "fuel": "diesel",
+    "hp": 115
+  },
+  {
+    "label": "Golf 1.9 TDI (Diesel, 130 PS)",
+    "fuel": "diesel",
+    "hp": 130
+  },
+  {
+    "label": "Golf 1.9 TDI 4Motion (Diesel, 130 PS)",
+    "fuel": "diesel",
+    "hp": 130
+  },
+  {
+    "label": "Golf 1.9 TDI (Diesel, 150 PS)",
+    "fuel": "diesel",
+    "hp": 150
+  },
+  {
+    "label": "Golf 1.9 TDI 4Motion (Diesel, 150 PS)",
+    "fuel": "diesel",
+    "hp": 150
+  }
+]

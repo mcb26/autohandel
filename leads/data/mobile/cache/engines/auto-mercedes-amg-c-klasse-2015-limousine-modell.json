@@ -1,0 +1,42 @@
+[
+  {
+    "label": "AMG C 43 4Matic 9G-TRONIC (Benzin, 367 PS)",
+    "fuel": "benzin",
+    "hp": 367
+  },
+  {
+    "label": "C 450 AMG 4Matic 7G-TRONIC (Benzin, 367 PS)",
+    "fuel": "benzin",
+    "hp": 367
+  },
+  {
+    "label": "AMG C 43 4Matic 9G-TRONIC (Benzin, 390 PS)",
+    "fuel": "benzin",
+    "hp": 390
+  },
+  {
+    "label": "AMG C 43 4Matic AMG TCT 9G (Benzin, 390 PS)",
+    "fuel": "benzin",
+    "hp": 390
+  },
+  {
+    "label": "AMG C 63 AMG Speedshift 7G-MCT (Benzin, 476 PS)",
+    "fuel": "benzin",
+    "hp": 476
+  },
+  {
+    "label": "AMG C 63 AMG Speedshift MCT 9G (Benzin, 476 PS)",
+    "fuel": "benzin",
+    "hp": 476
+  },
+  {
+    "label": "AMG C 63 S AMG Speedshift 7G-MCT (Benzin, 510 PS)",
+    "fuel": "benzin",
+    "hp": 510
+  },
+  {
+    "label": "AMG C 63 S AMG Speedshift MCT 9G (Benzin, 510 PS)",
+    "fuel": "benzin",
+    "hp": 510
+  }
+]

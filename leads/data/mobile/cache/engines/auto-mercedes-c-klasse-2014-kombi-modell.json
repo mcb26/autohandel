@@ -1,0 +1,312 @@
+[
+  {
+    "label": "C 160 T 9G-TRONIC (Benzin, 129 PS)",
+    "fuel": "benzin",
+    "hp": 129
+  },
+  {
+    "label": "C 160 T (Benzin, 129 PS)",
+    "fuel": "benzin",
+    "hp": 129
+  },
+  {
+    "label": "C 180 T 9G-TRONIC (Benzin, 156 PS)",
+    "fuel": "benzin",
+    "hp": 156
+  },
+  {
+    "label": "C 180 T 7G-TRONIC (Benzin, 156 PS)",
+    "fuel": "benzin",
+    "hp": 156
+  },
+  {
+    "label": "C 180 T (Benzin, 156 PS)",
+    "fuel": "benzin",
+    "hp": 156
+  },
+  {
+    "label": "C 200 T 4Matic 9G-TRONIC (Benzin, 184 PS)",
+    "fuel": "benzin",
+    "hp": 184
+  },
+  {
+    "label": "C 200 T 9G-TRONIC (Benzin, 184 PS)",
+    "fuel": "benzin",
+    "hp": 184
+  },
+  {
+    "label": "C 200 T 7G-TRONIC (Benzin, 184 PS)",
+    "fuel": "benzin",
+    "hp": 184
+  },
+  {
+    "label": "C 200 T 4Matic 7G-TRONIC (Benzin, 184 PS)",
+    "fuel": "benzin",
+    "hp": 184
+  },
+  {
+    "label": "C 200 T (Benzin, 184 PS)",
+    "fuel": "benzin",
+    "hp": 184
+  },
+  {
+    "label": "C 250 T 7G-TRONIC (Benzin, 211 PS)",
+    "fuel": "benzin",
+    "hp": 211
+  },
+  {
+    "label": "C 250 T 9G-TRONIC (Benzin, 211 PS)",
+    "fuel": "benzin",
+    "hp": 211
+  },
+  {
+    "label": "C 300 T 9G-TRONIC (Benzin, 245 PS)",
+    "fuel": "benzin",
+    "hp": 245
+  },
+  {
+    "label": "C 300 T 7G-TRONIC (Benzin, 245 PS)",
+    "fuel": "benzin",
+    "hp": 245
+  },
+  {
+    "label": "C 300 T 9G-TRONIC (Benzin, 258 PS)",
+    "fuel": "benzin",
+    "hp": 258
+  },
+  {
+    "label": "C 300 T 4Matic 9G-TRONIC (Benzin, 258 PS)",
+    "fuel": "benzin",
+    "hp": 258
+  },
+  {
+    "label": "C 400 4Matic T 9G-TRONIC (Benzin, 333 PS)",
+    "fuel": "benzin",
+    "hp": 333
+  },
+  {
+    "label": "C 400 4Matic T 7G-TRONIC (Benzin, 333 PS)",
+    "fuel": "benzin",
+    "hp": 333
+  },
+  {
+    "label": "AMG C 43 4Matic T 9G-TRONIC (Benzin, 367 PS)",
+    "fuel": "benzin",
+    "hp": 367
+  },
+  {
+    "label": "C 450 AMG 4Matic T 7G-TRONIC (Benzin, 367 PS)",
+    "fuel": "benzin",
+    "hp": 367
+  },
+  {
+    "label": "AMG C 43 4Matic T 9G-TRONIC (Benzin, 390 PS)",
+    "fuel": "benzin",
+    "hp": 390
+  },
+  {
+    "label": "AMG C 43 4Matic T AMG TCT 9G (Benzin, 390 PS)",
+    "fuel": "benzin",
+    "hp": 390
+  },
+  {
+    "label": "AMG C 63 T AMG Speedshift 7G-MCT (Benzin, 476 PS)",
+    "fuel": "benzin",
+    "hp": 476
+  },
+  {
+    "label": "AMG C 63 T AMG Speedshift MCT 9G (Benzin, 476 PS)",
+    "fuel": "benzin",
+    "hp": 476
+  },
+  {
+    "label": "AMG C 63 S T AMG Speedshift 7G-MCT (Benzin, 510 PS)",
+    "fuel": "benzin",
+    "hp": 510
+  },
+  {
+    "label": "AMG C 63 S T AMG Speedshift MCT 9G (Benzin, 510 PS)",
+    "fuel": "benzin",
+    "hp": 510
+  },
+  {
+    "label": "C 350 e T 7G-TRONIC (Benzin/Elektro-PlugIn, 211 PS)",
+    "fuel": "benzin/elektro-plugin",
+    "hp": 211
+  },
+  {
+    "label": "C 300 e T 9G-TRONIC (Benzin/Elektro-PlugIn, 211 PS)",
+    "fuel": "benzin/elektro-plugin",
+    "hp": 211
+  },
+  {
+    "label": "C 180 (BlueTEC) d T 7G-TRONIC (Diesel, 116 PS)",
+    "fuel": "bluetec) d t 7g-tronic (diesel",
+    "hp": 116
+  },
+  {
+    "label": "C 180 BlueTEC T 7G-TRONIC (Diesel, 116 PS)",
+    "fuel": "diesel",
+    "hp": 116
+  },
+  {
+    "label": "C 180 d T 7G-TRONIC (Diesel, 116 PS)",
+    "fuel": "diesel",
+    "hp": 116
+  },
+  {
+    "label": "C 180 (BlueTEC) d T (Diesel, 116 PS)",
+    "fuel": "bluetec) d t (diesel",
+    "hp": 116
+  },
+  {
+    "label": "C 180 d T 9G-TRONIC (Diesel, 122 PS)",
+    "fuel": "diesel",
+    "hp": 122
+  },
+  {
+    "label": "C 180 d T (Diesel, 122 PS)",
+    "fuel": "diesel",
+    "hp": 122
+  },
+  {
+    "label": "C 200 d T 9G-TRONIC (Diesel, 136 PS)",
+    "fuel": "diesel",
+    "hp": 136
+  },
+  {
+    "label": "C 200 (BlueTEC) d T 7G-TRONIC (Diesel, 136 PS)",
+    "fuel": "bluetec) d t 7g-tronic (diesel",
+    "hp": 136
+  },
+  {
+    "label": "C 200 d T 7G-TRONIC (Diesel, 136 PS)",
+    "fuel": "diesel",
+    "hp": 136
+  },
+  {
+    "label": "C 200 BlueTEC T 7G-TRONIC (Diesel, 136 PS)",
+    "fuel": "diesel",
+    "hp": 136
+  },
+  {
+    "label": "C 200 (BlueTEC) d T (Diesel, 136 PS)",
+    "fuel": "bluetec) d t (diesel",
+    "hp": 136
+  },
+  {
+    "label": "C 200 d T 9G-TRONIC (Diesel, 150 PS)",
+    "fuel": "diesel",
+    "hp": 150
+  },
+  {
+    "label": "C 200 d T 9G-TRONIC (Diesel, 160 PS)",
+    "fuel": "diesel",
+    "hp": 160
+  },
+  {
+    "label": "C 200 d T (Diesel, 160 PS)",
+    "fuel": "diesel",
+    "hp": 160
+  },
+  {
+    "label": "C 220 d 4Matic T 9G-TRONIC (Diesel, 170 PS)",
+    "fuel": "diesel",
+    "hp": 170
+  },
+  {
+    "label": "C 220 (BlueTEC) d T 7G-TRONIC (Diesel, 170 PS)",
+    "fuel": "bluetec) d t 7g-tronic (diesel",
+    "hp": 170
+  },
+  {
+    "label": "C 220 d 4Matic T 7G-TRONIC (Diesel, 170 PS)",
+    "fuel": "diesel",
+    "hp": 170
+  },
+  {
+    "label": "C 220 d T 9G-TRONIC (Diesel, 170 PS)",
+    "fuel": "diesel",
+    "hp": 170
+  },
+  {
+    "label": "C 220 BlueTEC T 7G-TRONIC (Diesel, 170 PS)",
+    "fuel": "diesel",
+    "hp": 170
+  },
+  {
+    "label": "C 220 (BlueTEC) d T (Diesel, 170 PS)",
+    "fuel": "bluetec) d t (diesel",
+    "hp": 170
+  },
+  {
+    "label": "C 220 d 4Matic T 9G-TRONIC (Diesel, 194 PS)",
+    "fuel": "diesel",
+    "hp": 194
+  },
+  {
+    "label": "C 220 d T 9G-TRONIC (Diesel, 194 PS)",
+    "fuel": "diesel",
+    "hp": 194
+  },
+  {
+    "label": "C 250 d 4Matic T 9G-TRONIC (Diesel, 204 PS)",
+    "fuel": "diesel",
+    "hp": 204
+  },
+  {
+    "label": "C 250 d T 9G-TRONIC (Diesel, 204 PS)",
+    "fuel": "diesel",
+    "hp": 204
+  },
+  {
+    "label": "C 250 (BlueTEC) d 4Matic T 7G-TRONIC (Diesel, 204 PS)",
+    "fuel": "bluetec) d 4matic t 7g-tronic (diesel",
+    "hp": 204
+  },
+  {
+    "label": "C 250 (BlueTEC) d T 7G-TRONIC (Diesel, 204 PS)",
+    "fuel": "bluetec) d t 7g-tronic (diesel",
+    "hp": 204
+  },
+  {
+    "label": "C 250 BlueTEC 4Matic T 7G-TRONIC (Diesel, 204 PS)",
+    "fuel": "diesel",
+    "hp": 204
+  },
+  {
+    "label": "C 250 BlueTEC T 7G-TRONIC (Diesel, 204 PS)",
+    "fuel": "diesel",
+    "hp": 204
+  },
+  {
+    "label": "C 300 d T 4Matic 9G-TRONIC (Diesel, 245 PS)",
+    "fuel": "diesel",
+    "hp": 245
+  },
+  {
+    "label": "C 300 d T 9G-TRONIC (Diesel, 245 PS)",
+    "fuel": "diesel",
+    "hp": 245
+  },
+  {
+    "label": "C 300 (BlueTEC Hybrid) h T 7G-TRONIC (Diesel/Elektro, 204 PS)",
+    "fuel": "bluetec hybrid) h t 7g-tronic (diesel/elektro",
+    "hp": 204
+  },
+  {
+    "label": "C 300 BlueTEC Hybrid T 7G-TRONIC (Diesel/Elektro, 204 PS)",
+    "fuel": "diesel/elektro",
+    "hp": 204
+  },
+  {
+    "label": "C 300 h T 7G-TRONIC (Diesel/Elektro, 204 PS)",
+    "fuel": "diesel/elektro",
+    "hp": 204
+  },
+  {
+    "label": "C 300 de T 9G-TRONIC (Diesel/Elektro-PlugIn, 194 PS)",
+    "fuel": "diesel/elektro-plugin",
+    "hp": 194
+  }
+]

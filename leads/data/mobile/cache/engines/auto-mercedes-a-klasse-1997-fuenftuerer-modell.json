@@ -1,0 +1,67 @@
+[
+  {
+    "label": "A 140 (Benzin, 82 PS)",
+    "fuel": "benzin",
+    "hp": 82
+  },
+  {
+    "label": "A 140 L (Benzin, 82 PS)",
+    "fuel": "benzin",
+    "hp": 82
+  },
+  {
+    "label": "A 160 L (Benzin, 102 PS)",
+    "fuel": "benzin",
+    "hp": 102
+  },
+  {
+    "label": "A 160 (Benzin, 102 PS)",
+    "fuel": "benzin",
+    "hp": 102
+  },
+  {
+    "label": "A 190 (Benzin, 125 PS)",
+    "fuel": "benzin",
+    "hp": 125
+  },
+  {
+    "label": "A 190 L (Benzin, 125 PS)",
+    "fuel": "benzin",
+    "hp": 125
+  },
+  {
+    "label": "A 210 L (Benzin, 140 PS)",
+    "fuel": "benzin",
+    "hp": 140
+  },
+  {
+    "label": "A 210 (Benzin, 140 PS)",
+    "fuel": "benzin",
+    "hp": 140
+  },
+  {
+    "label": "A 160 CDI (Diesel, 60 PS)",
+    "fuel": "diesel",
+    "hp": 60
+  },
+  {
+    "label": "A 160 CDI (Diesel, 75 PS)",
+    "fuel": "diesel",
+    "hp": 75
+  },
+  {
+    "label": "A 170 CDI (Diesel, 90 PS)",
+    "fuel": "diesel",
+    "hp": 90
+  },
+  {
+    "label": "A 170 CDI L (Diesel, 95 PS)",
+    "fuel": "diesel",
+    "hp": 95
+  },
+  {
+    "label": "A 170 CDI (Diesel, 95 PS)",
+    "fuel": "diesel",
+    "hp": 95
+  }
+]

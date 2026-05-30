@@ -1,0 +1,87 @@
+[
+  {
+    "label": "E 200 T (Benzin, 136 PS)",
+    "fuel": "benzin",
+    "hp": 136
+  },
+  {
+    "label": "E 230 T (Benzin, 150 PS)",
+    "fuel": "benzin",
+    "hp": 150
+  },
+  {
+    "label": "E 200 T Kompressor (Benzin, 163 PS)",
+    "fuel": "benzin",
+    "hp": 163
+  },
+  {
+    "label": "E 240 T (Benzin, 170 PS)",
+    "fuel": "benzin",
+    "hp": 170
+  },
+  {
+    "label": "E 280 T (Benzin, 204 PS)",
+    "fuel": "benzin",
+    "hp": 204
+  },
+  {
+    "label": "E 280 T 4-Matic (Benzin, 204 PS)",
+    "fuel": "benzin",
+    "hp": 204
+  },
+  {
+    "label": "E 320 T (Benzin, 224 PS)",
+    "fuel": "benzin",
+    "hp": 224
+  },
+  {
+    "label": "E 320 T 4-Matic (Benzin, 224 PS)",
+    "fuel": "benzin",
+    "hp": 224
+  },
+  {
+    "label": "E 430 T (Benzin, 279 PS)",
+    "fuel": "benzin",
+    "hp": 279
+  },
+  {
+    "label": "E 420 T (Benzin, 279 PS)",
+    "fuel": "benzin",
+    "hp": 279
+  },
+  {
+    "label": "E 55 T (Benzin, 354 PS)",
+    "fuel": "benzin",
+    "hp": 354
+  },
+  {
+    "label": "E 220 T CDI (Diesel, 125 PS)",
+    "fuel": "diesel",
+    "hp": 125
+  },
+  {
+    "label": "E 290 T TD (Diesel, 129 PS)",
+    "fuel": "diesel",
+    "hp": 129
+  },
+  {
+    "label": "E 220 T CDI (Diesel, 143 PS)",
+    "fuel": "diesel",
+    "hp": 143
+  },
+  {
+    "label": "E 270 T CDI (Diesel, 170 PS)",
+    "fuel": "diesel",
+    "hp": 170
+  },
+  {
+    "label": "E 300 T TD (Diesel, 177 PS)",
+    "fuel": "diesel",
+    "hp": 177
+  },
+  {
+    "label": "E 320 T CDI (Diesel, 197 PS)",
+    "fuel": "diesel",
+    "hp": 197
+  }
+]

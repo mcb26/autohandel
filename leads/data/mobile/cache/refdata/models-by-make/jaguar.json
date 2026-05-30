@@ -1,0 +1,117 @@
+[
+  {
+    "name": "Daimler",
+    "description": "Daimler",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/JAGUAR/model/Daimler"
+  },
+  {
+    "name": "E-Pace",
+    "description": "E-Pace",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/JAGUAR/model/E-Pace"
+  },
+  {
+    "name": "E-Type",
+    "description": "E-Type",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/JAGUAR/model/E-Type"
+  },
+  {
+    "name": "F-Pace",
+    "description": "F-Pace",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/JAGUAR/model/F-Pace"
+  },
+  {
+    "name": "F-Type",
+    "description": "F-Type",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/JAGUAR/model/F-Type"
+  },
+  {
+    "name": "I-Pace",
+    "description": "I-Pace",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/JAGUAR/model/I-Pace"
+  },
+  {
+    "name": "MK II",
+    "description": "MK II",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/JAGUAR/model/MK%20II"
+  },
+  {
+    "name": "S-Type",
+    "description": "S-Type",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/JAGUAR/model/S-Type"
+  },
+  {
+    "name": "X-Type",
+    "description": "X-Type",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/JAGUAR/model/X-Type"
+  },
+  {
+    "name": "XE",
+    "description": "XE",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/JAGUAR/model/XE"
+  },
+  {
+    "name": "XF",
+    "description": "XF",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/JAGUAR/model/XF"
+  },
+  {
+    "name": "XJ",
+    "description": "XJ",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/JAGUAR/model/XJ"
+  },
+  {
+    "name": "XJ12",
+    "description": "XJ12",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/JAGUAR/model/XJ12"
+  },
+  {
+    "name": "XJ40",
+    "description": "XJ40",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/JAGUAR/model/XJ40"
+  },
+  {
+    "name": "XJ6",
+    "description": "XJ6",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/JAGUAR/model/XJ6"
+  },
+  {
+    "name": "XJ8",
+    "description": "XJ8",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/JAGUAR/model/XJ8"
+  },
+  {
+    "name": "XJR",
+    "description": "XJR",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/JAGUAR/model/XJR"
+  },
+  {
+    "name": "XJS",
+    "description": "XJS",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/JAGUAR/model/XJS"
+  },
+  {
+    "name": "XJSC",
+    "description": "XJSC",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/JAGUAR/model/XJSC"
+  },
+  {
+    "name": "XK",
+    "description": "XK",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/JAGUAR/model/XK"
+  },
+  {
+    "name": "XK8",
+    "description": "XK8",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/JAGUAR/model/XK8"
+  },
+  {
+    "name": "XKR",
+    "description": "XKR",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/JAGUAR/model/XKR"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/JAGUAR/model/ANDERE"
+  }
+]

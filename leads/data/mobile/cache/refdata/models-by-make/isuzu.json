@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Campo",
+    "description": "Campo",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ISUZU/model/Campo"
+  },
+  {
+    "name": "D-Max",
+    "description": "D-Max",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ISUZU/model/D-Max"
+  },
+  {
+    "name": "Gemini",
+    "description": "Gemini",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ISUZU/model/Gemini"
+  },
+  {
+    "name": "Midi",
+    "description": "Midi",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ISUZU/model/Midi"
+  },
+  {
+    "name": "PICK UP",
+    "description": "PICK UP",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ISUZU/model/PICK%20UP"
+  },
+  {
+    "name": "Trooper",
+    "description": "Trooper",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ISUZU/model/Trooper"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ISUZU/model/ANDERE"
+  }
+]

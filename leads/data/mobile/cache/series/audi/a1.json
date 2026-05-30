@@ -1,0 +1,16 @@
+[
+  {
+    "label": "Limousine Audi A1/S1 Sportback (8X) 2011 – 2018",
+    "href": "https://www.mobile.de/auto/audi/a1-sportback/2010/schraegheck/modell/",
+    "modell_url": "https://www.mobile.de/auto/audi/a1-sportback/2010/schraegheck/modell/",
+    "model_slug": "a1",
+    "brand_slug": "audi"
+  },
+  {
+    "label": "Limousine Audi A1/S1 (8X) 2010 – 2018",
+    "href": "https://www.mobile.de/auto/audi/a1/2010/schraegheck/modell/",
+    "modell_url": "https://www.mobile.de/auto/audi/a1/2010/schraegheck/modell/",
+    "model_slug": "a1",
+    "brand_slug": "audi"
+  }
+]

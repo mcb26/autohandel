@@ -1,0 +1,22 @@
+[
+  {
+    "name": "COOPER_ROADSTER",
+    "description": "Cooper Roadster",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/modelgroups/ROADSTER_SERIES_ALL/models/COOPER_ROADSTER"
+  },
+  {
+    "name": "COOPER_SD_ROADSTER",
+    "description": "Cooper SD Roadster",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/modelgroups/ROADSTER_SERIES_ALL/models/COOPER_SD_ROADSTER"
+  },
+  {
+    "name": "COOPER_S_ROADSTER",
+    "description": "Cooper S Roadster",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/modelgroups/ROADSTER_SERIES_ALL/models/COOPER_S_ROADSTER"
+  },
+  {
+    "name": "JOHN_COOPER_WORKS_ROADSTER",
+    "description": "John Cooper Works Roadster",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/modelgroups/ROADSTER_SERIES_ALL/models/JOHN_COOPER_WORKS_ROADSTER"
+  }
+]

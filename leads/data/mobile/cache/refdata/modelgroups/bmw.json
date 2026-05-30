@@ -1,0 +1,52 @@
+[
+  {
+    "name": "1__BMW_ER_SERIES",
+    "description": "1er Reihe",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BMW/modelgroups/1__BMW_ER_SERIES"
+  },
+  {
+    "name": "2__BMW_ER_SERIES",
+    "description": "2er Reihe",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BMW/modelgroups/2__BMW_ER_SERIES"
+  },
+  {
+    "name": "3__BMW_ER_SERIES",
+    "description": "3er Reihe",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BMW/modelgroups/3__BMW_ER_SERIES"
+  },
+  {
+    "name": "4__BMW_ER_SERIES",
+    "description": "4er Reihe",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BMW/modelgroups/4__BMW_ER_SERIES"
+  },
+  {
+    "name": "5__BMW_ER_SERIES",
+    "description": "5er Reihe",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BMW/modelgroups/5__BMW_ER_SERIES"
+  },
+  {
+    "name": "6__BMW_ER_SERIES",
+    "description": "6er Reihe",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BMW/modelgroups/6__BMW_ER_SERIES"
+  },
+  {
+    "name": "7__BMW_ER_SERIES",
+    "description": "7er Reihe",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BMW/modelgroups/7__BMW_ER_SERIES"
+  },
+  {
+    "name": "M__BMW_MODELS",
+    "description": "M-Modelle",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BMW/modelgroups/M__BMW_MODELS"
+  },
+  {
+    "name": "X__BMW_SERIES",
+    "description": "X-Reihe",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BMW/modelgroups/X__BMW_SERIES"
+  },
+  {
+    "name": "Z__BMW_SERIES",
+    "description": "Z-Reihe",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BMW/modelgroups/Z__BMW_SERIES"
+  }
+]

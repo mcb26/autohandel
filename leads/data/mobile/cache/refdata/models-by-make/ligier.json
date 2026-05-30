@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Ambra",
+    "description": "Ambra",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LIGIER/model/Ambra"
+  },
+  {
+    "name": "Be Sun",
+    "description": "Be Sun",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LIGIER/model/Be%20Sun"
+  },
+  {
+    "name": "JS 50",
+    "description": "JS 50",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LIGIER/model/JS%2050"
+  },
+  {
+    "name": "JS 50 L",
+    "description": "JS 50 L",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LIGIER/model/JS%2050%20L"
+  },
+  {
+    "name": "JS 60",
+    "description": "JS 60",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LIGIER/model/JS%2060"
+  },
+  {
+    "name": "JS RC",
+    "description": "JS RC",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LIGIER/model/JS%20RC"
+  },
+  {
+    "name": "Myli",
+    "description": "Myli",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LIGIER/model/Myli"
+  },
+  {
+    "name": "Nova",
+    "description": "Nova",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LIGIER/model/Nova"
+  },
+  {
+    "name": "Optima",
+    "description": "Optima",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LIGIER/model/Optima"
+  },
+  {
+    "name": "X - Too",
+    "description": "X - Too",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LIGIER/model/X%20-%20Too"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LIGIER/model/ANDERE"
+  }
+]

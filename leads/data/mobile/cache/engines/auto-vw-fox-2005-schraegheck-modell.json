@@ -1,0 +1,32 @@
+[
+  {
+    "label": "Motorisierungsvariante Technische Daten und Motorisierung Fox 1.2 (Benzin, 55 PS) Fox 1.2 (Benzin, 60 PS) Fox 1.4 (Benzin, 75 PS) Fox 1.4 TDI (Diesel, 70 PS)",
+    "fuel": "diesel",
+    "hp": 70
+  },
+  {
+    "label": "Fox 1.2 (Benzin, 55 PS) Fox 1.2 (Benzin, 60 PS) Fox 1.4 (Benzin, 75 PS) Fox 1.4 TDI (Diesel, 70 PS)",
+    "fuel": "diesel",
+    "hp": 70
+  },
+  {
+    "label": "Fox 1.2 (Benzin, 55 PS)",
+    "fuel": "benzin",
+    "hp": 55
+  },
+  {
+    "label": "Fox 1.2 (Benzin, 60 PS)",
+    "fuel": "benzin",
+    "hp": 60
+  },
+  {
+    "label": "Fox 1.4 (Benzin, 75 PS)",
+    "fuel": "benzin",
+    "hp": 75
+  },
+  {
+    "label": "Fox 1.4 TDI (Diesel, 70 PS)",
+    "fuel": "diesel",
+    "hp": 70
+  }
+]

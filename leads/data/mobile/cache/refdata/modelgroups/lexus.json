@@ -1,0 +1,47 @@
+[
+  {
+    "name": "ES__LEXUS_SERIES",
+    "description": "ES-Serie",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LEXUS/modelgroups/ES__LEXUS_SERIES"
+  },
+  {
+    "name": "GS__LEXUS_SERIES",
+    "description": "GS-Serie",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LEXUS/modelgroups/GS__LEXUS_SERIES"
+  },
+  {
+    "name": "GX Series",
+    "description": "GX Series",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LEXUS/modelgroups/GX%20Series"
+  },
+  {
+    "name": "IS__LEXUS_SERIES",
+    "description": "IS-Serie",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LEXUS/modelgroups/IS__LEXUS_SERIES"
+  },
+  {
+    "name": "LS__LEXUS_SERIES",
+    "description": "LS-Serie",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LEXUS/modelgroups/LS__LEXUS_SERIES"
+  },
+  {
+    "name": "LX__LEXUS_SERIES",
+    "description": "LX-Serie",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LEXUS/modelgroups/LX__LEXUS_SERIES"
+  },
+  {
+    "name": "NX__LEXUS_SERIES",
+    "description": "NX-Serie",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LEXUS/modelgroups/NX__LEXUS_SERIES"
+  },
+  {
+    "name": "RC__LEXUS_SERIES",
+    "description": "RC-Serie",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LEXUS/modelgroups/RC__LEXUS_SERIES"
+  },
+  {
+    "name": "RX__LEXUS_SERIES",
+    "description": "RX-Serie",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LEXUS/modelgroups/RX__LEXUS_SERIES"
+  }
+]

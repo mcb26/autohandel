@@ -1,0 +1,32 @@
+[
+  {
+    "name": "1",
+    "description": "1",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/POLESTAR/model/1"
+  },
+  {
+    "name": "2",
+    "description": "2",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/POLESTAR/model/2"
+  },
+  {
+    "name": "3",
+    "description": "3",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/POLESTAR/model/3"
+  },
+  {
+    "name": "4",
+    "description": "4",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/POLESTAR/model/4"
+  },
+  {
+    "name": "5",
+    "description": "5",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/POLESTAR/model/5"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/POLESTAR/model/ANDERE"
+  }
+]

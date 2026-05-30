@@ -1,0 +1,2558 @@
+{
+  "label": "Land Rover",
+  "models": {
+    "defender": {
+      "label": "Defender",
+      "series": {
+        "land-rover-defender-130-l663": {
+          "label": "Land Rover Defender 130 (L663)",
+          "engines": [
+            {
+              "label": "5.0 V8 P500 (500 Hp) AWD Automatic",
+              "hp": 500,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.0 V8 P425 (426 Hp) AWD Automatic",
+              "hp": 426,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 P400 (400 Hp) Mild Hybrid AWD Automatic (2022 - 2024)",
+              "hp": 400,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "3.0 P300 (300 Hp) AWD Automatic",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 D300 (300 Hp) Mild Hybrid AWD Automatic",
+              "hp": 300,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "3.0 D300 (300 Hp) AWD Automatic",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 D250 (249 Hp) Mild Hybrid AWD Automatic",
+              "hp": 249,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "3.0 D250 (249 Hp) AWD Automatic",
+              "hp": 249,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "land-rover-defender-90-l663": {
+          "label": "Land Rover Defender 90 (L663)",
+          "engines": [
+            {
+              "label": "Hard Top 3.0 D200 (200 Hp) Mild Hybrid AWD Automatic",
+              "hp": 200,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "5.0 V8 P525 (525 Hp) AWD Automatic",
+              "hp": 525,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.0 V8 P425 (426 Hp) AWD Automatic",
+              "hp": 426,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 P400 (400 Hp) Mild Hybrid AWD Automatic 6 Seat (2020 - 2024)",
+              "hp": 400,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "3.0 P400 (400 Hp) Mild Hybrid AWD Automatic (2020 - 2024)",
+              "hp": 400,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "3.0 D300 (299 Hp) Mild Hybrid AWD Automatic 6 Seat",
+              "hp": 299,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "3.0 D300 (299 Hp) Mild Hybrid AWD Automatic",
+              "hp": 299,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "3.0 D250 (249 Hp) Mild Hybrid AWD Automatic 6 Seat",
+              "hp": 249,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "3.0 D250 (249 Hp) Mild Hybrid AWD Automatic",
+              "hp": 249,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "3.0 D200 (200 Hp) Mild Hybrid AWD Automatic 6 Seat",
+              "hp": 200,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "3.0 D200 (200 Hp) Mild Hybrid AWD Automatic",
+              "hp": 200,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "2.0 P300 (300 Hp) AWD Automatic 6 Seat (2020 - 2021)",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 P300 (300 Hp) AWD Automatic (2020 - 2021)",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 D240 (240 Hp) AWD Automatic 6 Seat (2020 - 2020)",
+              "hp": 240,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 D240 (240 Hp) AWD Automatic (2020 - 2020)",
+              "hp": 240,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 D200 (200 Hp) AWD Automatic 6 Seat (2020 - 2020)",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 D200 (200 Hp) AWD Automatic (2020 - 2020)",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "land-rover-defender-110-l663": {
+          "label": "Land Rover Defender 110 (L663)",
+          "engines": [
+            {
+              "label": "Octa 4.4 V8 P635 (635 Hp) Mild Hybrid AWD Automatic",
+              "hp": 635,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Hard Top 3.0 D300 (299 Hp) Mild Hybrid AWD Automatic",
+              "hp": 299,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Hard Top 3.0 D250 (249 Hp) Mild Hybrid AWD Automatic",
+              "hp": 249,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "5.0 V8 P525 (525 Hp) AWD Automatic",
+              "hp": 525,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.0 V8 P425 (426 Hp) AWD Automatic",
+              "hp": 426,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 P400 (400 Hp) Mild Hybrid AWD Automatic 5+2 Seating (2019 - 2024)",
+              "hp": 400,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "3.0 P400 (400 Hp) Mild Hybrid AWD Automatic (2019 - 2024)",
+              "hp": 400,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "3.0 D300 (299 Hp) Mild Hybrid AWD Automatic 6 Seat",
+              "hp": 299,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "3.0 D300 (299 Hp) Mild Hybrid AWD Automatic 5+2 Seating",
+              "hp": 299,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "3.0 D300 (299 Hp) Mild Hybrid AWD Automatic",
+              "hp": 299,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "3.0 D250 (249 Hp) Mild Hybrid AWD Automatic 6 Seat",
+              "hp": 249,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "3.0 D250 (249 Hp) Mild Hybrid AWD Automatic 5+2 Seating",
+              "hp": 249,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "3.0 D250 (249 Hp) Mild Hybrid AWD Automatic",
+              "hp": 249,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "3.0 D200 (200 Hp) Mild Hybrid AWD Automatic 6 Seat",
+              "hp": 200,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "3.0 D200 (200 Hp) Mild Hybrid AWD Automatic 5+2 Seating",
+              "hp": 200,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "3.0 D200 (200 Hp) Mild Hybrid AWD Automatic",
+              "hp": 200,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "2.0 P400e (404 Hp) Plug-in Hybrid AWD Automatic 6 Seat (2020 - 2024)",
+              "hp": 404,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "2.0 P400e (404 Hp) Plug-in Hybrid AWD Automatic (2020 - 2024)",
+              "hp": 404,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "2.0 P300 (300 Hp) AWD Automatic 5+2 Seating (2019 - 2021)",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 P300 (300 Hp) AWD Automatic (2019 - 2021)",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 P300e (300 Hp) Plug-in Hybrid AWD Automatic",
+              "hp": 300,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "2.0 D240 (240 Hp) AWD Automatic 5+2 Seating (2019 - 2020)",
+              "hp": 240,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 D240 (240 Hp) AWD Automatic (2019 - 2020)",
+              "hp": 240,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 D200 (200 Hp) AWD Automatic 5+2 Seating (2019 - 2020)",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 D200 (200 Hp) AWD Automatic (2019 - 2020)",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "land-rover-defender-90-works-v8": {
+          "label": "Land Rover Defender 90 Works V8",
+          "engines": [
+            {
+              "label": "5.0 V8 (405 Hp) AWD Automatic (2018 - 2019)",
+              "hp": 405,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "land-rover-defender-110": {
+          "label": "Land Rover Defender 110",
+          "engines": [
+            {
+              "label": "3.5 V8 (136 Hp) (1983 - 1990)",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.5 V8 (134 Hp) (1985 - 1990)",
+              "hp": 134,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 TD5 (122 Hp) (1999 - 2001)",
+              "hp": 122,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 TDi (113 Hp) (1995 - 1998)",
+              "hp": 113,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.5 TDi (107 Hp) (1990 - 1996)",
+              "hp": 107,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.5 TD (86 Hp) (1986 - 1990)",
+              "hp": 86,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 D (68 Hp) (1985 - 1990)",
+              "hp": 68,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 (83 Hp) (1985 - 1990)",
+              "hp": 83,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "land-rover-defender-130": {
+          "label": "Land Rover Defender 130",
+          "engines": [
+            {
+              "label": "2.5 TD5 (122 Hp) (1999 - 2001)",
+              "hp": 122,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 TDi (113 Hp) (1995 - 1998)",
+              "hp": 113,
+              "fuel": "diesel"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "land-rover-defender-90": {
+          "label": "Land Rover Defender 90",
+          "engines": [
+            {
+              "label": "4.0 i V8 (182 Hp) (1990 - 1993)",
+              "hp": 182,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.5 V8 (134 Hp) (1985 - 1998)",
+              "hp": 134,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 TD5 (122 Hp) (1998 - 2001)",
+              "hp": 122,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 TDi (113 Hp) (1996 - 1999)",
+              "hp": 113,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.5 TDi (107 Hp) (1990 - 1996)",
+              "hp": 107,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.5 D (68 Hp) (1984 - 1990)",
+              "hp": 68,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 (84 Hp) (1985 - 1990)",
+              "hp": 84,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 (83 Hp) (1985 - 1997)",
+              "hp": 83,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "discovery": {
+      "label": "Discovery",
+      "series": {
+        "land-rover-discovery-v-facelift-2020": {
+          "label": "Land Rover Discovery V (facelift 2020)",
+          "engines": [
+            {
+              "label": "3.0 P360 (360 Hp) Mild Hybrid AWD Automatic 7 Seat",
+              "hp": 360,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "3.0 P360 (360 Hp) Mild Hybrid AWD Automatic",
+              "hp": 360,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "3.0 D350 (350 Hp) Mild Hybrid AWD Automatic 7 Seat",
+              "hp": 350,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "3.0 D350 (350 Hp) Mild Hybrid AWD Automatic",
+              "hp": 350,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "3.0 D300 (300 Hp) Mild Hybrid AWD Automatic 7 Seat (2020 - 2024)",
+              "hp": 300,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "3.0 D300 (300 Hp) Mild Hybrid AWD Automatic (2020 - 2024)",
+              "hp": 300,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "3.0 D250 (249 Hp) Mild Hybrid AWD Automatic 7 Seat",
+              "hp": 249,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "3.0 D250 (249 Hp) Mild Hybrid AWD Automatic",
+              "hp": 249,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "2.0 P300 (300 Hp) AWD Automatic 7 Seat",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 P300 (300 Hp) AWD Automatic",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "land-rover-discovery-v": {
+          "label": "Land Rover Discovery V",
+          "engines": [
+            {
+              "label": "SVX 5.0 V8 (525 Hp) AWD Automatic 7 Seat (2017 - 2019)",
+              "hp": 525,
+              "fuel": "benzin"
+            },
+            {
+              "label": "SVX 5.0 V8 (525 Hp) AWD Automatic (2017 - 2019)",
+              "hp": 525,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 TD V6 (258 Hp) 4WD Automatic 7 Seat (2017 - 2018)",
+              "hp": 258,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 TD V6 (258 Hp) 4WD Automatic (2017 - 2018)",
+              "hp": 258,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 Si6 (340 Hp) 4WD Automatic 7 Seat (2017 - 2018)",
+              "hp": 340,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 Si6 (340 Hp) 4WD Automatic (2017 - 2018)",
+              "hp": 340,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 SD6 (306 Hp) 4WD Automatic 7 Seat (2019 - 2020)",
+              "hp": 306,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 SD6 (306 Hp) 4WD Automatic (2019 - 2020)",
+              "hp": 306,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TD4 (180 Hp) 4WD Automatic 7 Seat (2017 - 2018)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TD4 (180 Hp) 4WD Automatic (2017 - 2018)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Si4 (300 Hp) 4WD Automatic 7 Seat (2019 - 2020)",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Si4 (300 Hp) 4WD Automatic (2019 - 2020)",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 SD4 (240 Hp) 4WD Automatic 7 Seat (2019 - 2020)",
+              "hp": 240,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 SD4 (240 Hp) 4WD Automatic (2019 - 2020)",
+              "hp": 240,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "land-rover-discovery-iv-facelift-2013": {
+          "label": "Land Rover Discovery IV (facelift 2013)",
+          "engines": [
+            {
+              "label": "3.0 V6 (340 Hp) AWD Automatic (2013 - 2017)",
+              "hp": 340,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 SD V6 (256 Hp) AWD Automatic (2013 - 2017)",
+              "hp": 256,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "land-rover-discovery-iv": {
+          "label": "Land Rover Discovery IV",
+          "engines": [
+            {
+              "label": "5.0 V8 (375 Hp) AWD Automatic (2009 - 2013)",
+              "hp": 375,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.0 LR V8 (375 Hp) AWD Automatic (2011 - 2013)",
+              "hp": 375,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.0 LR V6 (216 Hp) AWD Automatic (2009 - 2013)",
+              "hp": 216,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 LR SD V6 (256 Hp) AWD Automatic (2011 - 2013)",
+              "hp": 256,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 LR TD V6 (245 Hp) AWD Automatic (2009 - 2013)",
+              "hp": 245,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 LR TD V6 (211 Hp) AWD Automatic (2011 - 2013)",
+              "hp": 211,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.7 LR TD V6 (190 Hp) AWD Automatic (2009 - 2013)",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.7 LR TD V6 (190 Hp) AWD (2009 - 2013)",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "land-rover-discovery-iii": {
+          "label": "Land Rover Discovery III",
+          "engines": [
+            {
+              "label": "4.4 i V8 32V (295 Hp) (2004 - 2009)",
+              "hp": 295,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.7 TDI (190 Hp) Automatic (2004 - 2009)",
+              "hp": 190,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.7 TDI (190 Hp) (2004 - 2009)",
+              "hp": 190,
+              "fuel": "diesel"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "land-rover-discovery-ii": {
+          "label": "Land Rover Discovery II",
+          "engines": [
+            {
+              "label": "4.0i V8 (185 Hp) Automatic (1998 - 2004)",
+              "hp": 185,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.0i V8 (185 Hp) (1998 - 2004)",
+              "hp": 185,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 TDi (136 Hp) Automatic (1998 - 2004)",
+              "hp": 136,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.5 TDi (136 Hp) (1998 - 2004)",
+              "hp": 136,
+              "fuel": "diesel"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "land-rover-discovery-i": {
+          "label": "Land Rover Discovery I",
+          "engines": [
+            {
+              "label": "3.9i V8 (182 Hp) Automatic (1994 - 1998)",
+              "hp": 182,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.9i V8 (182 Hp) (1994 - 1998)",
+              "hp": 182,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.5 i V8 (5 dr) (166 Hp) (1990 - 1998)",
+              "hp": 166,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.5 i V8 (3 dr) (166 Hp) (1989 - 1998)",
+              "hp": 166,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.5 i V8 (5 dr) (155 Hp) (1990 - 1998)",
+              "hp": 155,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.5 i V8 (3 dr) (155 Hp) (1989 - 1998)",
+              "hp": 155,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 TDi (5 dr) (113 Hp) (1990 - 1998)",
+              "hp": 113,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.5 TDi (3 dr) (113 Hp) (1989 - 1994)",
+              "hp": 113,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0i (134 Hp) 4WD Automatic (1995 - 1998)",
+              "hp": 134,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0i (134 Hp) 4WD (1995 - 1998)",
+              "hp": 134,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0i (111 Hp) 4WD Automatic (1995 - 1998)",
+              "hp": 111,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0i (111 Hp) 4WD (1995 - 1998)",
+              "hp": 111,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "discovery-sport": {
+      "label": "Discovery Sport",
+      "series": {
+        "land-rover-discovery-sport-facelift-2019": {
+          "label": "Land Rover Discovery Sport (facelift 2019)",
+          "engines": [
+            {
+              "label": "2.0 P290 (290 Hp) Mild Hybrid AWD Automatic 5+2 Seating",
+              "hp": 290,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "2.0 P290 (290 Hp) Mild Hybrid AWD Automatic",
+              "hp": 290,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "2.0 P250 (250 Hp) Mild Hybrid AWD Automatic 5+2 Seating",
+              "hp": 250,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "2.0 P250 (250 Hp) Mild Hybrid AWD Automatic",
+              "hp": 250,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "2.0 P200 (200 Hp) Mild Hybrid AWD Automatic 5+2 Seating",
+              "hp": 200,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "2.0 P200 (200 Hp) Mild Hybrid AWD Automatic",
+              "hp": 200,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "2.0 D240 (240 Hp) Mild Hybrid AWD Automatic 5+2 Seating",
+              "hp": 240,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "2.0 D240 (240 Hp) Mild Hybrid AWD Automatic",
+              "hp": 240,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "2.0 D200 (204 Hp) Mild Hybrid AWD Automatic 5+2 Seating",
+              "hp": 204,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "2.0 D200 (204 Hp) Mild Hybrid AWD Automatic",
+              "hp": 204,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "2.0 D180 (180 Hp) Mild Hybrid AWD Automatic 5+2 Seating",
+              "hp": 180,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "2.0 D180 (180 Hp) Mild Hybrid AWD Automatic",
+              "hp": 180,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "2.0 D165 (163 Hp) Mild Hybrid AWD Automatic 5+2 Seating",
+              "hp": 163,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "2.0 D165 (163 Hp) Mild Hybrid AWD Automatic",
+              "hp": 163,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "2.0 D165 (163 Hp) 5+2 Seating",
+              "hp": 163,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 D165 (163 Hp)",
+              "hp": 163,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 D150 (150 Hp) Mild Hybrid AWD Automatic 5+2 Seating",
+              "hp": 150,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "2.0 D150 (150 Hp) Mild Hybrid AWD Automatic",
+              "hp": 150,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "2.0 D150 (150 Hp) 5+2 Seating",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 D150 (150 Hp)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 P300e (309 Hp) Plug-in Hybrid AWD Automatic",
+              "hp": 309,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "land-rover-discovery-sport": {
+          "label": "Land Rover Discovery Sport",
+          "engines": [
+            {
+              "label": "2.2 TD4 (150 Hp) AWD Automatic 7 Seat (2014 - 2015)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 TD4 (150 Hp) AWD Automatic (2014 - 2015)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 TD4 (150 Hp) AWD 7 Seat (2014 - 2015)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 TD4 (150 Hp) AWD (2014 - 2015)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 SD4 (190 Hp) AWD Automatic 7 Seat (2014 - 2015)",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 SD4 (190 Hp) AWD Automatic (2014 - 2015)",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 SD4 (190 Hp) AWD 7 Seat (2014 - 2015)",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 SD4 (190 Hp) AWD (2014 - 2015)",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TD4 (180 Hp) AWD Automatic 7 Seat (2018 - 2019)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TD4 (180 Hp) AWD Automatic (2018 - 2019)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TD4 (180 Hp) AWD 7 Seat (2018 - 2019)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TD4 (180 Hp) AWD (2018 - 2019)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TD4 (150 Hp) AWD Automatic (2018 - 2019)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TD4 (150 Hp) AWD (2018 - 2019)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Si4 (290 Hp) AWD Automatic 7 Seat (2017 - 2018)",
+              "hp": 290,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Si4 (290 Hp) AWD Automatic (2017 - 2018)",
+              "hp": 290,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Si4 (240 Hp) Ingenium engine AWD Automatic (2018 - 2019)",
+              "hp": 240,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Si4 (240 Hp) AWD Automatic 7 Seat (2014 - 2018)",
+              "hp": 240,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Si4 (240 Hp) AWD Automatic (2014 - 2018)",
+              "hp": 240,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 SD4 (240 Hp) AWD Automatic 7 Seat (2017 - 2019)",
+              "hp": 240,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 SD4 (240 Hp) AWD Automatic (2017 - 2018)",
+              "hp": 240,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 eD4 (150 Hp) (2018 - 2019)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (180 Hp) AWD Ingenium engine 7 Seat (2016 - 2018)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (180 Hp) AWD Ingenium engine (2016 - 2018)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (180 Hp) AWD Automatic Ingenium engine 7 Seat (2016 - 2018)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (180 Hp) AWD Automatic Ingenium engine (2016 - 2018)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (150 Hp) AWD Ingenium engine 7 Seat (2016 - 2018)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (150 Hp) AWD Ingenium engine (2016 - 2018)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (150 Hp) AWD Automatic Ingenium engine 7 Seat (2016 - 2018)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (150 Hp) AWD Automatic Ingenium engine (2016 - 2018)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "freelander": {
+      "label": "Freelander",
+      "series": {
+        "land-rover-freelander-ii-facelift-2012": {
+          "label": "Land Rover Freelander II (facelift 2012)",
+          "engines": [
+            {
+              "label": "2.2 TD4 (150 Hp) AWD Automatic (2012 - 2014)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 TD4 (150 Hp) AWD (2012 - 2014)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 SD4 (190 Hp) AWD Automatic (2012 - 2014)",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 eD4 (150 Hp) (2012 - 2014)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Si4 GTDi (240 Hp) AWD Automatic (2012 - 2014)",
+              "hp": 240,
+              "fuel": "diesel"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "land-rover-freelander-ii-facelift-2010": {
+          "label": "Land Rover Freelander II (facelift 2010)",
+          "engines": [
+            {
+              "label": "2.2 TD4 (150 Hp) AWD Automatic (2010 - 2012)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 TD4 (150 Hp) AWD (2010 - 2012)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 SD4 (190 Hp) AWD Automatic (2010 - 2012)",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 eD4 (150 Hp) (2010 - 2012)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "land-rover-freelander-ii": {
+          "label": "Land Rover Freelander II",
+          "engines": [
+            {
+              "label": "3.2 i 24V (233 Hp) (2006 - 2010)",
+              "hp": 233,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 TD4 (160 Hp) Automatic (2006 - 2010)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 TD4 (160 Hp) (2006 - 2010)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "land-rover-freelander-i-ln": {
+          "label": "Land Rover Freelander I (LN)",
+          "engines": [
+            {
+              "label": "2.5 V6 24V (177 Hp) (2001 - 2006)",
+              "hp": 177,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TD4 (112 Hp) Automatic (2001 - 2006)",
+              "hp": 112,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TD4 (112 Hp) (2001 - 2006)",
+              "hp": 112,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 DI (98 Hp) (1998 - 2001)",
+              "hp": 98,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 i 16V (120 Hp) (1998 - 2001)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 i 16V (117 Hp) (1998 - 2006)",
+              "hp": 117,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "land-rover-freelander-i-soft-top": {
+          "label": "Land Rover Freelander I Soft Top",
+          "engines": [
+            {
+              "label": "2.5 V6 24V (177 Hp) (2001 - 2006)",
+              "hp": 177,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TD4 (112 Hp) Automatic (2001 - 2006)",
+              "hp": 112,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TD4 (112 Hp) (2001 - 2006)",
+              "hp": 112,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 DI (98 Hp) (1998 - 2001)",
+              "hp": 98,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 i 16V (120 Hp) (1998 - 2001)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 i 16V (117 Hp) (1998 - 2006)",
+              "hp": 117,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "land-rover-freelander-i-hard-top": {
+          "label": "Land Rover Freelander I Hard Top",
+          "engines": [
+            {
+              "label": "2.5 i V6 24V (177 Hp) (1998 - 2006)",
+              "hp": 177,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TD (112 Hp) (1998 - 2006)",
+              "hp": 112,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 i 16V (117 Hp) (1998 - 2006)",
+              "hp": 117,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "range-rover": {
+      "label": "Range Rover",
+      "series": {
+        "land-rover-range-rover-v-lwb": {
+          "label": "Land Rover Range Rover V LWB",
+          "engines": [
+            {
+              "label": "SV 4.4 V8 P530 (530 Hp) AWD Automatic",
+              "hp": 530,
+              "fuel": "benzin"
+            },
+            {
+              "label": "SV 3.0 D350 (351 Hp) Mild Hybrid AWD Automatic",
+              "hp": 351,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "4.4 V8 P615 (615 Hp) Mild Hybrid AWD Automatic",
+              "hp": 615,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "4.4 V8 P530 (530 Hp) AWD Automatic 7 Seat",
+              "hp": 530,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.4 V8 P530 (530 Hp) AWD Automatic",
+              "hp": 530,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 P400 (400 Hp) Mild Hybrid AWD Automatic 7 Seat",
+              "hp": 400,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "3.0 P400 (400 Hp) Mild Hybrid AWD Automatic",
+              "hp": 400,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "3.0 P460e (460 Hp) Plug-in Hybrid AWD Automatic",
+              "hp": 460,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "3.0 P440e (441 Hp) Plug-in Hybrid AWD Automatic (2022 - 2023)",
+              "hp": 441,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "3.0 P360 (360 Hp) Mild Hybrid AWD Automatic 7 Seat",
+              "hp": 360,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "3.0 P360 (360 Hp) Mild Hybrid AWD Automatic",
+              "hp": 360,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "3.0 D350 (351 Hp) Mild Hybrid AWD Automatic 7 Seat",
+              "hp": 351,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "3.0 D350 (351 Hp) Mild Hybrid AWD Automatic",
+              "hp": 351,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "land-rover-range-rover-v-swb": {
+          "label": "Land Rover Range Rover V SWB",
+          "engines": [
+            {
+              "label": "SV 4.4 V8 P530 (530 Hp) AWD Automatic",
+              "hp": 530,
+              "fuel": "benzin"
+            },
+            {
+              "label": "SV 3.0 P510e (510 Hp) Plug-in Hybrid AWD Automatic (2022 - 2023)",
+              "hp": 510,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "SV 3.0 D350 (351 Hp) Mild Hybrid AWD Automatic",
+              "hp": 351,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "4.4 V8 P615 (615 Hp) Mild Hybrid AWD Automatic",
+              "hp": 615,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "4.4 V8 P530 (530 Hp) AWD Automatic",
+              "hp": 530,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 P510e (510 Hp) Plug-in Hybrid AWD Automatic (2022 - 2023)",
+              "hp": 510,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "3.0 P550e (550 Hp) Plug-in Hybrid AWD Automatic",
+              "hp": 550,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "3.0 P400 (400 Hp) Mild Hybrid AWD Automatic",
+              "hp": 400,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "3.0 P460e (460 Hp) Plug-in Hybrid AWD Automatic",
+              "hp": 460,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "3.0 P440e (441 Hp) Plug-in Hybrid AWD Automatic (2022 - 2023)",
+              "hp": 441,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "3.0 P360 (360 Hp) Mild Hybrid AWD Automatic",
+              "hp": 360,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "3.0 D350 (351 Hp) Mild Hybrid AWD Automatic",
+              "hp": 351,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "3.0 D300 (301 Hp) Mild Hybrid AWD Automatic",
+              "hp": 301,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "3.0 D250 (249 Hp) Mild Hybrid AWD Automatic",
+              "hp": 249,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "land-rover-range-rover-sv-coupe": {
+          "label": "Land Rover Range Rover SV coupe",
+          "engines": [
+            {
+              "label": "5.0 V8 (566 Hp) AWD Automatic (2018 - 2019)",
+              "hp": 566,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "land-rover-range-rover-iv-facelift-2017-long": {
+          "label": "Land Rover Range Rover IV (facelift 2017) Long",
+          "engines": [
+            {
+              "label": "P400e (404 Hp) Plug-in Hybrid AWD Automatic (2017 - 2021)",
+              "hp": 404,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "P400 3.0 (400 Hp) Mild Hybrid AWD Automatic (2019 - 2021)",
+              "hp": 400,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "5.0 V8 (565 Hp) AWD Automatic (2018 - 2021)",
+              "hp": 565,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.0 V8 (525 Hp) AWD Automatic Supercharged (2017 - 2021)",
+              "hp": 525,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.4 V8 (339 Hp) AWD Automatic (2017 - 2018)",
+              "hp": 339,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.4 SDV8 (339 Hp) AWD Automatic (2018 - 2020)",
+              "hp": 339,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 (380 Hp) AWD Automatic Supercharged (2017 - 2018)",
+              "hp": 380,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 (340 Hp) AWD Automatic Supercharged (2017 - 2018)",
+              "hp": 340,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 (258 Hp) AWD Automatic (2017 - 2018)",
+              "hp": 258,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 SDV6 (275 Hp) AWD Automatic (2018 - 2020)",
+              "hp": 275,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 SDV6 (249 Hp) AWD Automatic (2018 - 2020)",
+              "hp": 249,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 P360 (360 Hp) Mild Hybrid AWD Automatic (2019 - 2021)",
+              "hp": 360,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "3.0 D350 (351 Hp) Mild Hybrid AWD Automatic (2020 - 2021)",
+              "hp": 351,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "3.0 D300 (301 Hp) Mild Hybrid AWD Automatic (2020 - 2021)",
+              "hp": 301,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "land-rover-range-rover-iv-facelift-2017": {
+          "label": "Land Rover Range Rover IV (facelift 2017)",
+          "engines": [
+            {
+              "label": "SVAutobiography Dynamic 5.0 V8 (565 Hp) AWD Automatic Supercharged (2017 - 2021)",
+              "hp": 565,
+              "fuel": "benzin"
+            },
+            {
+              "label": "P400e (404 Hp) Plug-in Hybrid AWD Automatic (2017 - 2021)",
+              "hp": 404,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "P400 3.0 (400 Hp) Mild Hybrid AWD Automatic (2019 - 2021)",
+              "hp": 400,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "5.0 V8 (525 Hp) AWD Automatic Supercharged (2017 - 2021)",
+              "hp": 525,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.4 V8 (339 Hp) AWD Automatic (2017 - 2018)",
+              "hp": 339,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.4 SDV8 (339 Hp) AWD Automatic (2018 - 2020)",
+              "hp": 339,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 (380 Hp) AWD Automatic Supercharged (2017 - 2018)",
+              "hp": 380,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 (340 Hp) AWD Automatic Supercharged (2017 - 2018)",
+              "hp": 340,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 (258 Hp) AWD Automatic (2017 - 2018)",
+              "hp": 258,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 SDV6 (275 Hp) AWD Automatic (2018 - 2020)",
+              "hp": 275,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 SDV6 (249 Hp) AWD Automatic (2018 - 2020)",
+              "hp": 249,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 P360 (360 Hp) Mild Hybrid AWD Automatic (2019 - 2021)",
+              "hp": 360,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "3.0 D350 (351 Hp) Mild Hybrid AWD Automatic (2020 - 2021)",
+              "hp": 351,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "3.0 D300 (301 Hp) Mild Hybrid AWD Automatic (2020 - 2021)",
+              "hp": 301,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "3.0 D250 (249 Hp) Mild Hybrid AWD Automatic (2020 - 2021)",
+              "hp": 249,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "land-rover-range-rover-iv-long": {
+          "label": "Land Rover Range Rover IV Long",
+          "engines": [
+            {
+              "label": "5.0 V8 (510 Hp) AWD Automatic (2014 - 2017)",
+              "hp": 510,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "land-rover-range-rover-iv": {
+          "label": "Land Rover Range Rover IV",
+          "engines": [
+            {
+              "label": "5.0 V8 (510 Hp) AWD Automatic (2012 - 2017)",
+              "hp": 510,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.0 V8 (375 Hp) AWD Automatic (2012 - 2013)",
+              "hp": 375,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.4 V8 (339 Hp) AWD Automatic (2012 - 2017)",
+              "hp": 339,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 (258 Hp) AWD Automatic (2012 - 2017)",
+              "hp": 258,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 SD V6 (340 Hp) AWD Automatic Hybrid (2014 - 2017)",
+              "hp": 340,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "land-rover-range-rover-iii-facelift-2009": {
+          "label": "Land Rover Range Rover III (facelift 2009)",
+          "engines": [
+            {
+              "label": "5.0 LR V8 (510 Hp) AWD Automatic (2011 - 2012)",
+              "hp": 510,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.0 LR V8 (375 Hp) AWD Automatic (2009 - 2012)",
+              "hp": 375,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.4 LR TD V8 (313 Hp) AWD Automatic (2011 - 2012)",
+              "hp": 313,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6 LR TD V8 (271 Hp) AWD Automatic (2010 - 2012)",
+              "hp": 271,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "land-rover-range-rover-iii-facelift-2005": {
+          "label": "Land Rover Range Rover III (facelift 2005)",
+          "engines": [
+            {
+              "label": "4.4 i V8 32V (306 Hp) (2006 - 2007)",
+              "hp": 306,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.4 i V8 32V (299 Hp) (2005 - 2006)",
+              "hp": 299,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.2 V8 Supercharged (396 Hp) AWD Automatic (2005 - 2009)",
+              "hp": 396,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6 TDV8 (271 Hp) AWD Automatic (2006 - 2009)",
+              "hp": 271,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "land-rover-range-rover-iii": {
+          "label": "Land Rover Range Rover III",
+          "engines": [
+            {
+              "label": "4.4 V8 (286 Hp) (2001 - 2005)",
+              "hp": 286,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.9 TD 24V (177 Hp) (2001 - 2005)",
+              "hp": 177,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "land-rover-range-rover-ii": {
+          "label": "Land Rover Range Rover II",
+          "engines": [
+            {
+              "label": "4.6 V8 HSE (224 Hp) (1994 - 2001)",
+              "hp": 224,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.6 (218 Hp) (1998 - 2001)",
+              "hp": 218,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.0 (185 Hp) 4x4 Automatic (1998 - 2001)",
+              "hp": 185,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.0 (185 Hp) 4x4 (1998 - 2001)",
+              "hp": 185,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.9 V8 (190 Hp) (1994 - 2001)",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 D (136 Hp) Automatic (1994 - 2001)",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 D (136 Hp) (1994 - 2001)",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "land-rover-range-rover-i": {
+          "label": "Land Rover Range Rover I",
+          "engines": [
+            {
+              "label": "4.3 Vogue LSE (202 Hp) Automatic (1992 - 1994)",
+              "hp": 202,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.3 Vogue LSE (202 Hp) (1992 - 1994)",
+              "hp": 202,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.9 Vogue SEI (182 Hp) Automatic (1988 - 1994)",
+              "hp": 182,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.9 Vogue SEI (182 Hp) (1988 - 1994)",
+              "hp": 182,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.9 V8 (188 Hp) Automatic (1991 - 1994)",
+              "hp": 188,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.9 V8 (188 Hp) (1991 - 1994)",
+              "hp": 188,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.9 CAT (173 Hp) (1988 - 1994)",
+              "hp": 173,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.9 (173 Hp) (1988 - 1994)",
+              "hp": 173,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.5 Vogue (163 Hp) (1985 - 1990)",
+              "hp": 163,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.5 Vogue (126 Hp) (1981 - 1990)",
+              "hp": 126,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.5 (146 Hp) (1987 - 1990)",
+              "hp": 146,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 Diesel (106 Hp) (1986 - 1990)",
+              "hp": 106,
+              "fuel": "diesel"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "range-rover-evoque": {
+      "label": "Range Rover Evoque",
+      "series": {
+        "land-rover-range-rover-evoque-ii-facelift-2023": {
+          "label": "Land Rover Range Rover Evoque II (facelift 2023)",
+          "engines": [
+            {
+              "label": "2.0 P250 (249 Hp) Mild Hybrid AWD Automatic",
+              "hp": 249,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "2.0 P200 (200 Hp) Mild Hybrid AWD Automatic",
+              "hp": 200,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "2.0 D200 (204 Hp) Mild Hybrid AWD Automatic",
+              "hp": 204,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "2.0 D165 (163 Hp) Mild Hybrid AWD Automatic",
+              "hp": 163,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "2.0 D165 (163 Hp)",
+              "hp": 163,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 P300e (309 Hp) Plug-in Hybrid AWD Automatic",
+              "hp": 309,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.5 P160 (160 Hp) Mild Hybrid Automatic",
+              "hp": 160,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "land-rover-range-rover-evoque-ii": {
+          "label": "Land Rover Range Rover Evoque II",
+          "engines": [
+            {
+              "label": "2.0 Td4 (180 Hp) Mild Hybrid AWD Automatic (2019 - 2020)",
+              "hp": 180,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "2.0 Td4 (150 Hp) Mild Hybrid AWD Automatic (2019 - 2020)",
+              "hp": 150,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "2.0 Td4 (150 Hp) (2019 - 2020)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Si4 (300 Hp) Mild Hybrid AWD Automatic (2019 - 2023)",
+              "hp": 300,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "2.0 Si4 (249 Hp) Mild Hybrid AWD Automatic (2019 - 2023)",
+              "hp": 249,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "2.0 Si4 (200 Hp) Mild Hybrid AWD Automatic (2019 - 2023)",
+              "hp": 200,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "2.0 Sd4 (240 Hp) Mild Hybrid AWD Automatic (2019 - 2020)",
+              "hp": 240,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "2.0 D200 (204 Hp) Mild Hybrid AWD Automatic (2020 - 2023)",
+              "hp": 204,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "2.0 D165 (163 Hp) Mild Hybrid AWD Automatic (2020 - 2023)",
+              "hp": 163,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "2.0 D165 (163 Hp) (2020 - 2023)",
+              "hp": 163,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 P300e (309 Hp) Plug-in Hybrid AWD Automatic (2020 - 2023)",
+              "hp": 309,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.5 P160 (160 Hp) Mild Hybrid Automatic (2020 - 2023)",
+              "hp": 160,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "land-rover-range-rover-evoque-i-convertible-facelift-2015": {
+          "label": "Land Rover Range Rover Evoque I convertible (facelift 2015)",
+          "engines": [
+            {
+              "label": "2.0 TD4 (180 Hp) AWD Automatic (2015 - 2018)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TD4 (150 Hp) AWD Automatic (2015 - 2018)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Si4 (240 Hp) AWD Automatic (2015 - 2018)",
+              "hp": 240,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "land-rover-range-rover-evoque-i-coupe-facelift-2015": {
+          "label": "Land Rover Range Rover Evoque I coupe (facelift 2015)",
+          "engines": [
+            {
+              "label": "2.0 TD4 (180 Hp) AWD Automatic (2015 - 2018)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TD4 (180 Hp) AWD (2015 - 2018)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TD4 (150 Hp) AWD Automatic (2015 - 2018)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TD4 (150 Hp) AWD (2015 - 2018)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TD4 (150 Hp) (2015 - 2018)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Si4 (290 Hp) AWD Automatic (2017 - 2018)",
+              "hp": 290,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Si4 (240 Hp) AWD Automatic (2015 - 2018)",
+              "hp": 240,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "land-rover-range-rover-evoque-i-facelift-2015": {
+          "label": "Land Rover Range Rover Evoque I (facelift 2015)",
+          "engines": [
+            {
+              "label": "2.0 TD4 (180 Hp) AWD Automatic (2015 - 2018)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TD4 (180 Hp) AWD (2015 - 2018)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TD4 (150 Hp) AWD Automatic (2015 - 2018)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TD4 (150 Hp) AWD (2015 - 2018)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TD4 (150 Hp) (2015 - 2018)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Si4 (240 Hp) AWD Automatic (2015 - 2018)",
+              "hp": 240,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "land-rover-range-rover-evoque-i-coupe": {
+          "label": "Land Rover Range Rover Evoque I coupe",
+          "engines": [
+            {
+              "label": "2.2 TD4 (150 Hp) AWD (2012 - 2015)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 TD4 (150 Hp) 4WD Automatic (2012 - 2015)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 SD4 (190 Hp) AWD Automatic (2015 - 2015)",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 SD4 (190 Hp) 4WD Automatic (2012 - 2014)",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 SD4 (190 Hp) 4WD (2012 - 2014)",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 eD4 (150 Hp) (2012 - 2015)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Si4 (240 Hp) AWD Automatic (2015 - 2015)",
+              "hp": 240,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "land-rover-range-rover-evoque-i": {
+          "label": "Land Rover Range Rover Evoque I",
+          "engines": [
+            {
+              "label": "2.2 TD4 (150 Hp) AWD Automatic (2012 - 2015)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 TD4 (150 Hp) 4WD (2012 - 2015)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 SD4 (190 Hp) AWD Automatic (2012 - 2015)",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 SD4 (190 Hp) AWD (2012 - 2015)",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 eD4 (150 Hp) (2012 - 2015)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Si4 (240 Hp) AWD Automatic (2012 - 2015)",
+              "hp": 240,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "range-rover-sport": {
+      "label": "Range Rover Sport",
+      "series": {
+        "land-rover-range-rover-sport-iii": {
+          "label": "Land Rover Range Rover Sport III",
+          "engines": [
+            {
+              "label": "SV 4.4 V8 (635 Hp) Mild Hybrid iAWD Automatic",
+              "hp": 635,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "4.4 V8 P530 (530 Hp) iAWD Automatic",
+              "hp": 530,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 P550e (550 Hp) Plug-in Hybrid iAWD Automatic",
+              "hp": 550,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "3.0 P510e (510 Hp) Plug-in Hybrid iAWD Automatic (2022 - 2023)",
+              "hp": 510,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "3.0 P400 (400 Hp) Mild Hybrid iAWD Automatic",
+              "hp": 400,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "3.0 P460e (460 Hp) Plug-in Hybrid iAWD Automatic",
+              "hp": 460,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "3.0 P440e (441 Hp) Plug-in Hybrid iAWD Automatic (2022 - 2023)",
+              "hp": 441,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "3.0 P360 (360 Hp) Mild Hybrid iAWD Automatic",
+              "hp": 360,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "3.0 D350 (351 Hp) Mild Hybrid iAWD Automatic",
+              "hp": 351,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "3.0 D300 (301 Hp) Mild Hybrid iAWD Automatic",
+              "hp": 301,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "3.0 D250 (249 Hp) Mild Hybrid iAWD Automatic",
+              "hp": 249,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "land-rover-range-rover-sport-ii-facelift-2017": {
+          "label": "Land Rover Range Rover Sport II (facelift 2017)",
+          "engines": [
+            {
+              "label": "SVR 5.0 V8 (575 Hp) AWD Automatic Supercharged (2017 - 2022)",
+              "hp": 575,
+              "fuel": "benzin"
+            },
+            {
+              "label": "P400e (404 Hp) Plug-in Hybrid AWD Automatic (2017 - 2022)",
+              "hp": 404,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "5.0 V8 (525 Hp) AWD Automatic Supercharged 5+2 Seating (2017 - 2022)",
+              "hp": 525,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.0 V8 (525 Hp) AWD Automatic Supercharged (2017 - 2022)",
+              "hp": 525,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.4 SDV8 (339 Hp) AWD Automatic (2017 - 2020)",
+              "hp": 339,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 (340 Hp) AWD Automatic Supercharged 5+2 Seating (2017 - 2018)",
+              "hp": 340,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 (340 Hp) AWD Automatic Supercharged (2017 - 2018)",
+              "hp": 340,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 SDV6 (306 Hp) AWD Automatic 5+2 Seating (2017 - 2018)",
+              "hp": 306,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 SDV6 (306 Hp) AWD Automatic (2017 - 2018)",
+              "hp": 306,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 SDV6 (249 Hp) AWD Automatic (2018 - 2020)",
+              "hp": 249,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 P400 (400 Hp) Mild Hybrid AWD Automatic 5+2 Seating (2019 - 2022)",
+              "hp": 400,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "3.0 P400 (400 Hp) Mild Hybrid AWD Automatic (2019 - 2022)",
+              "hp": 400,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "3.0 P360 (360 Hp) Mild Hybrid AWD Automatic 5+2 Seating (2019 - 2022)",
+              "hp": 360,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "3.0 P360 (360 Hp) Mild Hybrid AWD Automatic (2019 - 2022)",
+              "hp": 360,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "3.0 D350 (351 Hp) Mild Hybrid AWD Automatic (2020 - 2022)",
+              "hp": 351,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "3.0 D300 (301 Hp) Mild Hybrid AWD Automatic 5+2 Seating (2020 - 2022)",
+              "hp": 301,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "3.0 D300 (301 Hp) Mild Hybrid AWD Automatic (2020 - 2022)",
+              "hp": 301,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "3.0 D250 (249 Hp) Mild Hybrid AWD Automatic 5+2 Seating (2020 - 2022)",
+              "hp": 249,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "3.0 D250 (249 Hp) Mild Hybrid AWD Automatic (2020 - 2022)",
+              "hp": 249,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "2.0 Si4 (300 Hp) AWD Automatic 5+2 Seating (2017 - 2021)",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Si4 (300 Hp) AWD Automatic (2017 - 2021)",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 SD4 (240 Hp) AWD Automatic 5+2 Seating (2017 - 2018)",
+              "hp": 240,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 SD4 (240 Hp) AWD Automatic (2017 - 2018)",
+              "hp": 240,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 P300 (301 Hp) AWD Automatic 5+2 Seating (2019 - 2022)",
+              "hp": 301,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 P300 (301 Hp) AWD Automatic (2019 - 2022)",
+              "hp": 301,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "land-rover-range-rover-sport-ii": {
+          "label": "Land Rover Range Rover Sport II",
+          "engines": [
+            {
+              "label": "SVR 5.0 V8 (550 Hp) AWD Automatic (2014 - 2017)",
+              "hp": 550,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.0 V8 (510 Hp) AWD Automatic (2013 - 2017)",
+              "hp": 510,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.4 V8 (339 Hp) AWD Automatic (2014 - 2015)",
+              "hp": 339,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 (340 Hp) AWD Automatic Supercharged (2013 - 2017)",
+              "hp": 340,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 (292 Hp) AWD Automatic (2013 - 2015)",
+              "hp": 292,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 (258 Hp) AWD Automatic (2013 - 2017)",
+              "hp": 258,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "land-rover-range-rover-sport-i-facelift-2009": {
+          "label": "Land Rover Range Rover Sport I (facelift 2009)",
+          "engines": [
+            {
+              "label": "5.0 LR V8 Supercharged (510 Hp) AWD Automatic (2009 - 2013)",
+              "hp": 510,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.0 LR V8 (375 Hp) AWD Automatic (2009 - 2013)",
+              "hp": 375,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6 LR-TD V8 (272 Hp) AWD Automatic (2009 - 2010)",
+              "hp": 272,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 LR-TD V6 (256 Hp) AWD Automatic (2012 - 2013)",
+              "hp": 256,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 LR-TD V6 (245 Hp) AWD Automatic (2009 - 2011)",
+              "hp": 245,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 LR-TD V6 (211 Hp) AWD Automatic (2012 - 2013)",
+              "hp": 211,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "land-rover-range-rover-sport-i": {
+          "label": "Land Rover Range Rover Sport I",
+          "engines": [
+            {
+              "label": "4.2 V8 Supercharged (390 Hp) AWD Automatic (2005 - 2009)",
+              "hp": 390,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.4 V8 (299 Hp) AWD Automatic (2005 - 2009)",
+              "hp": 299,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6 TDV8 (272 Hp) AWD Automatic (2007 - 2009)",
+              "hp": 272,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.7 TDV6 (190 Hp) AWD Automatic (2005 - 2009)",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "range-rover-velar": {
+      "label": "Range Rover Velar",
+      "series": {
+        "land-rover-range-rover-velar-facelift-2023": {
+          "label": "Land Rover Range Rover Velar (facelift 2023)",
+          "engines": [
+            {
+              "label": "3.0 P400 (400 Hp) Mild Hybrid AWD Automatic",
+              "hp": 400,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "3.0 P340 (340 Hp) Mild Hybrid AWD Automatic",
+              "hp": 340,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "3.0 D300 (300 Hp) Mild Hybrid AWD Automatic",
+              "hp": 300,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "2.0 P400e (404 Hp) Plug-in Hybrid AWD Automatic",
+              "hp": 404,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "2.0 P250 (250 Hp) AWD Automatic",
+              "hp": 250,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 D200 (204 Hp) Mild Hybrid AWD Automatic",
+              "hp": 204,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "land-rover-range-rover-velar-facelift-2020": {
+          "label": "Land Rover Range Rover Velar (facelift 2020)",
+          "engines": [
+            {
+              "label": "3.0 P400 (400 Hp) Mild Hybrid AWD Automatic (2020 - 2023)",
+              "hp": 400,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "3.0 P340 (340 Hp) Mild Hybrid AWD Automatic (2020 - 2023)",
+              "hp": 340,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "3.0 D300 (300 Hp) Mild Hybrid AWD Automatic (2020 - 2023)",
+              "hp": 300,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "3.0 D300 (300 Hp) AWD Automatic (2020 - 2023)",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 P400e (404 Hp) Plug-in Hybrid AWD Automatic (2020 - 2023)",
+              "hp": 404,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "2.0 P250 (250 Hp) AWD Automatic (2020 - 2023)",
+              "hp": 250,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 D200 (204 Hp) Mild Hybrid AWD Automatic (2020 - 2023)",
+              "hp": 204,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "2.0 D200 (204 Hp) AWD Automatic (2020 - 2023)",
+              "hp": 204,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "land-rover-range-rover-velar": {
+          "label": "Land Rover Range Rover Velar",
+          "engines": [
+            {
+              "label": "SVAutobiography Dynamic Edition 5.0 V8 (550 Hp) AWD Automatic (2019 - 2020)",
+              "hp": 550,
+              "fuel": "benzin"
+            },
+            {
+              "label": "P 380 3.0 V6 (380 Hp) AWD Automatic (2017 - 2018)",
+              "hp": 380,
+              "fuel": "benzin"
+            },
+            {
+              "label": "P 340 3.0 V6 (340 Hp) AWD Automatic (2018 - 2020)",
+              "hp": 340,
+              "fuel": "benzin"
+            },
+            {
+              "label": "P 300 2.0 (300 Hp) AWD Automatic (2017 - 2020)",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "P 250 2.0 (250 Hp) AWD Automatic (2017 - 2020)",
+              "hp": 250,
+              "fuel": "benzin"
+            },
+            {
+              "label": "D 300 3.0 V6 (300 Hp) AWD Automatic (2017 - 2020)",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "D 275 3.0 V6 (275 Hp) AWD Automatic (2018 - 2020)",
+              "hp": 275,
+              "fuel": "benzin"
+            },
+            {
+              "label": "D 240 2.0 (240 Hp) AWD Automatic (2017 - 2020)",
+              "hp": 240,
+              "fuel": "benzin"
+            },
+            {
+              "label": "D 180 2.0 (180 Hp) AWD Automatic (2017 - 2020)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "series-i": {
+      "label": "Series I",
+      "series": {
+        "land-rover-series-i": {
+          "label": "Land Rover Series I",
+          "engines": [
+            {
+              "label": "2.0 (52 Hp) (1953 - 1956)",
+              "hp": 52,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (50 Hp) (1948 - 1951)",
+              "hp": 50,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "series-ii": {
+      "label": "Series II",
+      "series": {
+        "land-rover-series-iia": {
+          "label": "Land Rover Series IIA",
+          "engines": [
+            {
+              "label": "2.3 D (LR 88 DP,LR 109 DP) (63 Hp) (1963 - 1986)",
+              "hp": 63,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.3 (LR 88 OP,LR 109 OP) (69 Hp) (1963 - 1986)",
+              "hp": 69,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,1152 @@
+{
+  "label": "Maserati",
+  "models": {
+    "228": {
+      "label": "228",
+      "series": {
+        "maserati-228": {
+          "label": "Maserati 228",
+          "engines": [
+            {
+              "label": "2.8 i V6 Turbo (250 Hp) (1986 - 1992)",
+              "hp": 250,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.8 i V6 Turbo CAT (225 Hp) (1986 - 1992)",
+              "hp": 225,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "3200-gt": {
+      "label": "3200 GT",
+      "series": {
+        "maserati-3200-gt": {
+          "label": "Maserati 3200 GT",
+          "engines": [
+            {
+              "label": "3.2 Biturbo V8 32V (370 Hp) (1998 - 2002)",
+              "hp": 370,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "3500-gt": {
+      "label": "3500 GT",
+      "series": {
+        "maserati-3500-gt": {
+          "label": "Maserati 3500 GT",
+          "engines": [
+            {
+              "label": "3.5 (230 Hp) (1957 - 1964)",
+              "hp": 230,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "420-430": {
+      "label": "420/430",
+      "series": {
+        "maserati-420-430": {
+          "label": "Maserati 420/430",
+          "engines": [
+            {
+              "label": "430 i (247 Hp) (1988 - 1994)",
+              "hp": 247
+            },
+            {
+              "label": "420 i (187 Hp) (1987 - 1988)",
+              "hp": 187
+            },
+            {
+              "label": "420 (180 Hp) (1985 - 1986)",
+              "hp": 180
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "5000-gt": {
+      "label": "5000 GT",
+      "series": {
+        "maserati-5000-gt": {
+          "label": "Maserati 5000 GT",
+          "engines": [
+            {
+              "label": "4.9 V8 (325 Hp) (1959 - 1966)",
+              "hp": 325,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "barchetta-stradale": {
+      "label": "Barchetta Stradale",
+      "series": {
+        "maserati-barchetta-stradale": {
+          "label": "Maserati Barchetta Stradale",
+          "engines": [
+            {
+              "label": "2.0 i V6 24V Biturbo (306 Hp) (1992 - 1994)",
+              "hp": 306,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "biturbo": {
+      "label": "Biturbo",
+      "series": {
+        "maserati-biturbo": {
+          "label": "Maserati Biturbo",
+          "engines": [
+            {
+              "label": "425 i (188 Hp) (1987 - 1988)",
+              "hp": 188
+            },
+            {
+              "label": "425 (203 Hp) (1984 - 1987)",
+              "hp": 203
+            },
+            {
+              "label": "425 (190 Hp) (1984 - 1987)",
+              "hp": 190
+            },
+            {
+              "label": "4.24V (245 Hp) (1990 - 1994)",
+              "hp": 245,
+              "fuel": "benzin"
+            },
+            {
+              "label": "222 SE (224 Hp) (1989 - 1994)",
+              "hp": 224
+            },
+            {
+              "label": "222 E (247 Hp) (1989 - 1989)",
+              "hp": 247
+            },
+            {
+              "label": "222 (220 Hp) (1989 - 1989)",
+              "hp": 220
+            },
+            {
+              "label": "2.24V (245 Hp) (1988 - 1992)",
+              "hp": 245,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "maserati-biturbo-spyder": {
+          "label": "Maserati Biturbo Spyder",
+          "engines": [
+            {
+              "label": "2.8 (224 Hp) (1989 - 1994)",
+              "hp": 224,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (184 Hp) (1985 - 1987)",
+              "hp": 184,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "maserati-biturbo-coupe": {
+          "label": "Maserati Biturbo Coupe",
+          "engines": [
+            {
+              "label": "Si 2.0 (205 Hp) (1987 - 1988)",
+              "hp": 205,
+              "fuel": "benzin"
+            },
+            {
+              "label": "S 2.0 (205 Hp) (1981 - 1987)",
+              "hp": 205,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 (200 Hp) (1983 - 1986)",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (184 Hp) (1985 - 1987)",
+              "hp": 184,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "bora": {
+      "label": "Bora",
+      "series": {
+        "maserati-bora": {
+          "label": "Maserati Bora",
+          "engines": [
+            {
+              "label": "5.0 (320 Hp) (1976 - 1980)",
+              "hp": 320,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.7 V8 (310 Hp) (1972 - 1977)",
+              "hp": 310,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "chubasco": {
+      "label": "Chubasco",
+      "series": {
+        "maserati-chubasco-concept": {
+          "label": "Maserati Chubasco (Concept)",
+          "engines": [
+            {
+              "label": "3.2 i V8 32V Turbo (430 Hp) (1990 - 1993)",
+              "hp": 430,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "coupe": {
+      "label": "Coupe",
+      "series": {
+        "maserati-coupe": {
+          "label": "Maserati Coupe",
+          "engines": [
+            {
+              "label": "4200 GT 4.2i V8 32V (390 Hp) (2002 - 2007)",
+              "hp": 390,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "ghibli": {
+      "label": "Ghibli",
+      "series": {
+        "maserati-ghibli-iii-m157-facelift-2017": {
+          "label": "Maserati Ghibli III (M157, facelift 2017)",
+          "engines": [
+            {
+              "label": "Trofeo 3.8 V8 GDI (580 Hp) Automatic",
+              "hp": 580,
+              "fuel": "benzin"
+            },
+            {
+              "label": "S Q4 3.0 V6 (430 Hp) AWD Automatic",
+              "hp": 430,
+              "fuel": "benzin"
+            },
+            {
+              "label": "S 3.0 V6 (430 Hp) Automatic",
+              "hp": 430,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0d V6 (275 Hp) Automatic",
+              "hp": 275,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0d V6 (250 Hp) Automatic",
+              "hp": 250,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 (350 Hp) Automatic",
+              "hp": 350,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 GDI (330 Hp) Mild Hybrid Automatic",
+              "hp": 330,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "maserati-ghibli-iii-m157": {
+          "label": "Maserati Ghibli III (M157)",
+          "engines": [
+            {
+              "label": "S Q4 3.0 V6 (410 Hp) AWD Automatic (2013 - 2017)",
+              "hp": 410,
+              "fuel": "benzin"
+            },
+            {
+              "label": "S 3.0 V6 (410 Hp) Automatic (2013 - 2017)",
+              "hp": 410,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 (330 Hp) Automatic (2013 - 2016)",
+              "hp": 330,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 (275 Hp) Automatic (2013 - 2017)",
+              "hp": 275,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "maserati-ghibli-ii": {
+          "label": "Maserati Ghibli II",
+          "engines": [
+            {
+              "label": "2.8 24V Biturbo (284 Hp) (1992 - 1997)",
+              "hp": 284,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 24V Biturbo (306 Hp) (1992 - 1997)",
+              "hp": 306,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "maserati-ghibli-i-spyder-am115": {
+          "label": "Maserati Ghibli I Spyder (AM115)",
+          "engines": [
+            {
+              "label": "4.7 V8 (330 Hp) (1969 - 1973)",
+              "hp": 330,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "maserati-ghibli-i-am115": {
+          "label": "Maserati Ghibli I (AM115)",
+          "engines": [
+            {
+              "label": "SS 5.0 V8 (335 Hp) (1969 - 1973)",
+              "hp": 335,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.7 V8 (310 Hp) (1967 - 1973)",
+              "hp": 310,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "grancabrio": {
+      "label": "GranCabrio",
+      "series": {
+        "maserati-grancabrio-ii": {
+          "label": "Maserati GranCabrio II",
+          "engines": [
+            {
+              "label": "Trofeo 3.0 V6 (542 Hp) AWD Automatic",
+              "hp": 542,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Folgore 92.5 kWh (762 Hp) Electric AWD",
+              "hp": 762,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "maserati-grancabrio-i-facelift-2018": {
+          "label": "Maserati GranCabrio I (facelift 2018)",
+          "engines": [
+            {
+              "label": "Sport 4.7 V8 (460 Hp) Automatic (2018 - 2020)",
+              "hp": 460,
+              "fuel": "benzin"
+            },
+            {
+              "label": "MC 4.7 V8 (460 Hp) Automatic (2018 - 2020)",
+              "hp": 460,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "maserati-grancabrio-i": {
+          "label": "Maserati GranCabrio I",
+          "engines": [
+            {
+              "label": "Sport 4.7 V8 (460 Hp) Automatic (2012 - 2017)",
+              "hp": 460,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sport 4.7 V8 (450 Hp) Automatic (2011 - 2012)",
+              "hp": 450,
+              "fuel": "benzin"
+            },
+            {
+              "label": "MC 4.7 V8 (460 Hp) Automatic (2013 - 2017)",
+              "hp": 460,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.7 V8 (450 Hp) Automatic (2011 - 2012)",
+              "hp": 450,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.7 (440 Hp) (2010 - 2011)",
+              "hp": 440,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "gransport": {
+      "label": "GranSport",
+      "series": {
+        "maserati-gransport": {
+          "label": "Maserati GranSport",
+          "engines": [
+            {
+              "label": "4.2 i V8 32V (400 Hp) (2004 - 2007)",
+              "hp": 400,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "granturismo": {
+      "label": "GranTurismo",
+      "series": {
+        "maserati-granturismo-ii": {
+          "label": "Maserati GranTurismo II",
+          "engines": [
+            {
+              "label": "Trofeo 3.0 V6 (558 Hp) AWD Automatic",
+              "hp": 558,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Modena 3.0 V6 (496 Hp) AWD Automatic",
+              "hp": 496,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Folgore 92.5 kWh (762 Hp) BEV AWD",
+              "hp": 762,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "maserati-granturismo-i-facelift-2017": {
+          "label": "Maserati GranTurismo I (facelift 2017)",
+          "engines": [
+            {
+              "label": "Sport 4.7 V8 (460 Hp) Automatic (2017 - 2019)",
+              "hp": 460,
+              "fuel": "benzin"
+            },
+            {
+              "label": "MC 4.7 V8 (460 Hp) Automatic (2017 - 2019)",
+              "hp": 460,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "maserati-granturismo-i": {
+          "label": "Maserati GranTurismo I",
+          "engines": [
+            {
+              "label": "Sport 4.7 V8 (460 Hp) Automatic (2012 - 2017)",
+              "hp": 460,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sport 4.7 V8 (460 Hp) (2012 - 2017)",
+              "hp": 460,
+              "fuel": "benzin"
+            },
+            {
+              "label": "S 4.7 i V8 32V (440 Hp) (2008 - 2012)",
+              "hp": 440,
+              "fuel": "benzin"
+            },
+            {
+              "label": "S 4.7 (440 Hp) Automatic (2008 - 2012)",
+              "hp": 440,
+              "fuel": "benzin"
+            },
+            {
+              "label": "MC Stradale 4.7 V8 (460 Hp) Automatic (2013 - 2017)",
+              "hp": 460,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.2 i V8 32V (405 Hp) (2007 - 2017)",
+              "hp": 405,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "grecale": {
+      "label": "Grecale",
+      "series": {
+        "maserati-grecale": {
+          "label": "Maserati Grecale",
+          "engines": [
+            {
+              "label": "Trofeo 3.0 V6 (530 Hp) Automatic",
+              "hp": 530,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Modena 2.0 (330 Hp) Mild Hybrid Automatic",
+              "hp": 330,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "GT 2.0 (300 Hp) Mild Hybrid Automatic",
+              "hp": 300,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Folgore 105 kWh (558 Hp) BEV AWD",
+              "hp": 558
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "gt2-stradale": {
+      "label": "GT2 Stradale",
+      "series": {
+        "maserati-gt2-stradale": {
+          "label": "Maserati GT2 Stradale",
+          "engines": [
+            {
+              "label": "3.0 V6 (640 Hp) DCT",
+              "hp": 640,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "indy": {
+      "label": "Indy",
+      "series": {
+        "maserati-indy": {
+          "label": "Maserati Indy",
+          "engines": [
+            {
+              "label": "4.9 (320 Hp) (1972 - 1974)",
+              "hp": 320,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.7 (290 Hp) (1972 - 1974)",
+              "hp": 290,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.2 (260 Hp) (1969 - 1974)",
+              "hp": 260,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "karif": {
+      "label": "Karif",
+      "series": {
+        "maserati-karif": {
+          "label": "Maserati Karif",
+          "engines": [
+            {
+              "label": "2.8 CAT (225 Hp) (1988 - 1991)",
+              "hp": 225,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.8 (285 Hp) (1988 - 1991)",
+              "hp": 285,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "khamsin": {
+      "label": "Khamsin",
+      "series": {
+        "maserati-khamsin": {
+          "label": "Maserati Khamsin",
+          "engines": [
+            {
+              "label": "4.9 V8 (320 Hp) (1973 - 1982)",
+              "hp": 320,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "kyalami": {
+      "label": "Kyalami",
+      "series": {
+        "maserati-kyalami": {
+          "label": "Maserati Kyalami",
+          "engines": [
+            {
+              "label": "4.9 (288 Hp) (1976 - 1983)",
+              "hp": 288,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.2 (270 Hp) (1976 - 1983)",
+              "hp": 270,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "levante": {
+      "label": "Levante",
+      "series": {
+        "maserati-levante": {
+          "label": "Maserati Levante",
+          "engines": [
+            {
+              "label": "Trofeo 3.8 V8 GDI (590 Hp) AWD Automatic",
+              "hp": 590,
+              "fuel": "benzin"
+            },
+            {
+              "label": "S 3.0 V6 GDI (430 Hp) AWD Automatic",
+              "hp": 430,
+              "fuel": "benzin"
+            },
+            {
+              "label": "GTS 3.8 V8 (550 Hp) AWD Automatic",
+              "hp": 550,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 GDI (350 Hp) AWD Automatic",
+              "hp": 350,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 (275 Hp) AWD Automatic",
+              "hp": 275,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 GDI (330 Hp) Mild Hybrid AWD Automatic",
+              "hp": 330,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "mc12": {
+      "label": "MC12",
+      "series": {
+        "maserati-mc12": {
+          "label": "Maserati MC12",
+          "engines": [
+            {
+              "label": "6.0 V12 (624 Hp) (2004 - 2006)",
+              "hp": 624,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "mc20": {
+      "label": "MC20",
+      "series": {
+        "maserati-mc20-cielo": {
+          "label": "Maserati MC20 Cielo",
+          "engines": [
+            {
+              "label": "3.0 V6 (630 Hp) DCT",
+              "hp": 630,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "maserati-mc20": {
+          "label": "Maserati MC20",
+          "engines": [
+            {
+              "label": "3.0 V6 (630 Hp) DCT",
+              "hp": 630,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "mcpura": {
+      "label": "MCPURA",
+      "series": {
+        "maserati-mcpura-cielo": {
+          "label": "Maserati MCPURA Cielo",
+          "engines": [
+            {
+              "label": "3.0 V6 (630 Hp) DCT",
+              "hp": 630,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "maserati-mcpura": {
+          "label": "Maserati MCPURA",
+          "engines": [
+            {
+              "label": "3.0 V6 (630 Hp) DCT",
+              "hp": 630,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "merak": {
+      "label": "Merak",
+      "series": {
+        "maserati-merak": {
+          "label": "Maserati Merak",
+          "engines": [
+            {
+              "label": "3.0 SS (220 Hp) (1975 - 1983)",
+              "hp": 220,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (170 Hp) (1976 - 1983)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "mexico": {
+      "label": "Mexico",
+      "series": {
+        "maserati-mexico": {
+          "label": "Maserati Mexico",
+          "engines": [
+            {
+              "label": "4.7 V8 (290 Hp) (1967 - 1973)",
+              "hp": 290,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.2 V8 (260 Hp) (1969 - 1973)",
+              "hp": 260,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "quattroporte": {
+      "label": "Quattroporte",
+      "series": {
+        "maserati-quattroporte-vi-m156-facelift-2016": {
+          "label": "Maserati Quattroporte VI (M156, facelift 2016)",
+          "engines": [
+            {
+              "label": "Trofeo 3.8 V8 GDI (580 Hp) Automatic",
+              "hp": 580,
+              "fuel": "benzin"
+            },
+            {
+              "label": "S Q4 3.0 GDI (430 Hp) AWD Automatic (2017 - 2018)",
+              "hp": 430,
+              "fuel": "benzin"
+            },
+            {
+              "label": "S Q4 3.0 GDI V6 (410 Hp) AWD Automatic (2016 - 2017)",
+              "hp": 410,
+              "fuel": "benzin"
+            },
+            {
+              "label": "S 3.0 GDI (430 Hp) Automatic (2017 - 2018)",
+              "hp": 430,
+              "fuel": "benzin"
+            },
+            {
+              "label": "S 3.0 GDI V6 (410 Hp) Automatic (2016 - 2017)",
+              "hp": 410,
+              "fuel": "benzin"
+            },
+            {
+              "label": "GTS 3.8 GDI V8 (530 Hp) Automatic (2016 - 2017)",
+              "hp": 530,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 (275 Hp) Automatic",
+              "hp": 275,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 GDI V6 (350 Hp) Automatic",
+              "hp": 350,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "maserati-quattroporte-vi-m156": {
+          "label": "Maserati Quattroporte VI (M156)",
+          "engines": [
+            {
+              "label": "S Q4 3.0 V6 (410 Hp) AWD Automatic (2013 - 2016)",
+              "hp": 410,
+              "fuel": "benzin"
+            },
+            {
+              "label": "S 3.0 V6 (410 Hp) Automatic (2013 - 2016)",
+              "hp": 410,
+              "fuel": "benzin"
+            },
+            {
+              "label": "GTS 3.8 V8 (530 Hp) Automatic (2013 - 2016)",
+              "hp": 530,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.8 V8 (350 Hp) Automatic (2013 - 2016)",
+              "hp": 350,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 (330 Hp) Automatic (2015 - 2016)",
+              "hp": 330,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 (275 Hp) Automatic (2014 - 2016)",
+              "hp": 275,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "maserati-quattroporte-sport-gt-s": {
+          "label": "Maserati Quattroporte Sport GT S",
+          "engines": [
+            {
+              "label": "4.7 (440 Hp) (2008 - 2012)",
+              "hp": 440,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "maserati-quattroporte-s": {
+          "label": "Maserati Quattroporte S",
+          "engines": [
+            {
+              "label": "4.7 (430 Hp) (2008 - 2012)",
+              "hp": 430,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "maserati-quattroporte-v": {
+          "label": "Maserati Quattroporte V",
+          "engines": [
+            {
+              "label": "4.2 i V8 32V (400 Hp) (2003 - 2012)",
+              "hp": 400,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "maserati-quattroporte-iv": {
+          "label": "Maserati Quattroporte IV",
+          "engines": [
+            {
+              "label": "3.2 V8 32V (336 Hp) (1996 - 1998)",
+              "hp": 336,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.8 Biturbo (284 Hp) (1994 - 1998)",
+              "hp": 284,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 i V6 24V Biturbo (306 Hp) (1994 - 1998)",
+              "hp": 306,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Biturbo (287 Hp) (1994 - 1998)",
+              "hp": 287,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "maserati-quattroporte-iii": {
+          "label": "Maserati Quattroporte III",
+          "engines": [
+            {
+              "label": "4.9 (280 Hp) (1978 - 1988)",
+              "hp": 280,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.2 (255 Hp) (1979 - 1983)",
+              "hp": 255,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "royale": {
+      "label": "Royale",
+      "series": {
+        "maserati-royale": {
+          "label": "Maserati Royale",
+          "engines": [
+            {
+              "label": "4.9 V8 (300 Hp) (1985 - 1993)",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.9 V8 (280 Hp) (1985 - 1993)",
+              "hp": 280,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "sebring": {
+      "label": "Sebring",
+      "series": {
+        "maserati-sebring-series-i-tipo-am-101-s": {
+          "label": "Maserati Sebring Series I (Tipo AM 101/S)",
+          "engines": [
+            {
+              "label": "4.0 (255 Hp) (1962 - 1965)",
+              "hp": 255,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.7 (245 Hp) (1962 - 1965)",
+              "hp": 245,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.5 (235 Hp) (1962 - 1965)",
+              "hp": 235,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "shamal": {
+      "label": "Shamal",
+      "series": {
+        "maserati-shamal": {
+          "label": "Maserati Shamal",
+          "engines": [
+            {
+              "label": "3.2 i V8 32V (326 Hp) (1989 - 1995)",
+              "hp": 326,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "spyder": {
+      "label": "Spyder",
+      "series": {
+        "maserati-spyder": {
+          "label": "Maserati Spyder",
+          "engines": [
+            {
+              "label": "4.2 i V8 32V (390 Hp) (2001 - 2007)",
+              "hp": 390,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "label": "RS Q3 2.5 TFSI quattro S tronic (Benzin, 310 PS) RS Q3 2.5 TFSI quattro S tronic (Benzin, 340 PS) RS Q3 2.5 TFSI quattro S tronic (Benzin, 367 PS)",
+    "fuel": "benzin",
+    "hp": 367
+  },
+  {
+    "label": "RS Q3 2.5 TFSI quattro S tronic (Benzin, 310 PS)",
+    "fuel": "benzin",
+    "hp": 310
+  },
+  {
+    "label": "RS Q3 2.5 TFSI quattro S tronic (Benzin, 340 PS)",
+    "fuel": "benzin",
+    "hp": 340
+  },
+  {
+    "label": "RS Q3 2.5 TFSI quattro S tronic (Benzin, 367 PS)",
+    "fuel": "benzin",
+    "hp": 367
+  }
+]

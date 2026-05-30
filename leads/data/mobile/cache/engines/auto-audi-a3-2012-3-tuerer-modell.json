@@ -1,0 +1,212 @@
+[
+  {
+    "label": "A3 1.2 TFSI S tronic (Benzin, 105 PS)",
+    "fuel": "benzin",
+    "hp": 105
+  },
+  {
+    "label": "A3 1.2 TFSI (Benzin, 105 PS)",
+    "fuel": "benzin",
+    "hp": 105
+  },
+  {
+    "label": "A3 1.2 TFSI S tronic (Benzin, 110 PS)",
+    "fuel": "benzin",
+    "hp": 110
+  },
+  {
+    "label": "A3 1.2 TFSI (Benzin, 110 PS)",
+    "fuel": "benzin",
+    "hp": 110
+  },
+  {
+    "label": "A3 1.0 TFSI S tronic (Benzin, 115 PS)",
+    "fuel": "benzin",
+    "hp": 115
+  },
+  {
+    "label": "A3 1.0 TFSI (Benzin, 115 PS)",
+    "fuel": "benzin",
+    "hp": 115
+  },
+  {
+    "label": "A3 1.4 TFSI S tronic (Benzin, 122 PS)",
+    "fuel": "benzin",
+    "hp": 122
+  },
+  {
+    "label": "A3 1.4 TFSI (Benzin, 122 PS)",
+    "fuel": "benzin",
+    "hp": 122
+  },
+  {
+    "label": "A3 1.4 TFSI S tronic (Benzin, 125 PS)",
+    "fuel": "benzin",
+    "hp": 125
+  },
+  {
+    "label": "A3 1.4 TFSI (Benzin, 125 PS)",
+    "fuel": "benzin",
+    "hp": 125
+  },
+  {
+    "label": "A3 1.4 TFSI cylinder on demand S tronic (Benzin, 140 PS)",
+    "fuel": "benzin",
+    "hp": 140
+  },
+  {
+    "label": "A3 1.4 TFSI cylinder on demand (Benzin, 140 PS)",
+    "fuel": "benzin",
+    "hp": 140
+  },
+  {
+    "label": "A3 1.4 TFSI cylinder on demand ultra S tronic (Benzin, 150 PS)",
+    "fuel": "benzin",
+    "hp": 150
+  },
+  {
+    "label": "A3 1.5 TFSI cylinder on demand S tronic (Benzin, 150 PS)",
+    "fuel": "benzin",
+    "hp": 150
+  },
+  {
+    "label": "A3 1.4 TFSI cylinder on demand ultra (Benzin, 150 PS)",
+    "fuel": "benzin",
+    "hp": 150
+  },
+  {
+    "label": "A3 1.5 TFSI cylinder on demand (Benzin, 150 PS)",
+    "fuel": "benzin",
+    "hp": 150
+  },
+  {
+    "label": "A3 1.8 TFSI S tronic (Benzin, 180 PS)",
+    "fuel": "benzin",
+    "hp": 180
+  },
+  {
+    "label": "A3 1.8 TFSI quattro S tronic (Benzin, 180 PS)",
+    "fuel": "benzin",
+    "hp": 180
+  },
+  {
+    "label": "A3 1.8 TFSI (Benzin, 180 PS)",
+    "fuel": "benzin",
+    "hp": 180
+  },
+  {
+    "label": "A3 2.0 TFSI quattro S tronic (Benzin, 190 PS)",
+    "fuel": "benzin",
+    "hp": 190
+  },
+  {
+    "label": "S3 S tronic (Benzin, 300 PS)",
+    "fuel": "benzin",
+    "hp": 300
+  },
+  {
+    "label": "S3 (Benzin, 300 PS)",
+    "fuel": "benzin",
+    "hp": 300
+  },
+  {
+    "label": "S3 S tronic (Benzin, 310 PS)",
+    "fuel": "benzin",
+    "hp": 310
+  },
+  {
+    "label": "S3 (Benzin, 310 PS)",
+    "fuel": "benzin",
+    "hp": 310
+  },
+  {
+    "label": "A3 1.6 TDI S tronic (Diesel, 105 PS)",
+    "fuel": "diesel",
+    "hp": 105
+  },
+  {
+    "label": "A3 1.6 TDI (Diesel, 105 PS)",
+    "fuel": "diesel",
+    "hp": 105
+  },
+  {
+    "label": "A3 1.6 TDI (clean diesel) S tronic (Diesel, 110 PS)",
+    "fuel": "clean diesel) s tronic (diesel",
+    "hp": 110
+  },
+  {
+    "label": "A3 1.6 TDI S tronic (Diesel, 110 PS)",
+    "fuel": "diesel",
+    "hp": 110
+  },
+  {
+    "label": "A3 1.6 TDI (clean diesel) (Diesel, 110 PS)",
+    "fuel": "clean diesel) (diesel",
+    "hp": 110
+  },
+  {
+    "label": "A3 1.6 TDI (Diesel, 110 PS)",
+    "fuel": "diesel",
+    "hp": 110
+  },
+  {
+    "label": "A3 1.6 TDI ultra (Diesel, 110 PS)",
+    "fuel": "diesel",
+    "hp": 110
+  },
+  {
+    "label": "A3 1.6 TDI S tronic (Diesel, 116 PS)",
+    "fuel": "diesel",
+    "hp": 116
+  },
+  {
+    "label": "A3 1.6 TDI (Diesel, 116 PS)",
+    "fuel": "diesel",
+    "hp": 116
+  },
+  {
+    "label": "A3 2.0 TDI S tronic (Diesel, 150 PS)",
+    "fuel": "diesel",
+    "hp": 150
+  },
+  {
+    "label": "A3 2.0 TDI (clean diesel) S tronic (Diesel, 150 PS)",
+    "fuel": "clean diesel) s tronic (diesel",
+    "hp": 150
+  },
+  {
+    "label": "A3 2.0 TDI quattro (Diesel, 150 PS)",
+    "fuel": "diesel",
+    "hp": 150
+  },
+  {
+    "label": "A3 2.0 TDI (Diesel, 150 PS)",
+    "fuel": "diesel",
+    "hp": 150
+  },
+  {
+    "label": "A3 2.0 TDI (clean diesel) quattro (Diesel, 150 PS)",
+    "fuel": "clean diesel) quattro (diesel",
+    "hp": 150
+  },
+  {
+    "label": "A3 2.0 TDI (clean diesel) (Diesel, 150 PS)",
+    "fuel": "clean diesel) (diesel",
+    "hp": 150
+  },
+  {
+    "label": "A3 2.0 TDI (clean diesel) quattro S tronic (Diesel, 184 PS)",
+    "fuel": "clean diesel) quattro s tronic (diesel",
+    "hp": 184
+  },
+  {
+    "label": "A3 2.0 TDI quattro S tronic (Diesel, 184 PS)",
+    "fuel": "diesel",
+    "hp": 184
+  },
+  {
+    "label": "A3 2.0 TDI (clean diesel) (Diesel, 184 PS)",
+    "fuel": "clean diesel) (diesel",
+    "hp": 184
+  }
+]

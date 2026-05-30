@@ -1,0 +1,37 @@
+{% extends "base.html" %}
+
+{% block title %}Impressum | {{ site_brand_name }}{% endblock %}
+
+{% block content %}
+<section class="py-5">
+    <div class="container">
+        <div class="card shadow-sm mx-auto" style="max-width: 920px;">
+            <div class="card-body p-4 p-md-5">
+                <h1 class="h3 mb-4">Impressum (Platzhalter)</h1>
+                <p class="alert alert-warning">
+                    Hinweis: Dieses Impressum ist ein Platzhalter und muss vor Veröffentlichung rechtlich geprüft und angepasst werden.
+                </p>
+
+                <h2 class="h5 mt-4">Angaben gemäß § 5 TMG</h2>
+                <p>
+                    Firmenname: {{ site_company_name }} (Platzhalter)<br>
+                    Inhaber/Geschäftsführer: Max Mustermann (Platzhalter)<br>
+                    Adresse: {{ site_address }}, Deutschland
+                </p>
+
+                <h2 class="h5 mt-4">Kontakt</h2>
+                <p>
+                    Telefon: {{ site_phone }}<br>
+                    E-Mail: {{ site_email }}
+                </p>
+
+                <h2 class="h5 mt-4">Umsatzsteuer-ID</h2>
+                <p>Umsatzsteuer-Identifikationsnummer gemäß § 27 a Umsatzsteuergesetz: DE123456789 (optional, Platzhalter)</p>
+
+                <h2 class="h5 mt-4">Verantwortlich für Inhalte nach § 18 Abs. 2 MStV</h2>
+                <p>Max Mustermann, Musterstrasse 1, 12345 Musterstadt</p>
+            </div>
+        </div>
+    </div>
+</section>
+{% endblock %}

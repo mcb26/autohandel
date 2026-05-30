@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Golf",
+    "description": "Golf",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/modelgroups/Golf"
+  },
+  {
+    "name": "Passat__MODEL_ALL",
+    "description": "Passat (alle)",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/modelgroups/Passat__MODEL_ALL"
+  },
+  {
+    "name": "T3",
+    "description": "T3",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/modelgroups/T3"
+  },
+  {
+    "name": "T4",
+    "description": "T4",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/modelgroups/T4"
+  },
+  {
+    "name": "T5",
+    "description": "T5",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/modelgroups/T5"
+  },
+  {
+    "name": "T6",
+    "description": "T6",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/modelgroups/T6"
+  },
+  {
+    "name": "T7",
+    "description": "T7",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/modelgroups/T7"
+  }
+]

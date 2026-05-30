@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Guarà",
+    "description": "Guarà",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DETOMASO/model/Guar%C3%A0"
+  },
+  {
+    "name": "Pantera",
+    "description": "Pantera",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DETOMASO/model/Pantera"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DETOMASO/model/ANDERE"
+  }
+]

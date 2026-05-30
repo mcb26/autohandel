@@ -1,0 +1,22 @@
+[
+  {
+    "label": "Q2 35 TFSI S tronic (Benzin, 150 PS) Q2 35 TFSI (Benzin, 150 PS) Q2 35 TDI quattro S tronic (Diesel, 150 PS)",
+    "fuel": "diesel",
+    "hp": 150
+  },
+  {
+    "label": "Q2 35 TFSI S tronic (Benzin, 150 PS)",
+    "fuel": "benzin",
+    "hp": 150
+  },
+  {
+    "label": "Q2 35 TFSI (Benzin, 150 PS)",
+    "fuel": "benzin",
+    "hp": 150
+  },
+  {
+    "label": "Q2 35 TDI quattro S tronic (Diesel, 150 PS)",
+    "fuel": "diesel",
+    "hp": 150
+  }
+]

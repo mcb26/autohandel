@@ -1,0 +1,97 @@
+[
+  {
+    "name": "ATS",
+    "description": "ATS",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CADILLAC/model/ATS"
+  },
+  {
+    "name": "Allante",
+    "description": "Allante",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CADILLAC/model/Allante"
+  },
+  {
+    "name": "BLS",
+    "description": "BLS",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CADILLAC/model/BLS"
+  },
+  {
+    "name": "CT5",
+    "description": "CT5",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CADILLAC/model/CT5"
+  },
+  {
+    "name": "CT6",
+    "description": "CT6",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CADILLAC/model/CT6"
+  },
+  {
+    "name": "CTS",
+    "description": "CTS",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CADILLAC/model/CTS"
+  },
+  {
+    "name": "Deville",
+    "description": "Deville",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CADILLAC/model/Deville"
+  },
+  {
+    "name": "Eldorado",
+    "description": "Eldorado",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CADILLAC/model/Eldorado"
+  },
+  {
+    "name": "Escalade",
+    "description": "Escalade",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CADILLAC/model/Escalade"
+  },
+  {
+    "name": "Fleetwood",
+    "description": "Fleetwood",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CADILLAC/model/Fleetwood"
+  },
+  {
+    "name": "LYRIQ",
+    "description": "LYRIQ",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CADILLAC/model/LYRIQ"
+  },
+  {
+    "name": "SRX",
+    "description": "SRX",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CADILLAC/model/SRX"
+  },
+  {
+    "name": "STS",
+    "description": "STS",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CADILLAC/model/STS"
+  },
+  {
+    "name": "Seville",
+    "description": "Seville",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CADILLAC/model/Seville"
+  },
+  {
+    "name": "XLR",
+    "description": "XLR",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CADILLAC/model/XLR"
+  },
+  {
+    "name": "XT4",
+    "description": "XT4",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CADILLAC/model/XT4"
+  },
+  {
+    "name": "XT5",
+    "description": "XT5",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CADILLAC/model/XT5"
+  },
+  {
+    "name": "XT6",
+    "description": "XT6",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CADILLAC/model/XT6"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/CADILLAC/model/ANDERE"
+  }
+]

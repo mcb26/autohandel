@@ -1,0 +1,22 @@
+[
+  {
+    "name": "A110",
+    "description": "A110",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ALPINE/model/A110"
+  },
+  {
+    "name": "A290",
+    "description": "A290",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ALPINE/model/A290"
+  },
+  {
+    "name": "A390",
+    "description": "A390",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ALPINE/model/A390"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ALPINE/model/ANDERE"
+  }
+]

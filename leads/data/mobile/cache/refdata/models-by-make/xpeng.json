@@ -1,0 +1,22 @@
+[
+  {
+    "name": "G6",
+    "description": "G6",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/XPENG/model/G6"
+  },
+  {
+    "name": "G9",
+    "description": "G9",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/XPENG/model/G9"
+  },
+  {
+    "name": "P7",
+    "description": "P7",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/XPENG/model/P7"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/XPENG/model/ANDERE"
+  }
+]

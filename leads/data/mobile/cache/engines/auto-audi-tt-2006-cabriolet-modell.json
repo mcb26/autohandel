@@ -1,0 +1,92 @@
+[
+  {
+    "label": "TT Roadster 1.8 TFSI S tronic (Benzin, 160 PS)",
+    "fuel": "benzin",
+    "hp": 160
+  },
+  {
+    "label": "TT Roadster 1.8 TFSI (Benzin, 160 PS)",
+    "fuel": "benzin",
+    "hp": 160
+  },
+  {
+    "label": "TT Roadster 2.0 TFSI S tronic (Benzin, 200 PS)",
+    "fuel": "benzin",
+    "hp": 200
+  },
+  {
+    "label": "TT Roadster 2.0 TFSI quattro S tronic (Benzin, 200 PS)",
+    "fuel": "benzin",
+    "hp": 200
+  },
+  {
+    "label": "TT Roadster 2.0 TFSI (Benzin, 200 PS)",
+    "fuel": "benzin",
+    "hp": 200
+  },
+  {
+    "label": "TT Roadster 2.0 TFSI S tronic quattro (Benzin, 211 PS)",
+    "fuel": "benzin",
+    "hp": 211
+  },
+  {
+    "label": "TT Roadster 2.0 TFSI S tronic (Benzin, 211 PS)",
+    "fuel": "benzin",
+    "hp": 211
+  },
+  {
+    "label": "TT Roadster 2.0 TFSI (Benzin, 211 PS)",
+    "fuel": "benzin",
+    "hp": 211
+  },
+  {
+    "label": "TT Roadster 3.2 quattro S tronic (Benzin, 250 PS)",
+    "fuel": "benzin",
+    "hp": 250
+  },
+  {
+    "label": "TT Roadster 3.2 quattro (Benzin, 250 PS)",
+    "fuel": "benzin",
+    "hp": 250
+  },
+  {
+    "label": "TTS Roadster S tronic (Benzin, 272 PS)",
+    "fuel": "benzin",
+    "hp": 272
+  },
+  {
+    "label": "TTS Roadster (Benzin, 272 PS)",
+    "fuel": "benzin",
+    "hp": 272
+  },
+  {
+    "label": "TT RS Roadster S tronic (Benzin, 340 PS)",
+    "fuel": "benzin",
+    "hp": 340
+  },
+  {
+    "label": "TT RS Roadster (Benzin, 340 PS)",
+    "fuel": "benzin",
+    "hp": 340
+  },
+  {
+    "label": "TT RS plus Roadster S tronic (Benzin, 360 PS)",
+    "fuel": "benzin",
+    "hp": 360
+  },
+  {
+    "label": "TT RS plus Roadster (Benzin, 360 PS)",
+    "fuel": "benzin",
+    "hp": 360
+  },
+  {
+    "label": "TT Roadster 2.0 TDI quattro S tronic (Diesel, 170 PS)",
+    "fuel": "diesel",
+    "hp": 170
+  },
+  {
+    "label": "TT Roadster 2.0 TDI quattro (Diesel, 170 PS)",
+    "fuel": "diesel",
+    "hp": 170
+  }
+]

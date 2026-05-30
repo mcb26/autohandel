@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Avenger",
+    "description": "Avenger",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/JEEP/model/Avenger"
+  },
+  {
+    "name": "CJ",
+    "description": "CJ",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/JEEP/model/CJ"
+  },
+  {
+    "name": "Cherokee",
+    "description": "Cherokee",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/JEEP/model/Cherokee"
+  },
+  {
+    "name": "Comanche",
+    "description": "Comanche",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/JEEP/model/Comanche"
+  },
+  {
+    "name": "Commander",
+    "description": "Commander",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/JEEP/model/Commander"
+  },
+  {
+    "name": "Compass",
+    "description": "Compass",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/JEEP/model/Compass"
+  },
+  {
+    "name": "Gladiator",
+    "description": "Gladiator",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/JEEP/model/Gladiator"
+  },
+  {
+    "name": "Grand Cherokee",
+    "description": "Grand Cherokee",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/JEEP/model/Grand%20Cherokee"
+  },
+  {
+    "name": "Patriot",
+    "description": "Patriot",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/JEEP/model/Patriot"
+  },
+  {
+    "name": "Renegade",
+    "description": "Renegade",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/JEEP/model/Renegade"
+  },
+  {
+    "name": "Wagoneer",
+    "description": "Wagoneer",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/JEEP/model/Wagoneer"
+  },
+  {
+    "name": "Willys",
+    "description": "Willys",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/JEEP/model/Willys"
+  },
+  {
+    "name": "Wrangler",
+    "description": "Wrangler",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/JEEP/model/Wrangler"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/JEEP/model/ANDERE"
+  }
+]

@@ -1,0 +1,2413 @@
+{
+  "label": "Dacia",
+  "models": {
+    "1100": {
+      "label": "1100",
+      "series": {
+        "dacia-1100": {
+          "label": "Dacia 1100",
+          "engines": [
+            {
+              "label": "1.1 (46 Hp) (1968 - 1971)",
+              "hp": 46,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "1300": {
+      "label": "1300",
+      "series": {
+        "dacia-1300": {
+          "label": "Dacia 1300",
+          "engines": [
+            {
+              "label": "1.3 (54 Hp) (1969 - 2004)",
+              "hp": 54,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dacia-1300-combi": {
+          "label": "Dacia 1300 Combi",
+          "engines": [
+            {
+              "label": "1.3 (54 Hp) (1969 - 2004)",
+              "hp": 54,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "1310": {
+      "label": "1310",
+      "series": {
+        "dacia-1310": {
+          "label": "Dacia 1310",
+          "engines": [
+            {
+              "label": "1.6 i (72 Hp) (2001 - 2004)",
+              "hp": 72,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (72 Hp) (1994 - 2001)",
+              "hp": 72,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 i (62 Hp) (2001 - 2004)",
+              "hp": 62,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 (63 Hp) (1994 - 2001)",
+              "hp": 63,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 (54 Hp) (1983 - 1994)",
+              "hp": 54,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dacia-1310-combi": {
+          "label": "Dacia 1310 Combi",
+          "engines": [
+            {
+              "label": "1.6 i (72 Hp) (2001 - 2006)",
+              "hp": 72,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 i (62 Hp) (2001 - 2006)",
+              "hp": 62,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 (63 Hp) (1994 - 2001)",
+              "hp": 63,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 (54 Hp) (1983 - 1994)",
+              "hp": 54,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "1325": {
+      "label": "1325",
+      "series": {
+        "dacia-1325": {
+          "label": "Dacia 1325",
+          "engines": [
+            {
+              "label": "1.6 TD (69 Hp) (1997 - 1998)",
+              "hp": 69,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 Liberta GTL (75 Hp) (1988 - 1998)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 Liberta TL (62 Hp) (1988 - 1998)",
+              "hp": 62,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "1410": {
+      "label": "1410",
+      "series": {
+        "dacia-1410": {
+          "label": "Dacia 1410",
+          "engines": [
+            {
+              "label": "1.4 (62 Hp) (1984 - 2004)",
+              "hp": 62,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dacia-1410-combi": {
+          "label": "Dacia 1410 Combi",
+          "engines": [
+            {
+              "label": "1.4 (62 Hp) (1984 - 1998)",
+              "hp": 62,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "bigster": {
+      "label": "Bigster",
+      "series": {
+        "dacia-bigster": {
+          "label": "Dacia Bigster",
+          "engines": [
+            {
+              "label": "1.8 (156 Hp) Hybrid Automatic",
+              "hp": 156,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.5 dCi (115 Hp)",
+              "hp": 115,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.2 TCe ECO-G (140 Hp) Mild Hybrid LPG",
+              "hp": 140,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.2 TCe (150 Hp) hybrid-G 4x4 DCT",
+              "hp": 150,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.2 TCe (140 Hp) Mild Hybrid",
+              "hp": 140,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.2 TCe (130 Hp) Mild Hybrid 4x4",
+              "hp": 130,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "dokker": {
+      "label": "Dokker",
+      "series": {
+        "dacia-dokker-van-facelift-2017": {
+          "label": "Dacia Dokker Van (facelift 2017)",
+          "engines": [
+            {
+              "label": "1.5 Blue dCi (95 Hp) 2 Seat (2019 - 2021)",
+              "hp": 95,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 Blue dCi (95 Hp) 1 Seat (2019 - 2021)",
+              "hp": 95,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 Blue dCi (75 Hp) 2 Seat (2017 - 2021)",
+              "hp": 75,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 Blue dCi (75 Hp) 1 Seat (2017 - 2021)",
+              "hp": 75,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.3 TCe (131 Hp) GPF 2 Seat (2019 - 2021)",
+              "hp": 131,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 TCe (131 Hp) GPF 1 Seat (2019 - 2021)",
+              "hp": 131,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 TCe (102 Hp) GPF 2 Seat (2019 - 2021)",
+              "hp": 102,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 TCe (102 Hp) GPF 1 Seat (2019 - 2021)",
+              "hp": 102,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dacia-dokker-stepway-facelift-2017": {
+          "label": "Dacia Dokker Stepway (facelift 2017)",
+          "engines": [
+            {
+              "label": "1.5 dCi (90 Hp) (2017 - 2018)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 Blue dCi (95 Hp) (2018 - 2020)",
+              "hp": 95,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.3 TCe (131 Hp) GPF (2019 - 2020)",
+              "hp": 131,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 TCe (102 Hp) (2019 - 2020)",
+              "hp": 102,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TCe (116 Hp) (2017 - 2018)",
+              "hp": 116,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dacia-dokker-facelift-2017": {
+          "label": "Dacia Dokker (facelift 2017)",
+          "engines": [
+            {
+              "label": "1.6 Sce (102 Hp) LPG (2017 - 2020)",
+              "hp": 102,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 Sce (102 Hp) (2017 - 2020)",
+              "hp": 102,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 dCi (90 Hp) (2017 - 2018)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 dCi (75 Hp) (2017 - 2019)",
+              "hp": 75,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 Blue dCi (95 Hp) (2018 - 2020)",
+              "hp": 95,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.3 TCe (131 Hp) (2019 - 2020)",
+              "hp": 131,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 TCe (102 Hp) (2019 - 2020)",
+              "hp": 102,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TCe (116 Hp) (2017 - 2018)",
+              "hp": 116,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dacia-dokker-van": {
+          "label": "Dacia Dokker Van",
+          "engines": [
+            {
+              "label": "1.6 MPI (85 Hp) (2013 - 2015)",
+              "hp": 85,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 dCi (90 Hp) FAP (2013 - 2017)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 dCi (75 Hp) FAP (2013 - 2017)",
+              "hp": 75,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.2 TCe (115 Hp) (2013 - 2017)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dacia-dokker": {
+          "label": "Dacia Dokker",
+          "engines": [
+            {
+              "label": "1.6 MPI (85 Hp) (2012 - 2015)",
+              "hp": 85,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 dCi (90 Hp) FAP (2012 - 2017)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 dCi (75 Hp) FAP (2012 - 2017)",
+              "hp": 75,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.2 TCe (115 Hp) (2012 - 2017)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "duster": {
+      "label": "Duster",
+      "series": {
+        "dacia-duster-iii-pick-up": {
+          "label": "Dacia Duster III Pick-up",
+          "engines": [
+            {
+              "label": "1.6 (143 Hp) Full Hybrid Automatic",
+              "hp": 143,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.2 (130 Hp) Mild Hybrid 4x4",
+              "hp": 130,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dacia-duster-iii": {
+          "label": "Dacia Duster III",
+          "engines": [
+            {
+              "label": "1.8 (155 Hp) Full Hybrid Multi-Mode",
+              "hp": 155,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.6 (141 Hp) Full Hybrid Multi-Mode (2024 - 2025)",
+              "hp": 141,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.5 dCi (115 Hp)",
+              "hp": 115,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.2 TCe (150 Hp) hybrid-G 4x4 EDC",
+              "hp": 150,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.2 TCe (140 Hp) Mild Hybrid",
+              "hp": 140,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.2 TCe (130 Hp) Mild Hybrid 4x4 (2024 - 2025)",
+              "hp": 130,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.2 TCe (130 Hp) Mild Hybrid (2024 - 2025)",
+              "hp": 130,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.2 Eco-G (120 Hp) EDC",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 Eco-G (120 Hp)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 ECO-G (91/101 Hp) (2024 - 2025)",
+              "hp": 101,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dacia-duster-ii-facelift-2022": {
+          "label": "Dacia Duster II (facelift 2022)",
+          "engines": [
+            {
+              "label": "1.5 dCi (110 Hp) EDC (2022 - 2024)",
+              "hp": 110,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 dCi (110 Hp) 4WD (2022 - 2024)",
+              "hp": 110,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 dCi (85 Hp) (2022 - 2024)",
+              "hp": 85,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 Blue dCi (115 Hp) 4WD (2022 - 2024)",
+              "hp": 115,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 Blue dCi (115 Hp) (2022 - 2024)",
+              "hp": 115,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.3 TCe (150 Hp) EDC (2022 - 2024)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 TCe (130 Hp) (2022 - 2024)",
+              "hp": 130,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TCe ECO-G 100 (90/100 Hp) (2022 - 2024)",
+              "hp": 100,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dacia-duster-ii-facelift-2021": {
+          "label": "Dacia Duster II (facelift 2021)",
+          "engines": [
+            {
+              "label": "1.5 Blue dCi (116 Hp) 4WD (2021 - 2022)",
+              "hp": 116,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 Blue dCi (116 Hp) (2021 - 2022)",
+              "hp": 116,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.3 TCe (150 Hp) EDC (2021 - 2022)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 TCe (150 Hp) 4WD (2021 - 2022)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 TCe (131 Hp) (2021 - 2022)",
+              "hp": 131,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TCe ECO-G (101 Hp) (2021 - 2022)",
+              "hp": 101,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TCe (91 Hp) (2021 - 2022)",
+              "hp": 91,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dacia-duster-ii": {
+          "label": "Dacia Duster II",
+          "engines": [
+            {
+              "label": "1.6 SCe (114/109 Hp) LPG (2018 - 2018)",
+              "hp": 109,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 SCe (114 Hp) 4x4 (2018 - 2018)",
+              "hp": 114,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 SCe (114 Hp) (2018 - 2018)",
+              "hp": 114,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 dCi (116 Hp) 4x4 (2018 - 2021)",
+              "hp": 116,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 dCi (116 Hp) (2018 - 2021)",
+              "hp": 116,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 dCi (110 Hp) Automatic (2018 - 2018)",
+              "hp": 110,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 dCi (110 Hp) 4x4 (2018 - 2018)",
+              "hp": 110,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 dCi (110 Hp) (2018 - 2018)",
+              "hp": 110,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 dCi (95 Hp) (2018 - 2019)",
+              "hp": 95,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 dCi (90 Hp) (2018 - 2018)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.3 TCe (150 Hp) GPF (2019 - 2021)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 TCe (150 Hp) 4WD GPF (2019 - 2021)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 TCe (131 Hp) GPF (2019 - 2021)",
+              "hp": 131,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 TCe (131 Hp) 4WD GPF (2019 - 2021)",
+              "hp": 131,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TCe (125 Hp) 4x4 (2018 - 2018)",
+              "hp": 125,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TCe (100 Hp) (2019 - 2020)",
+              "hp": 100,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 ECO-G (101 Hp) LPG (2020 - 2021)",
+              "hp": 101,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dacia-duster-facelift-2013": {
+          "label": "Dacia Duster (facelift 2013)",
+          "engines": [
+            {
+              "label": "1.6 SCe LPG (114 Hp) (2015 - 2017)",
+              "hp": 114,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 SCe (114 Hp) 4WD (2015 - 2017)",
+              "hp": 114,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 SCe (114 Hp) (2015 - 2017)",
+              "hp": 114,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 LPG (105 Hp) (2013 - 2017)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (105 Hp) 4WD (2013 - 2017)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (105 Hp) (2013 - 2017)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 dCi (110 Hp) FAP 4WD (2013 - 2017)",
+              "hp": 110,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 dCi (110 Hp) FAP (2013 - 2017)",
+              "hp": 110,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 dCi (109 Hp) 4WD (2014 - 2017)",
+              "hp": 109,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 dCi (109 Hp) (2013 - 2017)",
+              "hp": 109,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 dCi (90 Hp) (2013 - 2017)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.2 TCe (125 Hp) 4WD (2015 - 2017)",
+              "hp": 125,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TCe (125 Hp) (2013 - 2017)",
+              "hp": 125,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dacia-duster": {
+          "label": "Dacia Duster",
+          "engines": [
+            {
+              "label": "1.6 (105/102 Hp) 4x2 LPG (2010 - 2013)",
+              "hp": 102,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (105 Hp) 4x4 (2010 - 2013)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 dCi (110 Hp) FAP 4x4 (2010 - 2013)",
+              "hp": 110,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 dCi (110 Hp) FAP 4x2 (2010 - 2013)",
+              "hp": 110,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 dCi (90 Hp) FAP 4x4 (2010 - 2013)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 dCi (90 Hp) FAP 4x2 (2010 - 2013)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "hipster": {
+      "label": "Hipster",
+      "series": {
+        "dacia-hipster-concept": {
+          "label": "Dacia Hipster Concept",
+          "engines": [
+            {
+              "label": "Keine exakte Motorliste verfügbar – bitte genaue Motorisierung im Freitext angeben"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "jogger": {
+      "label": "Jogger",
+      "series": {
+        "dacia-jogger-facelift-2025": {
+          "label": "Dacia Jogger (facelift 2025)",
+          "engines": [
+            {
+              "label": "1.8 155 (158 Hp) Hybrid Multi-Mode 7 Seat",
+              "hp": 158,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.8 155 (158 Hp) Hybrid Multi-Mode",
+              "hp": 158,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.2 Eco-G 120 (114/122 Hp) LPG EDC 7 Seat",
+              "hp": 122,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 Eco-G 120 (114/122 Hp) LPG EDC",
+              "hp": 122,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 Eco-G 120 (114/122 Hp) LPG 7 Seat",
+              "hp": 122,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 Eco-G 120 (114/122 Hp) LPG",
+              "hp": 122,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TCe 110 (110 Hp) 7 Seat",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TCe 110 (110 Hp)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dacia-jogger-facelift-2022": {
+          "label": "Dacia Jogger (facelift 2022)",
+          "engines": [
+            {
+              "label": "1.6 (141 Hp) Hybrid Automatic 7 Seat (2023 - 2025)",
+              "hp": 141,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.6 (141 Hp) Hybrid Automatic (2023 - 2025)",
+              "hp": 141,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.5 Blue dCi (102 Hp) 7 Seat",
+              "hp": 102,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 Blue dCi (102 Hp)",
+              "hp": 102,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.0 TCe (110 Hp) 7 Seat (2022 - 2025)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TCe (110 Hp) (2022 - 2025)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TCe ECO-G 100 (91/101 Hp) LPG 7 Seat (2022 - 2025)",
+              "hp": 101,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TCe ECO-G 100 (91/101 Hp) LPG (2022 - 2025)",
+              "hp": 101,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dacia-jogger": {
+          "label": "Dacia Jogger",
+          "engines": [
+            {
+              "label": "1.0 TCe (110 Hp) 7 Seat (2021 - 2022)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TCe (110 Hp) (2021 - 2022)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TCe ECO-G (91/101 Hp) LPG 7 Seat (2021 - 2022)",
+              "hp": 101,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TCe ECO-G (91/101 Hp) LPG (2021 - 2022)",
+              "hp": 101,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "lodgy": {
+      "label": "Lodgy",
+      "series": {
+        "dacia-lodgy-stepway-facelift-2017": {
+          "label": "Dacia Lodgy Stepway (facelift 2017)",
+          "engines": [
+            {
+              "label": "1.6 SCe (102 Hp) 7 Seat (2017 - 2018)",
+              "hp": 102,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 SCe (102 Hp) (2017 - 2018)",
+              "hp": 102,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 dCi (107 Hp) 7 Seat (2017 - 2018)",
+              "hp": 107,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 dCi (107 Hp) (2017 - 2018)",
+              "hp": 107,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 Blue dCi (116 Hp) 7 Seat",
+              "hp": 116,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 Blue dCi (116 Hp)",
+              "hp": 116,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.3 TCe (131 Hp) GPF 7 Seat",
+              "hp": 131,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 TCe (131 Hp) GPF",
+              "hp": 131,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 TCe (102 Hp) GPF",
+              "hp": 102,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 TCe (102 Hp) 7 Seat",
+              "hp": 102,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TCe (116 Hp) 7 Seat (2017 - 2018)",
+              "hp": 116,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TCe (116 Hp) (2017 - 2018)",
+              "hp": 116,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dacia-lodgy-facelift-2017": {
+          "label": "Dacia Lodgy (facelift 2017)",
+          "engines": [
+            {
+              "label": "1.6 SCe (102 Hp) 7 Seat (2017 - 2018)",
+              "hp": 102,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 SCe (102 Hp) (2017 - 2018)",
+              "hp": 102,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 dCi (107 Hp) 7 Seat (2017 - 2018)",
+              "hp": 107,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 dCi (107 Hp) (2017 - 2018)",
+              "hp": 107,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 Blue dCi (116 Hp) 7 Seat",
+              "hp": 116,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 Blue dCi (116 Hp)",
+              "hp": 116,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 Blue dCi (95 Hp) 7 Seat (2018 - 2019)",
+              "hp": 95,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 Blue dCi (95 Hp) (2018 - 2019)",
+              "hp": 95,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.3 TCe (131 Hp) GPF 7 Seat",
+              "hp": 131,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 TCe (131 Hp)",
+              "hp": 131,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 TCe (102 Hp) GPF 7 Seat",
+              "hp": 102,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 TCe (102 Hp) GPF",
+              "hp": 102,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TCe (116 Hp) 7 Seat (2017 - 2018)",
+              "hp": 116,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TCe (116 Hp) (2017 - 2018)",
+              "hp": 116,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dacia-lodgy": {
+          "label": "Dacia Lodgy",
+          "engines": [
+            {
+              "label": "1.6 SCe LPG (102 Hp) 7 Seats (2015 - 2017)",
+              "hp": 102,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 SCe LPG (102 Hp) (2015 - 2017)",
+              "hp": 102,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 SCe (102 Hp) 7 Seats (2015 - 2017)",
+              "hp": 102,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 SCe (102 Hp) (2015 - 2017)",
+              "hp": 102,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 MPI LPG (83 Hp) 7 Seats (2012 - 2015)",
+              "hp": 83,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 MPI LPG (83 Hp) (2012 - 2015)",
+              "hp": 83,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 MPI (83 Hp) (2012 - 2015)",
+              "hp": 83,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 dCi (110 Hp) FAP (2012 - 2017)",
+              "hp": 110,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 dCi (90 Hp) FAP (2012 - 2017)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.2 TCe (115 Hp) (2012 - 2017)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "logan": {
+      "label": "Logan",
+      "series": {
+        "dacia-logan-iii-facelift-2022": {
+          "label": "Dacia Logan III (facelift 2022)",
+          "engines": [
+            {
+              "label": "1.5 dCi (95 Hp)",
+              "hp": 95,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.0 TCe (100 Hp) CVT",
+              "hp": 100,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TCe (100 Hp)",
+              "hp": 100,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TCe (90 Hp) Manual 6-speed",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TCe (90 Hp) Manual 5-speed",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TCe (90 Hp) CVT",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 ECO-G 100 (90/100 Hp) LPG Manual 6-speed",
+              "hp": 100,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 ECO-G 100 (90/100 Hp) LPG Manual 5-speed",
+              "hp": 100,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dacia-logan-iii": {
+          "label": "Dacia Logan III",
+          "engines": [
+            {
+              "label": "1.0 TCe (91 Hp) CVT (2020 - 2022)",
+              "hp": 91,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TCe (91 Hp) (2020 - 2022)",
+              "hp": 91,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 SCe (67 Hp) (2020 - 2022)",
+              "hp": 67,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 ECO-G (101 Hp) LPG (2020 - 2022)",
+              "hp": 101,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dacia-logan-ii-mcv-stepway-facelift-2017": {
+          "label": "Dacia Logan II MCV Stepway (facelift 2017)",
+          "engines": [
+            {
+              "label": "1.5 dCi (95 Hp) (2018 - 2020)",
+              "hp": 95,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 dCi (90 Hp) (2017 - 2018)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.0 TCe (101 Hp) (2019 - 2020)",
+              "hp": 101,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 ECO-G (101 Hp) LPG (2020 - 2020)",
+              "hp": 101,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.9 TCe (90 Hp) Easy-R (2019 - 2020)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.9 TCe (90 Hp) (2019 - 2020)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dacia-logan-ii-mcv-facelift-2017": {
+          "label": "Dacia Logan II MCV (facelift 2017)",
+          "engines": [
+            {
+              "label": "1.5 dCi (95 Hp) (2018 - 2020)",
+              "hp": 95,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 dCi (90 Hp) Easy-R (2017 - 2018)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 dCi (90 Hp) (2017 - 2018)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 dCi (75 Hp) (2017 - 2018)",
+              "hp": 75,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.0 TCe (101 Hp) (2019 - 2020)",
+              "hp": 101,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 SCe (75 Hp) (2017 - 2018)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 SCe (73 Hp) (2018 - 2020)",
+              "hp": 73,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 ECO-G (101 Hp) LPG (2020 - 2020)",
+              "hp": 101,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.9 TCe (90 Hp) Easy-R (2019 - 2020)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.9 TCe (90 Hp) (2019 - 2020)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dacia-logan-ii-facelift-2016": {
+          "label": "Dacia Logan II (facelift 2016)",
+          "engines": [
+            {
+              "label": "1.5 dCi (90 Hp) (2016 - 2018)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 dCi (75 Hp) (2016 - 2018)",
+              "hp": 75,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 Blue dCi (95 Hp) (2018 - 2020)",
+              "hp": 95,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.0 SCe (73 Hp) (2018 - 2020)",
+              "hp": 73,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 ECO-G (101 Hp) LPG (2020 - 2020)",
+              "hp": 101,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 12V (73 Hp) (2016 - 2018)",
+              "hp": 73,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.9 TCe 90 CP (90 Hp) (2016 - 2018)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.9 TCe (90 Hp) LPG (2016 - 2018)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.9 TCe (90 Hp) Easy-R (2019 - 2020)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.9 TCe (90 Hp) (2019 - 2020)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dacia-logan-ii-mcv": {
+          "label": "Dacia Logan II MCV",
+          "engines": [
+            {
+              "label": "1.5 dCi (90 Hp) Start&Stop FAP (2015 - 2016)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 dCi (90 Hp) Start&Stop Easy-R FAP (2016 - 2016)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 dCi (90 Hp) FAP (2013 - 2015)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 dCi (75 Hp) Start&Stop FAP (2015 - 2016)",
+              "hp": 75,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 dCi (75 Hp) FAP (2013 - 2015)",
+              "hp": 75,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.2 (75 Hp) (2015 - 2016)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.9 Tce (90 Hp) Start&Stop Easy-R (2016 - 2016)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.9 Tce (90 Hp) Start&Stop (2015 - 2016)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.9 Tce (90 Hp) LPG Start&Stop (2015 - 2016)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.9 Tce (90 Hp) (2013 - 2015)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dacia-logan-ii": {
+          "label": "Dacia Logan II",
+          "engines": [
+            {
+              "label": "1.5 dCi (90 Hp) Start&Stop FAP (2015 - 2016)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 dCi (90 Hp) Start&Stop Easy-R FAP (2016 - 2016)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 dCi (90 Hp) FAP (2012 - 2015)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 dCi (75 Hp) Start&Stop FAP (2015 - 2016)",
+              "hp": 75,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 dCi (75 Hp) FAP (2012 - 2015)",
+              "hp": 75,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.2 (75 Hp) LPG (2012 - 2016)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 (75 Hp) (2015 - 2016)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.9 Tce (90 Hp) Start&Stop Easy-R (2016 - 2016)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.9 Tce (90 Hp) Start&Stop (2015 - 2016)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.9 Tce (90 Hp) LPG Start&Stop (2015 - 2016)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.9 Tce (90 Hp) (2012 - 2015)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dacia-logan-i-mcv-facelift-2008": {
+          "label": "Dacia Logan I MCV (facelift 2008)",
+          "engines": [
+            {
+              "label": "1.6 MPI 8V (87 Hp) 7 Seats (2008 - 2010)",
+              "hp": 87,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 MPI 8V (87 Hp) (2008 - 2010)",
+              "hp": 87,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 MPI 8V (84/82 Hp) LPG 7 Seats (2010 - 2013)",
+              "hp": 82,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 MPI 8V (84/82 Hp) LPG (2010 - 2013)",
+              "hp": 82,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 MPI 8V (84 Hp) LPG 7 Seats (2008 - 2010)",
+              "hp": 84,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 MPI 8V (84 Hp) LPG (2008 - 2010)",
+              "hp": 84,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 MPI 8V (84 Hp) 7 Seats (2010 - 2013)",
+              "hp": 84,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 MPI 8V (84 Hp) (2010 - 2013)",
+              "hp": 84,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 16V (105 Hp) Ethanol 7 Seats (2010 - 2013)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 16V (105 Hp) Ethanol (2010 - 2013)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 16V (105 Hp) 7 Seats (2008 - 2010)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 16V (105 Hp) (2008 - 2010)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 dCi (88 Hp) FAP 7 Seats (2010 - 2013)",
+              "hp": 88,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 dCi (88 Hp) FAP (2010 - 2013)",
+              "hp": 88,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 dCi (86 Hp) 7 Seats (2008 - 2010)",
+              "hp": 86,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 dCi (86 Hp) (2008 - 2010)",
+              "hp": 86,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 dCi (75 Hp) FAP 7 Seats (2010 - 2013)",
+              "hp": 75,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 dCi (75 Hp) FAP (2010 - 2013)",
+              "hp": 75,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 dCi (68 Hp) 7 Seats (2008 - 2010)",
+              "hp": 68,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 dCi (68 Hp) (2008 - 2010)",
+              "hp": 68,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.4 MPI (75 Hp) (2008 - 2010)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dacia-logan-i-facelift-2008": {
+          "label": "Dacia Logan I (facelift 2008)",
+          "engines": [
+            {
+              "label": "1.6 16V (105 Hp) (2008 - 2010)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (85 Hp) (2008 - 2010)",
+              "hp": 85,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 dCi (90 Hp) FAP (2010 - 2012)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 dCi (75 Hp) FAP (2010 - 2012)",
+              "hp": 75,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.4 MPI (75 Hp) (2008 - 2009)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 (75 Hp) (2008 - 2012)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dacia-logan-i-van": {
+          "label": "Dacia Logan I Van",
+          "engines": [
+            {
+              "label": "1.6 16V (105 Hp) (2007 - 2012)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (87 Hp) (2007 - 2012)",
+              "hp": 87,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 dCi (90 Hp) (2007 - 2012)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 dCi (75 Hp) (2007 - 2012)",
+              "hp": 75,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 dCi (68 Hp) (2007 - 2012)",
+              "hp": 68,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.4 (75 Hp) (2007 - 2012)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dacia-logan-i-mcv": {
+          "label": "Dacia Logan I MCV",
+          "engines": [
+            {
+              "label": "1.6 MPI 8V (87/84 Hp) LPG (2006 - 2008)",
+              "hp": 84,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 MPI 8V (87 Hp) 7 Seats (2006 - 2008)",
+              "hp": 87,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 16V (105 Hp) 7 Seats (2006 - 2008)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 dCi (86 Hp) 7 Seats (2006 - 2008)",
+              "hp": 86,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 dCi (68 Hp) 7 Seats (2006 - 2008)",
+              "hp": 68,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.4i (75 Hp) 7 Seats (2006 - 2008)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dacia-logan-i": {
+          "label": "Dacia Logan I",
+          "engines": [
+            {
+              "label": "1.6 8V (87 Hp) (2004 - 2008)",
+              "hp": 87,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 16V (105 Hp) (2006 - 2008)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 dCi (86 Hp) (2007 - 2008)",
+              "hp": 86,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 dCi (65 Hp) (2005 - 2008)",
+              "hp": 65,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.4 i (75 Hp) (2004 - 2008)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "manifesto": {
+      "label": "Manifesto",
+      "series": {
+        "dacia-manifesto-concept": {
+          "label": "Dacia Manifesto (Concept)",
+          "engines": [
+            {
+              "label": "Keine exakte Motorliste verfügbar – bitte genaue Motorisierung im Freitext angeben"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "nova": {
+      "label": "Nova",
+      "series": {
+        "dacia-nova": {
+          "label": "Dacia Nova",
+          "engines": [
+            {
+              "label": "1.6 (72 Hp) (1995 - 2000)",
+              "hp": 72,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 SupeRNova (75 Hp) (2000 - 2003)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 (62 Hp) (1995 - 2000)",
+              "hp": 62,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "sandero": {
+      "label": "Sandero",
+      "series": {
+        "dacia-sandero-iii-stepway-facelift-2025": {
+          "label": "Dacia Sandero III Stepway (facelift 2025)",
+          "engines": [
+            {
+              "label": "1.2 Eco-G 120 (114/122 Hp) LPG EDC",
+              "hp": 122,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 Eco-G 120 (114/122 Hp) LPG",
+              "hp": 122,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TCe 110 (110 Hp)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dacia-sandero-iii-facelift-2025": {
+          "label": "Dacia Sandero III (facelift 2025)",
+          "engines": [
+            {
+              "label": "1.2 Eco-G 120 (114/122 Hp) LPG EDC",
+              "hp": 122,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 Eco-G 120 (114/122 Hp) LPG",
+              "hp": 122,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TCe 100 (101 Hp)",
+              "hp": 101,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 SCe 65 (67 Hp)",
+              "hp": 67,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dacia-sandero-iii-stepway-facelift-2022": {
+          "label": "Dacia Sandero III Stepway (facelift 2022)",
+          "engines": [
+            {
+              "label": "1.5 dCi (102 Hp) (2022 - 2025)",
+              "hp": 102,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.0 TCe 110 (110 Hp) (2022 - 2025)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TCe (100 Hp) CVT (2022 - 2025)",
+              "hp": 100,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TCe 90 (91 Hp) CVT (2022 - 2025)",
+              "hp": 91,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TCe 90 (91 Hp) (2022 - 2025)",
+              "hp": 91,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 ECO-G 100 (91/101 Hp) LPG (2022 - 2025)",
+              "hp": 101,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dacia-sandero-iii-facelift-2022": {
+          "label": "Dacia Sandero III (facelift 2022)",
+          "engines": [
+            {
+              "label": "1.5 dCi (95 Hp) (2022 - 2025)",
+              "hp": 95,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.0 TCe (100 Hp) (2022 - 2025)",
+              "hp": 100,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TCe 90 (91 Hp) CVT (2022 - 2025)",
+              "hp": 91,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TCe 90 (91 Hp) (2022 - 2025)",
+              "hp": 91,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 SCe 65 (67 Hp) (2022 - 2025)",
+              "hp": 67,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 ECO-G 100 (91/101 Hp) LPG (2022 - 2025)",
+              "hp": 101,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dacia-sandero-iii-stepway": {
+          "label": "Dacia Sandero III Stepway",
+          "engines": [
+            {
+              "label": "1.0 TCe (91 Hp) CVT (2021 - 2022)",
+              "hp": 91,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TCe (91 Hp) (2020 - 2022)",
+              "hp": 91,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 ECO-G (91/101 Hp) LPG (2020 - 2022)",
+              "hp": 101,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dacia-sandero-iii": {
+          "label": "Dacia Sandero III",
+          "engines": [
+            {
+              "label": "1.0 TCe (91 Hp) CVT (2021 - 2022)",
+              "hp": 91,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TCe (91 Hp) (2020 - 2022)",
+              "hp": 91,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 SCe (67 Hp) (2020 - 2022)",
+              "hp": 67,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 ECO-G (91/101 Hp) LPG (2020 - 2022)",
+              "hp": 101,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dacia-sandero-ii-stepway-facelift-2016": {
+          "label": "Dacia Sandero II Stepway (facelift 2016)",
+          "engines": [
+            {
+              "label": "1.6 MPI (80 Hp)",
+              "hp": 80,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 dCi (95 Hp) Start&Stop (2018 - 2020)",
+              "hp": 95,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 dCi (90 Hp) Start&Stop Easy-R (2016 - 2020)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 dCi (90 Hp) Start&Stop (2016 - 2020)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 dCi (85 Hp)",
+              "hp": 85,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.0 TCe (101 Hp) (2019 - 2020)",
+              "hp": 101,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 SCe (73 Hp) (2018 - 2020)",
+              "hp": 73,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 ECO-G (101 Hp) LPG (2020 - 2020)",
+              "hp": 101,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.9 TCe (90 Hp) Start&Stop Easy-R (2016 - 2020)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.9 TCe (90 Hp) Start&Stop (2016 - 2020)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.9 TCe (90 Hp) LPG Start&Stop (2016 - 2020)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dacia-sandero-ii-facelift-2016": {
+          "label": "Dacia Sandero II (facelift 2016)",
+          "engines": [
+            {
+              "label": "1.5 dCi (95 Hp) (2018 - 2020)",
+              "hp": 95,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 dCi (90 Hp) Start&Stop Easy-R (2016 - 2018)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 dCi (90 Hp) Start&Stop (2016 - 2018)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 dCi (75 Hp) Start&Stop (2016 - 2018)",
+              "hp": 75,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.0 TCe (101 Hp) (2019 - 2020)",
+              "hp": 101,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 SCe (73 Hp) (2016 - 2020)",
+              "hp": 73,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 ECO-G (101 Hp) LPG (2020 - 2020)",
+              "hp": 101,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.9 TCe (90 Hp) Start&Stop Easy-R (2016 - 2020)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.9 TCe (90 Hp) Start&Stop (2016 - 2020)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.9 TCe (90 Hp) LPG Start&Stop (2016 - 2020)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dacia-sandero-ii-stepway": {
+          "label": "Dacia Sandero II Stepway",
+          "engines": [
+            {
+              "label": "1.5 dCi (90 Hp) Start&Stop FAP (2015 - 2016)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 dCi (90 Hp) Start&Stop Easy-R FAP (2015 - 2016)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 dCi (90 Hp) FAP (2012 - 2015)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "0.9 Tce (90 Hp) Start&Stop Easy-R (2015 - 2016)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.9 Tce (90 Hp) Start&Stop (2015 - 2016)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.9 Tce (90 Hp) LPG Start&Stop (2015 - 2016)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.9 Tce (90 Hp) (2012 - 2015)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dacia-sandero-ii": {
+          "label": "Dacia Sandero II",
+          "engines": [
+            {
+              "label": "1.5 dCi (90 Hp) Start&Stop FAP (2015 - 2016)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 dCi (90 Hp) Start&Stop Easy-R FAP (2015 - 2016)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 dCi (90 Hp) FAP (2012 - 2015)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 dCi (75 Hp) Start&Stop FAP (2015 - 2016)",
+              "hp": 75,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 dCi (75 Hp) FAP (2012 - 2015)",
+              "hp": 75,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.2 (75 Hp) LPG (2012 - 2015)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 (75 Hp) (2015 - 2016)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.9 Tce (90 Hp) Start&Stop Easy-R (2015 - 2016)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.9 Tce (90 Hp) Start&Stop (2015 - 2016)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.9 Tce (90 Hp) LPG Start&Stop (2015 - 2016)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "0.9 Tce (90 Hp) (2012 - 2015)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dacia-sandero-i-stepway": {
+          "label": "Dacia Sandero I Stepway",
+          "engines": [
+            {
+              "label": "1.6 8V (87 Hp) (2009 - 2010)",
+              "hp": 87,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 8V (84/82 Hp) LPG (2010 - 2012)",
+              "hp": 82,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 8V (84 Hp) (2010 - 2012)",
+              "hp": 84,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 16V (105 Hp) Ethanol (2012 - 2012)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 dCi (88 Hp) FAP (2010 - 2012)",
+              "hp": 88,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 dCi (68 Hp) (2009 - 2010)",
+              "hp": 68,
+              "fuel": "diesel"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dacia-sandero-i": {
+          "label": "Dacia Sandero I",
+          "engines": [
+            {
+              "label": "1.6 8V (87 Hp) (2008 - 2010)",
+              "hp": 87,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 8V (84 Hp) (2010 - 2012)",
+              "hp": 84,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 dCi (88 Hp) FAP (2010 - 2012)",
+              "hp": 88,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 dCi (86 Hp) (2008 - 2010)",
+              "hp": 86,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 dCi (75 Hp) FAP (2010 - 2012)",
+              "hp": 75,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 dCi (68 Hp) (2009 - 2010)",
+              "hp": 68,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.4 MPI (75 Hp) (2008 - 2010)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 MPI (72 Hp) LPG (2008 - 2010)",
+              "hp": 72,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 (75/72 Hp) LPG (2010 - 2012)",
+              "hp": 72,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 (75 Hp) (2010 - 2012)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "sandrider": {
+      "label": "Sandrider",
+      "series": {
+        "dacia-sandrider-prototype": {
+          "label": "Dacia Sandrider (Prototype)",
+          "engines": [
+            {
+              "label": "3.0 V6 (360 Hp) 4x4 (2024 - 2024)",
+              "hp": 360,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "solenza": {
+      "label": "Solenza",
+      "series": {
+        "dacia-solenza": {
+          "label": "Dacia Solenza",
+          "engines": [
+            {
+              "label": "1.9 D (63 Hp) (2003 - 2005)",
+              "hp": 63,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 i (75 Hp) (2004 - 2005)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "spring": {
+      "label": "Spring",
+      "series": {
+        "dacia-spring-facelift-2024": {
+          "label": "Dacia Spring (facelift 2024)",
+          "engines": [
+            {
+              "label": "27.4 kWh (65 Hp) Electric (2024 - 2025)",
+              "hp": 65,
+              "fuel": "elektro"
+            },
+            {
+              "label": "27.4 kWh (45 Hp) Electric (2024 - 2025)",
+              "hp": 45,
+              "fuel": "elektro"
+            },
+            {
+              "label": "24.3 kWh (71 Hp) Electric",
+              "hp": 71,
+              "fuel": "elektro"
+            },
+            {
+              "label": "24.3 kWh (102 Hp) Electric",
+              "hp": 102,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dacia-spring-facelift-2022": {
+          "label": "Dacia Spring (facelift 2022)",
+          "engines": [
+            {
+              "label": "26.8 kWh (65 Hp) Electric (2023 - 2024)",
+              "hp": 65,
+              "fuel": "elektro"
+            },
+            {
+              "label": "26.8 kWh (45 Hp) Electric (2022 - 2024)",
+              "hp": 45,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "dacia-spring": {
+          "label": "Dacia Spring",
+          "engines": [
+            {
+              "label": "27.4 kWh (45 Hp) Electric (2021 - 2022)",
+              "hp": 45,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

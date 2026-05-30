@@ -1,0 +1,32 @@
+[
+  {
+    "name": "GLA 180",
+    "description": "GLA 180",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/GLA-Klasse/models/GLA%20180"
+  },
+  {
+    "name": "GLA 200",
+    "description": "GLA 200",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/GLA-Klasse/models/GLA%20200"
+  },
+  {
+    "name": "GLA 220",
+    "description": "GLA 220",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/GLA-Klasse/models/GLA%20220"
+  },
+  {
+    "name": "GLA 250",
+    "description": "GLA 250",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/GLA-Klasse/models/GLA%20250"
+  },
+  {
+    "name": "GLA 35 AMG",
+    "description": "GLA 35 AMG",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/GLA-Klasse/models/GLA%2035%20AMG"
+  },
+  {
+    "name": "GLA 45 AMG",
+    "description": "GLA 45 AMG",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/GLA-Klasse/models/GLA%2045%20AMG"
+  }
+]

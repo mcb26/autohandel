@@ -1,0 +1,112 @@
+[
+  {
+    "label": "E 200 T Kompressor Automatik (Benzin, 183 PS)",
+    "fuel": "benzin",
+    "hp": 183
+  },
+  {
+    "label": "E 200 T Kompressor (Benzin, 183 PS)",
+    "fuel": "benzin",
+    "hp": 183
+  },
+  {
+    "label": "E 230 T 7G-TRONIC (Benzin, 204 PS)",
+    "fuel": "benzin",
+    "hp": 204
+  },
+  {
+    "label": "E 230 T (Benzin, 204 PS)",
+    "fuel": "benzin",
+    "hp": 204
+  },
+  {
+    "label": "E 280 T 4Matic Automatik (Benzin, 231 PS)",
+    "fuel": "benzin",
+    "hp": 231
+  },
+  {
+    "label": "E 280 T 7G-TRONIC (Benzin, 231 PS)",
+    "fuel": "benzin",
+    "hp": 231
+  },
+  {
+    "label": "E 280 T (Benzin, 231 PS)",
+    "fuel": "benzin",
+    "hp": 231
+  },
+  {
+    "label": "E 350 T 4Matic Automatik (Benzin, 272 PS)",
+    "fuel": "benzin",
+    "hp": 272
+  },
+  {
+    "label": "E 350 T 7G-TRONIC (Benzin, 272 PS)",
+    "fuel": "benzin",
+    "hp": 272
+  },
+  {
+    "label": "E 350 CGI T 7G-TRONIC (Benzin, 292 PS)",
+    "fuel": "benzin",
+    "hp": 292
+  },
+  {
+    "label": "E 500 T 4Matic Automatik (Benzin, 387 PS)",
+    "fuel": "benzin",
+    "hp": 387
+  },
+  {
+    "label": "E 500 T 7G-TRONIC (Benzin, 387 PS)",
+    "fuel": "benzin",
+    "hp": 387
+  },
+  {
+    "label": "E 63 AMG T 7G-TRONIC (Benzin, 514 PS)",
+    "fuel": "benzin",
+    "hp": 514
+  },
+  {
+    "label": "E 200 T CDI Automatik (Diesel, 136 PS)",
+    "fuel": "diesel",
+    "hp": 136
+  },
+  {
+    "label": "E 200 T CDI (Diesel, 136 PS)",
+    "fuel": "diesel",
+    "hp": 136
+  },
+  {
+    "label": "E 220 T CDI Automatik (Diesel, 170 PS)",
+    "fuel": "diesel",
+    "hp": 170
+  },
+  {
+    "label": "E 220 T CDI (Diesel, 170 PS)",
+    "fuel": "diesel",
+    "hp": 170
+  },
+  {
+    "label": "E 280 T CDI 7G-TRONIC (Diesel, 190 PS)",
+    "fuel": "diesel",
+    "hp": 190
+  },
+  {
+    "label": "E 280 T CDI 4Matic Automatik (Diesel, 190 PS)",
+    "fuel": "diesel",
+    "hp": 190
+  },
+  {
+    "label": "E 280 T CDI (Diesel, 190 PS)",
+    "fuel": "diesel",
+    "hp": 190
+  },
+  {
+    "label": "E 320 T CDI 7G-TRONIC (Diesel, 224 PS)",
+    "fuel": "diesel",
+    "hp": 224
+  },
+  {
+    "label": "E 320 T CDI 4Matic Automatik (Diesel, 224 PS)",
+    "fuel": "diesel",
+    "hp": 224
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "T3 Caravelle",
+    "description": "T3 Caravelle",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/modelgroups/T3/models/T3%20Caravelle"
+  },
+  {
+    "name": "T3 Multivan",
+    "description": "T3 Multivan",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/modelgroups/T3/models/T3%20Multivan"
+  },
+  {
+    "name": "T3_Kombi",
+    "description": "T3 Kombi",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/modelgroups/T3/models/T3_Kombi"
+  },
+  {
+    "name": "T3__MODEL_OTHER",
+    "description": "T3 andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/modelgroups/T3/models/T3__MODEL_OTHER"
+  }
+]

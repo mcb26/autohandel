@@ -1,0 +1,22 @@
+[
+  {
+    "name": "AMG GT",
+    "description": "AMG GT",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/GT-Klasse/models/AMG%20GT"
+  },
+  {
+    "name": "AMG GT C",
+    "description": "AMG GT C",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/GT-Klasse/models/AMG%20GT%20C"
+  },
+  {
+    "name": "AMG GT R",
+    "description": "AMG GT R",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/GT-Klasse/models/AMG%20GT%20R"
+  },
+  {
+    "name": "AMG GT S",
+    "description": "AMG GT S",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/GT-Klasse/models/AMG%20GT%20S"
+  }
+]

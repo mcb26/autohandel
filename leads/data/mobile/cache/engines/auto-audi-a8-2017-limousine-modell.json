@@ -1,0 +1,47 @@
+[
+  {
+    "label": "A8 55 TFSI quattro tiptronic (Benzin, 340 PS)",
+    "fuel": "benzin",
+    "hp": 340
+  },
+  {
+    "label": "A8 L 55 TFSI quattro tiptronic (Benzin, 340 PS)",
+    "fuel": "benzin",
+    "hp": 340
+  },
+  {
+    "label": "A8 60 TFSI quattro tiptronic (Benzin, 460 PS)",
+    "fuel": "benzin",
+    "hp": 460
+  },
+  {
+    "label": "A8 L 60 TFSI quattro tiptronic (Benzin, 460 PS)",
+    "fuel": "benzin",
+    "hp": 460
+  },
+  {
+    "label": "S8 TFSI quattro tiptronic (Benzin, 571 PS)",
+    "fuel": "benzin",
+    "hp": 571
+  },
+  {
+    "label": "A8 60 TFSI e quattro tiptronic (Benzin/Elektro-PlugIn, 340 PS)",
+    "fuel": "benzin/elektro-plugin",
+    "hp": 340
+  },
+  {
+    "label": "A8 L 60 TFSI e quattro tiptronic (Benzin/Elektro-PlugIn, 340 PS)",
+    "fuel": "benzin/elektro-plugin",
+    "hp": 340
+  },
+  {
+    "label": "A8 50 TDI quattro tiptronic (Diesel, 286 PS)",
+    "fuel": "diesel",
+    "hp": 286
+  },
+  {
+    "label": "A8 L 50 TDI quattro tiptronic (Diesel, 286 PS)",
+    "fuel": "diesel",
+    "hp": 286
+  }
+]

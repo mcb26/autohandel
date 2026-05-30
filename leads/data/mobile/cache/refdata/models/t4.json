@@ -1,0 +1,27 @@
+[
+  {
+    "name": "T4 California",
+    "description": "T4 California",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/modelgroups/T4/models/T4%20California"
+  },
+  {
+    "name": "T4 Caravelle",
+    "description": "T4 Caravelle",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/modelgroups/T4/models/T4%20Caravelle"
+  },
+  {
+    "name": "T4 Multivan",
+    "description": "T4 Multivan",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/modelgroups/T4/models/T4%20Multivan"
+  },
+  {
+    "name": "T4_Kombi",
+    "description": "T4 Kombi",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/modelgroups/T4/models/T4_Kombi"
+  },
+  {
+    "name": "T4__MODEL_OTHER",
+    "description": "T4 andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/VW/modelgroups/T4/models/T4__MODEL_OTHER"
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "label": "216i Active Tourer (Benzin, 109 PS)",
+    "fuel": "benzin",
+    "hp": 109
+  },
+  {
+    "label": "218i Active Tourer Aut. (Benzin, 136 PS)",
+    "fuel": "benzin",
+    "hp": 136
+  },
+  {
+    "label": "218i Active Tourer (Benzin, 136 PS)",
+    "fuel": "benzin",
+    "hp": 136
+  },
+  {
+    "label": "220i Active Tourer Aut. (Benzin, 178 PS)",
+    "fuel": "benzin",
+    "hp": 178
+  },
+  {
+    "label": "225i Active Tourer xDrive Aut. (Benzin, 231 PS)",
+    "fuel": "benzin",
+    "hp": 231
+  },
+  {
+    "label": "225xe iPerformance Active Tourer (Benzin/Elektro-PlugIn, 125 PS)",
+    "fuel": "benzin/elektro-plugin",
+    "hp": 125
+  },
+  {
+    "label": "216d Active Tourer Aut. (Diesel, 116 PS)",
+    "fuel": "diesel",
+    "hp": 116
+  },
+  {
+    "label": "216d Active Tourer (Diesel, 116 PS)",
+    "fuel": "diesel",
+    "hp": 116
+  },
+  {
+    "label": "218d Active Tourer Aut. (Diesel, 150 PS)",
+    "fuel": "diesel",
+    "hp": 150
+  },
+  {
+    "label": "218d xDrive Active Tourer Aut. (Diesel, 150 PS)",
+    "fuel": "diesel",
+    "hp": 150
+  },
+  {
+    "label": "218d Active Tourer (Diesel, 150 PS)",
+    "fuel": "diesel",
+    "hp": 150
+  },
+  {
+    "label": "220d Active Tourer Aut. (Diesel, 190 PS)",
+    "fuel": "diesel",
+    "hp": 190
+  },
+  {
+    "label": "220d xDrive Active Tourer Aut. (Diesel, 190 PS)",
+    "fuel": "diesel",
+    "hp": 190
+  }
+]

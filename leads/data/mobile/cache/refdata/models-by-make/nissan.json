@@ -1,0 +1,312 @@
+[
+  {
+    "name": "100 NX",
+    "description": "100 NX",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/NISSAN/model/100%20NX"
+  },
+  {
+    "name": "200 SX",
+    "description": "200 SX",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/NISSAN/model/200%20SX"
+  },
+  {
+    "name": "240 SX",
+    "description": "240 SX",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/NISSAN/model/240%20SX"
+  },
+  {
+    "name": "280 ZX",
+    "description": "280 ZX",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/NISSAN/model/280%20ZX"
+  },
+  {
+    "name": "300 ZX",
+    "description": "300 ZX",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/NISSAN/model/300%20ZX"
+  },
+  {
+    "name": "350Z",
+    "description": "350Z",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/NISSAN/model/350Z"
+  },
+  {
+    "name": "370Z",
+    "description": "370Z",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/NISSAN/model/370Z"
+  },
+  {
+    "name": "Almera",
+    "description": "Almera",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/NISSAN/model/Almera"
+  },
+  {
+    "name": "Almera Tino",
+    "description": "Almera Tino",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/NISSAN/model/Almera%20Tino"
+  },
+  {
+    "name": "Altima",
+    "description": "Altima",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/NISSAN/model/Altima"
+  },
+  {
+    "name": "Ariya",
+    "description": "Ariya",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/NISSAN/model/Ariya"
+  },
+  {
+    "name": "Armada",
+    "description": "Armada",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/NISSAN/model/Armada"
+  },
+  {
+    "name": "Bluebird",
+    "description": "Bluebird",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/NISSAN/model/Bluebird"
+  },
+  {
+    "name": "Cabstar",
+    "description": "Cabstar",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/NISSAN/model/Cabstar"
+  },
+  {
+    "name": "Cargo",
+    "description": "Cargo",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/NISSAN/model/Cargo"
+  },
+  {
+    "name": "Cherry",
+    "description": "Cherry",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/NISSAN/model/Cherry"
+  },
+  {
+    "name": "Cube",
+    "description": "Cube",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/NISSAN/model/Cube"
+  },
+  {
+    "name": "Evalia",
+    "description": "Evalia",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/NISSAN/model/Evalia"
+  },
+  {
+    "name": "Frontier",
+    "description": "Frontier",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/NISSAN/model/Frontier"
+  },
+  {
+    "name": "GT-R",
+    "description": "GT-R",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/NISSAN/model/GT-R"
+  },
+  {
+    "name": "Interstar",
+    "description": "Interstar",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/NISSAN/model/Interstar"
+  },
+  {
+    "name": "Juke",
+    "description": "Juke",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/NISSAN/model/Juke"
+  },
+  {
+    "name": "King Cab",
+    "description": "King Cab",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/NISSAN/model/King%20Cab"
+  },
+  {
+    "name": "Kubistar",
+    "description": "Kubistar",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/NISSAN/model/Kubistar"
+  },
+  {
+    "name": "Laurel",
+    "description": "Laurel",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/NISSAN/model/Laurel"
+  },
+  {
+    "name": "Leaf",
+    "description": "Leaf",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/NISSAN/model/Leaf"
+  },
+  {
+    "name": "Maxima",
+    "description": "Maxima",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/NISSAN/model/Maxima"
+  },
+  {
+    "name": "Micra",
+    "description": "Micra",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/NISSAN/model/Micra"
+  },
+  {
+    "name": "Murano",
+    "description": "Murano",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/NISSAN/model/Murano"
+  },
+  {
+    "name": "NP 300",
+    "description": "NP 300",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/NISSAN/model/NP%20300"
+  },
+  {
+    "name": "NV200",
+    "description": "NV200",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/NISSAN/model/NV200"
+  },
+  {
+    "name": "NV250",
+    "description": "NV250",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/NISSAN/model/NV250"
+  },
+  {
+    "name": "NV300",
+    "description": "NV300",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/NISSAN/model/NV300"
+  },
+  {
+    "name": "NV400",
+    "description": "NV400",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/NISSAN/model/NV400"
+  },
+  {
+    "name": "Navara",
+    "description": "Navara",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/NISSAN/model/Navara"
+  },
+  {
+    "name": "Note",
+    "description": "Note",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/NISSAN/model/Note"
+  },
+  {
+    "name": "Pathfinder",
+    "description": "Pathfinder",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/NISSAN/model/Pathfinder"
+  },
+  {
+    "name": "Patrol",
+    "description": "Patrol",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/NISSAN/model/Patrol"
+  },
+  {
+    "name": "PickUp",
+    "description": "PickUp",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/NISSAN/model/PickUp"
+  },
+  {
+    "name": "Pixo",
+    "description": "Pixo",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/NISSAN/model/Pixo"
+  },
+  {
+    "name": "Prairie",
+    "description": "Prairie",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/NISSAN/model/Prairie"
+  },
+  {
+    "name": "Primastar",
+    "description": "Primastar",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/NISSAN/model/Primastar"
+  },
+  {
+    "name": "Primera",
+    "description": "Primera",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/NISSAN/model/Primera"
+  },
+  {
+    "name": "Pulsar",
+    "description": "Pulsar",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/NISSAN/model/Pulsar"
+  },
+  {
+    "name": "Qashqai",
+    "description": "Qashqai",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/NISSAN/model/Qashqai"
+  },
+  {
+    "name": "Qashqai+2",
+    "description": "Qashqai+2",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/NISSAN/model/Qashqai%2B2"
+  },
+  {
+    "name": "Quest",
+    "description": "Quest",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/NISSAN/model/Quest"
+  },
+  {
+    "name": "Sentra",
+    "description": "Sentra",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/NISSAN/model/Sentra"
+  },
+  {
+    "name": "Serena",
+    "description": "Serena",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/NISSAN/model/Serena"
+  },
+  {
+    "name": "Silvia",
+    "description": "Silvia",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/NISSAN/model/Silvia"
+  },
+  {
+    "name": "Skyline",
+    "description": "Skyline",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/NISSAN/model/Skyline"
+  },
+  {
+    "name": "Sunny",
+    "description": "Sunny",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/NISSAN/model/Sunny"
+  },
+  {
+    "name": "Terrano",
+    "description": "Terrano",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/NISSAN/model/Terrano"
+  },
+  {
+    "name": "Tiida",
+    "description": "Tiida",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/NISSAN/model/Tiida"
+  },
+  {
+    "name": "Titan",
+    "description": "Titan",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/NISSAN/model/Titan"
+  },
+  {
+    "name": "Townstar",
+    "description": "Townstar",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/NISSAN/model/Townstar"
+  },
+  {
+    "name": "Trade",
+    "description": "Trade",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/NISSAN/model/Trade"
+  },
+  {
+    "name": "Urvan",
+    "description": "Urvan",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/NISSAN/model/Urvan"
+  },
+  {
+    "name": "Vanette",
+    "description": "Vanette",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/NISSAN/model/Vanette"
+  },
+  {
+    "name": "X-Trail",
+    "description": "X-Trail",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/NISSAN/model/X-Trail"
+  },
+  {
+    "name": "e-NV200",
+    "description": "e-NV200",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/NISSAN/model/e-NV200"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/NISSAN/model/ANDERE"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "label": "A 160 Autotronic (Benzin, 95 PS)",
+    "fuel": "benzin",
+    "hp": 95
+  },
+  {
+    "label": "A 150 Autotronic (Benzin, 95 PS)",
+    "fuel": "benzin",
+    "hp": 95
+  },
+  {
+    "label": "A 160 (Benzin, 95 PS)",
+    "fuel": "benzin",
+    "hp": 95
+  },
+  {
+    "label": "A 150 (Benzin, 95 PS)",
+    "fuel": "benzin",
+    "hp": 95
+  },
+  {
+    "label": "A 180 Autotronic (Benzin, 116 PS)",
+    "fuel": "benzin",
+    "hp": 116
+  },
+  {
+    "label": "A 170 Autotronic (Benzin, 116 PS)",
+    "fuel": "benzin",
+    "hp": 116
+  },
+  {
+    "label": "A 180 (Benzin, 116 PS)",
+    "fuel": "benzin",
+    "hp": 116
+  },
+  {
+    "label": "A 170 (Benzin, 116 PS)",
+    "fuel": "benzin",
+    "hp": 116
+  },
+  {
+    "label": "A 200 Autotronic (Benzin, 136 PS)",
+    "fuel": "benzin",
+    "hp": 136
+  },
+  {
+    "label": "A 200 (Benzin, 136 PS)",
+    "fuel": "benzin",
+    "hp": 136
+  },
+  {
+    "label": "A 200 Turbo Autotronic (Benzin, 193 PS)",
+    "fuel": "benzin",
+    "hp": 193
+  },
+  {
+    "label": "A 200 Turbo (Benzin, 193 PS)",
+    "fuel": "benzin",
+    "hp": 193
+  },
+  {
+    "label": "A 160 CDI Autotronic (Diesel, 82 PS)",
+    "fuel": "diesel",
+    "hp": 82
+  },
+  {
+    "label": "A 160 CDI (Diesel, 82 PS)",
+    "fuel": "diesel",
+    "hp": 82
+  },
+  {
+    "label": "A 180 CDI Autotronic (Diesel, 109 PS)",
+    "fuel": "diesel",
+    "hp": 109
+  },
+  {
+    "label": "A 180 CDI (Diesel, 109 PS)",
+    "fuel": "diesel",
+    "hp": 109
+  },
+  {
+    "label": "A 200 CDI Autotronic (Diesel, 140 PS)",
+    "fuel": "diesel",
+    "hp": 140
+  },
+  {
+    "label": "A 200 CDI (Diesel, 140 PS)",
+    "fuel": "diesel",
+    "hp": 140
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "name": "57",
+    "description": "57",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MAYBACH/model/57"
+  },
+  {
+    "name": "62",
+    "description": "62",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MAYBACH/model/62"
+  },
+  {
+    "name": "Pullman",
+    "description": "Pullman",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MAYBACH/model/Pullman"
+  },
+  {
+    "name": "S650",
+    "description": "S650",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MAYBACH/model/S650"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MAYBACH/model/ANDERE"
+  }
+]

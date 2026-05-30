@@ -1,0 +1,82 @@
+[
+  {
+    "label": "520i Aut. (Benzin, 184 PS)",
+    "fuel": "benzin",
+    "hp": 184
+  },
+  {
+    "label": "530i Aut. (Benzin, 252 PS)",
+    "fuel": "benzin",
+    "hp": 252
+  },
+  {
+    "label": "530i xDrive Aut. (Benzin, 252 PS)",
+    "fuel": "benzin",
+    "hp": 252
+  },
+  {
+    "label": "540i Aut. (Benzin, 333 PS)",
+    "fuel": "benzin",
+    "hp": 333
+  },
+  {
+    "label": "540i xDrive Aut. (Benzin, 333 PS)",
+    "fuel": "benzin",
+    "hp": 333
+  },
+  {
+    "label": "M550i xDrive Aut. (Benzin, 530 PS)",
+    "fuel": "benzin",
+    "hp": 530
+  },
+  {
+    "label": "M5 (Benzin, 600 PS)",
+    "fuel": "benzin",
+    "hp": 600
+  },
+  {
+    "label": "M5 Competition (Benzin, 625 PS)",
+    "fuel": "benzin",
+    "hp": 625
+  },
+  {
+    "label": "530e Aut. (Benzin/Elektro-PlugIn, 184 PS)",
+    "fuel": "benzin/elektro-plugin",
+    "hp": 184
+  },
+  {
+    "label": "530e xDrive Aut. (Benzin/Elektro-PlugIn, 184 PS)",
+    "fuel": "benzin/elektro-plugin",
+    "hp": 184
+  },
+  {
+    "label": "545e xDrive Aut. (Benzin/Elektro-PlugIn, 285 PS)",
+    "fuel": "benzin/elektro-plugin",
+    "hp": 285
+  },
+  {
+    "label": "520d Aut. (Diesel, 190 PS)",
+    "fuel": "diesel",
+    "hp": 190
+  },
+  {
+    "label": "520d xDrive Aut. (Diesel, 190 PS)",
+    "fuel": "diesel",
+    "hp": 190
+  },
+  {
+    "label": "530d Aut. (Diesel, 286 PS)",
+    "fuel": "diesel",
+    "hp": 286
+  },
+  {
+    "label": "530d xDrive Aut. (Diesel, 286 PS)",
+    "fuel": "diesel",
+    "hp": 286
+  },
+  {
+    "label": "540d xDrive Aut. (Diesel, 340 PS)",
+    "fuel": "diesel",
+    "hp": 340
+  }
+]

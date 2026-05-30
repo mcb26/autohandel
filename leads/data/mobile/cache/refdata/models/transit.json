@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Transit",
+    "description": "Transit",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/FORD/modelgroups/Transit/models/Transit"
+  },
+  {
+    "name": "Transit Connect",
+    "description": "Transit Connect",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/FORD/modelgroups/Transit/models/Transit%20Connect"
+  },
+  {
+    "name": "Transit Courier",
+    "description": "Transit Courier",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/FORD/modelgroups/Transit/models/Transit%20Courier"
+  },
+  {
+    "name": "Transit Custom",
+    "description": "Transit Custom",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/FORD/modelgroups/Transit/models/Transit%20Custom"
+  }
+]

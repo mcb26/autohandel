@@ -1,0 +1,212 @@
+[
+  {
+    "label": "Golf Sportsvan 1.0 TSI OPF (Benzin, 85 PS)",
+    "fuel": "benzin",
+    "hp": 85
+  },
+  {
+    "label": "Golf Sportsvan 1.0 TSI (Benzin, 85 PS)",
+    "fuel": "benzin",
+    "hp": 85
+  },
+  {
+    "label": "Golf Sportsvan 1.2 TSI (BlueMotion Technology) (Benzin, 85 PS)",
+    "fuel": "bluemotion technology) (benzin",
+    "hp": 85
+  },
+  {
+    "label": "Golf Sportsvan 1.2 TSI BlueMotion Technology (Benzin, 85 PS)",
+    "fuel": "benzin",
+    "hp": 85
+  },
+  {
+    "label": "Golf Sportsvan 1.0 TSI DSG (Benzin, 110 PS)",
+    "fuel": "benzin",
+    "hp": 110
+  },
+  {
+    "label": "Golf Sportsvan 1.2 TSI (BlueMotion Technology) DSG (Benzin, 110 PS)",
+    "fuel": "bluemotion technology) dsg (benzin",
+    "hp": 110
+  },
+  {
+    "label": "Golf Sportsvan 1.2 TSI BlueMotion Technology DSG (Benzin, 110 PS)",
+    "fuel": "benzin",
+    "hp": 110
+  },
+  {
+    "label": "Golf Sportsvan 1.0 TSI (Benzin, 110 PS)",
+    "fuel": "benzin",
+    "hp": 110
+  },
+  {
+    "label": "Golf Sportsvan 1.2 TSI (BlueMotion Technology) (Benzin, 110 PS)",
+    "fuel": "bluemotion technology) (benzin",
+    "hp": 110
+  },
+  {
+    "label": "Golf Sportsvan 1.2 TSI BlueMotion Technology (Benzin, 110 PS)",
+    "fuel": "benzin",
+    "hp": 110
+  },
+  {
+    "label": "Golf Sportsvan 1.0 TSI OPF DSG (Benzin, 115 PS)",
+    "fuel": "benzin",
+    "hp": 115
+  },
+  {
+    "label": "Golf Sportsvan 1.0 TSI BlueMotion DSG (Benzin, 115 PS)",
+    "fuel": "benzin",
+    "hp": 115
+  },
+  {
+    "label": "Golf Sportsvan 1.0 TSI OPF (Benzin, 115 PS)",
+    "fuel": "benzin",
+    "hp": 115
+  },
+  {
+    "label": "Golf Sportsvan 1.0 TSI BlueMotion (Benzin, 115 PS)",
+    "fuel": "benzin",
+    "hp": 115
+  },
+  {
+    "label": "Golf Sportsvan 1.4 TSI (BlueMotion Technology) DSG (Benzin, 125 PS)",
+    "fuel": "bluemotion technology) dsg (benzin",
+    "hp": 125
+  },
+  {
+    "label": "Golf Sportsvan 1.4 TSI BlueMotion Technology DSG (Benzin, 125 PS)",
+    "fuel": "benzin",
+    "hp": 125
+  },
+  {
+    "label": "Golf Sportsvan 1.4 TSI (BlueMotion Technology) (Benzin, 125 PS)",
+    "fuel": "bluemotion technology) (benzin",
+    "hp": 125
+  },
+  {
+    "label": "Golf Sportsvan 1.4 TSI BlueMotion Technology (Benzin, 125 PS)",
+    "fuel": "benzin",
+    "hp": 125
+  },
+  {
+    "label": "Golf Sportsvan 1.5 TSI ACT OPF DSG (Benzin, 130 PS)",
+    "fuel": "benzin",
+    "hp": 130
+  },
+  {
+    "label": "Golf Sportsvan 1.5 TSI ACT DSG (Benzin, 130 PS)",
+    "fuel": "benzin",
+    "hp": 130
+  },
+  {
+    "label": "Golf Sportsvan 1.5 TSI ACT OPF (Benzin, 130 PS)",
+    "fuel": "benzin",
+    "hp": 130
+  },
+  {
+    "label": "Golf Sportsvan 1.5 TSI ACT (Benzin, 130 PS)",
+    "fuel": "benzin",
+    "hp": 130
+  },
+  {
+    "label": "Golf Sportsvan 1.5 TSI ACT OPF DSG (Benzin, 150 PS)",
+    "fuel": "benzin",
+    "hp": 150
+  },
+  {
+    "label": "Golf Sportsvan 1.4 TSI (BlueMotion Technology) DSG (Benzin, 150 PS)",
+    "fuel": "bluemotion technology) dsg (benzin",
+    "hp": 150
+  },
+  {
+    "label": "Golf Sportsvan 1.5 TSI ACT DSG (Benzin, 150 PS)",
+    "fuel": "benzin",
+    "hp": 150
+  },
+  {
+    "label": "Golf Sportsvan 1.4 TSI BlueMotion Technology DSG (Benzin, 150 PS)",
+    "fuel": "benzin",
+    "hp": 150
+  },
+  {
+    "label": "Golf Sportsvan 1.4 TSI (BlueMotion Technology) (Benzin, 150 PS)",
+    "fuel": "bluemotion technology) (benzin",
+    "hp": 150
+  },
+  {
+    "label": "Golf Sportsvan 1.4 TSI BlueMotion Technology (Benzin, 150 PS)",
+    "fuel": "benzin",
+    "hp": 150
+  },
+  {
+    "label": "Golf Sportsvan 1.6 TDI BlueMotion Technology DSG (Diesel, 110 PS)",
+    "fuel": "diesel",
+    "hp": 110
+  },
+  {
+    "label": "Golf Sportsvan 1.6 TDI BlueMotion Technology (Diesel, 110 PS)",
+    "fuel": "diesel",
+    "hp": 110
+  },
+  {
+    "label": "Golf Sportsvan 1.6 TDI BlueMotion (Diesel, 110 PS)",
+    "fuel": "diesel",
+    "hp": 110
+  },
+  {
+    "label": "Golf Sportsvan 1.6 TDI SCR DSG (Diesel, 115 PS)",
+    "fuel": "diesel",
+    "hp": 115
+  },
+  {
+    "label": "Golf Sportsvan 1.6 TDI (BlueMotion Technology) DSG (Diesel, 115 PS)",
+    "fuel": "bluemotion technology) dsg (diesel",
+    "hp": 115
+  },
+  {
+    "label": "Golf Sportsvan 1.6 TDI BlueMotion Technology DSG (Diesel, 115 PS)",
+    "fuel": "diesel",
+    "hp": 115
+  },
+  {
+    "label": "Golf Sportsvan 1.6 TDI SCR (Diesel, 115 PS)",
+    "fuel": "diesel",
+    "hp": 115
+  },
+  {
+    "label": "Golf Sportsvan 1.6 TDI (BlueMotion Technology) (Diesel, 115 PS)",
+    "fuel": "bluemotion technology) (diesel",
+    "hp": 115
+  },
+  {
+    "label": "Golf Sportsvan 1.6 TDI BlueMotion Technology (Diesel, 115 PS)",
+    "fuel": "diesel",
+    "hp": 115
+  },
+  {
+    "label": "Golf Sportsvan 2.0 TDI SCR DSG (Diesel, 150 PS)",
+    "fuel": "diesel",
+    "hp": 150
+  },
+  {
+    "label": "Golf Sportsvan 2.0 TDI BlueMotion Technology DSG (Diesel, 150 PS)",
+    "fuel": "diesel",
+    "hp": 150
+  },
+  {
+    "label": "Golf Sportsvan 2.0 TDI (BlueMotion Technology) DSG (Diesel, 150 PS)",
+    "fuel": "bluemotion technology) dsg (diesel",
+    "hp": 150
+  },
+  {
+    "label": "Golf Sportsvan 2.0 TDI (BlueMotion Technology) (Diesel, 150 PS)",
+    "fuel": "bluemotion technology) (diesel",
+    "hp": 150
+  },
+  {
+    "label": "Golf Sportsvan 2.0 TDI BlueMotion Technology (Diesel, 150 PS)",
+    "fuel": "diesel",
+    "hp": 150
+  }
+]

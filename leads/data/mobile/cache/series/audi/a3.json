@@ -1,0 +1,79 @@
+[
+  {
+    "label": "Kombi Audi RS3 Limousine (8V) 2015 - Heute",
+    "href": "https://www.mobile.de/auto/audi/rs3/2015/limousine/modell/",
+    "modell_url": "https://www.mobile.de/auto/audi/rs3/2015/limousine/modell/",
+    "model_slug": "a3",
+    "brand_slug": "audi"
+  },
+  {
+    "label": "Kombi Audi A3 Sportback e-tron (8V) 2014 – 2020",
+    "href": "https://www.mobile.de/auto/audi/a3-etron/2014/fuenftuerer/modell/",
+    "modell_url": "https://www.mobile.de/auto/audi/a3-etron/2014/fuenftuerer/modell/",
+    "model_slug": "a3",
+    "brand_slug": "audi"
+  },
+  {
+    "label": "Cabrio Audi A3 Cabriolet (8V) 2013 – 2020",
+    "href": "https://www.mobile.de/auto/audi/a3/2012/cabriolet/modell/",
+    "modell_url": "https://www.mobile.de/auto/audi/a3/2012/cabriolet/modell/",
+    "model_slug": "a3",
+    "brand_slug": "audi"
+  },
+  {
+    "label": "Limousine Audi A3 Limousine (8V) 2013 - Heute",
+    "href": "https://www.mobile.de/auto/audi/a3/2012/limousine/modell/",
+    "modell_url": "https://www.mobile.de/auto/audi/a3/2012/limousine/modell/",
+    "model_slug": "a3",
+    "brand_slug": "audi"
+  },
+  {
+    "label": "Kombi Audi A3 Sportback (8VA) 2012 - Heute",
+    "href": "https://www.mobile.de/auto/audi/a3/2012/5-tuerer/modell/",
+    "modell_url": "https://www.mobile.de/auto/audi/a3/2012/5-tuerer/modell/",
+    "model_slug": "a3",
+    "brand_slug": "audi"
+  },
+  {
+    "label": "Limousine Audi A3 Dreitürer (8V) 2012 – 2017",
+    "href": "https://www.mobile.de/auto/audi/a3/2012/3-tuerer/modell/",
+    "modell_url": "https://www.mobile.de/auto/audi/a3/2012/3-tuerer/modell/",
+    "model_slug": "a3",
+    "brand_slug": "audi"
+  },
+  {
+    "label": "Kombi Audi A3 Sportback (8PA) 2008 – 2012",
+    "href": "https://www.mobile.de/auto/audi/a3/2003/fuenftuerer/modell/",
+    "modell_url": "https://www.mobile.de/auto/audi/a3/2003/fuenftuerer/modell/",
+    "model_slug": "a3",
+    "brand_slug": "audi"
+  },
+  {
+    "label": "Limousine Audi A3 (8P) 2008 – 2012",
+    "href": "https://www.mobile.de/auto/audi/a3/2003/schraegheck/modell/",
+    "modell_url": "https://www.mobile.de/auto/audi/a3/2003/schraegheck/modell/",
+    "model_slug": "a3",
+    "brand_slug": "audi"
+  },
+  {
+    "label": "Cabrio Audi A3 Cabriolet (8P) 2008 – 2013",
+    "href": "https://www.mobile.de/auto/audi/a3/2003/cabriolet/modell/",
+    "modell_url": "https://www.mobile.de/auto/audi/a3/2003/cabriolet/modell/",
+    "model_slug": "a3",
+    "brand_slug": "audi"
+  },
+  {
+    "label": "Limousine Audi A3 Fünftürer (8L) 1999 – 2003",
+    "href": "https://www.mobile.de/auto/audi/a3/1996/fuenftuerer/modell/",
+    "modell_url": "https://www.mobile.de/auto/audi/a3/1996/fuenftuerer/modell/",
+    "model_slug": "a3",
+    "brand_slug": "audi"
+  },
+  {
+    "label": "Limousine Audi A3 Dreitürer (8L) 1996 – 2003",
+    "href": "https://www.mobile.de/auto/audi/a3/1996/dreituerer/modell/",
+    "modell_url": "https://www.mobile.de/auto/audi/a3/1996/dreituerer/modell/",
+    "model_slug": "a3",
+    "brand_slug": "audi"
+  }
+]

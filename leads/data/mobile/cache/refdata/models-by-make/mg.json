@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Cyberster",
+    "description": "Cyberster",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MG/model/Cyberster"
+  },
+  {
+    "name": "EHS",
+    "description": "EHS",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MG/model/EHS"
+  },
+  {
+    "name": "HS",
+    "description": "HS",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MG/model/HS"
+  },
+  {
+    "name": "MG3",
+    "description": "MG3",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MG/model/MG3"
+  },
+  {
+    "name": "MG4",
+    "description": "MG4",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MG/model/MG4"
+  },
+  {
+    "name": "MG4 EV Urban",
+    "description": "MG4 EV Urban",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MG/model/MG4%20EV%20Urban"
+  },
+  {
+    "name": "MG5",
+    "description": "MG5",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MG/model/MG5"
+  },
+  {
+    "name": "MGA",
+    "description": "MGA",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MG/model/MGA"
+  },
+  {
+    "name": "MGB",
+    "description": "MGB",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MG/model/MGB"
+  },
+  {
+    "name": "MGF",
+    "description": "MGF",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MG/model/MGF"
+  },
+  {
+    "name": "Marvel R",
+    "description": "Marvel R",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MG/model/Marvel%20R"
+  },
+  {
+    "name": "Midget",
+    "description": "Midget",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MG/model/Midget"
+  },
+  {
+    "name": "Montego",
+    "description": "Montego",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MG/model/Montego"
+  },
+  {
+    "name": "S5",
+    "description": "S5",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MG/model/S5"
+  },
+  {
+    "name": "TD",
+    "description": "TD",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MG/model/TD"
+  },
+  {
+    "name": "TF",
+    "description": "TF",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MG/model/TF"
+  },
+  {
+    "name": "ZR",
+    "description": "ZR",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MG/model/ZR"
+  },
+  {
+    "name": "ZS",
+    "description": "ZS",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MG/model/ZS"
+  },
+  {
+    "name": "ZT",
+    "description": "ZT",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MG/model/ZT"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MG/model/ANDERE"
+  }
+]

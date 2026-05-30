@@ -1,0 +1,67 @@
+[
+  {
+    "label": "Golf GTI BlueMotion Technology DSG (Benzin, 220 PS)",
+    "fuel": "benzin",
+    "hp": 220
+  },
+  {
+    "label": "Golf GTI BlueMotion Technology (Benzin, 220 PS)",
+    "fuel": "benzin",
+    "hp": 220
+  },
+  {
+    "label": "Golf GTI (BlueMotion Technology) DSG (Benzin, 230 PS)",
+    "fuel": "bluemotion technology) dsg (benzin",
+    "hp": 230
+  },
+  {
+    "label": "Golf GTI Performance BlueMotion Technology DSG (Benzin, 230 PS)",
+    "fuel": "benzin",
+    "hp": 230
+  },
+  {
+    "label": "Golf GTI (BlueMotion Technology) (Benzin, 230 PS)",
+    "fuel": "bluemotion technology) (benzin",
+    "hp": 230
+  },
+  {
+    "label": "Golf GTI Performance BlueMotion Technology (Benzin, 230 PS)",
+    "fuel": "benzin",
+    "hp": 230
+  },
+  {
+    "label": "Golf GTI (BlueMotion Technology) DSG (Benzin, 245 PS)",
+    "fuel": "bluemotion technology) dsg (benzin",
+    "hp": 245
+  },
+  {
+    "label": "Golf GTI 2.0 TSI OPF DSG (Benzin, 245 PS)",
+    "fuel": "benzin",
+    "hp": 245
+  },
+  {
+    "label": "Golf GTI (BlueMotion Technology) (Benzin, 245 PS)",
+    "fuel": "bluemotion technology) (benzin",
+    "hp": 245
+  },
+  {
+    "label": "Golf GTI 2.0 TSI OPF (Benzin, 245 PS)",
+    "fuel": "benzin",
+    "hp": 245
+  },
+  {
+    "label": "Golf GTI BlueMotion Technology DSG (Benzin, 265 PS)",
+    "fuel": "benzin",
+    "hp": 265
+  },
+  {
+    "label": "Golf GTI BlueMotion Technology (Benzin, 265 PS)",
+    "fuel": "benzin",
+    "hp": 265
+  },
+  {
+    "label": "Golf GTI TCR 2.0 TSI OPF DSG (Benzin, 290 PS)",
+    "fuel": "benzin",
+    "hp": 290
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "label": "Kombi BMW 2er Gran Tourer (F46) 2015 - Heute",
+    "href": "https://www.mobile.de/auto/bmw/2er-gran-tourer/2015/van/modell/",
+    "modell_url": "https://www.mobile.de/auto/bmw/2er-gran-tourer/2015/van/modell/",
+    "model_slug": "2er",
+    "brand_slug": "bmw"
+  },
+  {
+    "label": "Cabrio BMW 2er Cabrio (F23) 2014 - Heute",
+    "href": "https://www.mobile.de/auto/bmw/2er/2013/cabriolet/modell/",
+    "modell_url": "https://www.mobile.de/auto/bmw/2er/2013/cabriolet/modell/",
+    "model_slug": "2er",
+    "brand_slug": "bmw"
+  },
+  {
+    "label": "Kombi BMW 2er Active Tourer (F45) 2014 - Heute",
+    "href": "https://www.mobile.de/auto/bmw/2er-active-tourer/2014/van/modell/",
+    "modell_url": "https://www.mobile.de/auto/bmw/2er-active-tourer/2014/van/modell/",
+    "model_slug": "2er",
+    "brand_slug": "bmw"
+  },
+  {
+    "label": "Cabrio BMW M2 Coupé (F87) 2013 - Heute",
+    "href": "https://www.mobile.de/auto/bmw/m2/2015/coupe/modell/",
+    "modell_url": "https://www.mobile.de/auto/bmw/m2/2015/coupe/modell/",
+    "model_slug": "2er",
+    "brand_slug": "bmw"
+  },
+  {
+    "label": "Coupe BMW 2er Coupé (F22) 2013 - Heute",
+    "href": "https://www.mobile.de/auto/bmw/2er/2013/coupe/modell/",
+    "modell_url": "https://www.mobile.de/auto/bmw/2er/2013/coupe/modell/",
+    "model_slug": "2er",
+    "brand_slug": "bmw"
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "label": "Passat Variant 1.4 TSI DSG BlueMotion Technology (Benzin, 122 PS)",
+    "fuel": "benzin",
+    "hp": 122
+  },
+  {
+    "label": "Passat Variant 1.4 TSI BlueMotion Technology (Benzin, 122 PS)",
+    "fuel": "benzin",
+    "hp": 122
+  },
+  {
+    "label": "Passat Variant 1.4 TSI (Benzin, 122 PS)",
+    "fuel": "benzin",
+    "hp": 122
+  },
+  {
+    "label": "Passat Variant 1.4 TSI DSG BlueMotion Technology (Benzin, 160 PS)",
+    "fuel": "benzin",
+    "hp": 160
+  },
+  {
+    "label": "Passat Variant 1.8 TSI DSG (Benzin, 160 PS)",
+    "fuel": "benzin",
+    "hp": 160
+  },
+  {
+    "label": "Passat Variant 1.4 TSI BlueMotion Technology (Benzin, 160 PS)",
+    "fuel": "benzin",
+    "hp": 160
+  },
+  {
+    "label": "Passat Variant 1.4 TSI (Benzin, 160 PS)",
+    "fuel": "benzin",
+    "hp": 160
+  },
+  {
+    "label": "Passat Variant 1.8 TSI (Benzin, 160 PS)",
+    "fuel": "benzin",
+    "hp": 160
+  },
+  {
+    "label": "Passat Alltrack 1.8 TSI (Benzin, 160 PS)",
+    "fuel": "benzin",
+    "hp": 160
+  },
+  {
+    "label": "Passat Variant 2.0 TSI DSG (Benzin, 210 PS)",
+    "fuel": "benzin",
+    "hp": 210
+  },
+  {
+    "label": "Passat Alltrack 2.0 TSI 4Motion DSG (Benzin, 210 PS)",
+    "fuel": "benzin",
+    "hp": 210
+  },
+  {
+    "label": "Passat Variant 2.0 TSI (Benzin, 210 PS)",
+    "fuel": "benzin",
+    "hp": 210
+  },
+  {
+    "label": "Passat Variant 3.6 V6 4Motion DSG (Benzin, 300 PS)",
+    "fuel": "benzin",
+    "hp": 300
+  },
+  {
+    "label": "Passat Variant 1.4 TSI EcoFuel DSG (Benzin/Gas, 150 PS)",
+    "fuel": "benzin/gas",
+    "hp": 150
+  },
+  {
+    "label": "Passat Variant 1.4 TSI EcoFuel (Benzin/Gas, 150 PS)",
+    "fuel": "benzin/gas",
+    "hp": 150
+  },
+  {
+    "label": "Passat Variant 1.6 TDI BlueMotion Technology (Diesel, 105 PS)",
+    "fuel": "diesel",
+    "hp": 105
+  },
+  {
+    "label": "Passat Variant 1.6 TDI BlueMotion (Diesel, 105 PS)",
+    "fuel": "diesel",
+    "hp": 105
+  },
+  {
+    "label": "Passat Variant 2.0 Blue TDI DSG SCR (Diesel, 140 PS)",
+    "fuel": "diesel",
+    "hp": 140
+  },
+  {
+    "label": "Passat Variant 2.0 TDI DSG BlueMotion Technology (Diesel, 140 PS)",
+    "fuel": "diesel",
+    "hp": 140
+  },
+  {
+    "label": "Passat Variant 2.0 Blue TDI SCR (Diesel, 140 PS)",
+    "fuel": "diesel",
+    "hp": 140
+  },
+  {
+    "label": "Passat Variant 2.0 TDI 4Motion BlueMotion Technol. (Diesel, 140 PS)",
+    "fuel": "diesel",
+    "hp": 140
+  },
+  {
+    "label": "Passat Variant 2.0 TDI BlueMotion Technology (Diesel, 140 PS)",
+    "fuel": "diesel",
+    "hp": 140
+  },
+  {
+    "label": "Passat Alltrack 2.0 TDI 4Motion BlueMotion Tec (Diesel, 140 PS)",
+    "fuel": "diesel",
+    "hp": 140
+  },
+  {
+    "label": "Passat Alltrack 2.0 TDI BlueMotion Technology (Diesel, 140 PS)",
+    "fuel": "diesel",
+    "hp": 140
+  },
+  {
+    "label": "Passat Variant 2.0 TDI 4Motion DSG BlueMotion Tech (Diesel, 170 PS)",
+    "fuel": "diesel",
+    "hp": 170
+  },
+  {
+    "label": "Passat Variant 2.0 TDI DSG BlueMotion Technology (Diesel, 170 PS)",
+    "fuel": "diesel",
+    "hp": 170
+  },
+  {
+    "label": "Passat Alltrack 2.0 TDI 4Motion DSG BlueMotion Tec (Diesel, 170 PS)",
+    "fuel": "diesel",
+    "hp": 170
+  },
+  {
+    "label": "Passat Variant 2.0 TDI BlueMotion Technology (Diesel, 170 PS)",
+    "fuel": "diesel",
+    "hp": 170
+  },
+  {
+    "label": "Passat Variant 2.0 TDI 4Motion DSG BlueMotion Tech (Diesel, 177 PS)",
+    "fuel": "diesel",
+    "hp": 177
+  },
+  {
+    "label": "Passat Variant 2.0 TDI DSG BlueMotion Technology (Diesel, 177 PS)",
+    "fuel": "diesel",
+    "hp": 177
+  },
+  {
+    "label": "Passat Alltrack 2.0 TDI 4Motion DSG BlueMotion Tec (Diesel, 177 PS)",
+    "fuel": "diesel",
+    "hp": 177
+  },
+  {
+    "label": "Passat Variant 2.0 TDI BlueMotion Technology (Diesel, 177 PS)",
+    "fuel": "diesel",
+    "hp": 177
+  }
+]

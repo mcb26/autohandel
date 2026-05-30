@@ -1,0 +1,32 @@
+[
+  {
+    "label": "Maybach S 500 4Matic 9G-TRONIC (Benzin, 455 PS)",
+    "fuel": "benzin",
+    "hp": 455
+  },
+  {
+    "label": "Maybach S 500 9G-TRONIC (Benzin, 455 PS)",
+    "fuel": "benzin",
+    "hp": 455
+  },
+  {
+    "label": "Maybach S 560 4Matic 9G-TRONIC (Benzin, 469 PS)",
+    "fuel": "benzin",
+    "hp": 469
+  },
+  {
+    "label": "Maybach S 560 9G-TRONIC (Benzin, 469 PS)",
+    "fuel": "benzin",
+    "hp": 469
+  },
+  {
+    "label": "Maybach S 600 7G-TRONIC (Benzin, 530 PS)",
+    "fuel": "benzin",
+    "hp": 530
+  },
+  {
+    "label": "Maybach S 650 7G-TRONIC (Benzin, 630 PS)",
+    "fuel": "benzin",
+    "hp": 630
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "label": "Eos 1.4 TSI BlueMotion Technology (Benzin, 122 PS)",
+    "fuel": "benzin",
+    "hp": 122
+  },
+  {
+    "label": "Eos 1.4 TSI (Benzin, 122 PS)",
+    "fuel": "benzin",
+    "hp": 122
+  },
+  {
+    "label": "Eos 1.4 TSI (Benzin, 160 PS)",
+    "fuel": "benzin",
+    "hp": 160
+  },
+  {
+    "label": "Eos 2.0 TSI DSG (Benzin, 200 PS)",
+    "fuel": "benzin",
+    "hp": 200
+  },
+  {
+    "label": "Eos 2.0 TSI (Benzin, 200 PS)",
+    "fuel": "benzin",
+    "hp": 200
+  },
+  {
+    "label": "Eos 2.0 TSI DSG (Benzin, 211 PS)",
+    "fuel": "benzin",
+    "hp": 211
+  },
+  {
+    "label": "Eos 2.0 TSI (Benzin, 211 PS)",
+    "fuel": "benzin",
+    "hp": 211
+  },
+  {
+    "label": "Eos 3.2 V6 DSG (Benzin, 250 PS)",
+    "fuel": "benzin",
+    "hp": 250
+  },
+  {
+    "label": "Eos 3.6 V6 DSG (Benzin, 260 PS)",
+    "fuel": "benzin",
+    "hp": 260
+  },
+  {
+    "label": "Eos 2.0 TDI DPF DSG (Diesel, 140 PS)",
+    "fuel": "diesel",
+    "hp": 140
+  },
+  {
+    "label": "Eos 2.0 TDI DPF DSG BlueMotion Technology (Diesel, 140 PS)",
+    "fuel": "diesel",
+    "hp": 140
+  },
+  {
+    "label": "Eos 2.0 TDI DPF (Diesel, 140 PS)",
+    "fuel": "diesel",
+    "hp": 140
+  },
+  {
+    "label": "Eos 2.0 TDI DPF BlueMotion Technology (Diesel, 140 PS)",
+    "fuel": "diesel",
+    "hp": 140
+  }
+]

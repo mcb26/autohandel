@@ -1,0 +1,12 @@
+[
+  {
+    "label": "Motorisierungsvariante Technische Daten und Motorisierung Golf 1.4 GTE Plug-In-Hybrid DSG (Benzin/Elektro-PlugIn, 150 PS)",
+    "fuel": "benzin/elektro-plugin",
+    "hp": 150
+  },
+  {
+    "label": "Golf 1.4 GTE Plug-In-Hybrid DSG (Benzin/Elektro-PlugIn, 150 PS)",
+    "fuel": "benzin/elektro-plugin",
+    "hp": 150
+  }
+]

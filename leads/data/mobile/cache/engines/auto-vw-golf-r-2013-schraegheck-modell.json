@@ -1,0 +1,27 @@
+[
+  {
+    "label": "Golf R 2.0 TSI OPF 4Motion DSG (Benzin, 300 PS)",
+    "fuel": "benzin",
+    "hp": 300
+  },
+  {
+    "label": "Golf R 4Motion BlueMotion Technology DSG (Benzin, 300 PS)",
+    "fuel": "benzin",
+    "hp": 300
+  },
+  {
+    "label": "Golf R 4Motion BlueMotion Technology (Benzin, 300 PS)",
+    "fuel": "benzin",
+    "hp": 300
+  },
+  {
+    "label": "Golf R 4Motion (BlueMotion Technology) DSG (Benzin, 310 PS)",
+    "fuel": "bluemotion technology) dsg (benzin",
+    "hp": 310
+  },
+  {
+    "label": "Golf R 4Motion (BlueMotion Technology) (Benzin, 310 PS)",
+    "fuel": "bluemotion technology) (benzin",
+    "hp": 310
+  }
+]

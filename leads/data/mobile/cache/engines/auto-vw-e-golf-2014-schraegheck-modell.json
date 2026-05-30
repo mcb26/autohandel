@@ -1,0 +1,22 @@
+[
+  {
+    "label": "Motorisierungsvariante Technische Daten und Motorisierung Golf (Elektrischer Strom, 115 PS) e-Golf (Elektrischer Strom, 136 PS)",
+    "fuel": "elektrischer strom",
+    "hp": 136
+  },
+  {
+    "label": "Golf (Elektrischer Strom, 115 PS) e-Golf (Elektrischer Strom, 136 PS)",
+    "fuel": "elektrischer strom",
+    "hp": 136
+  },
+  {
+    "label": "Golf (Elektrischer Strom, 115 PS)",
+    "fuel": "elektrischer strom",
+    "hp": 115
+  },
+  {
+    "label": "e-Golf (Elektrischer Strom, 136 PS)",
+    "fuel": "elektrischer strom",
+    "hp": 136
+  }
+]

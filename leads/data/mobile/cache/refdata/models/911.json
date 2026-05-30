@@ -1,0 +1,42 @@
+[
+  {
+    "name": "911",
+    "description": "911 Urmodell",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/PORSCHE/modelgroups/911/models/911"
+  },
+  {
+    "name": "930",
+    "description": "930",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/PORSCHE/modelgroups/911/models/930"
+  },
+  {
+    "name": "964",
+    "description": "964",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/PORSCHE/modelgroups/911/models/964"
+  },
+  {
+    "name": "991",
+    "description": "991",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/PORSCHE/modelgroups/911/models/991"
+  },
+  {
+    "name": "992",
+    "description": "992",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/PORSCHE/modelgroups/911/models/992"
+  },
+  {
+    "name": "993",
+    "description": "993",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/PORSCHE/modelgroups/911/models/993"
+  },
+  {
+    "name": "996",
+    "description": "996",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/PORSCHE/modelgroups/911/models/996"
+  },
+  {
+    "name": "997",
+    "description": "997",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/PORSCHE/modelgroups/911/models/997"
+  }
+]

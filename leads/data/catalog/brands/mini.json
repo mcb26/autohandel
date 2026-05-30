@@ -1,0 +1,2005 @@
+{
+  "label": "Mini",
+  "models": {
+    "aceman": {
+      "label": "Aceman",
+      "series": {
+        "mini-aceman-j05": {
+          "label": "Mini Aceman (J05)",
+          "engines": [
+            {
+              "label": "SE 49.2 kWh (218 Hp) Electric",
+              "hp": 218,
+              "fuel": "elektro"
+            },
+            {
+              "label": "JCW 54.2 kWh (258 Hp) Electric",
+              "hp": 258,
+              "fuel": "elektro"
+            },
+            {
+              "label": "E 38.5 kWh (184 Hp) Electric",
+              "hp": 184,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mini-aceman-concept": {
+          "label": "Mini Aceman (Concept)",
+          "engines": [
+            {
+              "label": "Keine exakte Motorliste verfügbar – bitte genaue Motorisierung im Freitext angeben"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "clubman": {
+      "label": "Clubman",
+      "series": {
+        "mini-clubman-f54-facelift-2019": {
+          "label": "Mini Clubman (F54, facelift 2019)",
+          "engines": [
+            {
+              "label": "One D 1.5 (116 Hp) Automatic",
+              "hp": 116,
+              "fuel": "benzin"
+            },
+            {
+              "label": "One D 1.5 (116 Hp)",
+              "hp": 116,
+              "fuel": "benzin"
+            },
+            {
+              "label": "One 1.5 (102 Hp) Steptronic",
+              "hp": 102,
+              "fuel": "benzin"
+            },
+            {
+              "label": "One 1.5 (102 Hp)",
+              "hp": 102,
+              "fuel": "benzin"
+            },
+            {
+              "label": "JCW 2.0 (306 Hp) ALL4 Automatic",
+              "hp": 306,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper S 2.0 (192 Hp) Automatic",
+              "hp": 192,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper S 2.0 (192 Hp) ALL4 Automatic",
+              "hp": 192,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper S 2.0 (192 Hp)",
+              "hp": 192,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper SD 2.0 (190 Hp) Automatic",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper SD 2.0 (190 Hp) ALL4 Automatic",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper D 2.0 (150 Hp) Automatic",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper D 2.0 (150 Hp)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper 1.5 (136 Hp) Automatic",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper 1.5 (136 Hp)",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mini-clubman-f54": {
+          "label": "Mini Clubman (F54)",
+          "engines": [
+            {
+              "label": "One D 1.5 (116 Hp) Steptronic (2018 - 2019)",
+              "hp": 116,
+              "fuel": "benzin"
+            },
+            {
+              "label": "One D 1.5 (116 Hp) (2018 - 2019)",
+              "hp": 116,
+              "fuel": "benzin"
+            },
+            {
+              "label": "One 1.5 (102 Hp) Steptronic (2018 - 2019)",
+              "hp": 102,
+              "fuel": "benzin"
+            },
+            {
+              "label": "One 1.5 (102 Hp) (2018 - 2019)",
+              "hp": 102,
+              "fuel": "benzin"
+            },
+            {
+              "label": "JCW 2.0 (231 Hp) Steptronic (2016 - 2018)",
+              "hp": 231,
+              "fuel": "benzin"
+            },
+            {
+              "label": "JCW 2.0 (231 Hp) ALL4 Automatic (2016 - 2018)",
+              "hp": 231,
+              "fuel": "benzin"
+            },
+            {
+              "label": "JCW 2.0 (231 Hp) ALL4 (2016 - 2018)",
+              "hp": 231,
+              "fuel": "benzin"
+            },
+            {
+              "label": "JCW 2.0 (231 Hp) (2016 - 2019)",
+              "hp": 231,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper S 2.0 (192 Hp) Steptronic (2018 - 2019)",
+              "hp": 192,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper S 2.0 (192 Hp) ALL4 Steptronic (2016 - 2018)",
+              "hp": 192,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper S 2.0 (192 Hp) ALL4 (2016 - 2018)",
+              "hp": 192,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper S 2.0 (192 Hp) (2018 - 2019)",
+              "hp": 192,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper SD 2.0 (190 Hp) Steptronic (2018 - 2019)",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper SD 2.0 (190 Hp) ALL4 Steptronic (2018 - 2019)",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper D 2.0 (150 Hp) Steptronic (2018 - 2019)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper D 2.0 (150 Hp) (2018 - 2019)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper 1.5 (136 Hp) Steptronic (2018 - 2019)",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper 1.5 (136 Hp) (2018 - 2019)",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0d (190 Hp) Steptronic (2015 - 2018)",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0d (190 Hp) (2015 - 2018)",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0d (150 Hp) Steptronic (2015 - 2018)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0d (150 Hp) (2015 - 2018)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (192 Hp) Steptronic (2015 - 2018)",
+              "hp": 192,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (192 Hp) (2015 - 2018)",
+              "hp": 192,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5d (116 Hp) Steptronic (2015 - 2018)",
+              "hp": 116,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5d (116 Hp) (2015 - 2018)",
+              "hp": 116,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 (136 Hp) Steptronic (2015 - 2018)",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 (136 Hp) (2015 - 2018)",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mini-clubman-r55": {
+          "label": "Mini Clubman (R55)",
+          "engines": [
+            {
+              "label": "One D 1.6 (90 Hp) (2012 - 2014)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "One 1.6 (98 Hp) Automatic (2013 - 2014)",
+              "hp": 98,
+              "fuel": "benzin"
+            },
+            {
+              "label": "One 1.6 (98 Hp) (2013 - 2014)",
+              "hp": 98,
+              "fuel": "benzin"
+            },
+            {
+              "label": "JCW 1.6 (211 Hp) Automatic (2010 - 2014)",
+              "hp": 211,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper S 1.6 (184 Hp) Automatic (2012 - 2014)",
+              "hp": 184,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper S 1.6 (184 Hp) (2012 - 2014)",
+              "hp": 184,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper SD 2.0 (143 Hp) Automatic (2011 - 2014)",
+              "hp": 143,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper SD 2.0 (143 Hp) (2011 - 2014)",
+              "hp": 143,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper 1.6 (122 Hp) Automatic (2012 - 2014)",
+              "hp": 122,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper 1.6 (122 Hp) (2012 - 2014)",
+              "hp": 122,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper D 2.0 (112 Hp) Automatic (2011 - 2014)",
+              "hp": 112,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper D 1.6 (112 Hp) (2011 - 2014)",
+              "hp": 112,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper D 1.6 (110 Hp) Automatic (2010 - 2010)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper D 1.6 (110 Hp) (2010 - 2010)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "convertible": {
+      "label": "Convertible",
+      "series": {
+        "mini-convertible-f67": {
+          "label": "Mini Convertible (F67)",
+          "engines": [
+            {
+              "label": "JCW 2.0 (231 Hp) Steptronic",
+              "hp": 231,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper S 2.0 (204 Hp) Steptronic",
+              "hp": 204,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper C 2.0 (163 Hp) Steptronic",
+              "hp": 163,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mini-convertible-f57-facelift-2021": {
+          "label": "Mini Convertible (F57, facelift 2021)",
+          "engines": [
+            {
+              "label": "One 1.5 (102 Hp) (2021 - 2022)",
+              "hp": 102,
+              "fuel": "benzin"
+            },
+            {
+              "label": "JCW 2.0 (231 Hp) Steptronic (2021 - 2024)",
+              "hp": 231,
+              "fuel": "benzin"
+            },
+            {
+              "label": "JCW 2.0 (231 Hp) (2021 - 2022)",
+              "hp": 231,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper S 2.0 (178 Hp) Steptronic (2021 - 2024)",
+              "hp": 178,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper S 2.0 (178 Hp) (2021 - 2022)",
+              "hp": 178,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper 1.5 (136 Hp) Steptronic (2021 - 2024)",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper 1.5 (136 Hp) (2021 - 2022)",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mini-convertible-f57-facelift-2018": {
+          "label": "Mini Convertible (F57, facelift 2018)",
+          "engines": [
+            {
+              "label": "One 1.5 (102 Hp) (2018 - 2021)",
+              "hp": 102,
+              "fuel": "benzin"
+            },
+            {
+              "label": "JCW 2.0 (231 Hp) Automatic (2019 - 2021)",
+              "hp": 231,
+              "fuel": "benzin"
+            },
+            {
+              "label": "JCW 2.0 (231 Hp) (2019 - 2021)",
+              "hp": 231,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper S 2.0 (192 Hp) Steptronic (2018 - 2020)",
+              "hp": 192,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper S 2.0 (192 Hp) (2018 - 2020)",
+              "hp": 192,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper SD 2.0 (170 Hp) Steptronic (2018 - 2019)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper 1.5 (136 Hp) Steptronic (2018 - 2021)",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper 1.5 (136 Hp) (2018 - 2021)",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper D 1.5 (116 Hp) Steptronic (2018 - 2019)",
+              "hp": 116,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper D 1.5 (116 Hp) (2018 - 2019)",
+              "hp": 116,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mini-convertible-f57": {
+          "label": "Mini Convertible (F57)",
+          "engines": [
+            {
+              "label": "One 1.2 (102 Hp) (2016 - 2018)",
+              "hp": 102,
+              "fuel": "benzin"
+            },
+            {
+              "label": "JCW 2.0 (231 Hp) Steptronic (2016 - 2018)",
+              "hp": 231,
+              "fuel": "benzin"
+            },
+            {
+              "label": "JCW 2.0 (231 Hp) (2016 - 2018)",
+              "hp": 231,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper S 2.0 (192 Hp) Steptronic (2016 - 2018)",
+              "hp": 192,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper S 2.0 (192 Hp) (2016 - 2018)",
+              "hp": 192,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper SD 2.0 (170 Hp) Steptronic (2016 - 2018)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper 1.5 (136 Hp) Steptronic (2016 - 2018)",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper 1.5 (136 Hp) (2016 - 2018)",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper D 1.5 (116 Hp) Steptronic (2016 - 2018)",
+              "hp": 116,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper D 1.5 (116 Hp) (2016 - 2018)",
+              "hp": 116,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mini-convertible-r57-facelift-2011": {
+          "label": "Mini Convertible (R57, Facelift 2011)",
+          "engines": [
+            {
+              "label": "One 1.6 (98 Hp) Automatic (2012 - 2015)",
+              "hp": 98,
+              "fuel": "benzin"
+            },
+            {
+              "label": "One 1.6 (98 Hp) (2012 - 2015)",
+              "hp": 98,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper S 1.6 (184 Hp) Automatic (2012 - 2015)",
+              "hp": 184,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper S 1.6 (184 Hp) (2012 - 2015)",
+              "hp": 184,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper SD 2.0 (143 Hp) Automatic (2011 - 2015)",
+              "hp": 143,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper SD 2.0 (143 Hp) (2011 - 2015)",
+              "hp": 143,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper 1.6 (122 Hp) Automatic (2012 - 2015)",
+              "hp": 122,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper 1.6 (122 Hp) (2012 - 2015)",
+              "hp": 122,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper D 2.0 (112 Hp) Automatic (2011 - 2015)",
+              "hp": 112,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper D 1.6 (112 Hp) (2011 - 2015)",
+              "hp": 112,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mini-convertible-r57": {
+          "label": "Mini Convertible (R57)",
+          "engines": [
+            {
+              "label": "One 1.6 (98 Hp) Automatic (2010 - 2010)",
+              "hp": 98,
+              "fuel": "benzin"
+            },
+            {
+              "label": "One 1.6 (98 Hp) (2010 - 2010)",
+              "hp": 98,
+              "fuel": "benzin"
+            },
+            {
+              "label": "JCW 1.6 (211 Hp) Automatic (2012 - 2015)",
+              "hp": 211,
+              "fuel": "benzin"
+            },
+            {
+              "label": "JCW 1.6 (211 Hp) (2010 - 2012)",
+              "hp": 211,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper S 1.6i 16V Turbo (175 Hp) (2009 - 2010)",
+              "hp": 175,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper S 1.6 (175 Hp) Automatic (2009 - 2010)",
+              "hp": 175,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper S 1.6 (175 Hp) (2009 - 2010)",
+              "hp": 175,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper 1.6i 16V (120 Hp) (2009 - 2010)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper 1.6 (120 Hp) Automatic (2009 - 2010)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper 1.6 (120 Hp) (2009 - 2010)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mini-convertible-r52": {
+          "label": "Mini Convertible (R52)",
+          "engines": [
+            {
+              "label": "One 1.6i (90 Hp) (2007 - 2008)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper S 1.6i 16V (170 Hp) Automatic (2005 - 2008)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper S 1.6i 16V (170 Hp) (2005 - 2008)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper 1.6i 16V (116 Hp) CVT (2004 - 2008)",
+              "hp": 116,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper 1.6i 16V (116 Hp) (2005 - 2008)",
+              "hp": 116,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "countryman": {
+      "label": "Countryman",
+      "series": {
+        "mini-countryman-u25": {
+          "label": "Mini Countryman (U25)",
+          "engines": [
+            {
+              "label": "SE 66.5 kWh (313 Hp) Electric ALL4",
+              "hp": 313,
+              "fuel": "elektro"
+            },
+            {
+              "label": "S 2.0 (218 Hp) Mild Hybrid ALL4 Steptronic",
+              "hp": 218,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "JCW 2.0 (300 Hp) ALL4 DCT",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "E 66.5 kWh (204 Hp) Electric",
+              "hp": 204,
+              "fuel": "elektro"
+            },
+            {
+              "label": "D 2.0 (163 Hp) Mild Hybrid Steptronic",
+              "hp": 163,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "C 1.5 (170 Hp) Mild Hybrid Steptronic",
+              "hp": 170,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "C 1.5 (170 Hp) Mild Hybrid Automatic",
+              "hp": 170,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mini-countryman-f60-facelift-2020": {
+          "label": "Mini Countryman (F60, facelift 2020)",
+          "engines": [
+            {
+              "label": "One D 1.5 (116 Hp) Steptronic (2020 - 2022)",
+              "hp": 116,
+              "fuel": "benzin"
+            },
+            {
+              "label": "One D 1.5 (116 Hp) (2020 - 2022)",
+              "hp": 116,
+              "fuel": "benzin"
+            },
+            {
+              "label": "One 1.5 (102 Hp) Steptronic (2020 - 2022)",
+              "hp": 102,
+              "fuel": "benzin"
+            },
+            {
+              "label": "One 1.5 (102 Hp) (2020 - 2022)",
+              "hp": 102,
+              "fuel": "benzin"
+            },
+            {
+              "label": "JCW 2.0 (306 Hp) ALL4 Steptronic (2020 - 2023)",
+              "hp": 306,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper SD 2.0 (190 Hp) Steptronic (2020 - 2023)",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper SD 2.0 (190 Hp) ALL4 Steptronic (2020 - 2023)",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper S 2.0 (178 Hp) Steptronic (2020 - 2023)",
+              "hp": 178,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper S 2.0 (178 Hp) ALL4 Steptronic (2020 - 2023)",
+              "hp": 178,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper S 2.0 (178 Hp) (2020 - 2023)",
+              "hp": 178,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper D 2.0 (150 Hp) Steptronic (2020 - 2023)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper D 2.0 (150 Hp) ALL4 Steptronic (2020 - 2023)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper D 2.0 (150 Hp) (2020 - 2023)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper 1.5 (136 Hp) Steptronic (2020 - 2023)",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper 1.5 (136 Hp) ALL4 Steptronic (2020 - 2023)",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper 1.5 (136 Hp) (2020 - 2023)",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper SE 1.5 (220 Hp) Plug-in hybrid ALL4 Steptronic (2020 - 2023)",
+              "hp": 220,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mini-countryman-f60": {
+          "label": "Mini Countryman (F60)",
+          "engines": [
+            {
+              "label": "One D 1.5 (116 Hp) Steptronic (2018 - 2019)",
+              "hp": 116,
+              "fuel": "benzin"
+            },
+            {
+              "label": "One D 1.5 (116 Hp) (2018 - 2019)",
+              "hp": 116,
+              "fuel": "benzin"
+            },
+            {
+              "label": "One 1.5 (102 Hp) Steptronic (2018 - 2020)",
+              "hp": 102,
+              "fuel": "benzin"
+            },
+            {
+              "label": "One 1.5 (102 Hp) (2018 - 2020)",
+              "hp": 102,
+              "fuel": "benzin"
+            },
+            {
+              "label": "JCW 2.0 (231 Hp) Steptronic (2017 - 2018)",
+              "hp": 231,
+              "fuel": "benzin"
+            },
+            {
+              "label": "JCW 2.0 (231 Hp) (2017 - 2018)",
+              "hp": 231,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper S 2.0 (192 Hp) Steptronic (2018 - 2020)",
+              "hp": 192,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper S 2.0 (192 Hp) ALL4 Steptronic (2017 - 2018)",
+              "hp": 192,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper S 2.0 (192 Hp) ALL4 (2017 - 2018)",
+              "hp": 192,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper S 2.0 (192 Hp) (2018 - 2020)",
+              "hp": 192,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper SD 2.0 (190 Hp) Steptronic (2018 - 2020)",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper SD 2.0 (190 Hp) ALL4 Steptronic (2018 - 2020)",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper D 2.0 (150 Hp) Steptronic (2018 - 2020)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper D 2.0 (150 Hp) ALL4 Steptronic (2018 - 2020)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper D 2.0 (150 Hp) ALL4 (2018 - 2020)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper D 2.0 (150 Hp) (2018 - 2020)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper S E 1.5 (224 Hp) Plug-in Hybrid ALL4 Steptronic (2018 - 2020)",
+              "hp": 224,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Cooper 1.5 (136 Hp) Steptronic (2018 - 2020)",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper 1.5 (136 Hp) ALL4 Steptronic (2017 - 2018)",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper 1.5 (136 Hp) ALL4 (2017 - 2018)",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper 1.5 (136 Hp) (2018 - 2020)",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mini-countryman-r60-facelift-2014": {
+          "label": "Mini Countryman (R60, facelift 2014)",
+          "engines": [
+            {
+              "label": "One D 1.6 (90 Hp) (2014 - 2016)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "One 1.6 (98 Hp) Automatic (2014 - 2016)",
+              "hp": 98,
+              "fuel": "benzin"
+            },
+            {
+              "label": "One 1.6 (98 Hp) (2014 - 2016)",
+              "hp": 98,
+              "fuel": "benzin"
+            },
+            {
+              "label": "JCW 1.6 (218 Hp) Automatic (2014 - 2016)",
+              "hp": 218,
+              "fuel": "benzin"
+            },
+            {
+              "label": "JCW 1.6 (218 Hp) (2014 - 2016)",
+              "hp": 218,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper S 1.6 (190 Hp) Automatic (2014 - 2016)",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper S 1.6 (190 Hp) ALL4 Automatic (2014 - 2016)",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper S 1.6 (190 Hp) ALL4 (2014 - 2016)",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper S 1.6 (190 Hp) (2014 - 2016)",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper SD 2.0 (143 Hp) Automatic (2014 - 2016)",
+              "hp": 143,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper SD 2.0 (143 Hp) ALL4 Automatic (2014 - 2016)",
+              "hp": 143,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper SD 2.0 (143 Hp) ALL4 (2014 - 2016)",
+              "hp": 143,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper SD 2.0 (143 Hp) (2014 - 2016)",
+              "hp": 143,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper 1.6 (122 Hp) Automatic (2014 - 2016)",
+              "hp": 122,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper 1.6 (122 Hp) ALL4 Automatic (2014 - 2016)",
+              "hp": 122,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper 1.6 (122 Hp) ALL4 (2014 - 2016)",
+              "hp": 122,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper 1.6 (122 Hp) (2014 - 2016)",
+              "hp": 122,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper D 2.0 (112 Hp) Automatic (2014 - 2016)",
+              "hp": 112,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper D 2.0 (112 Hp) ALL4 Automatic (2014 - 2016)",
+              "hp": 112,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper D 1.6 (112 Hp) ALL4 (2014 - 2016)",
+              "hp": 112,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper D 1.6 (112 Hp) (2014 - 2016)",
+              "hp": 112,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mini-countryman-r60": {
+          "label": "Mini Countryman (R60)",
+          "engines": [
+            {
+              "label": "One D 1.6 (90 Hp) (2010 - 2014)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "One 1.6 (98 Hp) Automatic (2010 - 2014)",
+              "hp": 98,
+              "fuel": "benzin"
+            },
+            {
+              "label": "One 1.6 (98 Hp) (2010 - 2014)",
+              "hp": 98,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper S 1.6 (184 Hp) Automatic (2010 - 2014)",
+              "hp": 184,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper S 1.6 (184 Hp) ALL4 Automatic (2010 - 2014)",
+              "hp": 184,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper S 1.6 (184 Hp) ALL4 (2010 - 2014)",
+              "hp": 184,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper S 1.6 (184 Hp) (2010 - 2014)",
+              "hp": 184,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper SD 2.0 (143 Hp) Automatic (2010 - 2014)",
+              "hp": 143,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper SD 2.0 (143 Hp) ALL4 Automatic (2010 - 2014)",
+              "hp": 143,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper SD 2.0 (143 Hp) ALL4 (2010 - 2014)",
+              "hp": 143,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper SD 2.0 (143 Hp) (2010 - 2014)",
+              "hp": 143,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper 1.6 (122 Hp) Automatic (2010 - 2014)",
+              "hp": 122,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper 1.6 (122 Hp) ALL4 Automatic (2010 - 2014)",
+              "hp": 122,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper 1.6 (122 Hp) ALL4 (2010 - 2014)",
+              "hp": 122,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper 1.6 (122 Hp) (2010 - 2014)",
+              "hp": 122,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper D 2.0 (112 Hp) Automatic (2010 - 2014)",
+              "hp": 112,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper D 2.0 (112 Hp) ALL4 Automatic (2010 - 2014)",
+              "hp": 112,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper D 1.6 (112 Hp) ALL4 (2010 - 2014)",
+              "hp": 112,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper D 1.6 (112 Hp) (2010 - 2014)",
+              "hp": 112,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "coupe": {
+      "label": "Coupe",
+      "series": {
+        "mini-coupe-r58": {
+          "label": "Mini Coupe (R58)",
+          "engines": [
+            {
+              "label": "Cooper S 1.6 (184 Hp) Automatic (2011 - 2015)",
+              "hp": 184,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper S 1.6 (184 Hp) (2011 - 2015)",
+              "hp": 184,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper SD 2.0 (143 Hp) Automatic (2011 - 2015)",
+              "hp": 143,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper SD 2.0 (143 Hp) (2011 - 2015)",
+              "hp": 143,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper 1.6 (122 Hp) Automatic (2011 - 2015)",
+              "hp": 122,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper 1.6 (122 Hp) (2011 - 2015)",
+              "hp": 122,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "electric": {
+      "label": "Electric",
+      "series": {
+        "mini-electric-j01": {
+          "label": "Mini Electric (J01)",
+          "engines": [
+            {
+              "label": "JCW 54.2 kWh (258 Hp)",
+              "hp": 258,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper SE 54.2 kWh (218 Hp)",
+              "hp": 218,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper E 40.7 kWh (184 Hp)",
+              "hp": 184,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mini-electric-cooper-se-f56-facelift-2021": {
+          "label": "Mini Electric Cooper SE (F56, facelift 2021)",
+          "engines": [
+            {
+              "label": "32.6 kWh (184 Hp) (2021 - 2023)",
+              "hp": 184,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mini-electric-cooper-se-f56": {
+          "label": "Mini Electric Cooper SE (F56)",
+          "engines": [
+            {
+              "label": "32.6 kWh (184 Hp) (2019 - 2021)",
+              "hp": 184,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mini-electric-concept": {
+          "label": "Mini Electric Concept",
+          "engines": [
+            {
+              "label": "Keine exakte Motorliste verfügbar – bitte genaue Motorisierung im Freitext angeben"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mini-e-concept": {
+          "label": "Mini E Concept",
+          "engines": [
+            {
+              "label": "Keine exakte Motorliste verfügbar – bitte genaue Motorisierung im Freitext angeben"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "hatch": {
+      "label": "Hatch",
+      "series": {
+        "mini-hatch-f65-5-door": {
+          "label": "Mini Hatch (F65) 5-door",
+          "engines": [
+            {
+              "label": "Cooper S 2.0 (204 Hp) Steptronic",
+              "hp": 204,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper C 1.5 (156 Hp) Steptronic",
+              "hp": 156,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mini-hatch-f66-3-door": {
+          "label": "Mini Hatch (F66) 3-door",
+          "engines": [
+            {
+              "label": "JCW 2.0 (231 Hp) Steptronic",
+              "hp": 231,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper S 2.0 (204 Hp) Steptronic",
+              "hp": 204,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper C 1.5 (156 Hp) Steptronic",
+              "hp": 156,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mini-hatch-f55-facelift-2021-5-door": {
+          "label": "Mini Hatch (F55, facelift 2021) 5-door",
+          "engines": [
+            {
+              "label": "Cooper S 2.0 (178 Hp) Steptronic (2021 - 2024)",
+              "hp": 178,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper S 2.0 (178 Hp) (2021 - 2024)",
+              "hp": 178,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper 1.5 (136 Hp) Steptronic (2021 - 2024)",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper 1.5 (136 Hp) (2021 - 2024)",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "One 1.5 (102 Hp) Steptronic (2021 - 2022)",
+              "hp": 102,
+              "fuel": "benzin"
+            },
+            {
+              "label": "One 1.5 (102 Hp) (2021 - 2022)",
+              "hp": 102,
+              "fuel": "benzin"
+            },
+            {
+              "label": "One First 1.5 (75 Hp) (2021 - 2022)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mini-hatch-f56-facelift-2021-3-door": {
+          "label": "Mini Hatch (F56, facelift 2021) 3-door",
+          "engines": [
+            {
+              "label": "JCW 2.0 (231 Hp) Steptronic (2021 - 2024)",
+              "hp": 231,
+              "fuel": "benzin"
+            },
+            {
+              "label": "JCW 2.0 (231 Hp) (2021 - 2024)",
+              "hp": 231,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper S 2.0 (178 Hp) Steptronic (2021 - 2024)",
+              "hp": 178,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper S 2.0 (178 Hp) (2021 - 2024)",
+              "hp": 178,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper 1.5 (136 Hp) Steptronic (2021 - 2024)",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper 1.5 (136 Hp) (2021 - 2024)",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "One 1.5 (102 Hp) Steptronic (2021 - 2022)",
+              "hp": 102,
+              "fuel": "benzin"
+            },
+            {
+              "label": "One 1.5 (102 Hp) (2021 - 2022)",
+              "hp": 102,
+              "fuel": "benzin"
+            },
+            {
+              "label": "One First 1.5 (75 Hp) (2021 - 2022)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mini-hatch-f55-facelift-2018-5-door": {
+          "label": "Mini Hatch (F55, facelift 2018) 5-door",
+          "engines": [
+            {
+              "label": "One First 1.5 (75 Hp) (2018 - 2021)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "One D 1.5 (95 Hp) (2018 - 2019)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "One 1.5 (102 Hp) Steptronic (2018 - 2021)",
+              "hp": 102,
+              "fuel": "benzin"
+            },
+            {
+              "label": "One 1.5 (102 Hp) (2018 - 2021)",
+              "hp": 102,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper S 2.0 (192 Hp) Steptronic (2018 - 2020)",
+              "hp": 192,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper S 2.0 (192 Hp) (2018 - 2020)",
+              "hp": 192,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper SD 2.0 (170 Hp) Steptronic (2018 - 2019)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper 1.5 (136 Hp) Steptronic (2018 - 2021)",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper 1.5 (136 Hp) (2018 - 2021)",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper D 1.5 (116 Hp) Steptronic (2018 - 2019)",
+              "hp": 116,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper D 1.5 (116 Hp) (2018 - 2019)",
+              "hp": 116,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mini-hatch-f56-facelift-2018-3-door": {
+          "label": "Mini Hatch (F56, facelift 2018) 3-door",
+          "engines": [
+            {
+              "label": "One First 1.5 (75 Hp) (2018 - 2021)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "One D 1.5 (95 Hp) (2018 - 2019)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "One 1.5 (102 Hp) Steptronic (2018 - 2021)",
+              "hp": 102,
+              "fuel": "benzin"
+            },
+            {
+              "label": "One 1.5 (102 Hp) (2018 - 2021)",
+              "hp": 102,
+              "fuel": "benzin"
+            },
+            {
+              "label": "JCW 2.0 (231 Hp) Steptronic (2018 - 2021)",
+              "hp": 231,
+              "fuel": "benzin"
+            },
+            {
+              "label": "JCW 2.0 (231 Hp) (2018 - 2021)",
+              "hp": 231,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper S 2.0 (192 Hp) Steptronic (2018 - 2020)",
+              "hp": 192,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper S 2.0 (192 Hp) Automatic (2018 - 2018)",
+              "hp": 192,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper S 2.0 (192 Hp) (2018 - 2020)",
+              "hp": 192,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper SD 2.0 (170 Hp) Steptronic (2018 - 2019)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper 1.5 (136 Hp) Steptronic (2018 - 2021)",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper 1.5 (136 Hp) Automatic (2018 - 2018)",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper 1.5 (136 Hp) (2018 - 2021)",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper D 1.5 (116 Hp) Steptronic (2018 - 2019)",
+              "hp": 116,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper D 1.5 (116 Hp) (2018 - 2019)",
+              "hp": 116,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mini-hatch-f55-5-door": {
+          "label": "Mini Hatch (F55) 5-door",
+          "engines": [
+            {
+              "label": "One First 1.2 (75 Hp) (2014 - 2017)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "One D 1.5 (95 Hp) (2014 - 2018)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "One 1.2 (102 Hp) Automatic (2014 - 2017)",
+              "hp": 102,
+              "fuel": "benzin"
+            },
+            {
+              "label": "One 1.2 (102 Hp) (2014 - 2017)",
+              "hp": 102,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper S 2.0 (192 Hp) Automatic (2014 - 2018)",
+              "hp": 192,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper S 2.0 (192 Hp) (2014 - 2018)",
+              "hp": 192,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper SD 2.0 (170 Hp) Automatic (2014 - 2018)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper SD 2.0 (170 Hp) (2014 - 2018)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper 1.5 (136 Hp) Automatic (2014 - 2018)",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper 1.5 (136 Hp) (2014 - 2018)",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper D 1.5 (116 Hp) Automatic (2014 - 2018)",
+              "hp": 116,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper D 1.5 (116 Hp) (2014 - 2018)",
+              "hp": 116,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mini-hatch-f56-3-door": {
+          "label": "Mini Hatch (F56) 3-door",
+          "engines": [
+            {
+              "label": "One First 1.2 (102 Hp) (2017 - 2018)",
+              "hp": 102,
+              "fuel": "benzin"
+            },
+            {
+              "label": "One D 1.5 (95 Hp) (2014 - 2018)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "One 1.2 (102 Hp) Automatic (2014 - 2017)",
+              "hp": 102,
+              "fuel": "benzin"
+            },
+            {
+              "label": "One 1.2 (102 Hp) (2014 - 2017)",
+              "hp": 102,
+              "fuel": "benzin"
+            },
+            {
+              "label": "JCW 2.0 (231 Hp) Automatic (2015 - 2018)",
+              "hp": 231,
+              "fuel": "benzin"
+            },
+            {
+              "label": "JCW 2.0 (231 Hp) (2015 - 2018)",
+              "hp": 231,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper S 2.0 (192 Hp) Automatic (2014 - 2018)",
+              "hp": 192,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper S 2.0 (192 Hp) (2014 - 2018)",
+              "hp": 192,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper SD 2.0 (170 Hp) Automatic (2014 - 2018)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper SD 2.0 (170 Hp) (2014 - 2018)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper 1.5 (136 Hp) Automatic (2014 - 2018)",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper 1.5 (136 Hp) (2014 - 2018)",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper D 1.5 (116 Hp) Automatic (2014 - 2018)",
+              "hp": 116,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper D 1.5 (116 Hp) (2014 - 2018)",
+              "hp": 116,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mini-hatch-r56": {
+          "label": "Mini Hatch (R56)",
+          "engines": [
+            {
+              "label": "One D 1.6 (90 Hp) (2012 - 2013)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "One 1.6 (98 Hp) MINIMALIST (2012 - 2013)",
+              "hp": 98,
+              "fuel": "benzin"
+            },
+            {
+              "label": "One 1.6 (98 Hp) Automatic (2012 - 2013)",
+              "hp": 98,
+              "fuel": "benzin"
+            },
+            {
+              "label": "One 1.6 (98 Hp) (2012 - 2013)",
+              "hp": 98,
+              "fuel": "benzin"
+            },
+            {
+              "label": "One 1.6 (75 Hp) MINIMALIST (2012 - 2013)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "One 1.6 (75 Hp) (2012 - 2013)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "JCW 1.6 (211 Hp) (2010 - 2014)",
+              "hp": 211,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper S 1.6 (184 Hp) Automatic (2012 - 2013)",
+              "hp": 184,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper S 1.6 (184 Hp) (2012 - 2013)",
+              "hp": 184,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper S 1.6 i 16V Turbo (175 Hp) (2006 - 2010)",
+              "hp": 175,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper SD 2.0 (143 Hp) Automatic (2011 - 2013)",
+              "hp": 143,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper SD 2.0 (143 Hp) (2011 - 2013)",
+              "hp": 143,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper 1.6 (122 Hp) Automatic (2012 - 2013)",
+              "hp": 122,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper 1.6 (122 Hp) (2012 - 2013)",
+              "hp": 122,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper 1.6 i 16V (120 Hp) (2007 - 2010)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper D 2.0 (112 Hp) Automatic (2011 - 2013)",
+              "hp": 112,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper D 1.6 (112 Hp) (2011 - 2013)",
+              "hp": 112,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper D 1.6 (110 Hp) Automatic (2010 - 2013)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper D 1.6 (110 Hp) (2010 - 2013)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "mini-hatch-r50-r53": {
+          "label": "Mini Hatch (R50; R53)",
+          "engines": [
+            {
+              "label": "Cooper S 1.6 i 16V (170 Hp) (2004 - 2006)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper S 1.6 i 16V (163 Hp) (2002 - 2004)",
+              "hp": 163,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper 1.6 i 16V (116 Hp) Automatic (2001 - 2006)",
+              "hp": 116,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper 1.6 i 16V (116 Hp) (2001 - 2006)",
+              "hp": 116,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "paceman": {
+      "label": "Paceman",
+      "series": {
+        "mini-paceman-r61": {
+          "label": "Mini Paceman (R61)",
+          "engines": [
+            {
+              "label": "JCW 1.6 (218 Hp) Automatic (2014 - 2016)",
+              "hp": 218,
+              "fuel": "benzin"
+            },
+            {
+              "label": "JCW 1.6 (218 Hp) (2013 - 2016)",
+              "hp": 218,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper S 1.6 (190 Hp) Automatic (2014 - 2016)",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper S 1.6 (190 Hp) ALL4 Automatic (2014 - 2016)",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper S 1.6 (190 Hp) ALL4 (2014 - 2016)",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper S 1.6 (190 Hp) (2014 - 2016)",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper SD 2.0 (143 Hp) Automatic (2014 - 2016)",
+              "hp": 143,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper SD 2.0 (143 Hp) ALL4 Automatic (2014 - 2016)",
+              "hp": 143,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper SD 2.0 (143 Hp) ALL4 (2014 - 2016)",
+              "hp": 143,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper SD 2.0 (143 Hp) (2014 - 2016)",
+              "hp": 143,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper 1.6 (122 Hp) Automatic (2014 - 2016)",
+              "hp": 122,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper 1.6 (122 Hp) ALL4 Automatic (2014 - 2016)",
+              "hp": 122,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper 1.6 (122 Hp) ALL4 (2014 - 2016)",
+              "hp": 122,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper 1.6 (122 Hp) (2014 - 2016)",
+              "hp": 122,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper D 2.0 (112 Hp) Automatic (2014 - 2016)",
+              "hp": 112,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper D 2.0 (112 Hp) ALL4 Automatic (2014 - 2016)",
+              "hp": 112,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper D 1.6 (112 Hp) ALL4 (2014 - 2016)",
+              "hp": 112,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper D 1.6 (112 Hp) (2014 - 2016)",
+              "hp": 112,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "roadster": {
+      "label": "Roadster",
+      "series": {
+        "mini-roadster-r59": {
+          "label": "Mini Roadster (R59)",
+          "engines": [
+            {
+              "label": "Cooper S 1.6 (184 Hp) Automatic (2012 - 2015)",
+              "hp": 184,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper S 1.6 (184 Hp) (2012 - 2015)",
+              "hp": 184,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper SD 2.0 (143 Hp) Automatic (2012 - 2015)",
+              "hp": 143,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper SD 2.0 (143 Hp) (2012 - 2015)",
+              "hp": 143,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper 1.6 (122 Hp) Automatic (2012 - 2015)",
+              "hp": 122,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Cooper 1.6 (122 Hp) (2012 - 2015)",
+              "hp": 122,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "x-vagabund": {
+      "label": "x Vagabund",
+      "series": {
+        "mini-x-vagabund-concept": {
+          "label": "Mini x Vagabund Concept",
+          "engines": [
+            {
+              "label": "Keine exakte Motorliste verfügbar – bitte genaue Motorisierung im Freitext angeben"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

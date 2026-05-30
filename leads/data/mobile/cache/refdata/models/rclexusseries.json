@@ -1,0 +1,22 @@
+[
+  {
+    "name": "RC 200",
+    "description": "RC 200",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LEXUS/modelgroups/RC__LEXUS_SERIES/models/RC%20200"
+  },
+  {
+    "name": "RC 300",
+    "description": "RC 300",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LEXUS/modelgroups/RC__LEXUS_SERIES/models/RC%20300"
+  },
+  {
+    "name": "RC 350",
+    "description": "RC 350",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LEXUS/modelgroups/RC__LEXUS_SERIES/models/RC%20350"
+  },
+  {
+    "name": "RC F",
+    "description": "RC F",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LEXUS/modelgroups/RC__LEXUS_SERIES/models/RC%20F"
+  }
+]

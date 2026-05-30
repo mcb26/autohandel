@@ -1,0 +1,37 @@
+[
+  {
+    "label": "Limousine BMW 1er Dreitürer (F21) 2012 – 2019",
+    "href": "https://www.mobile.de/auto/bmw/1er/2011/dreituerer/modell/",
+    "modell_url": "https://www.mobile.de/auto/bmw/1er/2011/dreituerer/modell/",
+    "model_slug": "1er",
+    "brand_slug": "bmw"
+  },
+  {
+    "label": "Limousine BMW 1er Fünftürer (F20) 2011 – 2019",
+    "href": "https://www.mobile.de/auto/bmw/1er/2011/5-tuerer/modell/",
+    "modell_url": "https://www.mobile.de/auto/bmw/1er/2011/5-tuerer/modell/",
+    "model_slug": "1er",
+    "brand_slug": "bmw"
+  },
+  {
+    "label": "Cabrio BMW 1er Cabriolet (E88) 2007 – 2013",
+    "href": "https://www.mobile.de/auto/bmw/1er/2004/cabriolet/modell/",
+    "modell_url": "https://www.mobile.de/auto/bmw/1er/2004/cabriolet/modell/",
+    "model_slug": "1er",
+    "brand_slug": "bmw"
+  },
+  {
+    "label": "Coupe BMW 1er Coupé (E82) 2007 – 2013",
+    "href": "https://www.mobile.de/auto/bmw/1er/2004/coupe/modell/",
+    "modell_url": "https://www.mobile.de/auto/bmw/1er/2004/coupe/modell/",
+    "model_slug": "1er",
+    "brand_slug": "bmw"
+  },
+  {
+    "label": "Limousine BMW 1er Dreitürer (E81) 2007 – 2011",
+    "href": "https://www.mobile.de/auto/bmw/1er/2004/schraegheck/modell/",
+    "modell_url": "https://www.mobile.de/auto/bmw/1er/2004/schraegheck/modell/",
+    "model_slug": "1er",
+    "brand_slug": "bmw"
+  }
+]

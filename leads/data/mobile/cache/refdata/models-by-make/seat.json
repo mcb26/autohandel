@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Alhambra",
+    "description": "Alhambra",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SEAT/model/Alhambra"
+  },
+  {
+    "name": "Altea",
+    "description": "Altea",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SEAT/model/Altea"
+  },
+  {
+    "name": "Arona",
+    "description": "Arona",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SEAT/model/Arona"
+  },
+  {
+    "name": "Arosa",
+    "description": "Arosa",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SEAT/model/Arosa"
+  },
+  {
+    "name": "Ateca",
+    "description": "Ateca",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SEAT/model/Ateca"
+  },
+  {
+    "name": "Cordoba",
+    "description": "Cordoba",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SEAT/model/Cordoba"
+  },
+  {
+    "name": "Exeo",
+    "description": "Exeo",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SEAT/model/Exeo"
+  },
+  {
+    "name": "Ibiza",
+    "description": "Ibiza",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SEAT/model/Ibiza"
+  },
+  {
+    "name": "Inca",
+    "description": "Inca",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SEAT/model/Inca"
+  },
+  {
+    "name": "Leon",
+    "description": "Leon",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SEAT/model/Leon"
+  },
+  {
+    "name": "Malaga",
+    "description": "Malaga",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SEAT/model/Malaga"
+  },
+  {
+    "name": "Marbella",
+    "description": "Marbella",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SEAT/model/Marbella"
+  },
+  {
+    "name": "Mii",
+    "description": "Mii",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SEAT/model/Mii"
+  },
+  {
+    "name": "Tarraco",
+    "description": "Tarraco",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SEAT/model/Tarraco"
+  },
+  {
+    "name": "Terra",
+    "description": "Terra",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SEAT/model/Terra"
+  },
+  {
+    "name": "Toledo",
+    "description": "Toledo",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SEAT/model/Toledo"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SEAT/model/ANDERE"
+  }
+]

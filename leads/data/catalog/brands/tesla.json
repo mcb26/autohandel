@@ -1,0 +1,417 @@
+{
+  "label": "Tesla",
+  "models": {
+    "cybercab": {
+      "label": "Cybercab",
+      "series": {
+        "tesla-cybercab-concept": {
+          "label": "Tesla Cybercab concept",
+          "engines": [
+            {
+              "label": "Keine exakte Motorliste verfügbar – bitte genaue Motorisierung im Freitext angeben"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "cybertruck": {
+      "label": "Cybertruck",
+      "series": {
+        "tesla-cybertruck": {
+          "label": "Tesla Cybertruck",
+          "engines": [
+            {
+              "label": "Cyberbeast 123 kWh (845 Hp) Tri Motor AWD",
+              "hp": 845
+            },
+            {
+              "label": "123 kWh (600 Hp) Dual Motor AWD",
+              "hp": 600
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "model-3": {
+      "label": "Model 3",
+      "series": {
+        "tesla-model-3-highland-facelift-2023": {
+          "label": "Tesla Model 3 (Highland, facelift 2023)",
+          "engines": [
+            {
+              "label": "Performance 82 kWh (510 Hp) Dual Motor AWD",
+              "hp": 510
+            },
+            {
+              "label": "Performance 79 kWh (460 Hp) Dual Motor AWD",
+              "hp": 460
+            },
+            {
+              "label": "Premium Long Range 84.7 kWh (440 Hp) Dual Motor AWD",
+              "hp": 440,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Premium Long Range 84.7 kWh (320 Hp)",
+              "hp": 320,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Long Range 79 kWh (440 Hp) Dual Motor AWD (2023 - 2025)",
+              "hp": 440
+            },
+            {
+              "label": "Long Range 79 kWh (320 Hp) (2024 - 2025)",
+              "hp": 320
+            },
+            {
+              "label": "Standard 62.5 kWh (283 Hp)",
+              "hp": 283,
+              "fuel": "benzin"
+            },
+            {
+              "label": "60 kWh (283 Hp) (2023 - 2025)",
+              "hp": 283
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "tesla-model-3-facelift-2020": {
+          "label": "Tesla Model 3 (facelift 2020)",
+          "engines": [
+            {
+              "label": "Standard Plus 54 kWh (325 Hp) (2020 - 2021)",
+              "hp": 325
+            },
+            {
+              "label": "Performance 80.5 kWh (513 Hp) Dual Motor AWD (2020 - 2023)",
+              "hp": 513,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Long Range 80.5 kWh (441 Hp) Dual Motor AWD (2022 - 2023)",
+              "hp": 441,
+              "fuel": "benzin"
+            },
+            {
+              "label": "60 kWh (325 Hp) (2021 - 2023)",
+              "hp": 325
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "tesla-model-3": {
+          "label": "Tesla Model 3",
+          "engines": [
+            {
+              "label": "Standard Range 68.3 kWh (325 Hp) (2019 - 2020)",
+              "hp": 325,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Performance 80.5 kWh (513 Hp) Dual Motor AWD (2019 - 2020)",
+              "hp": 513,
+              "fuel": "benzin"
+            },
+            {
+              "label": "P50 50 kWh (261 Hp) Automatic (2017 - 2019)",
+              "hp": 261
+            },
+            {
+              "label": "Long Range 80.5 kWh (441 Hp) Dual Motor AWD (2019 - 2020)",
+              "hp": 441,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Long Range 75 kWh (287 Hp) (2017 - 2019)",
+              "hp": 287
+            },
+            {
+              "label": "55 kWh (204 Hp) Automatic (2019 - 2020)",
+              "hp": 204
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "model-s": {
+      "label": "Model S",
+      "series": {
+        "tesla-model-s-facelift-2021": {
+          "label": "Tesla Model S (facelift 2021)",
+          "engines": [
+            {
+              "label": "Plaid 100 kWh (1020 Hp) Tri Motor AWD",
+              "hp": 1020
+            },
+            {
+              "label": "Long Range 100 kWh (670 Hp) Dual Motor AWD",
+              "hp": 670
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "tesla-model-s-facelift-2016": {
+          "label": "Tesla Model S (facelift 2016)",
+          "engines": [
+            {
+              "label": "Performance 100 kWh (611 Hp) Dual Motor AWD (2019 - 2021)",
+              "hp": 611
+            },
+            {
+              "label": "P90D Ludicrous 90 kWh (532 Hp) Dual Motor AWD (2016 - 2017)",
+              "hp": 532
+            },
+            {
+              "label": "P90D 90 kWh (463 Hp) Dual Motor AWD (2016 - 2017)",
+              "hp": 463
+            },
+            {
+              "label": "P100D 100 kWh (605 Hp) Dual Motor AWD (2016 - 2019)",
+              "hp": 605
+            },
+            {
+              "label": "Long Range 100 kWh (541 Hp) Dual Motor AWD (2019 - 2021)",
+              "hp": 541
+            },
+            {
+              "label": "90D 90 kWh (417 Hp) Dual Motor AWD (2016 - 2017)",
+              "hp": 417
+            },
+            {
+              "label": "75D 75 kWh (328 Hp) Dual Motor AWD (2016 - 2019)",
+              "hp": 328
+            },
+            {
+              "label": "75 75 kWh (315 Hp) (2016 - 2017)",
+              "hp": 315
+            },
+            {
+              "label": "60D 60 kWh (328 Hp) AWD (2016 - 2017)",
+              "hp": 328
+            },
+            {
+              "label": "60 60 kWh (315 Hp) (2016 - 2017)",
+              "hp": 315
+            },
+            {
+              "label": "100D 100 kWh (422 Hp) Dual Motor AWD (2017 - 2019)",
+              "hp": 422
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "tesla-model-s": {
+          "label": "Tesla Model S",
+          "engines": [
+            {
+              "label": "P90D 90 kWh (463 Hp) Dual Motor AWD (2015 - 2016)",
+              "hp": 463
+            },
+            {
+              "label": "P85D 85 kWh (463 Hp) Dual Motor AWD (2014 - 2016)",
+              "hp": 463
+            },
+            {
+              "label": "P85 85 kWh (416 Hp) (2012 - 2014)",
+              "hp": 416
+            },
+            {
+              "label": "85D 85 kWh (417 Hp) Dual Motor AWD (2014 - 2016)",
+              "hp": 417
+            },
+            {
+              "label": "85 85 kWh (362 Hp) (2012 - 2015)",
+              "hp": 362
+            },
+            {
+              "label": "70D 70 kWh (328 Hp) Dual Motor AWD (2015 - 2016)",
+              "hp": 328
+            },
+            {
+              "label": "70 70 kWh (315 Hp) (2015 - 2016)",
+              "hp": 315
+            },
+            {
+              "label": "60 60 kWh (302 Hp) (2012 - 2015)",
+              "hp": 302
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "model-x": {
+      "label": "Model X",
+      "series": {
+        "tesla-model-x-facelift-2021": {
+          "label": "Tesla Model X (facelift 2021)",
+          "engines": [
+            {
+              "label": "Plaid 100 kWh (1020 Hp) Dual Motor AWD",
+              "hp": 1020
+            },
+            {
+              "label": "Long Range 100 kWh (670 Hp) Dual Motor AWD",
+              "hp": 670
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "tesla-model-x": {
+          "label": "Tesla Model X",
+          "engines": [
+            {
+              "label": "Performance 100 kWh (611 Hp) Dual Motor AWD (2019 - 2021)",
+              "hp": 611
+            },
+            {
+              "label": "P90D 90 kWh (772 Hp) Dual Motor AWD (2015 - 2016)",
+              "hp": 772
+            },
+            {
+              "label": "P100D 100 kWh (611 Hp) Dual Motor AWD (2016 - 2019)",
+              "hp": 611
+            },
+            {
+              "label": "Long Range 100 kWh (422 Hp) Dual Motor AWD (2019 - 2021)",
+              "hp": 422
+            },
+            {
+              "label": "90D 90 kWh (525 Hp) Dual Motor AWD (2015 - 2017)",
+              "hp": 525
+            },
+            {
+              "label": "75D 75 kWh (333 Hp) Dual Motor AWD (2016 - 2019)",
+              "hp": 333
+            },
+            {
+              "label": "100D 100 kWh (422 Hp) Dual Motor AWD (2017 - 2019)",
+              "hp": 422
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "model-y": {
+      "label": "Model Y",
+      "series": {
+        "tesla-model-y-juniper-facelift-2025": {
+          "label": "Tesla Model Y (Juniper, facelift 2025)",
+          "engines": [
+            {
+              "label": "Performance 84.7 kWh (460 Hp) Dual Motor AWD",
+              "hp": 460,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Premium Long Range 84.7 kWh (440 Hp) Dual Motor AWD",
+              "hp": 440,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Long Range 79 kWh (440 Hp) Dual Motor AWD (2025 - 2025)",
+              "hp": 440
+            },
+            {
+              "label": "Long Range 79 kWh (299 Hp)",
+              "hp": 299
+            },
+            {
+              "label": "62.5 kWh (299 Hp)",
+              "hp": 299,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "tesla-model-y": {
+          "label": "Tesla Model Y",
+          "engines": [
+            {
+              "label": "Standard Range 60 kWh (299 Hp) (2022 - 2025)",
+              "hp": 299
+            },
+            {
+              "label": "Standard Range 50 kWh (204 Hp) (2021 - 2025)",
+              "hp": 204
+            },
+            {
+              "label": "Performance 80.5 kWh (534 Hp) Dual Motor AWD (2021 - 2025)",
+              "hp": 534,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Performance 75 kWh (462 Hp) Dual Motor AWD (2020 - 2025)",
+              "hp": 462
+            },
+            {
+              "label": "Long Range 80.5 kWh (514 Hp) Dual Motor AWD (2021 - 2025)",
+              "hp": 514,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Long Range 78.1 kWh (347 Hp) (2024 - 2025)",
+              "hp": 347,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Long Range 75 kWh (351 Hp) Dual Motor AWD (2020 - 2025)",
+              "hp": 351
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "roadster": {
+      "label": "Roadster",
+      "series": {
+        "tesla-roadster-i": {
+          "label": "Tesla Roadster I",
+          "engines": [
+            {
+              "label": "Sport 53 kWh (292 Hp) (2008 - 2012)",
+              "hp": 292
+            },
+            {
+              "label": "53 kWh (292 Hp) (2008 - 2012)",
+              "hp": 292
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

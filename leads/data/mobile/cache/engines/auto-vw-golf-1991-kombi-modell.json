@@ -1,0 +1,92 @@
+[
+  {
+    "label": "Golf Variant 1.4 (Benzin, 60 PS)",
+    "fuel": "benzin",
+    "hp": 60
+  },
+  {
+    "label": "Golf Variant 1.8 (Automatik) (Benzin, 75 PS)",
+    "fuel": "automatik) (benzin",
+    "hp": 75
+  },
+  {
+    "label": "Golf Variant 1.8 (Benzin, 75 PS)",
+    "fuel": "benzin",
+    "hp": 75
+  },
+  {
+    "label": "Golf Variant 1.6 (Benzin, 75 PS)",
+    "fuel": "benzin",
+    "hp": 75
+  },
+  {
+    "label": "Golf Variant 1.8 (Benzin, 90 PS)",
+    "fuel": "benzin",
+    "hp": 90
+  },
+  {
+    "label": "Golf Variant 1.8 Syncro (Benzin, 90 PS)",
+    "fuel": "benzin",
+    "hp": 90
+  },
+  {
+    "label": "Golf Variant 1.6 (Benzin, 100 PS)",
+    "fuel": "benzin",
+    "hp": 100
+  },
+  {
+    "label": "Golf Variant 2.0 (Benzin, 115 PS)",
+    "fuel": "benzin",
+    "hp": 115
+  },
+  {
+    "label": "Golf Variant 2.0 Syncro (Benzin, 115 PS)",
+    "fuel": "benzin",
+    "hp": 115
+  },
+  {
+    "label": "Golf Variant 2.9 VR6 Syncro (Benzin, 190 PS)",
+    "fuel": "benzin",
+    "hp": 190
+  },
+  {
+    "label": "Golf Variant 2.9 Syncro (Benzin, 190 PS)",
+    "fuel": "benzin",
+    "hp": 190
+  },
+  {
+    "label": "Golf Variant 1.9 D (Diesel, 64 PS)",
+    "fuel": "diesel",
+    "hp": 64
+  },
+  {
+    "label": "Golf Variant 1.9 SDI (Diesel, 64 PS)",
+    "fuel": "diesel",
+    "hp": 64
+  },
+  {
+    "label": "Golf Variant 1.9 TD (Diesel, 75 PS)",
+    "fuel": "diesel",
+    "hp": 75
+  },
+  {
+    "label": "Golf Variant 1.9 (Diesel, 75 PS)",
+    "fuel": "diesel",
+    "hp": 75
+  },
+  {
+    "label": "Golf Variant 1.9 TDI (Diesel, 90 PS)",
+    "fuel": "diesel",
+    "hp": 90
+  },
+  {
+    "label": "Golf Variant 1.9 TDI Syncro (Diesel, 90 PS)",
+    "fuel": "diesel",
+    "hp": 90
+  },
+  {
+    "label": "Golf Variant 1.9 TDI (Diesel, 110 PS)",
+    "fuel": "diesel",
+    "hp": 110
+  }
+]

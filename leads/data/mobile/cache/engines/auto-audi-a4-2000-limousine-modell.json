@@ -1,0 +1,22 @@
+[
+  {
+    "label": "Motorisierungsvariante Technische Daten und Motorisierung S4 tiptronic (Benzin, 344 PS) S4 (Benzin, 344 PS)",
+    "fuel": "benzin",
+    "hp": 344
+  },
+  {
+    "label": "S4 tiptronic (Benzin, 344 PS) S4 (Benzin, 344 PS)",
+    "fuel": "benzin",
+    "hp": 344
+  },
+  {
+    "label": "S4 tiptronic (Benzin, 344 PS)",
+    "fuel": "benzin",
+    "hp": 344
+  },
+  {
+    "label": "S4 (Benzin, 344 PS)",
+    "fuel": "benzin",
+    "hp": 344
+  }
+]

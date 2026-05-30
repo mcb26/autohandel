@@ -1,0 +1,37 @@
+[
+  {
+    "label": "420i Gran Coupe Aut. (Benzin, 184 PS)",
+    "fuel": "benzin",
+    "hp": 184
+  },
+  {
+    "label": "420i Gran Coupe xDrive Aut. (Benzin, 184 PS)",
+    "fuel": "benzin",
+    "hp": 184
+  },
+  {
+    "label": "420i Gran Coupe (Benzin, 184 PS)",
+    "fuel": "benzin",
+    "hp": 184
+  },
+  {
+    "label": "430i Gran Coupe Aut. (Benzin, 252 PS)",
+    "fuel": "benzin",
+    "hp": 252
+  },
+  {
+    "label": "430i Gran Coupe xDrive Aut. (Benzin, 252 PS)",
+    "fuel": "benzin",
+    "hp": 252
+  },
+  {
+    "label": "440i Gran Coupe Aut. (Benzin, 326 PS)",
+    "fuel": "benzin",
+    "hp": 326
+  },
+  {
+    "label": "440i Gran Coupe xDrive Aut. (Benzin, 326 PS)",
+    "fuel": "benzin",
+    "hp": 326
+  }
+]

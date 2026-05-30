@@ -1,0 +1,167 @@
+[
+  {
+    "label": "Golf 1.4 (Benzin, 60 PS)",
+    "fuel": "benzin",
+    "hp": 60
+  },
+  {
+    "label": "Golf 1.8 Automatik (Benzin, 75 PS)",
+    "fuel": "benzin",
+    "hp": 75
+  },
+  {
+    "label": "Golf 1.8 (Benzin, 75 PS)",
+    "fuel": "benzin",
+    "hp": 75
+  },
+  {
+    "label": "Golf 1.8 (Automatik) (Benzin, 75 PS)",
+    "fuel": "automatik) (benzin",
+    "hp": 75
+  },
+  {
+    "label": "Golf 1.6 (Benzin, 75 PS)",
+    "fuel": "benzin",
+    "hp": 75
+  },
+  {
+    "label": "Golf 1.8 (Klima) (Benzin, 75 PS)",
+    "fuel": "klima) (benzin",
+    "hp": 75
+  },
+  {
+    "label": "Golf 1.8 (Benzin, 90 PS)",
+    "fuel": "benzin",
+    "hp": 90
+  },
+  {
+    "label": "Golf 1.8 Syncro (Benzin, 90 PS)",
+    "fuel": "benzin",
+    "hp": 90
+  },
+  {
+    "label": "Golf 1.6 (Benzin, 100 PS)",
+    "fuel": "benzin",
+    "hp": 100
+  },
+  {
+    "label": "Golf 2.0 Automatik (Benzin, 115 PS)",
+    "fuel": "benzin",
+    "hp": 115
+  },
+  {
+    "label": "Golf 2.0 (Benzin, 115 PS)",
+    "fuel": "benzin",
+    "hp": 115
+  },
+  {
+    "label": "Golf 2.0 Syncro (Benzin, 115 PS)",
+    "fuel": "benzin",
+    "hp": 115
+  },
+  {
+    "label": "Golf 2.0 GTI (Benzin, 115 PS)",
+    "fuel": "benzin",
+    "hp": 115
+  },
+  {
+    "label": "Golf 2.0 GTI (Edition) (Benzin, 115 PS)",
+    "fuel": "edition) (benzin",
+    "hp": 115
+  },
+  {
+    "label": "Golf 2.0 16V (Benzin, 150 PS)",
+    "fuel": "benzin",
+    "hp": 150
+  },
+  {
+    "label": "Golf 2.0 GTI 16V (Edition) (Benzin, 150 PS)",
+    "fuel": "edition) (benzin",
+    "hp": 150
+  },
+  {
+    "label": "Golf 2.0 GTI 16V (Benzin, 150 PS)",
+    "fuel": "benzin",
+    "hp": 150
+  },
+  {
+    "label": "Golf 2.0 (Benzin, 150 PS)",
+    "fuel": "benzin",
+    "hp": 150
+  },
+  {
+    "label": "Golf 2.8 VR6 (Benzin, 174 PS)",
+    "fuel": "benzin",
+    "hp": 174
+  },
+  {
+    "label": "Golf 2.8 (Benzin, 174 PS)",
+    "fuel": "benzin",
+    "hp": 174
+  },
+  {
+    "label": "Golf 2.9 VR6 Syncro (Benzin, 190 PS)",
+    "fuel": "benzin",
+    "hp": 190
+  },
+  {
+    "label": "Golf 2.9 Syncro VR6 (Benzin, 190 PS)",
+    "fuel": "benzin",
+    "hp": 190
+  },
+  {
+    "label": "Golf 1.9 D (Diesel, 64 PS)",
+    "fuel": "diesel",
+    "hp": 64
+  },
+  {
+    "label": "Golf 1.9 SDI (Diesel, 64 PS)",
+    "fuel": "diesel",
+    "hp": 64
+  },
+  {
+    "label": "Golf 1.9 D Ecomatic (Diesel, 64 PS)",
+    "fuel": "diesel",
+    "hp": 64
+  },
+  {
+    "label": "Golf 1.9 TD (Diesel, 75 PS)",
+    "fuel": "diesel",
+    "hp": 75
+  },
+  {
+    "label": "Golf 1.9 (Diesel, 75 PS)",
+    "fuel": "diesel",
+    "hp": 75
+  },
+  {
+    "label": "Golf 1.9 TDI (Diesel, 90 PS)",
+    "fuel": "diesel",
+    "hp": 90
+  },
+  {
+    "label": "Golf 1.9 TDI Syncro (Diesel, 90 PS)",
+    "fuel": "diesel",
+    "hp": 90
+  },
+  {
+    "label": "Golf 1.9 TDI GT (Diesel, 90 PS)",
+    "fuel": "diesel",
+    "hp": 90
+  },
+  {
+    "label": "Golf 1.9 TDI (Diesel, 110 PS)",
+    "fuel": "diesel",
+    "hp": 110
+  },
+  {
+    "label": "Golf 1.9 TDI GTI (Diesel, 110 PS)",
+    "fuel": "diesel",
+    "hp": 110
+  },
+  {
+    "label": "Golf 1.9 TDI GT (Diesel, 110 PS)",
+    "fuel": "diesel",
+    "hp": 110
+  }
+]

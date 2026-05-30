@@ -1,0 +1,51 @@
+[
+  {
+    "label": "Coupe Audi TT RS (8S) 2016 - Heute",
+    "href": "https://www.mobile.de/auto/audi/tt-rs/2016/coupe/modell/",
+    "modell_url": "https://www.mobile.de/auto/audi/tt-rs/2016/coupe/modell/",
+    "model_slug": "tt",
+    "brand_slug": "audi"
+  },
+  {
+    "label": "Roadster Audi TT Roadster (8S/FV) 2014 - Heute",
+    "href": "https://www.mobile.de/auto/audi/tt/2014/cabriolet/modell/",
+    "modell_url": "https://www.mobile.de/auto/audi/tt/2014/cabriolet/modell/",
+    "model_slug": "tt",
+    "brand_slug": "audi"
+  },
+  {
+    "label": "Coupe Audi TT Coupé (8S/FV) 2014 - Heute",
+    "href": "https://www.mobile.de/auto/audi/tt/2014/coupe/modell/",
+    "modell_url": "https://www.mobile.de/auto/audi/tt/2014/coupe/modell/",
+    "model_slug": "tt",
+    "brand_slug": "audi"
+  },
+  {
+    "label": "Roadster Audi TT Roadster (8J) 2007 – 2014",
+    "href": "https://www.mobile.de/auto/audi/tt/2006/cabriolet/modell/",
+    "modell_url": "https://www.mobile.de/auto/audi/tt/2006/cabriolet/modell/",
+    "model_slug": "tt",
+    "brand_slug": "audi"
+  },
+  {
+    "label": "Coupe Audi TT Coupé (8J) 2006 – 2014",
+    "href": "https://www.mobile.de/auto/audi/tt/2006/coupe/modell/",
+    "modell_url": "https://www.mobile.de/auto/audi/tt/2006/coupe/modell/",
+    "model_slug": "tt",
+    "brand_slug": "audi"
+  },
+  {
+    "label": "Roadster Audi TT Roadster (8N) 1999 – 2006",
+    "href": "https://www.mobile.de/auto/audi/tt/1998/cabriolet/modell/",
+    "modell_url": "https://www.mobile.de/auto/audi/tt/1998/cabriolet/modell/",
+    "model_slug": "tt",
+    "brand_slug": "audi"
+  },
+  {
+    "label": "Coupe Audi TT Coupé (8N) 1998 – 2006",
+    "href": "https://www.mobile.de/auto/audi/tt/1998/coupe/modell/",
+    "modell_url": "https://www.mobile.de/auto/audi/tt/1998/coupe/modell/",
+    "model_slug": "tt",
+    "brand_slug": "audi"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "label": "218i Coupe Aut. (Benzin, 136 PS) 218i Coupe (Benzin, 136 PS) 220i Coupe Aut. (Benzin, 183 PS) 230i Coupe Aut. (Benzin, 251 PS) M240i Coupe Aut. (Benzin, 340 PS)",
+    "fuel": "benzin",
+    "hp": 340
+  },
+  {
+    "label": "218i Coupe Aut. (Benzin, 136 PS)",
+    "fuel": "benzin",
+    "hp": 136
+  },
+  {
+    "label": "218i Coupe (Benzin, 136 PS)",
+    "fuel": "benzin",
+    "hp": 136
+  },
+  {
+    "label": "220i Coupe Aut. (Benzin, 183 PS)",
+    "fuel": "benzin",
+    "hp": 183
+  },
+  {
+    "label": "230i Coupe Aut. (Benzin, 251 PS)",
+    "fuel": "benzin",
+    "hp": 251
+  },
+  {
+    "label": "M240i Coupe Aut. (Benzin, 340 PS)",
+    "fuel": "benzin",
+    "hp": 340
+  }
+]

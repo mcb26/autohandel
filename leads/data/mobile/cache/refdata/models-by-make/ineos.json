@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Grenadier",
+    "description": "Grenadier",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/INEOS/model/Grenadier"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/INEOS/model/ANDERE"
+  }
+]

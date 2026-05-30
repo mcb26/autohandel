@@ -1,0 +1,17 @@
+[
+  {
+    "name": "311",
+    "description": "311",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/WARTBURG/model/311"
+  },
+  {
+    "name": "353",
+    "description": "353",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/WARTBURG/model/353"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/WARTBURG/model/ANDERE"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "B10",
+    "description": "B10",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LEAPMOTOR/model/B10"
+  },
+  {
+    "name": "C10",
+    "description": "C10",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LEAPMOTOR/model/C10"
+  },
+  {
+    "name": "T03",
+    "description": "T03",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LEAPMOTOR/model/T03"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LEAPMOTOR/model/ANDERE"
+  }
+]

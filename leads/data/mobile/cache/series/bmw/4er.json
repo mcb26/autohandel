@@ -1,0 +1,30 @@
+[
+  {
+    "label": "Cabrio BMW M4 Coupé und Cabriolet (F82/F83) 2014 – 2020",
+    "href": "https://www.mobile.de/auto/bmw/m4/2014/coupe-cabriolet/modell/",
+    "modell_url": "https://www.mobile.de/auto/bmw/m4/2014/coupe-cabriolet/modell/",
+    "model_slug": "4er",
+    "brand_slug": "bmw"
+  },
+  {
+    "label": "Coupe BMW 4er Gran Coupé (F36) 2014 - Heute",
+    "href": "https://www.mobile.de/auto/bmw/4er-gran-coupe/2013/coupe/modell/",
+    "modell_url": "https://www.mobile.de/auto/bmw/4er-gran-coupe/2013/coupe/modell/",
+    "model_slug": "4er",
+    "brand_slug": "bmw"
+  },
+  {
+    "label": "Cabrio BMW 4er Cabriolet (F33) 2013 – 2020",
+    "href": "https://www.mobile.de/auto/bmw/4er/2013/cabriolet/modell/",
+    "modell_url": "https://www.mobile.de/auto/bmw/4er/2013/cabriolet/modell/",
+    "model_slug": "4er",
+    "brand_slug": "bmw"
+  },
+  {
+    "label": "Coupe BMW 4er Coupé (F32) 2013 – 2020",
+    "href": "https://www.mobile.de/auto/bmw/4er/2013/coupe/modell/",
+    "modell_url": "https://www.mobile.de/auto/bmw/4er/2013/coupe/modell/",
+    "model_slug": "4er",
+    "brand_slug": "bmw"
+  }
+]

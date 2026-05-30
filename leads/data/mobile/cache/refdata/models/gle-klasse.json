@@ -1,0 +1,52 @@
+[
+  {
+    "name": "GLE 250",
+    "description": "GLE 250",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/GLE-Klasse/models/GLE%20250"
+  },
+  {
+    "name": "GLE 300",
+    "description": "GLE 300",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/GLE-Klasse/models/GLE%20300"
+  },
+  {
+    "name": "GLE 350",
+    "description": "GLE 350",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/GLE-Klasse/models/GLE%20350"
+  },
+  {
+    "name": "GLE 400",
+    "description": "GLE 400",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/GLE-Klasse/models/GLE%20400"
+  },
+  {
+    "name": "GLE 43 AMG",
+    "description": "GLE 43 AMG",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/GLE-Klasse/models/GLE%2043%20AMG"
+  },
+  {
+    "name": "GLE 450 AMG",
+    "description": "GLE 450",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/GLE-Klasse/models/GLE%20450%20AMG"
+  },
+  {
+    "name": "GLE 500",
+    "description": "GLE 500",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/GLE-Klasse/models/GLE%20500"
+  },
+  {
+    "name": "GLE 53 AMG",
+    "description": "GLE 53 AMG",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/GLE-Klasse/models/GLE%2053%20AMG"
+  },
+  {
+    "name": "GLE 580",
+    "description": "GLE 580",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/GLE-Klasse/models/GLE%20580"
+  },
+  {
+    "name": "GLE 63 AMG",
+    "description": "GLE 63 AMG",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/GLE-Klasse/models/GLE%2063%20AMG"
+  }
+]

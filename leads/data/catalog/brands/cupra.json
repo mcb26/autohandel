@@ -1,0 +1,593 @@
+{
+  "label": "Cupra",
+  "models": {
+    "ateca": {
+      "label": "Ateca",
+      "series": {
+        "cupra-ateca-facelift-2020": {
+          "label": "Cupra Ateca (facelift 2020)",
+          "engines": [
+            {
+              "label": "2.0 TSI (300 Hp) 4Drive DSG",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TSI (190 Hp) 4Drive DSG",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 TSI (150 Hp) DSG",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "cupra-ateca": {
+          "label": "Cupra Ateca",
+          "engines": [
+            {
+              "label": "2.0 TSI (300 Hp) 4Drive DSG (2018 - 2020)",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "born": {
+      "label": "Born",
+      "series": {
+        "cupra-born-facelift-2026": {
+          "label": "Cupra Born (facelift 2026)",
+          "engines": [
+            {
+              "label": "VZ 84 kWh (326 Hp) Electric",
+              "hp": 326,
+              "fuel": "elektro"
+            },
+            {
+              "label": "84 kWh (231 Hp) Electric",
+              "hp": 231,
+              "fuel": "elektro"
+            },
+            {
+              "label": "61 kWh (190 Hp) Electric",
+              "hp": 190,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "cupra-born": {
+          "label": "Cupra Born",
+          "engines": [
+            {
+              "label": "VZ 84 kWh (326 Hp) Electric (2024 - 2026)",
+              "hp": 326,
+              "fuel": "elektro"
+            },
+            {
+              "label": "e-Boost 82 kWh (231 Hp) Electric (2022 - 2024)",
+              "hp": 231,
+              "fuel": "elektro"
+            },
+            {
+              "label": "e-Boost 62 kWh (231 Hp) Electric (2021 - 2024)",
+              "hp": 231,
+              "fuel": "elektro"
+            },
+            {
+              "label": "84 kWh (231 Hp) Electric (2025 - 2026)",
+              "hp": 231,
+              "fuel": "elektro"
+            },
+            {
+              "label": "82 kWh (231 Hp) Electric (2024 - 2025)",
+              "hp": 231,
+              "fuel": "elektro"
+            },
+            {
+              "label": "63 kWh (231 Hp) Electric (2024 - 2026)",
+              "hp": 231,
+              "fuel": "elektro"
+            },
+            {
+              "label": "63 kWh (204 Hp) Electric (2025 - 2026)",
+              "hp": 204,
+              "fuel": "elektro"
+            },
+            {
+              "label": "62 kWh (204 Hp) Electric (2021 - 2024)",
+              "hp": 204,
+              "fuel": "elektro"
+            },
+            {
+              "label": "55 kWh (150 Hp) Electric (2022 - 2023)",
+              "hp": 150,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "e-racer": {
+      "label": "E-Racer",
+      "series": {
+        "cupra-e-racer": {
+          "label": "Cupra E-Racer",
+          "engines": [
+            {
+              "label": "65.6 kWh (680 Hp)",
+              "hp": 680,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "formentor": {
+      "label": "Formentor",
+      "series": {
+        "cupra-formentor-facelift-2024": {
+          "label": "Cupra Formentor (facelift 2024)",
+          "engines": [
+            {
+              "label": "VZ5 2.5 TSI (390 Hp) 4Drive DSG",
+              "hp": 390,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TSI (333 Hp) 4Drive DSG",
+              "hp": 333,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TSI (265 Hp) DSG",
+              "hp": 265,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TSI (204 Hp) 4Drive DSG",
+              "hp": 204,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) DSG",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 TSI (272 Hp) e-Hybrid DSG",
+              "hp": 272,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.5 TSI (204 Hp) e-Hybrid DSG",
+              "hp": 204,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.5 TSI (150 Hp)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 eTSI (150 Hp) Mild Hybrid DSG",
+              "hp": 150,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "cupra-formentor": {
+          "label": "Cupra Formentor",
+          "engines": [
+            {
+              "label": "VZ5 2.5 TSI (390 Hp) 4Drive DSG (2021 - 2023)",
+              "hp": 390,
+              "fuel": "benzin"
+            },
+            {
+              "label": "VZ 2.0 TSI (310 Hp) 4Drive DSG (2020 - 2024)",
+              "hp": 310,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TSI (245 Hp) DSG (2021 - 2023)",
+              "hp": 245,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TSI (190 Hp) 4Drive DSG (2021 - 2023)",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TDI EVO (150 Hp) 4Drive DSG (2021 - 2024)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI EVO (150 Hp) (2021 - 2023)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 TSI (150 Hp) DSG (2020 - 2024)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 TSI (150 Hp) (2020 - 2024)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TSI (245 Hp) e-Hybrid DSG (2021 - 2024)",
+              "hp": 245,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.4 TSI (204 Hp) e-Hybrid DSG (2021 - 2024)",
+              "hp": 204,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "cupra-formentor-concept": {
+          "label": "Cupra Formentor Concept",
+          "engines": [
+            {
+              "label": "Keine exakte Motorliste verfügbar – bitte genaue Motorisierung im Freitext angeben"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "leon": {
+      "label": "Leon",
+      "series": {
+        "cupra-leon-sportstourer-facelift-2024": {
+          "label": "Cupra Leon Sportstourer (facelift 2024)",
+          "engines": [
+            {
+              "label": "2.0 TSI (333 Hp) 4Drive DSG",
+              "hp": 333,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TSI (204 Hp) 4Drive DSG",
+              "hp": 204,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) DSG",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 TSI (272 Hp) e-Hybrid DSG",
+              "hp": 272,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.5 TSI (204 Hp) e-Hybrid DSG",
+              "hp": 204,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.5 TSI (150 Hp)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 eTSI (150 Hp) Mild Hybrid DSG",
+              "hp": 150,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "cupra-leon-facelift-2024": {
+          "label": "Cupra Leon (facelift 2024)",
+          "engines": [
+            {
+              "label": "2.0 TSI (325 Hp) DSG",
+              "hp": 325,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TSI (300 Hp) DSG",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) DSG",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 TSI (272 Hp) e-Hybrid DSG",
+              "hp": 272,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.5 TSI (204 Hp) e-Hybrid DSG",
+              "hp": 204,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.5 TSI (150 Hp)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 eTSI (150 Hp) Mild Hybrid DSG",
+              "hp": 150,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "cupra-leon-sportstourer": {
+          "label": "Cupra Leon Sportstourer",
+          "engines": [
+            {
+              "label": "2.0 TSI (310 Hp) 4Drive DSG (2021 - 2024)",
+              "hp": 310,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TSI (300 Hp) DSG (2021 - 2024)",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TSI (245 Hp) DSG (2021 - 2023)",
+              "hp": 245,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 TSI (150 Hp) (2022 - 2024)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 eTSI (150 Hp) Mild Hybrid DSG (2022 - 2024)",
+              "hp": 150,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.4 TSI (245 Hp) e-Hybrid DSG (2020 - 2024)",
+              "hp": 245,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.4 TSI (204 Hp) e-Hybrid DSG (2021 - 2024)",
+              "hp": 204,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "cupra-leon": {
+          "label": "Cupra Leon",
+          "engines": [
+            {
+              "label": "2.0 TSI EVO (300 Hp) DSG (2021 - 2024)",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TSI (245 Hp) DSG (2021 - 2023)",
+              "hp": 245,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 TSI (150 Hp) (2022 - 2024)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 eTSI (150 Hp) Mild Hybrid DSG (2022 - 2024)",
+              "hp": 150,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.4 TSI (245 Hp) e-Hybrid DSG (2020 - 2024)",
+              "hp": 245,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.4 TSI (204 Hp) e-Hybrid DSG (2021 - 2024)",
+              "hp": 204,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "raval": {
+      "label": "Raval",
+      "series": {
+        "cupra-raval": {
+          "label": "Cupra Raval",
+          "engines": [
+            {
+              "label": "55 kWh (226 Hp) Electric",
+              "hp": 226,
+              "fuel": "elektro"
+            },
+            {
+              "label": "55 kWh (211 Hp) Electric",
+              "hp": 211,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "cupra-raval-concept": {
+          "label": "Cupra Raval concept",
+          "engines": [
+            {
+              "label": "Keine exakte Motorliste verfügbar – bitte genaue Motorisierung im Freitext angeben"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "tavascan": {
+      "label": "Tavascan",
+      "series": {
+        "cupra-tavascan": {
+          "label": "Cupra Tavascan",
+          "engines": [
+            {
+              "label": "82 kWh (340 Hp) BEV 4WD",
+              "hp": 340
+            },
+            {
+              "label": "82 kWh (286 Hp) BEV",
+              "hp": 286
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "tcr": {
+      "label": "TCR",
+      "series": {
+        "cupra-tcr": {
+          "label": "Cupra TCR",
+          "engines": [
+            {
+              "label": "2.0 TSI (350 Hp) SEQ",
+              "hp": 350,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TSI (350 Hp) DSG",
+              "hp": 350,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "terramar": {
+      "label": "Terramar",
+      "series": {
+        "cupra-terramar": {
+          "label": "Cupra Terramar",
+          "engines": [
+            {
+              "label": "2.0 TSI (265 Hp) 4Drive DSG",
+              "hp": 265,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TSI (204 Hp) 4Drive DSG",
+              "hp": 204,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 TSI (272 Hp) e-Hybrid DSG",
+              "hp": 272,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.5 TSI (204 Hp) e-Hybrid DSG",
+              "hp": 204,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.5 eTSI (150 Hp) Mild Hybrid DSG",
+              "hp": 150,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "tindaya": {
+      "label": "Tindaya",
+      "series": {
+        "cupra-tindaya-concept": {
+          "label": "Cupra Tindaya (Concept)",
+          "engines": [
+            {
+              "label": "Keine exakte Motorliste verfügbar – bitte genaue Motorisierung im Freitext angeben"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "urbanrebel": {
+      "label": "UrbanRebel",
+      "series": {
+        "cupra-urbanrebel-concept": {
+          "label": "Cupra UrbanRebel Concept",
+          "engines": [
+            {
+              "label": "(435 Hp) AWD (2021 - 2021)",
+              "hp": 435
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

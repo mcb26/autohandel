@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Chimaera",
+    "description": "Chimaera",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/TVR/model/Chimaera"
+  },
+  {
+    "name": "Griffith",
+    "description": "Griffith",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/TVR/model/Griffith"
+  },
+  {
+    "name": "Tuscan",
+    "description": "Tuscan",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/TVR/model/Tuscan"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/TVR/model/ANDERE"
+  }
+]

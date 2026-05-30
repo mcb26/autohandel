@@ -1,0 +1,47 @@
+[
+  {
+    "label": "Lupo 1.0 (Benzin, 50 PS)",
+    "fuel": "benzin",
+    "hp": 50
+  },
+  {
+    "label": "Lupo 1.4 (Benzin, 60 PS)",
+    "fuel": "benzin",
+    "hp": 60
+  },
+  {
+    "label": "Lupo 1.4 (Benzin, 75 PS)",
+    "fuel": "benzin",
+    "hp": 75
+  },
+  {
+    "label": "Lupo 1.4 16V (Benzin, 100 PS)",
+    "fuel": "benzin",
+    "hp": 100
+  },
+  {
+    "label": "Lupo 1.4 FSI (Benzin, 105 PS)",
+    "fuel": "benzin",
+    "hp": 105
+  },
+  {
+    "label": "Lupo 1.6 (Benzin, 125 PS)",
+    "fuel": "benzin",
+    "hp": 125
+  },
+  {
+    "label": "Lupo 1.7 SDI (Diesel, 60 PS)",
+    "fuel": "diesel",
+    "hp": 60
+  },
+  {
+    "label": "Lupo 1.2 TDI 3L (Diesel, 61 PS)",
+    "fuel": "diesel",
+    "hp": 61
+  },
+  {
+    "label": "Lupo 1.4 TDI (Diesel, 75 PS)",
+    "fuel": "diesel",
+    "hp": 75
+  }
+]

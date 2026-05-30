@@ -1,0 +1,17 @@
+[
+  {
+    "label": "A3 1.4 TFSI Sportback e-tron (Benzin/Elektro-PlugIn, 150 PS) A3 40 e-tron Sportback S tronic (Benzin/Elektro-PlugIn, 150 PS)",
+    "fuel": "benzin/elektro-plugin",
+    "hp": 150
+  },
+  {
+    "label": "A3 1.4 TFSI Sportback e-tron (Benzin/Elektro-PlugIn, 150 PS)",
+    "fuel": "benzin/elektro-plugin",
+    "hp": 150
+  },
+  {
+    "label": "A3 40 e-tron Sportback S tronic (Benzin/Elektro-PlugIn, 150 PS)",
+    "fuel": "benzin/elektro-plugin",
+    "hp": 150
+  }
+]

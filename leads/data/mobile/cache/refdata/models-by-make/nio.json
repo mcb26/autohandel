@@ -1,0 +1,32 @@
+[
+  {
+    "name": "EL6",
+    "description": "EL6",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/NIO/model/EL6"
+  },
+  {
+    "name": "EL8",
+    "description": "EL8",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/NIO/model/EL8"
+  },
+  {
+    "name": "eL7",
+    "description": "EL7",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/NIO/model/eL7"
+  },
+  {
+    "name": "eT5",
+    "description": "ET5",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/NIO/model/eT5"
+  },
+  {
+    "name": "eT7",
+    "description": "ET7",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/NIO/model/eT7"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/NIO/model/ANDERE"
+  }
+]

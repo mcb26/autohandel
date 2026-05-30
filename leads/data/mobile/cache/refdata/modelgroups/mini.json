@@ -1,0 +1,42 @@
+[
+  {
+    "name": "ACEMAN_SERIES_ALL",
+    "description": "Aceman",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/modelgroups/ACEMAN_SERIES_ALL"
+  },
+  {
+    "name": "CABRIO_SERIES_ALL",
+    "description": "Cabrio Serie",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/modelgroups/CABRIO_SERIES_ALL"
+  },
+  {
+    "name": "CLUBMAN_SERIES_ALL",
+    "description": "Clubman Serie",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/modelgroups/CLUBMAN_SERIES_ALL"
+  },
+  {
+    "name": "COUNTRYMAN_SERIES_ALL",
+    "description": "Countryman Serie",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/modelgroups/COUNTRYMAN_SERIES_ALL"
+  },
+  {
+    "name": "COUPE_SERIES_ALL",
+    "description": "Coupe Serie",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/modelgroups/COUPE_SERIES_ALL"
+  },
+  {
+    "name": "MINI_ALL",
+    "description": "MINI",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/modelgroups/MINI_ALL"
+  },
+  {
+    "name": "PACEMAN_SERIES_ALL",
+    "description": "Paceman Serie",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/modelgroups/PACEMAN_SERIES_ALL"
+  },
+  {
+    "name": "ROADSTER_SERIES_ALL",
+    "description": "Roadster Serie",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/modelgroups/ROADSTER_SERIES_ALL"
+  }
+]

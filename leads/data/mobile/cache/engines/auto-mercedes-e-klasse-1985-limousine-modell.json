@@ -1,0 +1,242 @@
+[
+  {
+    "label": "200 (Benzin, 105 PS)",
+    "fuel": "benzin",
+    "hp": 105
+  },
+  {
+    "label": "200 (Benzin, 109 PS)",
+    "fuel": "benzin",
+    "hp": 109
+  },
+  {
+    "label": "200 E (Benzin, 118 PS)",
+    "fuel": "benzin",
+    "hp": 118
+  },
+  {
+    "label": "200 E (Benzin, 122 PS)",
+    "fuel": "benzin",
+    "hp": 122
+  },
+  {
+    "label": "230 E (Benzin, 132 PS)",
+    "fuel": "benzin",
+    "hp": 132
+  },
+  {
+    "label": "E 200 (Benzin, 136 PS)",
+    "fuel": "benzin",
+    "hp": 136
+  },
+  {
+    "label": "200 E (Benzin, 136 PS)",
+    "fuel": "benzin",
+    "hp": 136
+  },
+  {
+    "label": "230 E (Benzin, 136 PS)",
+    "fuel": "benzin",
+    "hp": 136
+  },
+  {
+    "label": "E 220 (Benzin, 150 PS)",
+    "fuel": "benzin",
+    "hp": 150
+  },
+  {
+    "label": "220 E (Benzin, 150 PS)",
+    "fuel": "benzin",
+    "hp": 150
+  },
+  {
+    "label": "260 E 4Matic (Benzin, 160 PS)",
+    "fuel": "benzin",
+    "hp": 160
+  },
+  {
+    "label": "260 E (Benzin, 160 PS)",
+    "fuel": "benzin",
+    "hp": 160
+  },
+  {
+    "label": "260 E 4Matic (Benzin, 166 PS)",
+    "fuel": "benzin",
+    "hp": 166
+  },
+  {
+    "label": "260 E (Benzin, 166 PS)",
+    "fuel": "benzin",
+    "hp": 166
+  },
+  {
+    "label": "300 E 4Matic (Benzin, 180 PS)",
+    "fuel": "benzin",
+    "hp": 180
+  },
+  {
+    "label": "E 300 4Matic (Benzin, 180 PS)",
+    "fuel": "benzin",
+    "hp": 180
+  },
+  {
+    "label": "300 E (Benzin, 180 PS)",
+    "fuel": "benzin",
+    "hp": 180
+  },
+  {
+    "label": "300 E 4Matic (Benzin, 188 PS)",
+    "fuel": "benzin",
+    "hp": 188
+  },
+  {
+    "label": "300 E (Benzin, 188 PS)",
+    "fuel": "benzin",
+    "hp": 188
+  },
+  {
+    "label": "E 280 (Benzin, 193 PS)",
+    "fuel": "benzin",
+    "hp": 193
+  },
+  {
+    "label": "280 E (Benzin, 197 PS)",
+    "fuel": "benzin",
+    "hp": 197
+  },
+  {
+    "label": "E 320 (Benzin, 220 PS)",
+    "fuel": "benzin",
+    "hp": 220
+  },
+  {
+    "label": "300 E-24 (Benzin, 220 PS)",
+    "fuel": "benzin",
+    "hp": 220
+  },
+  {
+    "label": "320 E (Benzin, 220 PS)",
+    "fuel": "benzin",
+    "hp": 220
+  },
+  {
+    "label": "400 E (Benzin, 279 PS)",
+    "fuel": "benzin",
+    "hp": 279
+  },
+  {
+    "label": "E 420 (Benzin, 279 PS)",
+    "fuel": "benzin",
+    "hp": 279
+  },
+  {
+    "label": "E 500 (Benzin, 320 PS)",
+    "fuel": "benzin",
+    "hp": 320
+  },
+  {
+    "label": "500 E (Benzin, 320 PS)",
+    "fuel": "benzin",
+    "hp": 320
+  },
+  {
+    "label": "500 E (Benzin, 326 PS)",
+    "fuel": "benzin",
+    "hp": 326
+  },
+  {
+    "label": "200 D (Diesel, 72 PS)",
+    "fuel": "diesel",
+    "hp": 72
+  },
+  {
+    "label": "E 200 D (Diesel, 75 PS)",
+    "fuel": "diesel",
+    "hp": 75
+  },
+  {
+    "label": "200 D (Diesel, 75 PS)",
+    "fuel": "diesel",
+    "hp": 75
+  },
+  {
+    "label": "250 D (Diesel, 90 PS)",
+    "fuel": "diesel",
+    "hp": 90
+  },
+  {
+    "label": "250 D (Diesel, 94 PS)",
+    "fuel": "diesel",
+    "hp": 94
+  },
+  {
+    "label": "300 D 4Matic (Diesel, 109 PS)",
+    "fuel": "diesel",
+    "hp": 109
+  },
+  {
+    "label": "300 D (Diesel, 109 PS)",
+    "fuel": "diesel",
+    "hp": 109
+  },
+  {
+    "label": "300 D (Diesel, 110 PS)",
+    "fuel": "diesel",
+    "hp": 110
+  },
+  {
+    "label": "300 D 4Matic (Diesel, 113 PS)",
+    "fuel": "diesel",
+    "hp": 113
+  },
+  {
+    "label": "E 250 D (Diesel, 113 PS)",
+    "fuel": "diesel",
+    "hp": 113
+  },
+  {
+    "label": "300 D (Diesel, 113 PS)",
+    "fuel": "diesel",
+    "hp": 113
+  },
+  {
+    "label": "250 D Turbo (Diesel, 126 PS)",
+    "fuel": "diesel",
+    "hp": 126
+  },
+  {
+    "label": "E 250 Turbo D (Diesel, 126 PS)",
+    "fuel": "diesel",
+    "hp": 126
+  },
+  {
+    "label": "E 300 D (Diesel, 136 PS)",
+    "fuel": "diesel",
+    "hp": 136
+  },
+  {
+    "label": "300 D Turbo (Diesel, 143 PS)",
+    "fuel": "diesel",
+    "hp": 143
+  },
+  {
+    "label": "300 D Turbo 4Matic (Diesel, 147 PS)",
+    "fuel": "diesel",
+    "hp": 147
+  },
+  {
+    "label": "300 D Turbo (Diesel, 147 PS)",
+    "fuel": "diesel",
+    "hp": 147
+  },
+  {
+    "label": "E 300 Turbo D 4Matic (Diesel, 147 PS)",
+    "fuel": "diesel",
+    "hp": 147
+  },
+  {
+    "label": "E 300 Turbo D (Diesel, 147 PS)",
+    "fuel": "diesel",
+    "hp": 147
+  }
+]

@@ -1,0 +1,267 @@
+[
+  {
+    "label": "B 160 7G-DCT (Benzin, 102 PS)",
+    "fuel": "benzin",
+    "hp": 102
+  },
+  {
+    "label": "B 160 (Benzin, 102 PS)",
+    "fuel": "benzin",
+    "hp": 102
+  },
+  {
+    "label": "B 180 7G-DCT (Benzin, 122 PS)",
+    "fuel": "benzin",
+    "hp": 122
+  },
+  {
+    "label": "B 180 (BlueEFFICIENCY) 7G-DCT (Benzin, 122 PS)",
+    "fuel": "blueefficiency) 7g-dct (benzin",
+    "hp": 122
+  },
+  {
+    "label": "B 180 (Benzin, 122 PS)",
+    "fuel": "benzin",
+    "hp": 122
+  },
+  {
+    "label": "B 180 BlueEFFICIENCY (Benzin, 122 PS)",
+    "fuel": "benzin",
+    "hp": 122
+  },
+  {
+    "label": "B 180 (BlueEFFICIENCY) (Benzin, 122 PS)",
+    "fuel": "blueefficiency) (benzin",
+    "hp": 122
+  },
+  {
+    "label": "B 200 7G-DCT (Benzin, 156 PS)",
+    "fuel": "benzin",
+    "hp": 156
+  },
+  {
+    "label": "B 200 (BlueEFFICIENCY) 7G-DCT (Benzin, 156 PS)",
+    "fuel": "blueefficiency) 7g-dct (benzin",
+    "hp": 156
+  },
+  {
+    "label": "B 200 (Benzin, 156 PS)",
+    "fuel": "benzin",
+    "hp": 156
+  },
+  {
+    "label": "B 200 BlueEFFICIENCY (Benzin, 156 PS)",
+    "fuel": "benzin",
+    "hp": 156
+  },
+  {
+    "label": "B 200 (BlueEFFICIENCY) (Benzin, 156 PS)",
+    "fuel": "blueefficiency) (benzin",
+    "hp": 156
+  },
+  {
+    "label": "B 220 4Matic 7G-DCT (Benzin, 184 PS)",
+    "fuel": "benzin",
+    "hp": 184
+  },
+  {
+    "label": "B 250 4Matic 7G-DCT (Benzin, 211 PS)",
+    "fuel": "benzin",
+    "hp": 211
+  },
+  {
+    "label": "B 250 7G-DCT (Benzin, 211 PS)",
+    "fuel": "benzin",
+    "hp": 211
+  },
+  {
+    "label": "B 250 (BlueEFFICIENCY) 7G-DCT (Benzin, 211 PS)",
+    "fuel": "blueefficiency) 7g-dct (benzin",
+    "hp": 211
+  },
+  {
+    "label": "B 250 (Benzin, 211 PS)",
+    "fuel": "benzin",
+    "hp": 211
+  },
+  {
+    "label": "B 200 (Natural Gas Drive) c 7G-DCT (Benzin/Gas, 156 PS)",
+    "fuel": "natural gas drive) c 7g-dct (benzin/gas",
+    "hp": 156
+  },
+  {
+    "label": "B 200 Natural Gas Drive 7G-DCT (Benzin/Gas, 156 PS)",
+    "fuel": "benzin/gas",
+    "hp": 156
+  },
+  {
+    "label": "B 200 (Natural Gas Drive) c (Benzin/Gas, 156 PS)",
+    "fuel": "natural gas drive) c (benzin/gas",
+    "hp": 156
+  },
+  {
+    "label": "B 200 Natural Gas Drive (Benzin/Gas, 156 PS)",
+    "fuel": "benzin/gas",
+    "hp": 156
+  },
+  {
+    "label": "B 160 (CDI) d 7G-DCT (Diesel, 90 PS)",
+    "fuel": "cdi) d 7g-dct (diesel",
+    "hp": 90
+  },
+  {
+    "label": "B 160 d 7G-DCT (Diesel, 90 PS)",
+    "fuel": "diesel",
+    "hp": 90
+  },
+  {
+    "label": "B 160 CDI 7G-DCT (Diesel, 90 PS)",
+    "fuel": "diesel",
+    "hp": 90
+  },
+  {
+    "label": "B 160 (CDI) d (Diesel, 90 PS)",
+    "fuel": "cdi) d (diesel",
+    "hp": 90
+  },
+  {
+    "label": "B 160 d (Diesel, 90 PS)",
+    "fuel": "diesel",
+    "hp": 90
+  },
+  {
+    "label": "B 160 CDI (Diesel, 90 PS)",
+    "fuel": "diesel",
+    "hp": 90
+  },
+  {
+    "label": "B 180 (CDI) d 7G-DCT (Diesel, 109 PS)",
+    "fuel": "cdi) d 7g-dct (diesel",
+    "hp": 109
+  },
+  {
+    "label": "B 180 d 7G-DCT (Diesel, 109 PS)",
+    "fuel": "diesel",
+    "hp": 109
+  },
+  {
+    "label": "B 180 CDI (BlueEFFICIENCY) 7G-DCT (Diesel, 109 PS)",
+    "fuel": "blueefficiency) 7g-dct (diesel",
+    "hp": 109
+  },
+  {
+    "label": "B 180 CDI 7G-DCT (Diesel, 109 PS)",
+    "fuel": "diesel",
+    "hp": 109
+  },
+  {
+    "label": "B 180 (CDI) d (Diesel, 109 PS)",
+    "fuel": "cdi) d (diesel",
+    "hp": 109
+  },
+  {
+    "label": "B 180 CDI BlueEFFICIENCY (Diesel, 109 PS)",
+    "fuel": "diesel",
+    "hp": 109
+  },
+  {
+    "label": "B 180 d (Diesel, 109 PS)",
+    "fuel": "diesel",
+    "hp": 109
+  },
+  {
+    "label": "B 180 d BlueEFFICIENCY (Diesel, 109 PS)",
+    "fuel": "diesel",
+    "hp": 109
+  },
+  {
+    "label": "B 180 CDI (BlueEFFICIENCY) (Diesel, 109 PS)",
+    "fuel": "blueefficiency) (diesel",
+    "hp": 109
+  },
+  {
+    "label": "B 180 CDI (Diesel, 109 PS)",
+    "fuel": "diesel",
+    "hp": 109
+  },
+  {
+    "label": "B 200 (CDI) d 4Matic 7G-DCT (Diesel, 136 PS)",
+    "fuel": "cdi) d 4matic 7g-dct (diesel",
+    "hp": 136
+  },
+  {
+    "label": "B 200 (CDI) d 7G-DCT (Diesel, 136 PS)",
+    "fuel": "cdi) d 7g-dct (diesel",
+    "hp": 136
+  },
+  {
+    "label": "B 200 d 4Matic 7G-DCT (Diesel, 136 PS)",
+    "fuel": "diesel",
+    "hp": 136
+  },
+  {
+    "label": "B 200 d 7G-DCT (Diesel, 136 PS)",
+    "fuel": "diesel",
+    "hp": 136
+  },
+  {
+    "label": "B 200 CDI (BlueEFFICIENCY) 7G-DCT (Diesel, 136 PS)",
+    "fuel": "blueefficiency) 7g-dct (diesel",
+    "hp": 136
+  },
+  {
+    "label": "B 200 (CDI) d (Diesel, 136 PS)",
+    "fuel": "cdi) d (diesel",
+    "hp": 136
+  },
+  {
+    "label": "B 200 d (Diesel, 136 PS)",
+    "fuel": "diesel",
+    "hp": 136
+  },
+  {
+    "label": "B 200 CDI BlueEFFICIENCY (Diesel, 136 PS)",
+    "fuel": "diesel",
+    "hp": 136
+  },
+  {
+    "label": "B 200 CDI (BlueEFFICIENCY) (Diesel, 136 PS)",
+    "fuel": "blueefficiency) (diesel",
+    "hp": 136
+  },
+  {
+    "label": "B 220 d 4Matic 7G-DCT (Diesel, 170 PS)",
+    "fuel": "diesel",
+    "hp": 170
+  },
+  {
+    "label": "B 220 d 7G-DCT (Diesel, 170 PS)",
+    "fuel": "diesel",
+    "hp": 170
+  },
+  {
+    "label": "B 220 CDI (BlueEFFICIENCY) 7G-DCT (Diesel, 170 PS)",
+    "fuel": "blueefficiency) 7g-dct (diesel",
+    "hp": 170
+  },
+  {
+    "label": "B 220 (CDI) d 4Matic 7G-DCT (Diesel, 177 PS)",
+    "fuel": "cdi) d 4matic 7g-dct (diesel",
+    "hp": 177
+  },
+  {
+    "label": "B 220 (CDI) d 7G-DCT (Diesel, 177 PS)",
+    "fuel": "cdi) d 7g-dct (diesel",
+    "hp": 177
+  },
+  {
+    "label": "B 220 d 4Matic 7G-DCT (Diesel, 177 PS)",
+    "fuel": "diesel",
+    "hp": 177
+  },
+  {
+    "label": "B 220 d 7G-DCT (Diesel, 177 PS)",
+    "fuel": "diesel",
+    "hp": 177
+  }
+]

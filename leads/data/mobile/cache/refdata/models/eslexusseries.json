@@ -1,0 +1,17 @@
+[
+  {
+    "name": "ES 300",
+    "description": "ES 300",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LEXUS/modelgroups/ES__LEXUS_SERIES/models/ES%20300"
+  },
+  {
+    "name": "ES 330",
+    "description": "ES 330",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LEXUS/modelgroups/ES__LEXUS_SERIES/models/ES%20330"
+  },
+  {
+    "name": "ES 350",
+    "description": "ES 350",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LEXUS/modelgroups/ES__LEXUS_SERIES/models/ES%20350"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "label": "Golf Cabrio (Benzin, 72 PS)",
+    "fuel": "benzin",
+    "hp": 72
+  },
+  {
+    "label": "Golf Cabrio (Benzin, 75 PS)",
+    "fuel": "benzin",
+    "hp": 75
+  },
+  {
+    "label": "Golf Cabrio (Benzin, 90 PS)",
+    "fuel": "benzin",
+    "hp": 90
+  },
+  {
+    "label": "Golf Cabrio (Benzin, 95 PS)",
+    "fuel": "benzin",
+    "hp": 95
+  },
+  {
+    "label": "Golf Cabrio (Benzin, 98 PS)",
+    "fuel": "benzin",
+    "hp": 98
+  },
+  {
+    "label": "Golf Cabrio (Benzin, 112 PS)",
+    "fuel": "benzin",
+    "hp": 112
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "label": "216i Gran Tourer (Benzin, 109 PS)",
+    "fuel": "benzin",
+    "hp": 109
+  },
+  {
+    "label": "218i Gran Tourer Aut. (Benzin, 136 PS)",
+    "fuel": "benzin",
+    "hp": 136
+  },
+  {
+    "label": "218i Gran Tourer (Benzin, 136 PS)",
+    "fuel": "benzin",
+    "hp": 136
+  },
+  {
+    "label": "220i Gran Tourer Aut. (Benzin, 178 PS)",
+    "fuel": "benzin",
+    "hp": 178
+  },
+  {
+    "label": "216d Gran Tourer Aut. (Diesel, 116 PS)",
+    "fuel": "diesel",
+    "hp": 116
+  },
+  {
+    "label": "216d Gran Tourer (Diesel, 116 PS)",
+    "fuel": "diesel",
+    "hp": 116
+  },
+  {
+    "label": "218d Gran Tourer Aut. (Diesel, 150 PS)",
+    "fuel": "diesel",
+    "hp": 150
+  },
+  {
+    "label": "218d Gran Tourer xDrive Aut. (Diesel, 150 PS)",
+    "fuel": "diesel",
+    "hp": 150
+  },
+  {
+    "label": "218d Gran Tourer (Diesel, 150 PS)",
+    "fuel": "diesel",
+    "hp": 150
+  },
+  {
+    "label": "220d Gran Tourer Aut. (Diesel, 190 PS)",
+    "fuel": "diesel",
+    "hp": 190
+  },
+  {
+    "label": "220d Gran Tourer xDrive Aut. (Diesel, 190 PS)",
+    "fuel": "diesel",
+    "hp": 190
+  }
+]

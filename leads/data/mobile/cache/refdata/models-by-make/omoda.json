@@ -1,0 +1,22 @@
+[
+  {
+    "name": "5",
+    "description": "5",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/OMODA/model/5"
+  },
+  {
+    "name": "5 EV",
+    "description": "5 EV",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/OMODA/model/5%20EV"
+  },
+  {
+    "name": "9",
+    "description": "9",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/OMODA/model/9"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/OMODA/model/ANDERE"
+  }
+]

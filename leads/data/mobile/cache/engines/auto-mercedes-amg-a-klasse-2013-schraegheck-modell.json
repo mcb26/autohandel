@@ -1,0 +1,17 @@
+[
+  {
+    "label": "A 45 AMG 4Matic AMG Speedshift 7G-DCT (Benzin, 360 PS) AMG A 45 4Matic AMG Speedshift 7G-DCT (Benzin, 381 PS)",
+    "fuel": "benzin",
+    "hp": 381
+  },
+  {
+    "label": "A 45 AMG 4Matic AMG Speedshift 7G-DCT (Benzin, 360 PS)",
+    "fuel": "benzin",
+    "hp": 360
+  },
+  {
+    "label": "AMG A 45 4Matic AMG Speedshift 7G-DCT (Benzin, 381 PS)",
+    "fuel": "benzin",
+    "hp": 381
+  }
+]

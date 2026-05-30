@@ -1,0 +1,37 @@
+[
+  {
+    "name": "MDX",
+    "description": "MDX",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ACURA/model/MDX"
+  },
+  {
+    "name": "NSX",
+    "description": "NSX",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ACURA/model/NSX"
+  },
+  {
+    "name": "RL",
+    "description": "RL",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ACURA/model/RL"
+  },
+  {
+    "name": "RSX",
+    "description": "RSX",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ACURA/model/RSX"
+  },
+  {
+    "name": "TL",
+    "description": "TL",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ACURA/model/TL"
+  },
+  {
+    "name": "TSX",
+    "description": "TSX",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ACURA/model/TSX"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ACURA/model/ANDERE"
+  }
+]

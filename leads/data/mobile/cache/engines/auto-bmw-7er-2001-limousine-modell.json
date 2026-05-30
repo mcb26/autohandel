@@ -1,0 +1,57 @@
+[
+  {
+    "label": "730Li (Benzin, 258 PS)",
+    "fuel": "benzin",
+    "hp": 258
+  },
+  {
+    "label": "730i (Benzin, 258 PS)",
+    "fuel": "benzin",
+    "hp": 258
+  },
+  {
+    "label": "740Li (Benzin, 306 PS)",
+    "fuel": "benzin",
+    "hp": 306
+  },
+  {
+    "label": "740i (Benzin, 306 PS)",
+    "fuel": "benzin",
+    "hp": 306
+  },
+  {
+    "label": "750Li (Benzin, 367 PS)",
+    "fuel": "benzin",
+    "hp": 367
+  },
+  {
+    "label": "750i (Benzin, 367 PS)",
+    "fuel": "benzin",
+    "hp": 367
+  },
+  {
+    "label": "760Li (Benzin, 444 PS)",
+    "fuel": "benzin",
+    "hp": 444
+  },
+  {
+    "label": "760i (Benzin, 444 PS)",
+    "fuel": "benzin",
+    "hp": 444
+  },
+  {
+    "label": "730Ld (Diesel, 231 PS)",
+    "fuel": "diesel",
+    "hp": 231
+  },
+  {
+    "label": "730d (Diesel, 231 PS)",
+    "fuel": "diesel",
+    "hp": 231
+  },
+  {
+    "label": "745d (Diesel, 330 PS)",
+    "fuel": "diesel",
+    "hp": 330
+  }
+]

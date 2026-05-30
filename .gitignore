@@ -1,0 +1,37 @@
+# Secrets & local config
+.env
+*.pem
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Django
+db.sqlite3
+db.sqlite3-journal
+staticfiles/
+media/
+
+# Auto-data / ADAC sync cache (regenerate locally)
+leads/data/autodata/cache/
+leads/data/adac/cache/
+
+# IDE / OS
+.cursor/
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

@@ -1,0 +1,16 @@
+[
+  {
+    "label": "Coupe VW CC (Typ 35) 2015 – 2016",
+    "href": "https://www.mobile.de/auto/vw/cc/2015/limousine/modell/",
+    "modell_url": "https://www.mobile.de/auto/vw/cc/2015/limousine/modell/",
+    "model_slug": "cc",
+    "brand_slug": "vw"
+  },
+  {
+    "label": "Coupe VW CC (3C/35) 2011 – 2015",
+    "href": "https://www.mobile.de/auto/vw/cc/2011/coupe/modell/",
+    "modell_url": "https://www.mobile.de/auto/vw/cc/2011/coupe/modell/",
+    "model_slug": "cc",
+    "brand_slug": "vw"
+  }
+]

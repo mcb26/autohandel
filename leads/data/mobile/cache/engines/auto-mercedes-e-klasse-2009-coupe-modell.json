@@ -1,0 +1,222 @@
+[
+  {
+    "label": "E 200 CGI Coupe BlueEFFICIENCY Automatik (Benzin, 183 PS)",
+    "fuel": "benzin",
+    "hp": 183
+  },
+  {
+    "label": "E 200 Coupe 7G-TRONIC (Benzin, 184 PS)",
+    "fuel": "benzin",
+    "hp": 184
+  },
+  {
+    "label": "E 200 Coupe BlueEFFICIENCY 7G-TRONIC (Benzin, 183 PS)",
+    "fuel": "benzin",
+    "hp": 183
+  },
+  {
+    "label": "E 200 CGI Coupe BlueEFFICIENCY (Benzin, 183 PS)",
+    "fuel": "benzin",
+    "hp": 183
+  },
+  {
+    "label": "E 200 Coupe BlueEFFICIENCY (Benzin, 183 PS)",
+    "fuel": "benzin",
+    "hp": 183
+  },
+  {
+    "label": "E 200 Coupe (Benzin, 184 PS)",
+    "fuel": "benzin",
+    "hp": 184
+  },
+  {
+    "label": "E 250 CGI Coupe BlueEFFICIENCY Automatik (Benzin, 204 PS)",
+    "fuel": "benzin",
+    "hp": 204
+  },
+  {
+    "label": "E 250 Coupe BlueEFFICIENCY 7G-TRONIC (Benzin, 204 PS)",
+    "fuel": "benzin",
+    "hp": 204
+  },
+  {
+    "label": "E 250 Coupe 7G-TRONIC (Benzin, 211 PS)",
+    "fuel": "benzin",
+    "hp": 211
+  },
+  {
+    "label": "E 300 Coupe BlueEFFICIENCY 7G-TRONIC (Benzin, 252 PS)",
+    "fuel": "benzin",
+    "hp": 252
+  },
+  {
+    "label": "E 300 Coupe 7G-TRONIC (Benzin, 252 PS)",
+    "fuel": "benzin",
+    "hp": 252
+  },
+  {
+    "label": "E 320 Coupe 7G-TRONIC (Benzin, 272 PS)",
+    "fuel": "benzin",
+    "hp": 272
+  },
+  {
+    "label": "E 350 CGI Coupe BlueEFFICIENCY 7G-TRONIC (Benzin, 292 PS)",
+    "fuel": "benzin",
+    "hp": 292
+  },
+  {
+    "label": "E 350 CGI C BlueEFFICIENCY 7G-TRONIC (Benzin, 292 PS)",
+    "fuel": "benzin",
+    "hp": 292
+  },
+  {
+    "label": "E 350 Coupe 4Matic 7G-TRONIC (Benzin, 306 PS)",
+    "fuel": "benzin",
+    "hp": 306
+  },
+  {
+    "label": "E 350 Coupe BlueEFFICIENCY 7G-TRONIC (Benzin, 306 PS)",
+    "fuel": "benzin",
+    "hp": 306
+  },
+  {
+    "label": "E 350 Coupe 7G-TRONIC (Benzin, 306 PS)",
+    "fuel": "benzin",
+    "hp": 306
+  },
+  {
+    "label": "E 400 Coupe 7G-TRONIC (Benzin, 333 PS)",
+    "fuel": "benzin",
+    "hp": 333
+  },
+  {
+    "label": "E 500 Coupe 7G-TRONIC (Benzin, 387 PS)",
+    "fuel": "benzin",
+    "hp": 387
+  },
+  {
+    "label": "E 500 C 7G-TRONIC (Benzin, 387 PS)",
+    "fuel": "benzin",
+    "hp": 387
+  },
+  {
+    "label": "E 500 Coupe 7G-TRONIC (Benzin, 408 PS)",
+    "fuel": "benzin",
+    "hp": 408
+  },
+  {
+    "label": "E 500 Coupe BlueEFFICIENCY 7G-TRONIC (Benzin, 408 PS)",
+    "fuel": "benzin",
+    "hp": 408
+  },
+  {
+    "label": "E 220 CDI DPF Coupe BlueEFFICIENCY 7G-TRONIC (Diesel, 170 PS)",
+    "fuel": "diesel",
+    "hp": 170
+  },
+  {
+    "label": "E 220 CDI DPF Coupe BlueEFFICIENCY Automatik (Diesel, 170 PS)",
+    "fuel": "diesel",
+    "hp": 170
+  },
+  {
+    "label": "E 220 (BlueTEC) d Coupe 9G-TRONIC (Diesel, 170 PS)",
+    "fuel": "bluetec) d coupe 9g-tronic (diesel",
+    "hp": 170
+  },
+  {
+    "label": "E 220 CDI Coupe 7G-TRONIC (Diesel, 170 PS)",
+    "fuel": "diesel",
+    "hp": 170
+  },
+  {
+    "label": "E 220 d Coupe 9G-TRONIC (Diesel, 170 PS)",
+    "fuel": "diesel",
+    "hp": 170
+  },
+  {
+    "label": "E 220 CDI DPF Coupe BlueEFFICIENCY (Diesel, 170 PS)",
+    "fuel": "diesel",
+    "hp": 170
+  },
+  {
+    "label": "E 220 (BlueTEC) d Coupe (Diesel, 170 PS)",
+    "fuel": "bluetec) d coupe (diesel",
+    "hp": 170
+  },
+  {
+    "label": "E 220 CDI Coupe (Diesel, 170 PS)",
+    "fuel": "diesel",
+    "hp": 170
+  },
+  {
+    "label": "E 250 CDI DPF Coupe BlueEFFICIENCY 7G-TRONIC (Diesel, 204 PS)",
+    "fuel": "diesel",
+    "hp": 204
+  },
+  {
+    "label": "E 250 CDI DPF Coupe BlueEFFICIENCY Automatik (Diesel, 204 PS)",
+    "fuel": "diesel",
+    "hp": 204
+  },
+  {
+    "label": "E 250 (BlueTEC) d Coupe 9G-TRONIC (Diesel, 204 PS)",
+    "fuel": "bluetec) d coupe 9g-tronic (diesel",
+    "hp": 204
+  },
+  {
+    "label": "E 250 CDI Coupe 7G-TRONIC (Diesel, 204 PS)",
+    "fuel": "diesel",
+    "hp": 204
+  },
+  {
+    "label": "E 250 d Coupe 9G-TRONIC (Diesel, 204 PS)",
+    "fuel": "diesel",
+    "hp": 204
+  },
+  {
+    "label": "E 250 CDI DPF Coupe BlueEFFICIENCY (Diesel, 204 PS)",
+    "fuel": "diesel",
+    "hp": 204
+  },
+  {
+    "label": "E 250 (BlueTEC) d Coupe (Diesel, 204 PS)",
+    "fuel": "bluetec) d coupe (diesel",
+    "hp": 204
+  },
+  {
+    "label": "E 250 CDI Coupe (Diesel, 204 PS)",
+    "fuel": "diesel",
+    "hp": 204
+  },
+  {
+    "label": "E 350 CDI DPF Coupe BlueEFFICIENCY 7G-TRONIC (Diesel, 231 PS)",
+    "fuel": "diesel",
+    "hp": 231
+  },
+  {
+    "label": "E 350 CDI DPF C BlueEFFICIENCY 7G-TRONIC (Diesel, 231 PS)",
+    "fuel": "diesel",
+    "hp": 231
+  },
+  {
+    "label": "E 350 BlueTEC Coupe 7G-TRONIC (Diesel, 252 PS)",
+    "fuel": "diesel",
+    "hp": 252
+  },
+  {
+    "label": "E 350 (BlueTEC) d Coupe 9G-TRONIC (Diesel, 258 PS)",
+    "fuel": "bluetec) d coupe 9g-tronic (diesel",
+    "hp": 258
+  },
+  {
+    "label": "E 350 d Coupe 9G-TRONIC (Diesel, 258 PS)",
+    "fuel": "diesel",
+    "hp": 258
+  },
+  {
+    "label": "E 350 CDI DPF Coupe BlueEFFICIENCY 7G-TRONIC (Diesel, 265 PS)",
+    "fuel": "diesel",
+    "hp": 265
+  }
+]

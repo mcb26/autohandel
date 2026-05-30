@@ -1,0 +1,22 @@
+[
+  {
+    "name": "COOPER_COUPE",
+    "description": "Cooper Coupé",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/modelgroups/COUPE_SERIES_ALL/models/COOPER_COUPE"
+  },
+  {
+    "name": "COOPER_SD_COUPE",
+    "description": "Cooper SD Coupé",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/modelgroups/COUPE_SERIES_ALL/models/COOPER_SD_COUPE"
+  },
+  {
+    "name": "COOPER_S_COUPE",
+    "description": "Cooper S Coupé",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/modelgroups/COUPE_SERIES_ALL/models/COOPER_S_COUPE"
+  },
+  {
+    "name": "JOHN_COOPER_WORKS_COUPE",
+    "description": "John Cooper Works Coupé",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/modelgroups/COUPE_SERIES_ALL/models/JOHN_COOPER_WORKS_COUPE"
+  }
+]

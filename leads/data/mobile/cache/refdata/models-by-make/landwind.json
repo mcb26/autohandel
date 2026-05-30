@@ -1,0 +1,27 @@
+[
+  {
+    "name": "CV-9",
+    "description": "CV-9",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LANDWIND/model/CV-9"
+  },
+  {
+    "name": "S",
+    "description": "S",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LANDWIND/model/S"
+  },
+  {
+    "name": "SC2",
+    "description": "SC2",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LANDWIND/model/SC2"
+  },
+  {
+    "name": "SC4",
+    "description": "SC4",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LANDWIND/model/SC4"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LANDWIND/model/ANDERE"
+  }
+]

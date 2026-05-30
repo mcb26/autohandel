@@ -1,0 +1,117 @@
+[
+  {
+    "label": "A7 2.8 FSI multitronic (Benzin, 204 PS)",
+    "fuel": "benzin",
+    "hp": 204
+  },
+  {
+    "label": "A7 2.8 FSI quattro S tronic (Benzin, 204 PS)",
+    "fuel": "benzin",
+    "hp": 204
+  },
+  {
+    "label": "A7 2.0 TFSI S tronic (Benzin, 251 PS)",
+    "fuel": "benzin",
+    "hp": 251
+  },
+  {
+    "label": "A7 3.0 TFSI quattro S tronic (Benzin, 300 PS)",
+    "fuel": "benzin",
+    "hp": 300
+  },
+  {
+    "label": "A7 3.0 TFSI quattro S tronic (Benzin, 310 PS)",
+    "fuel": "benzin",
+    "hp": 310
+  },
+  {
+    "label": "A7 3.0 TFSI quattro S tronic (Benzin, 333 PS)",
+    "fuel": "benzin",
+    "hp": 333
+  },
+  {
+    "label": "S7 (Benzin, 420 PS)",
+    "fuel": "benzin",
+    "hp": 420
+  },
+  {
+    "label": "S7 (Benzin, 450 PS)",
+    "fuel": "benzin",
+    "hp": 450
+  },
+  {
+    "label": "RS7 (Benzin, 560 PS)",
+    "fuel": "benzin",
+    "hp": 560
+  },
+  {
+    "label": "RS7 (Benzin, 605 PS)",
+    "fuel": "benzin",
+    "hp": 605
+  },
+  {
+    "label": "A7 3.0 TDI quattro S tronic (Diesel, 190 PS)",
+    "fuel": "diesel",
+    "hp": 190
+  },
+  {
+    "label": "A7 3.0 TDI ultra S tronic (Diesel, 190 PS)",
+    "fuel": "diesel",
+    "hp": 190
+  },
+  {
+    "label": "A7 3.0 TDI multitronic (Diesel, 204 PS)",
+    "fuel": "diesel",
+    "hp": 204
+  },
+  {
+    "label": "A7 3.0 TDI quattro S tronic (Diesel, 204 PS)",
+    "fuel": "diesel",
+    "hp": 204
+  },
+  {
+    "label": "A7 3.0 TDI quattro S tronic (Diesel, 217 PS)",
+    "fuel": "diesel",
+    "hp": 217
+  },
+  {
+    "label": "A7 3.0 TDI ultra S tronic (Diesel, 217 PS)",
+    "fuel": "diesel",
+    "hp": 217
+  },
+  {
+    "label": "A7 3.0 TDI quattro S tronic (Diesel, 245 PS)",
+    "fuel": "diesel",
+    "hp": 245
+  },
+  {
+    "label": "A7 3.0 TDI quattro S tronic clean diesel (Diesel, 245 PS)",
+    "fuel": "diesel",
+    "hp": 245
+  },
+  {
+    "label": "A7 3.0 TDI quattro tiptronic (Diesel, 245 PS)",
+    "fuel": "diesel",
+    "hp": 245
+  },
+  {
+    "label": "A7 3.0 TDI quattro S tronic (Diesel, 272 PS)",
+    "fuel": "diesel",
+    "hp": 272
+  },
+  {
+    "label": "A7 3.0 TDI quattro tiptronic (Diesel, 313 PS)",
+    "fuel": "diesel",
+    "hp": 313
+  },
+  {
+    "label": "A7 3.0 TDI quattro tiptronic (Diesel, 319 PS)",
+    "fuel": "diesel",
+    "hp": 319
+  },
+  {
+    "label": "A7 3.0 TDI competition quattro tiptronic (Diesel, 326 PS)",
+    "fuel": "diesel",
+    "hp": 326
+  }
+]

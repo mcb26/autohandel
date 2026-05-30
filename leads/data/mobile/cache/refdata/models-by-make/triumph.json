@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Dolomite",
+    "description": "Dolomite",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/TRIUMPH/model/Dolomite"
+  },
+  {
+    "name": "Moss",
+    "description": "Moss",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/TRIUMPH/model/Moss"
+  },
+  {
+    "name": "Spitfire",
+    "description": "Spitfire",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/TRIUMPH/model/Spitfire"
+  },
+  {
+    "name": "TR3",
+    "description": "TR3",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/TRIUMPH/model/TR3"
+  },
+  {
+    "name": "TR4",
+    "description": "TR4",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/TRIUMPH/model/TR4"
+  },
+  {
+    "name": "TR5",
+    "description": "TR5",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/TRIUMPH/model/TR5"
+  },
+  {
+    "name": "TR6",
+    "description": "TR6",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/TRIUMPH/model/TR6"
+  },
+  {
+    "name": "TR7",
+    "description": "TR7",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/TRIUMPH/model/TR7"
+  },
+  {
+    "name": "TR8",
+    "description": "TR8",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/TRIUMPH/model/TR8"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/TRIUMPH/model/ANDERE"
+  }
+]

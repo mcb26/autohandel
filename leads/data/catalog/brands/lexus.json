@@ -1,0 +1,2085 @@
+{
+  "label": "Lexus",
+  "models": {
+    "ct": {
+      "label": "CT",
+      "series": {
+        "lexus-ct-i-facelift-2017": {
+          "label": "Lexus CT I (facelift 2017)",
+          "engines": [
+            {
+              "label": "200h (134 Hp) Hybrid e-CVT",
+              "hp": 134,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "lexus-ct-i-facelift-2014": {
+          "label": "Lexus CT I (facelift 2014)",
+          "engines": [
+            {
+              "label": "200h (136 Hp) Hybrid e-CVT (2014 - 2017)",
+              "hp": 136,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "lexus-ct-i": {
+          "label": "Lexus CT I",
+          "engines": [
+            {
+              "label": "200h (136 Hp) Hybrid e-CVT (2011 - 2014)",
+              "hp": 136,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "es": {
+      "label": "ES",
+      "series": {
+        "lexus-es-viii-xz20": {
+          "label": "Lexus ES VIII (XZ20)",
+          "engines": [
+            {
+              "label": "500e (343 Hp) DIRECT4 eAxle",
+              "hp": 343
+            },
+            {
+              "label": "350h (244 Hp) Hybrid CVT",
+              "hp": 244,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "350h (244 Hp) Hybrid AWD CVT",
+              "hp": 244,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "350e (224 Hp) eAxle",
+              "hp": 224
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "lexus-es-vii-xz10-facelift-2024": {
+          "label": "Lexus ES VII (XZ10, facelift 2024)",
+          "engines": [
+            {
+              "label": "300h (218 Hp) Hybrid E-CVT",
+              "hp": 218,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "200 (173 Hp) Direct Shift-CVT",
+              "hp": 173
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "lexus-es-vii-xz10-facelift-2021": {
+          "label": "Lexus ES VII (XZ10, facelift 2021)",
+          "engines": [
+            {
+              "label": "350 V6 (302 Hp) Automatic (2021 - 2024)",
+              "hp": 302
+            },
+            {
+              "label": "300h (215 Hp) Hybrid e-CVT (2021 - 2024)",
+              "hp": 215,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "250 (203 Hp) AWD Automatic (2021 - 2024)",
+              "hp": 203
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "lexus-es-vii-xz10": {
+          "label": "Lexus ES VII (XZ10)",
+          "engines": [
+            {
+              "label": "350 V6 (302 Hp) Direct Shift (2018 - 2021)",
+              "hp": 302
+            },
+            {
+              "label": "300h (218 Hp) Hybrid e-CVT (2018 - 2021)",
+              "hp": 218,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "lexus-es-vi-xv60-facelift-2015": {
+          "label": "Lexus ES VI (XV60) (facelift 2015)",
+          "engines": [
+            {
+              "label": "350 V6 (249 Hp) Automatic (2015 - 2018)",
+              "hp": 249
+            },
+            {
+              "label": "300h (200 Hp) Hybrid e-CVT (2015 - 2018)",
+              "hp": 200,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "250 (184 Hp) Automatic (2015 - 2018)",
+              "hp": 184
+            },
+            {
+              "label": "200 (150 Hp) Automatic (2015 - 2018)",
+              "hp": 150
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "lexus-es-vi-xv60": {
+          "label": "Lexus ES VI (XV60)",
+          "engines": [
+            {
+              "label": "350 (268 Hp) ECT-i (2012 - 2015)",
+              "hp": 268
+            },
+            {
+              "label": "300h (200 Hp) Hybrid e-CVT (2012 - 2015)",
+              "hp": 200,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "lexus-es-v-xv40": {
+          "label": "Lexus ES V (XV40)",
+          "engines": [
+            {
+              "label": "350 (275 Hp) (2006 - 2012)",
+              "hp": 275
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "lexus-es-iv-xv30": {
+          "label": "Lexus ES IV (XV30)",
+          "engines": [
+            {
+              "label": "330 (228 Hp) (2004 - 2006)",
+              "hp": 228
+            },
+            {
+              "label": "300 (213 Hp) (2001 - 2004)",
+              "hp": 213
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "lexus-es-iii-xv20": {
+          "label": "Lexus ES III (XV20)",
+          "engines": [
+            {
+              "label": "300 (223 Hp) (1997 - 2001)",
+              "hp": 223
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "lexus-es-ii-xv10": {
+          "label": "Lexus ES II (XV10)",
+          "engines": [
+            {
+              "label": "300 (188 Hp) (1991 - 1997)",
+              "hp": 188
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "gs": {
+      "label": "GS",
+      "series": {
+        "lexus-gs-iv-facelift-2015": {
+          "label": "Lexus GS IV (facelift 2015)",
+          "engines": [
+            {
+              "label": "F 5.0 V8 (477 Hp) Automatic (2016 - 2020)",
+              "hp": 477,
+              "fuel": "benzin"
+            },
+            {
+              "label": "F 5.0 V8 (467 Hp) Automatic (2016 - 2018)",
+              "hp": 467,
+              "fuel": "benzin"
+            },
+            {
+              "label": "450h V6 (345 Hp) Hybrid e-CVT (2016 - 2019)",
+              "hp": 345,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "350 V6 (311 Hp) AWD Automatic (2015 - 2018)",
+              "hp": 311
+            },
+            {
+              "label": "350 V6 (311 Hp) Automatic (2015 - 2018)",
+              "hp": 311
+            },
+            {
+              "label": "300h (223 Hp) Hybrid e-CVT (2016 - 2019)",
+              "hp": 223,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "300 (241 Hp) Automatic (2018 - 2020)",
+              "hp": 241
+            },
+            {
+              "label": "200t (241 Hp) Automatic (2016 - 2018)",
+              "hp": 241
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "lexus-gs-iv": {
+          "label": "Lexus GS IV",
+          "engines": [
+            {
+              "label": "450h (345 Hp) Hybrid e-CVT (2012 - 2015)",
+              "hp": 345,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "450h (338 Hp) Hybrid e-CVT (2012 - 2015)",
+              "hp": 338,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "350 V6 (317 Hp) AWD Automatic (2012 - 2015)",
+              "hp": 317
+            },
+            {
+              "label": "350 (306 Hp) AWD Automatic (2012 - 2014)",
+              "hp": 306
+            },
+            {
+              "label": "350 (306 Hp) Automatic (2012 - 2014)",
+              "hp": 306
+            },
+            {
+              "label": "300h (223 Hp) Hybrid e-CVT (2014 - 2015)",
+              "hp": 223,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "250 V6 (209 Hp) Automatic (2012 - 2015)",
+              "hp": 209
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "lexus-gs-iii-facelift-2008": {
+          "label": "Lexus GS III (facelift 2008)",
+          "engines": [
+            {
+              "label": "460 V8 (347 Hp) Automatic (2008 - 2011)",
+              "hp": 347
+            },
+            {
+              "label": "450h (339 Hp) Hybrid e-CVT (2008 - 2011)",
+              "hp": 339,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "350 V6 (307 Hp) AWD Automatic (2008 - 2011)",
+              "hp": 307
+            },
+            {
+              "label": "350 V6 (307 Hp) Automatic (2008 - 2011)",
+              "hp": 307
+            },
+            {
+              "label": "300 V6 (249 Hp) Automatic (2008 - 2011)",
+              "hp": 249
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "lexus-gs-iii": {
+          "label": "Lexus GS III",
+          "engines": [
+            {
+              "label": "450h (339 Hp) Hybrid e-CVT (2006 - 2007)",
+              "hp": 339,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "430 V8 (279 Hp) Automatic (2005 - 2007)",
+              "hp": 279
+            },
+            {
+              "label": "350 V6 (307 Hp) AWD Automatic (2006 - 2007)",
+              "hp": 307
+            },
+            {
+              "label": "350 V6 (307 Hp) Automatic (2006 - 2007)",
+              "hp": 307
+            },
+            {
+              "label": "300 V6 (245 Hp) AWD Automatic (2005 - 2007)",
+              "hp": 245
+            },
+            {
+              "label": "300 V6 (245 Hp) Automatic (2005 - 2007)",
+              "hp": 245
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "lexus-gs-ii-facelift-2000": {
+          "label": "Lexus GS II (facelift 2000)",
+          "engines": [
+            {
+              "label": "430 V8 (300 Hp) Automatic (2000 - 2005)",
+              "hp": 300
+            },
+            {
+              "label": "430 V8 (283 Hp) Automatic (2000 - 2005)",
+              "hp": 283
+            },
+            {
+              "label": "300 (220 Hp) Automatic (2000 - 2005)",
+              "hp": 220
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "lexus-gs-ii": {
+          "label": "Lexus GS II",
+          "engines": [
+            {
+              "label": "400 V8 (300 Hp) Automatic (1997 - 2000)",
+              "hp": 300
+            },
+            {
+              "label": "300 (225 Hp) Automatic (1998 - 2000)",
+              "hp": 225
+            },
+            {
+              "label": "300 (222 Hp) Automatic (1997 - 2000)",
+              "hp": 222
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "lexus-gs-i": {
+          "label": "Lexus GS I",
+          "engines": [
+            {
+              "label": "300 T3 (219 Hp) Automatic (1995 - 1997)",
+              "hp": 219
+            },
+            {
+              "label": "300 (223 Hp) Automatic (1996 - 1997)",
+              "hp": 223
+            },
+            {
+              "label": "300 (212 Hp) Automatic (1994 - 1997)",
+              "hp": 212
+            },
+            {
+              "label": "300 (208 Hp) Automatic (1993 - 1994)",
+              "hp": 208
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "gx": {
+      "label": "GX",
+      "series": {
+        "lexus-gx-j250": {
+          "label": "Lexus GX (J250)",
+          "engines": [
+            {
+              "label": "Overtrail 550 V6 (349 Hp) 4WD Direct Shift",
+              "hp": 349
+            },
+            {
+              "label": "550 V6 (349 Hp) 4WD Direct Shift",
+              "hp": 349
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "lexus-gx-j150-facelift-2019": {
+          "label": "Lexus GX (J150, facelift 2019)",
+          "engines": [
+            {
+              "label": "460 V8 (301 Hp) 4WD ECT (2019 - 2023)",
+              "hp": 301
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "lexus-gx-j150-facelift-2013": {
+          "label": "Lexus GX (J150, facelift 2013)",
+          "engines": [
+            {
+              "label": "460 V8 (301 Hp) AWD Automatic (2013 - 2019)",
+              "hp": 301
+            },
+            {
+              "label": "460 V8 (296 Hp) AWD Automatic 7 Seat (2013 - 2019)",
+              "hp": 296
+            },
+            {
+              "label": "460 V8 (296 Hp) AWD Automatic (2013 - 2019)",
+              "hp": 296
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "lexus-gx-j150": {
+          "label": "Lexus GX (J150)",
+          "engines": [
+            {
+              "label": "460 V8 (301 Hp) AWD Automatic (2009 - 2013)",
+              "hp": 301
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "lexus-gx-j120-facelift-2007": {
+          "label": "Lexus GX (J120, facelift 2007)",
+          "engines": [
+            {
+              "label": "470 V8 (263 Hp) AWD Automatic (2007 - 2009)",
+              "hp": 263
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "lexus-gx-j120": {
+          "label": "Lexus GX (J120)",
+          "engines": [
+            {
+              "label": "470 V8 (270 Hp) AWD Automatic (2004 - 2007)",
+              "hp": 270
+            },
+            {
+              "label": "470 V8 (263 Hp) AWD Automatic (2005 - 2007)",
+              "hp": 263
+            },
+            {
+              "label": "470 V8 (238 Hp) AWD Automatic (2002 - 2004)",
+              "hp": 238
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "hs": {
+      "label": "HS",
+      "series": {
+        "lexus-hs-facelift-2013": {
+          "label": "Lexus HS (facelift 2013)",
+          "engines": [
+            {
+              "label": "Keine exakte Motorliste verfügbar – bitte genaue Motorisierung im Freitext angeben"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "lexus-hs": {
+          "label": "Lexus HS",
+          "engines": [
+            {
+              "label": "250h (190 Hp) Full Hybrid ECVT (2009 - 2013)",
+              "hp": 190,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "is": {
+      "label": "IS",
+      "series": {
+        "lexus-is-iii-xe30-facelift-2025": {
+          "label": "Lexus IS III (XE30, facelift 2025)",
+          "engines": [
+            {
+              "label": "350 V6 (311 Hp) Sport Direct Shift",
+              "hp": 311
+            },
+            {
+              "label": "350 V6 (311 Hp) AWD Sport Direct Shift",
+              "hp": 311
+            },
+            {
+              "label": "300h (220 Hp) Hybrid e-CVT",
+              "hp": 220,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "lexus-is-iii-xe30-facelift-2020": {
+          "label": "Lexus IS III (XE30, facelift 2020)",
+          "engines": [
+            {
+              "label": "500 V8 (472 Hp) Automatic",
+              "hp": 472
+            },
+            {
+              "label": "350 V6 (311 Hp) AWD Automatic",
+              "hp": 311
+            },
+            {
+              "label": "350 V6 (311 Hp) Automatic (2020 - 2025)",
+              "hp": 311
+            },
+            {
+              "label": "300h (223 Hp) Hybrid e-CVT (2020 - 2025)",
+              "hp": 223,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "300h (220 Hp) Hybrid e-CVT (2020 - 2025)",
+              "hp": 220,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "300h (220 Hp) Hybrid AWD e-CVT (2020 - 2025)",
+              "hp": 220,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "300 V6 (260 Hp) AWD Automatic",
+              "hp": 260
+            },
+            {
+              "label": "300 (241 Hp) Automatic (2020 - 2025)",
+              "hp": 241
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "lexus-is-iii-xe30-facelift-2016": {
+          "label": "Lexus IS III (XE30, facelift 2016)",
+          "engines": [
+            {
+              "label": "350 V6 (311 Hp) Direct Shift (2017 - 2020)",
+              "hp": 311
+            },
+            {
+              "label": "350 V6 (311 Hp) AWD ECT (2017 - 2020)",
+              "hp": 311
+            },
+            {
+              "label": "350 V6 (306 Hp) Direct Shift (2016 - 2017)",
+              "hp": 306
+            },
+            {
+              "label": "350 V6 (306 Hp) AWD ECT (2016 - 2017)",
+              "hp": 306
+            },
+            {
+              "label": "300h (223 Hp) Hybrid e-CVT (2016 - 2020)",
+              "hp": 223,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "300h (220 Hp) Hybrid AWD e-CVT (2016 - 2020)",
+              "hp": 220,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "300 V6 (260 Hp) AWD ECT (2017 - 2020)",
+              "hp": 260
+            },
+            {
+              "label": "300 V6 (255 Hp) AWD ECT (2016 - 2017)",
+              "hp": 255
+            },
+            {
+              "label": "300 (241 Hp) Direct Shift (2017 - 2020)",
+              "hp": 241
+            },
+            {
+              "label": "200t (245 Hp) Direct Shift (2016 - 2017)",
+              "hp": 245
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "lexus-is-iii-xe30": {
+          "label": "Lexus IS III (XE30)",
+          "engines": [
+            {
+              "label": "350 V6 (306 Hp) Direct Shift (2013 - 2016)",
+              "hp": 306
+            },
+            {
+              "label": "350 V6 (306 Hp) AWD ECT-i (2013 - 2016)",
+              "hp": 306
+            },
+            {
+              "label": "300h (223 Hp) Hybrid e-CVT (2013 - 2016)",
+              "hp": 223,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "300h (220 Hp) Hybrid AWD e-CVT (2015 - 2016)",
+              "hp": 220,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "300 V6 (255 Hp) AWD ECT-i (2015 - 2016)",
+              "hp": 255
+            },
+            {
+              "label": "250 (208 Hp) Automatic (2013 - 2015)",
+              "hp": 208
+            },
+            {
+              "label": "200t (245 Hp) Direct Shift (2015 - 2016)",
+              "hp": 245
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "lexus-is-f": {
+          "label": "Lexus IS-F",
+          "engines": [
+            {
+              "label": "5.0 V8 (423 Hp) (2008 - 2014)",
+              "hp": 423,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "lexus-is-coupe-convertible": {
+          "label": "Lexus IS-Coupe-Convertible",
+          "engines": [
+            {
+              "label": "250C AWD (208 Hp) (2008 - 2013)",
+              "hp": 208
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "lexus-is-ii-xe20-facelift-2010": {
+          "label": "Lexus IS II (XE20, facelift 2010)",
+          "engines": [
+            {
+              "label": "350 V6 (306 Hp) ECT-i (2010 - 2013)",
+              "hp": 306
+            },
+            {
+              "label": "350 V6 (306 Hp) AWD ECT-i (2010 - 2013)",
+              "hp": 306
+            },
+            {
+              "label": "300 V6 (228 Hp) ECT-i (2010 - 2013)",
+              "hp": 228
+            },
+            {
+              "label": "250 V6 (208 Hp) ECT-i (2010 - 2013)",
+              "hp": 208
+            },
+            {
+              "label": "250 V6 (204 Hp) AWD ECT-i (2010 - 2013)",
+              "hp": 204
+            },
+            {
+              "label": "250 V6 (204 Hp) (2010 - 2013)",
+              "hp": 204
+            },
+            {
+              "label": "220d (177 Hp) (2010 - 2013)",
+              "hp": 177
+            },
+            {
+              "label": "200d (150 Hp) (2010 - 2013)",
+              "hp": 150
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "lexus-is-ii-xe20-facelift-2008": {
+          "label": "Lexus IS II (XE20, facelift 2008)",
+          "engines": [
+            {
+              "label": "350 V6 (306 Hp) ECT-i (2008 - 2010)",
+              "hp": 306
+            },
+            {
+              "label": "300 V6 (228 Hp) ECT-i (2008 - 2010)",
+              "hp": 228
+            },
+            {
+              "label": "250 V6 (208 Hp) ECT-i (2008 - 2010)",
+              "hp": 208
+            },
+            {
+              "label": "250 V6 (208 Hp) (2008 - 2010)",
+              "hp": 208
+            },
+            {
+              "label": "250 V6 (204 Hp) AWD ECT-i (2008 - 2010)",
+              "hp": 204
+            },
+            {
+              "label": "220d (177 Hp) (2008 - 2010)",
+              "hp": 177
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "lexus-is-ii-xe20": {
+          "label": "Lexus IS II (XE20)",
+          "engines": [
+            {
+              "label": "350 V6 (306 Hp) ECT-i (2005 - 2008)",
+              "hp": 306
+            },
+            {
+              "label": "300 V6 (228 Hp) ECT-i (2006 - 2008)",
+              "hp": 228
+            },
+            {
+              "label": "250 V6 (208 Hp) ECT-i (2005 - 2008)",
+              "hp": 208
+            },
+            {
+              "label": "250 V6 (208 Hp) (2005 - 2008)",
+              "hp": 208
+            },
+            {
+              "label": "250 V6 (204 Hp) AWD ECT-i (2005 - 2008)",
+              "hp": 204
+            },
+            {
+              "label": "220d (177 Hp) (2005 - 2008)",
+              "hp": 177
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "lexus-is-i-sportcross": {
+          "label": "Lexus IS I Sportcross",
+          "engines": [
+            {
+              "label": "300 (214 Hp) (2001 - 2005)",
+              "hp": 214
+            },
+            {
+              "label": "300 (210 Hp) (2001 - 2005)",
+              "hp": 210
+            },
+            {
+              "label": "200 (155 Hp) (2002 - 2005)",
+              "hp": 155
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "lexus-is-i-xe10": {
+          "label": "Lexus IS I (XE10)",
+          "engines": [
+            {
+              "label": "300 (218 Hp) (2001 - 2005)",
+              "hp": 218
+            },
+            {
+              "label": "300 (214 Hp) Automatic (2001 - 2005)",
+              "hp": 214
+            },
+            {
+              "label": "300 (214 Hp) (2001 - 2005)",
+              "hp": 214
+            },
+            {
+              "label": "300 (210 Hp) (2001 - 2005)",
+              "hp": 210
+            },
+            {
+              "label": "200 Kompressor (186 Hp) (2000 - 2005)",
+              "hp": 186
+            },
+            {
+              "label": "200 (155 Hp) Automatic (1999 - 2005)",
+              "hp": 155
+            },
+            {
+              "label": "200 (155 Hp) (1999 - 2005)",
+              "hp": 155
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "lbx": {
+      "label": "LBX",
+      "series": {
+        "lexus-lbx": {
+          "label": "Lexus LBX",
+          "engines": [
+            {
+              "label": "Morizo RR 1.6 (304 Hp) AWD iMT",
+              "hp": 304,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Morizo RR 1.6 (304 Hp) AWD Direct Shift",
+              "hp": 304,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 (136 Hp) Hybrid E-Four e-CVT",
+              "hp": 136,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.5 (136 Hp) Hybrid e-CVT",
+              "hp": 136,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "lc": {
+      "label": "LC",
+      "series": {
+        "lexus-lc-convertible": {
+          "label": "Lexus LC Convertible",
+          "engines": [
+            {
+              "label": "500 V8 (477 Hp) Automatic (2020 - 2026)",
+              "hp": 477
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "lexus-lc-convertible-concept": {
+          "label": "Lexus LC Convertible Concept",
+          "engines": [
+            {
+              "label": "Keine exakte Motorliste verfügbar – bitte genaue Motorisierung im Freitext angeben"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "lexus-lc": {
+          "label": "Lexus LC",
+          "engines": [
+            {
+              "label": "500h V6 (359 Hp) Hybrid Multistage (2019 - 2026)",
+              "hp": 359,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "500 V8 (464 Hp) Automatic (2019 - 2026)",
+              "hp": 464
+            },
+            {
+              "label": "500 V8 (477 Hp) Automatic (2017 - 2019)",
+              "hp": 477
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "lf-1": {
+      "label": "LF-1",
+      "series": {
+        "lexus-lf-1-limitless-concept": {
+          "label": "Lexus LF-1 Limitless (Concept)",
+          "engines": [
+            {
+              "label": "Keine exakte Motorliste verfügbar – bitte genaue Motorisierung im Freitext angeben"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "lf-z": {
+      "label": "LF-Z",
+      "series": {
+        "lexus-lf-z-electrified-concept": {
+          "label": "Lexus LF-Z Electrified Concept",
+          "engines": [
+            {
+              "label": "90 kWh (544 Hp) DIRECT4",
+              "hp": 544
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "lfa": {
+      "label": "LFA",
+      "series": {
+        "lexus-lfa": {
+          "label": "Lexus LFA",
+          "engines": [
+            {
+              "label": "4.8 V10 (560 Hp) Automatic (2010 - 2012)",
+              "hp": 560,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "lm": {
+      "label": "LM",
+      "series": {
+        "lexus-lm-ii": {
+          "label": "Lexus LM II",
+          "engines": [
+            {
+              "label": "500h (371 Hp) Hybrid DIRECT4 Direct Shift 6 Seat",
+              "hp": 371,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "500h (371 Hp) Hybrid DIRECT4 Direct Shift 4 Seat",
+              "hp": 371,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "350h (250 Hp) Hybrid E-Four e-CVT 4 Seat",
+              "hp": 250,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "350h (250 Hp) Hybrid e-CVT 7 Seat",
+              "hp": 250,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "lexus-lm-i": {
+          "label": "Lexus LM I",
+          "engines": [
+            {
+              "label": "350 V6 (296 Hp) Automatic (2020 - 2023)",
+              "hp": 296
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "ls": {
+      "label": "LS",
+      "series": {
+        "lexus-ls-v-facelift-2020": {
+          "label": "Lexus LS V (facelift 2020)",
+          "engines": [
+            {
+              "label": "500h V6 (359 Hp) Hybrid Multistage",
+              "hp": 359,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "500h V6 (359 Hp) Hybrid AWD Automatic",
+              "hp": 359,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "500 V6 (416 Hp) AWD Automatic",
+              "hp": 416
+            },
+            {
+              "label": "500 V6 (416 Hp) Automatic",
+              "hp": 416
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "lexus-ls-v": {
+          "label": "Lexus LS V",
+          "engines": [
+            {
+              "label": "500h V6 (354 Hp) Hybrid e-CVT (2017 - 2020)",
+              "hp": 354,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "500 V6 (420 Hp) AWD Automatic (2017 - 2020)",
+              "hp": 420
+            },
+            {
+              "label": "500 V6 (420 Hp) Automatic (2018 - 2020)",
+              "hp": 420
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "lexus-ls-iv-long-facelift-2012": {
+          "label": "Lexus LS IV Long (facelift 2012)",
+          "engines": [
+            {
+              "label": "600h L V8 (445 Hp) Hybrid AWD e-CVT (2012 - 2017)",
+              "hp": 445,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "460 L V8 (386 Hp) Super ECT (2012 - 2017)",
+              "hp": 386
+            },
+            {
+              "label": "460 L V8 (370 Hp) AWD Super ECT (2012 - 2017)",
+              "hp": 370
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "lexus-ls-iv-facelift-2012": {
+          "label": "Lexus LS IV (facelift 2012)",
+          "engines": [
+            {
+              "label": "600h V8 (445 Hp) Hybrid AWD e-CVT (2012 - 2017)",
+              "hp": 445,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "460 V8 (387 Hp) Super ECT (2012 - 2017)",
+              "hp": 387
+            },
+            {
+              "label": "460 V8 (370 Hp) AWD Super ECT (2012 - 2017)",
+              "hp": 370
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "lexus-ls-iv-long-facelift-2009": {
+          "label": "Lexus LS IV Long (facelift 2009)",
+          "engines": [
+            {
+              "label": "600h L V8 (445 Hp) Hybrid AWD e-CVT (2009 - 2012)",
+              "hp": 445,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "460 L V8 (380 Hp) Super ECT (2009 - 2012)",
+              "hp": 380
+            },
+            {
+              "label": "460 L V8 (357 Hp) AWD Super ECT (2009 - 2012)",
+              "hp": 357
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "lexus-ls-iv-facelift-2009": {
+          "label": "Lexus LS IV (facelift 2009)",
+          "engines": [
+            {
+              "label": "600h V8 (445 Hp) Hybrid AWD e-CVT (2009 - 2012)",
+              "hp": 445,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "460 V8 (381 Hp) Super ECT (2009 - 2012)",
+              "hp": 381
+            },
+            {
+              "label": "460 V8 (367 Hp) AWD Super ECT (2009 - 2012)",
+              "hp": 367
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "lexus-ls-iv-long": {
+          "label": "Lexus LS IV Long",
+          "engines": [
+            {
+              "label": "600h L V8 (445 Hp) Hybrid AWD e-CVT (2007 - 2009)",
+              "hp": 445,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "460 L V8 (380 Hp) Super ECT (2006 - 2009)",
+              "hp": 380
+            },
+            {
+              "label": "460 L V8 (357 Hp) AWD Super ECT (2008 - 2009)",
+              "hp": 357
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "lexus-ls-iv": {
+          "label": "Lexus LS IV",
+          "engines": [
+            {
+              "label": "600h V8 (445 Hp) Hybrid AWD e-CVT (2007 - 2009)",
+              "hp": 445,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "460 V8 (381 Hp) Super ECT (2006 - 2009)",
+              "hp": 381
+            },
+            {
+              "label": "460 V8 (367 Hp) AWD Super ECT (2008 - 2009)",
+              "hp": 367
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "lexus-ls-iii-facelift-2004": {
+          "label": "Lexus LS III (facelift 2004)",
+          "engines": [
+            {
+              "label": "430 V8 (290 Hp) Automatic (2003 - 2006)",
+              "hp": 290
+            },
+            {
+              "label": "430 V8 (282 Hp) Automatic (2003 - 2005)",
+              "hp": 282
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "lexus-ls-iii": {
+          "label": "Lexus LS III",
+          "engines": [
+            {
+              "label": "430 V8 (290 Hp) Automatic (2000 - 2003)",
+              "hp": 290
+            },
+            {
+              "label": "430 V8 (282 Hp) Automatic (2001 - 2003)",
+              "hp": 282
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "lexus-ls-ii-facelift-1998": {
+          "label": "Lexus LS II (facelift 1998)",
+          "engines": [
+            {
+              "label": "400 V8 (294 Hp) Automatic (1997 - 2000)",
+              "hp": 294
+            },
+            {
+              "label": "400 V8 (284 Hp) Automatic (1997 - 1998)",
+              "hp": 284
+            },
+            {
+              "label": "400 V8 (276 Hp) Automatic (1998 - 2000)",
+              "hp": 276
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "lexus-ls-ii": {
+          "label": "Lexus LS II",
+          "engines": [
+            {
+              "label": "400 V8 (264 Hp) Automatic (1994 - 1997)",
+              "hp": 264
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "lexus-ls-i-facelift-1993": {
+          "label": "Lexus LS I (facelift 1993)",
+          "engines": [
+            {
+              "label": "400 V8 (253 Hp) Automatic (1992 - 1994)",
+              "hp": 253
+            },
+            {
+              "label": "400 V8 (245 Hp) Automatic (1992 - 1994)",
+              "hp": 245
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "lexus-ls-i": {
+          "label": "Lexus LS I",
+          "engines": [
+            {
+              "label": "400 V8 (253 Hp) Automatic (1989 - 1992)",
+              "hp": 253
+            },
+            {
+              "label": "400 V8 (245 Hp) Automatic (1989 - 1992)",
+              "hp": 245
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "lx": {
+      "label": "LX",
+      "series": {
+        "lexus-lx-iv-j300": {
+          "label": "Lexus LX IV (J300)",
+          "engines": [
+            {
+              "label": "700h V6 (457 Hp) Hybrid AWD Direct Shift 7 Seat",
+              "hp": 457,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "700h V6 (457 Hp) Hybrid AWD Direct Shift",
+              "hp": 457,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "600 V6 (409 Hp) AWD Direct Shift 7 Seat",
+              "hp": 409
+            },
+            {
+              "label": "600 V6 (409 Hp) AWD Direct Shift",
+              "hp": 409
+            },
+            {
+              "label": "500d V6 (309 Hp) AWD Direct Shift",
+              "hp": 309
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "lexus-lx-iii-facelift-2015": {
+          "label": "Lexus LX III (facelift 2015)",
+          "engines": [
+            {
+              "label": "570 V8 (383 Hp) AWD Automatic (2017 - 2021)",
+              "hp": 383
+            },
+            {
+              "label": "570 V8 (367 Hp) AWD Automatic 8 Seat (2015 - 2021)",
+              "hp": 367
+            },
+            {
+              "label": "570 V8 (367 Hp) AWD Automatic (2015 - 2021)",
+              "hp": 367
+            },
+            {
+              "label": "450d V8 (272 Hp) AWD Automatic (2015 - 2021)",
+              "hp": 272
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "lexus-lx-iii-facelift-2012": {
+          "label": "Lexus LX III (facelift 2012)",
+          "engines": [
+            {
+              "label": "570 V8 (383 Hp) AWD Automatic (2012 - 2015)",
+              "hp": 383
+            },
+            {
+              "label": "570 V8 (367 Hp) AWD Automatic (2012 - 2015)",
+              "hp": 367
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "lexus-lx-iii": {
+          "label": "Lexus LX III",
+          "engines": [
+            {
+              "label": "570 V8 (383 Hp) AWD Automatic (2007 - 2010)",
+              "hp": 383
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "lexus-lx-ii-facelift-2005": {
+          "label": "Lexus LX II (facelift 2005)",
+          "engines": [
+            {
+              "label": "470 V8 (275 Hp) AWD Automatic (2005 - 2007)",
+              "hp": 275
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "lexus-lx-ii-facelift-2002": {
+          "label": "Lexus LX II (facelift 2002)",
+          "engines": [
+            {
+              "label": "470 V8 (235 Hp) AWD Automatic (2002 - 2005)",
+              "hp": 235
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "lexus-lx-ii": {
+          "label": "Lexus LX II",
+          "engines": [
+            {
+              "label": "470 V8 (230 Hp) AWD Automatic (1998 - 2002)",
+              "hp": 230
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "lexus-lx-i": {
+          "label": "Lexus LX I",
+          "engines": [
+            {
+              "label": "450 (215 Hp) AWD Automatic (1995 - 1997)",
+              "hp": 215
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "nx": {
+      "label": "NX",
+      "series": {
+        "lexus-nx-ii-az20": {
+          "label": "Lexus NX II (AZ20)",
+          "engines": [
+            {
+              "label": "450h+ (309 Hp) Plug-in Hybrid e-Four e-CVT",
+              "hp": 309,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "350h (244 Hp) Hybrid e-CVT",
+              "hp": 244,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "350h (244 Hp) Hybrid AWD e-CVT",
+              "hp": 244,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "350 (275 Hp) AWD ECT-i",
+              "hp": 275
+            },
+            {
+              "label": "250 (203 Hp) ECT-i",
+              "hp": 203
+            },
+            {
+              "label": "250 (203 Hp) AWD ECT-i",
+              "hp": 203
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "lexus-nx-i-az10-facelift-2017": {
+          "label": "Lexus NX I (AZ10, facelift 2017)",
+          "engines": [
+            {
+              "label": "300h (197 Hp) Hybrid e-Four e-CVT (2017 - 2021)",
+              "hp": 197,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "300 (238 Hp) AWD Automatic (2017 - 2021)",
+              "hp": 238
+            },
+            {
+              "label": "300 (238 Hp) Automatic (2017 - 2021)",
+              "hp": 238
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "lexus-nx-i-az10": {
+          "label": "Lexus NX I (AZ10)",
+          "engines": [
+            {
+              "label": "300h (197 Hp) Hybrid e-Four e-CVT (2014 - 2017)",
+              "hp": 197,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "300h (197 Hp) Hybrid e-CVT (2014 - 2017)",
+              "hp": 197,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "200t (238 Hp) AWD Automatic (2015 - 2017)",
+              "hp": 238
+            },
+            {
+              "label": "200t (238 Hp) Automatic (2015 - 2017)",
+              "hp": 238
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "rc": {
+      "label": "RC",
+      "series": {
+        "lexus-rc-facelift-2018": {
+          "label": "Lexus RC (facelift 2018)",
+          "engines": [
+            {
+              "label": "F Track Edition 5.0 V8 (472 Hp) Automatic",
+              "hp": 472,
+              "fuel": "benzin"
+            },
+            {
+              "label": "350 V6 (311 Hp) Direct-Shift",
+              "hp": 311
+            },
+            {
+              "label": "350 V6 (311 Hp) AWD Automatic",
+              "hp": 311
+            },
+            {
+              "label": "300 V6 (260 Hp) AWD Automatic",
+              "hp": 260
+            },
+            {
+              "label": "300 (241 Hp) Direct-Shift",
+              "hp": 241
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "lexus-rc": {
+          "label": "Lexus RC",
+          "engines": [
+            {
+              "label": "F 5.0 (477 Hp) Automatic (2014 - 2018)",
+              "hp": 477,
+              "fuel": "benzin"
+            },
+            {
+              "label": "F 5.0 (467 Hp) Automatic (2014 - 2018)",
+              "hp": 467,
+              "fuel": "benzin"
+            },
+            {
+              "label": "350 V6 (311 Hp) AWD Automatic (2014 - 2018)",
+              "hp": 311
+            },
+            {
+              "label": "350 V6 (311 Hp) Automatic (2014 - 2018)",
+              "hp": 311
+            },
+            {
+              "label": "300 V6 (260 Hp) AWD Automatic (2015 - 2018)",
+              "hp": 260
+            },
+            {
+              "label": "300 (241 Hp) Automatic (2015 - 2018)",
+              "hp": 241
+            },
+            {
+              "label": "200t VVT-i (245 Hp) Automatic (2016 - 2018)",
+              "hp": 245
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "rx": {
+      "label": "RX",
+      "series": {
+        "lexus-rx-v": {
+          "label": "Lexus RX V",
+          "engines": [
+            {
+              "label": "500h (366 Hp) Hybrid DIRECT4 ECT-i",
+              "hp": 366,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "450h+ (309 Hp) e-Four e-CVT",
+              "hp": 309
+            },
+            {
+              "label": "350h (246 Hp) Hybrid E-Four e-CVT",
+              "hp": 246,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "350 (275 Hp) ECT-i",
+              "hp": 275
+            },
+            {
+              "label": "350 (275 Hp) AWD ECT-i",
+              "hp": 275
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "lexus-rx-iv-facelift-2019": {
+          "label": "Lexus RX IV (facelift 2019)",
+          "engines": [
+            {
+              "label": "450h V6 (313 Hp) Hybrid E-Four e-CVT (2019 - 2022)",
+              "hp": 313,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "350L V6 (290 Hp) AWD Automatic (2019 - 2022)",
+              "hp": 290
+            },
+            {
+              "label": "350L V6 (290 Hp) Automatic (2019 - 2022)",
+              "hp": 290
+            },
+            {
+              "label": "350 V6 (295 Hp) AWD Automatic (2019 - 2022)",
+              "hp": 295
+            },
+            {
+              "label": "350 V6 (295 Hp) Automatic (2019 - 2022)",
+              "hp": 295
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "lexus-rx-iv": {
+          "label": "Lexus RX IV",
+          "engines": [
+            {
+              "label": "450hL V6 (313 Hp) Hybrid E-Four e-CVT (2018 - 2019)",
+              "hp": 313,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "450h V6 (313 Hp) Hybrid E-Four e-CVT (2015 - 2019)",
+              "hp": 313,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "450h F Sport V6 (313 Hp) Hybrid E-Four e-CVT (2016 - 2019)",
+              "hp": 313,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "350L V6 (290 Hp) AWD Automatic (2016 - 2019)",
+              "hp": 290
+            },
+            {
+              "label": "350L V6 (290 Hp) Automatic (2016 - 2019)",
+              "hp": 290
+            },
+            {
+              "label": "350 V6 (300 Hp) AWD Automatic (2015 - 2019)",
+              "hp": 300
+            },
+            {
+              "label": "350 V6 (300 Hp) Automatic (2016 - 2019)",
+              "hp": 300
+            },
+            {
+              "label": "350 F Sport V6 (295 Hp) AWD Automatic (2016 - 2019)",
+              "hp": 295
+            },
+            {
+              "label": "350 F Sport V6 (295 Hp) Automatic (2016 - 2019)",
+              "hp": 295
+            },
+            {
+              "label": "200t (238 Hp) AWD Automatic (2015 - 2018)",
+              "hp": 238
+            },
+            {
+              "label": "200t (238 Hp) Automatic (2015 - 2018)",
+              "hp": 238
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "lexus-rx-iii-facelift-2012": {
+          "label": "Lexus RX III (facelift 2012)",
+          "engines": [
+            {
+              "label": "450h (299 Hp) Hybrid e-Four e-CVT (2012 - 2015)",
+              "hp": 299,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "450h (299 Hp) Hybrid e-CVT (2012 - 2015)",
+              "hp": 299,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "350 V6 (270 Hp) ECT-i (2012 - 2015)",
+              "hp": 270
+            },
+            {
+              "label": "350 F Sport V6 (270 Hp) AWD ECT-i (2012 - 2015)",
+              "hp": 270
+            },
+            {
+              "label": "350 (277 Hp) AWD Automatic (2012 - 2015)",
+              "hp": 277
+            },
+            {
+              "label": "270 (188 Hp) Automatic (2012 - 2015)",
+              "hp": 188
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "lexus-rx-iii": {
+          "label": "Lexus RX III",
+          "engines": [
+            {
+              "label": "450h (299 Hp) Hybrid E-Four e-CVT (2009 - 2012)",
+              "hp": 299,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "350 V6 (275 Hp) ECT-i (2009 - 2012)",
+              "hp": 275
+            },
+            {
+              "label": "350 4WD (277 Hp) (2009 - 2012)",
+              "hp": 277
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "lexus-rx-ii": {
+          "label": "Lexus RX II",
+          "engines": [
+            {
+              "label": "400h (272 Hp) Hybrid AWD e-CVT (2004 - 2009)",
+              "hp": 272,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "350 4WD (276 Hp) (2006 - 2009)",
+              "hp": 276
+            },
+            {
+              "label": "330 4WD (230 Hp) (2003 - 2009)",
+              "hp": 230
+            },
+            {
+              "label": "330 (230 Hp) (2003 - 2009)",
+              "hp": 230
+            },
+            {
+              "label": "300 4WD (204 Hp) (2003 - 2009)",
+              "hp": 204
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "lexus-rx-i": {
+          "label": "Lexus RX I",
+          "engines": [
+            {
+              "label": "300 4WD (223 Hp) (1997 - 2003)",
+              "hp": 223
+            },
+            {
+              "label": "300 4WD (201 Hp) (1997 - 2003)",
+              "hp": 201
+            },
+            {
+              "label": "300 (223 Hp) (1997 - 2003)",
+              "hp": 223
+            },
+            {
+              "label": "300 (201 Hp) (1997 - 2003)",
+              "hp": 201
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "rz": {
+      "label": "RZ",
+      "series": {
+        "lexus-rz": {
+          "label": "Lexus RZ",
+          "engines": [
+            {
+              "label": "600e F SPORT Performance 76.96 kWh (426 Hp) DIRECT4",
+              "hp": 426,
+              "fuel": "benzin"
+            },
+            {
+              "label": "550e F Sport 77 kWh (408 Hp) DIRECT4",
+              "hp": 408
+            },
+            {
+              "label": "500e 77 kWh (380 Hp) DIRECT4",
+              "hp": 380
+            },
+            {
+              "label": "450e 71.4 kWh (313 Hp) DIRECT4",
+              "hp": 313,
+              "fuel": "benzin"
+            },
+            {
+              "label": "350e 77 kWh (224 Hp)",
+              "hp": 224
+            },
+            {
+              "label": "300e 72.8 kWh (201 Hp)",
+              "hp": 201,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "sc": {
+      "label": "SC",
+      "series": {
+        "lexus-sc-ii-z40-facelift-2005": {
+          "label": "Lexus SC II (Z40, facelift 2005)",
+          "engines": [
+            {
+              "label": "430 V8 (288 Hp) ECT-i (2005 - 2010)",
+              "hp": 288
+            },
+            {
+              "label": "430 V8 (286 Hp) ECT (2005 - 2010)",
+              "hp": 286
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "lexus-sc-ii-z40": {
+          "label": "Lexus SC II (Z40)",
+          "engines": [
+            {
+              "label": "430 V8 (300 Hp) ECT-i (2001 - 2005)",
+              "hp": 300
+            },
+            {
+              "label": "430 V8 (286 Hp) ECT (2001 - 2005)",
+              "hp": 286
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "lexus-sc-i-z30": {
+          "label": "Lexus SC I (Z30)",
+          "engines": [
+            {
+              "label": "400 (294 Hp) (1994 - 2001)",
+              "hp": 294
+            },
+            {
+              "label": "400 (245 Hp) (1994 - 1999)",
+              "hp": 245
+            },
+            {
+              "label": "300 (230 Hp) Automatic (1994 - 1999)",
+              "hp": 230
+            },
+            {
+              "label": "300 (230 Hp) (1994 - 1999)",
+              "hp": 230
+            },
+            {
+              "label": "300 (228 Hp) (1991 - 2001)",
+              "hp": 228
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "tx": {
+      "label": "TX",
+      "series": {
+        "lexus-tx": {
+          "label": "Lexus TX",
+          "engines": [
+            {
+              "label": "550h V6 (404 Hp) Plug-in Hybrid DIRECT4 e-CVT",
+              "hp": 404,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "500h (366 Hp) Hybrid DIRECT4 ECT-i",
+              "hp": 366,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "350 (275 Hp) ECT-i",
+              "hp": 275
+            },
+            {
+              "label": "350 (275 Hp) AWD ECT-i",
+              "hp": 275
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "tz": {
+      "label": "TZ",
+      "series": {
+        "lexus-tz": {
+          "label": "Lexus TZ",
+          "engines": [
+            {
+              "label": "95.82 kWh (408 Hp) DIRECT4 Electric",
+              "hp": 408,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "ux": {
+      "label": "UX",
+      "series": {
+        "lexus-ux": {
+          "label": "Lexus UX",
+          "engines": [
+            {
+              "label": "300h (199 Hp) Hybrid ECVT",
+              "hp": 199,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "300h (199 Hp) Hybrid E-Four ECVT",
+              "hp": 199,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "300e 72.8 kWh (204 Hp)",
+              "hp": 204,
+              "fuel": "benzin"
+            },
+            {
+              "label": "300e 54.3 kWh (204 Hp) (2020 - 2023)",
+              "hp": 204,
+              "fuel": "benzin"
+            },
+            {
+              "label": "250h (177 Hp) Hybrid E-Four e-CVT (2019 - 2024)",
+              "hp": 177,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "250h (177 Hp) Hybrid e-CVT (2019 - 2024)",
+              "hp": 177,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "200 (171 Hp) D-CVT (2019 - 2023)",
+              "hp": 171
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

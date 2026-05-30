@@ -1,0 +1,157 @@
+[
+  {
+    "label": "Q3 1.4 TFSI (Benzin, 125 PS)",
+    "fuel": "benzin",
+    "hp": 125
+  },
+  {
+    "label": "Q3 1.4 TFSI cylinder on demand S tronic (Benzin, 149 PS)",
+    "fuel": "benzin",
+    "hp": 149
+  },
+  {
+    "label": "Q3 1.4 TFSI S tronic (Benzin, 149 PS)",
+    "fuel": "benzin",
+    "hp": 149
+  },
+  {
+    "label": "Q3 1.4 TFSI cylinder on demand ultra (Benzin, 149 PS)",
+    "fuel": "benzin",
+    "hp": 149
+  },
+  {
+    "label": "Q3 1.4 TFSI (Benzin, 149 PS)",
+    "fuel": "benzin",
+    "hp": 149
+  },
+  {
+    "label": "Q3 2.0 TFSI quattro S tronic (Benzin, 170 PS)",
+    "fuel": "benzin",
+    "hp": 170
+  },
+  {
+    "label": "Q3 2.0 TFSI quattro (Benzin, 170 PS)",
+    "fuel": "benzin",
+    "hp": 170
+  },
+  {
+    "label": "Q3 2.0 TFSI quattro S tronic (Benzin, 180 PS)",
+    "fuel": "benzin",
+    "hp": 180
+  },
+  {
+    "label": "Q3 2.0 TFSI quattro (Benzin, 180 PS)",
+    "fuel": "benzin",
+    "hp": 180
+  },
+  {
+    "label": "Q3 2.0 TFSI (Benzin, 180 PS)",
+    "fuel": "benzin",
+    "hp": 180
+  },
+  {
+    "label": "Q3 2.0 TFSI quattro S tronic (Benzin, 211 PS)",
+    "fuel": "benzin",
+    "hp": 211
+  },
+  {
+    "label": "Q3 2.0 TFSI quattro S tronic (Benzin, 220 PS)",
+    "fuel": "benzin",
+    "hp": 220
+  },
+  {
+    "label": "RS Q3 2.5 TFSI quattro S tronic (Benzin, 310 PS)",
+    "fuel": "benzin",
+    "hp": 310
+  },
+  {
+    "label": "RS Q3 2.5 TFSI quattro S tronic (Benzin, 340 PS)",
+    "fuel": "benzin",
+    "hp": 340
+  },
+  {
+    "label": "RS Q3 2.5 TFSI quattro S tronic (Benzin, 367 PS)",
+    "fuel": "benzin",
+    "hp": 367
+  },
+  {
+    "label": "Q3 2.0 TDI S tronic (Diesel, 120 PS)",
+    "fuel": "diesel",
+    "hp": 120
+  },
+  {
+    "label": "Q3 2.0 TDI (Diesel, 120 PS)",
+    "fuel": "diesel",
+    "hp": 120
+  },
+  {
+    "label": "Q3 2.0 TDI quattro S tronic (Diesel, 140 PS)",
+    "fuel": "diesel",
+    "hp": 140
+  },
+  {
+    "label": "Q3 2.0 TDI quattro (Diesel, 140 PS)",
+    "fuel": "diesel",
+    "hp": 140
+  },
+  {
+    "label": "Q3 2.0 TDI (Diesel, 140 PS)",
+    "fuel": "diesel",
+    "hp": 140
+  },
+  {
+    "label": "Q3 2.0 TDI S tronic (Diesel, 149 PS)",
+    "fuel": "diesel",
+    "hp": 149
+  },
+  {
+    "label": "Q3 2.0 TDI quattro S tronic (Diesel, 149 PS)",
+    "fuel": "diesel",
+    "hp": 149
+  },
+  {
+    "label": "Q3 2.0 TDI quattro (Diesel, 149 PS)",
+    "fuel": "diesel",
+    "hp": 149
+  },
+  {
+    "label": "Q3 2.0 TDI (Diesel, 149 PS)",
+    "fuel": "diesel",
+    "hp": 149
+  },
+  {
+    "label": "Q3 2.0 TDI ultra (Diesel, 149 PS)",
+    "fuel": "diesel",
+    "hp": 149
+  },
+  {
+    "label": "Q3 2.0 TDI quattro S tronic (Diesel, 177 PS)",
+    "fuel": "diesel",
+    "hp": 177
+  },
+  {
+    "label": "Q3 2.0 TDI quattro (Diesel, 177 PS)",
+    "fuel": "diesel",
+    "hp": 177
+  },
+  {
+    "label": "Q3 2.0 TDI (Diesel, 177 PS)",
+    "fuel": "diesel",
+    "hp": 177
+  },
+  {
+    "label": "Q3 2.0 TDI quattro S tronic (Diesel, 184 PS)",
+    "fuel": "diesel",
+    "hp": 184
+  },
+  {
+    "label": "Q3 2.0 TDI quattro (Diesel, 184 PS)",
+    "fuel": "diesel",
+    "hp": 184
+  },
+  {
+    "label": "Q3 2.0 TDI (Diesel, 184 PS)",
+    "fuel": "diesel",
+    "hp": 184
+  }
+]

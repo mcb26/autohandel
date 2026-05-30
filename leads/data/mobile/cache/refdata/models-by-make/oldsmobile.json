@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Bravada",
+    "description": "Bravada",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/OLDSMOBILE/model/Bravada"
+  },
+  {
+    "name": "Custom Cruiser",
+    "description": "Custom Cruiser",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/OLDSMOBILE/model/Custom%20Cruiser"
+  },
+  {
+    "name": "Cutlass",
+    "description": "Cutlass",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/OLDSMOBILE/model/Cutlass"
+  },
+  {
+    "name": "Delta 88",
+    "description": "Delta 88",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/OLDSMOBILE/model/Delta%2088"
+  },
+  {
+    "name": "Silhouette",
+    "description": "Silhouette",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/OLDSMOBILE/model/Silhouette"
+  },
+  {
+    "name": "Supreme",
+    "description": "Supreme",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/OLDSMOBILE/model/Supreme"
+  },
+  {
+    "name": "Toronado",
+    "description": "Toronado",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/OLDSMOBILE/model/Toronado"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/OLDSMOBILE/model/ANDERE"
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "name": "Accent",
+    "description": "Accent",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/HYUNDAI/model/Accent"
+  },
+  {
+    "name": "Atos",
+    "description": "Atos",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/HYUNDAI/model/Atos"
+  },
+  {
+    "name": "Azera",
+    "description": "Azera",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/HYUNDAI/model/Azera"
+  },
+  {
+    "name": "BAYON",
+    "description": "BAYON",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/HYUNDAI/model/BAYON"
+  },
+  {
+    "name": "Coupe",
+    "description": "Coupe",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/HYUNDAI/model/Coupe"
+  },
+  {
+    "name": "Elantra",
+    "description": "Elantra",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/HYUNDAI/model/Elantra"
+  },
+  {
+    "name": "Excel",
+    "description": "Excel",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/HYUNDAI/model/Excel"
+  },
+  {
+    "name": "Galloper",
+    "description": "Galloper",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/HYUNDAI/model/Galloper"
+  },
+  {
+    "name": "Genesis",
+    "description": "Genesis",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/HYUNDAI/model/Genesis"
+  },
+  {
+    "name": "Getz",
+    "description": "Getz",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/HYUNDAI/model/Getz"
+  },
+  {
+    "name": "Grand Santa Fe",
+    "description": "Grand Santa Fe",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/HYUNDAI/model/Grand%20Santa%20Fe"
+  },
+  {
+    "name": "Grandeur",
+    "description": "Grandeur",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/HYUNDAI/model/Grandeur"
+  },
+  {
+    "name": "H 100",
+    "description": "H 100",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/HYUNDAI/model/H%20100"
+  },
+  {
+    "name": "H 200",
+    "description": "H 200",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/HYUNDAI/model/H%20200"
+  },
+  {
+    "name": "H-1",
+    "description": "H-1",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/HYUNDAI/model/H-1"
+  },
+  {
+    "name": "H-1 Starex",
+    "description": "H-1 Starex",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/HYUNDAI/model/H-1%20Starex"
+  },
+  {
+    "name": "H350",
+    "description": "H350",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/HYUNDAI/model/H350"
+  },
+  {
+    "name": "INSTER",
+    "description": "INSTER",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/HYUNDAI/model/INSTER"
+  },
+  {
+    "name": "IONIQ",
+    "description": "IONIQ",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/HYUNDAI/model/IONIQ"
+  },
+  {
+    "name": "IONIQ 5",
+    "description": "IONIQ 5",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/HYUNDAI/model/IONIQ%205"
+  },
+  {
+    "name": "IONIQ 6",
+    "description": "IONIQ 6",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/HYUNDAI/model/IONIQ%206"
+  },
+  {
+    "name": "IONIQ 9",
+    "description": "IONIQ 9",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/HYUNDAI/model/IONIQ%209"
+  },
+  {
+    "name": "KONA Elektro",
+    "description": "KONA Elektro",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/HYUNDAI/model/KONA%20Elektro"
+  },
+  {
+    "name": "Kona",
+    "description": "KONA",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/HYUNDAI/model/Kona"
+  },
+  {
+    "name": "Lantra",
+    "description": "Lantra",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/HYUNDAI/model/Lantra"
+  },
+  {
+    "name": "Matrix",
+    "description": "Matrix",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/HYUNDAI/model/Matrix"
+  },
+  {
+    "name": "Nexo",
+    "description": "NEXO",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/HYUNDAI/model/Nexo"
+  },
+  {
+    "name": "Pony",
+    "description": "Pony",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/HYUNDAI/model/Pony"
+  },
+  {
+    "name": "S-Coupe",
+    "description": "S-Coupe",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/HYUNDAI/model/S-Coupe"
+  },
+  {
+    "name": "Santa Fe",
+    "description": "SANTA FE",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/HYUNDAI/model/Santa%20Fe"
+  },
+  {
+    "name": "Santamo",
+    "description": "Santamo",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/HYUNDAI/model/Santamo"
+  },
+  {
+    "name": "Sonata",
+    "description": "SONATA",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/HYUNDAI/model/Sonata"
+  },
+  {
+    "name": "Staria",
+    "description": "STARIA",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/HYUNDAI/model/Staria"
+  },
+  {
+    "name": "Terracan",
+    "description": "Terracan",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/HYUNDAI/model/Terracan"
+  },
+  {
+    "name": "Trajet",
+    "description": "Trajet",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/HYUNDAI/model/Trajet"
+  },
+  {
+    "name": "Tucson",
+    "description": "TUCSON",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/HYUNDAI/model/Tucson"
+  },
+  {
+    "name": "Veloster",
+    "description": "Veloster",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/HYUNDAI/model/Veloster"
+  },
+  {
+    "name": "Veracruz",
+    "description": "Veracruz",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/HYUNDAI/model/Veracruz"
+  },
+  {
+    "name": "XG 30",
+    "description": "XG 30",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/HYUNDAI/model/XG%2030"
+  },
+  {
+    "name": "XG 350",
+    "description": "XG 350",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/HYUNDAI/model/XG%20350"
+  },
+  {
+    "name": "i10",
+    "description": "i10",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/HYUNDAI/model/i10"
+  },
+  {
+    "name": "i20",
+    "description": "i20",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/HYUNDAI/model/i20"
+  },
+  {
+    "name": "i30",
+    "description": "i30",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/HYUNDAI/model/i30"
+  },
+  {
+    "name": "i40",
+    "description": "i40",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/HYUNDAI/model/i40"
+  },
+  {
+    "name": "ix20",
+    "description": "ix20",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/HYUNDAI/model/ix20"
+  },
+  {
+    "name": "ix35",
+    "description": "ix35",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/HYUNDAI/model/ix35"
+  },
+  {
+    "name": "ix55",
+    "description": "ix55",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/HYUNDAI/model/ix55"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/HYUNDAI/model/ANDERE"
+  }
+]

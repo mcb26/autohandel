@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Indica",
+    "description": "Indica",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/TATA/model/Indica"
+  },
+  {
+    "name": "Indigo",
+    "description": "Indigo",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/TATA/model/Indigo"
+  },
+  {
+    "name": "Nano",
+    "description": "Nano",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/TATA/model/Nano"
+  },
+  {
+    "name": "Safari",
+    "description": "Safari",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/TATA/model/Safari"
+  },
+  {
+    "name": "Sumo",
+    "description": "Sumo",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/TATA/model/Sumo"
+  },
+  {
+    "name": "Telcoline",
+    "description": "Telcoline",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/TATA/model/Telcoline"
+  },
+  {
+    "name": "Telcosport",
+    "description": "Telcosport",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/TATA/model/Telcosport"
+  },
+  {
+    "name": "Xenon",
+    "description": "Xenon",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/TATA/model/Xenon"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/TATA/model/ANDERE"
+  }
+]

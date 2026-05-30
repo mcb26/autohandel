@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Z1",
+    "description": "Z1",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BMW/modelgroups/Z__BMW_SERIES/models/Z1"
+  },
+  {
+    "name": "Z3",
+    "description": "Z3",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BMW/modelgroups/Z__BMW_SERIES/models/Z3"
+  },
+  {
+    "name": "Z3 M",
+    "description": "Z3 M",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BMW/modelgroups/Z__BMW_SERIES/models/Z3%20M"
+  },
+  {
+    "name": "Z4",
+    "description": "Z4",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BMW/modelgroups/Z__BMW_SERIES/models/Z4"
+  },
+  {
+    "name": "Z4 M",
+    "description": "Z4 M",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BMW/modelgroups/Z__BMW_SERIES/models/Z4%20M"
+  },
+  {
+    "name": "Z4 M40i",
+    "description": "Z4 M40",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BMW/modelgroups/Z__BMW_SERIES/models/Z4%20M40i"
+  },
+  {
+    "name": "Z8",
+    "description": "Z8",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/BMW/modelgroups/Z__BMW_SERIES/models/Z8"
+  }
+]

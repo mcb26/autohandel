@@ -1,0 +1,17 @@
+[
+  {
+    "name": "3",
+    "description": "3",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/FOTON/model/3"
+  },
+  {
+    "name": "4",
+    "description": "4",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/FOTON/model/4"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/FOTON/model/ANDERE"
+  }
+]

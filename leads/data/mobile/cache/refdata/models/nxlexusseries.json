@@ -1,0 +1,22 @@
+[
+  {
+    "name": "NX 200",
+    "description": "NX 200",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LEXUS/modelgroups/NX__LEXUS_SERIES/models/NX%20200"
+  },
+  {
+    "name": "NX 300",
+    "description": "NX 300",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LEXUS/modelgroups/NX__LEXUS_SERIES/models/NX%20300"
+  },
+  {
+    "name": "NX 350",
+    "description": "NX 350h",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LEXUS/modelgroups/NX__LEXUS_SERIES/models/NX%20350"
+  },
+  {
+    "name": "NX 450",
+    "description": "NX 450h",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LEXUS/modelgroups/NX__LEXUS_SERIES/models/NX%20450"
+  }
+]

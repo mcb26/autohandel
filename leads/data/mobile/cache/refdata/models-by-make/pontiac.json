@@ -1,0 +1,87 @@
+[
+  {
+    "name": "6000",
+    "description": "6000",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/PONTIAC/model/6000"
+  },
+  {
+    "name": "Bonneville",
+    "description": "Bonneville",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/PONTIAC/model/Bonneville"
+  },
+  {
+    "name": "Fiero",
+    "description": "Fiero",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/PONTIAC/model/Fiero"
+  },
+  {
+    "name": "Firebird",
+    "description": "Firebird",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/PONTIAC/model/Firebird"
+  },
+  {
+    "name": "G6",
+    "description": "G6",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/PONTIAC/model/G6"
+  },
+  {
+    "name": "GTO",
+    "description": "GTO",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/PONTIAC/model/GTO"
+  },
+  {
+    "name": "Grand-Am",
+    "description": "Grand-Am",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/PONTIAC/model/Grand-Am"
+  },
+  {
+    "name": "Grand-Prix",
+    "description": "Grand-Prix",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/PONTIAC/model/Grand-Prix"
+  },
+  {
+    "name": "Montana",
+    "description": "Montana",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/PONTIAC/model/Montana"
+  },
+  {
+    "name": "Solstice",
+    "description": "Solstice",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/PONTIAC/model/Solstice"
+  },
+  {
+    "name": "Sunbird",
+    "description": "Sunbird",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/PONTIAC/model/Sunbird"
+  },
+  {
+    "name": "Sunfire",
+    "description": "Sunfire",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/PONTIAC/model/Sunfire"
+  },
+  {
+    "name": "Targa",
+    "description": "Targa",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/PONTIAC/model/Targa"
+  },
+  {
+    "name": "Trans Am",
+    "description": "Trans Am",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/PONTIAC/model/Trans%20Am"
+  },
+  {
+    "name": "Trans Sport",
+    "description": "Trans Sport",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/PONTIAC/model/Trans%20Sport"
+  },
+  {
+    "name": "Vibe",
+    "description": "Vibe",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/PONTIAC/model/Vibe"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/PONTIAC/model/ANDERE"
+  }
+]

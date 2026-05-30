@@ -1,0 +1,42 @@
+[
+  {
+    "label": "E 200 4Matic Cabrio 9G-TRONIC (Benzin, 197 PS)",
+    "fuel": "benzin",
+    "hp": 197
+  },
+  {
+    "label": "E 200 Cabrio 9G-TRONIC (Benzin, 197 PS)",
+    "fuel": "benzin",
+    "hp": 197
+  },
+  {
+    "label": "E 300 Cabrio 9G-TRONIC (Benzin, 258 PS)",
+    "fuel": "benzin",
+    "hp": 258
+  },
+  {
+    "label": "E 450 4Matic Cabrio 9G-TRONIC (Benzin, 367 PS)",
+    "fuel": "benzin",
+    "hp": 367
+  },
+  {
+    "label": "AMG E 53 4Matic+ Cabrio AMG Speedshift TCT-9G (Benzin, 435 PS)",
+    "fuel": "benzin",
+    "hp": 435
+  },
+  {
+    "label": "E 220 d 4Matic Cabrio 9G-TRONIC (Diesel, 194 PS)",
+    "fuel": "diesel",
+    "hp": 194
+  },
+  {
+    "label": "E 220 d Cabrio 9G-TRONIC (Diesel, 194 PS)",
+    "fuel": "diesel",
+    "hp": 194
+  },
+  {
+    "label": "E 400 d 4Matic Cabrio 9G-TRONIC (Diesel, 330 PS)",
+    "fuel": "diesel",
+    "hp": 330
+  }
+]

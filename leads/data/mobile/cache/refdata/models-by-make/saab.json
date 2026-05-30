@@ -1,0 +1,52 @@
+[
+  {
+    "name": "9-3",
+    "description": "9-3",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SAAB/model/9-3"
+  },
+  {
+    "name": "9-4X",
+    "description": "9-4X",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SAAB/model/9-4X"
+  },
+  {
+    "name": "9-5",
+    "description": "9-5",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SAAB/model/9-5"
+  },
+  {
+    "name": "9-7X",
+    "description": "9-7X",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SAAB/model/9-7X"
+  },
+  {
+    "name": "90",
+    "description": "90",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SAAB/model/90"
+  },
+  {
+    "name": "900",
+    "description": "900",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SAAB/model/900"
+  },
+  {
+    "name": "9000",
+    "description": "9000",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SAAB/model/9000"
+  },
+  {
+    "name": "96",
+    "description": "96",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SAAB/model/96"
+  },
+  {
+    "name": "99",
+    "description": "99",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SAAB/model/99"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SAAB/model/ANDERE"
+  }
+]

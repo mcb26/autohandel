@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Life",
+    "description": "Life",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/E.GO/model/Life"
+  },
+  {
+    "name": "e.wave X",
+    "description": "e.wave X",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/E.GO/model/e.wave%20X"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/E.GO/model/ANDERE"
+  }
+]

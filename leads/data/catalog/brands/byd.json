@@ -1,0 +1,2174 @@
+{
+  "label": "BYD",
+  "models": {
+    "byd-atto-1": {
+      "label": "BYD Atto 1",
+      "series": {
+        "byd-atto-1": {
+          "label": "BYD Atto 1",
+          "engines": [
+            {
+              "label": "43.2 kWh (156 Hp) Electric",
+              "hp": 156,
+              "fuel": "elektro"
+            },
+            {
+              "label": "30 kWh (88 Hp) Electric",
+              "hp": 88,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "byd-atto-2": {
+      "label": "BYD Atto 2",
+      "series": {
+        "byd-atto-2": {
+          "label": "BYD Atto 2",
+          "engines": [
+            {
+              "label": "DM-i 1.5L 7.8 kWh (166 Hp) Plug-in Hybrid E-CVT",
+              "hp": 166,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "DM-i 1.5L 18 kWh (212 Hp) Plug-in Hybrid E-CVT",
+              "hp": 212,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "64.8 kWh (204 Hp) Electric",
+              "hp": 204,
+              "fuel": "elektro"
+            },
+            {
+              "label": "51.1 kWh (177 Hp) Electric",
+              "hp": 177,
+              "fuel": "elektro"
+            },
+            {
+              "label": "45.12 kWh (177 Hp) Electric",
+              "hp": 177,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "byd-atto-3": {
+      "label": "BYD Atto 3",
+      "series": {
+        "byd-atto-3-evo": {
+          "label": "BYD Atto 3 EVO",
+          "engines": [
+            {
+              "label": "74.8 kWh (449 Hp) AWD Electric",
+              "hp": 449,
+              "fuel": "elektro"
+            },
+            {
+              "label": "74.8 kWh (313 Hp) RWD Electric",
+              "hp": 313,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "byd-atto-3": {
+          "label": "BYD Atto 3",
+          "engines": [
+            {
+              "label": "Standard Range 49.92 kWh (204 Hp) BEV",
+              "hp": 204,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Extended Range 60.48 kWh (204 Hp) BEV",
+              "hp": 204,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "byd-d1": {
+      "label": "BYD D1",
+      "series": {
+        "byd-d1": {
+          "label": "BYD D1",
+          "engines": [
+            {
+              "label": "53.56 kWh (136 Hp) Electric",
+              "hp": 136,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "byd-destroyer-05": {
+      "label": "BYD Destroyer 05",
+      "series": {
+        "byd-destroyer-05": {
+          "label": "BYD Destroyer 05",
+          "engines": [
+            {
+              "label": "DM-i 1.5L 8.3 kWh (180 Hp) Plug-in Hybrid E-CVT",
+              "hp": 180,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "DM-i 1.5L 18.3 kWh (197 Hp) Plug-in Hybrid E-CVT",
+              "hp": 197,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "byd-dolphin": {
+      "label": "BYD Dolphin",
+      "series": {
+        "byd-dolphin-facelift-2025": {
+          "label": "BYD Dolphin (facelift 2025)",
+          "engines": [
+            {
+              "label": "60.48 kWh (204 Hp) Electric",
+              "hp": 204,
+              "fuel": "elektro"
+            },
+            {
+              "label": "45.12 kWh (95 Hp) Electric",
+              "hp": 95,
+              "fuel": "elektro"
+            },
+            {
+              "label": "45.12 kWh (177 Hp) Electric",
+              "hp": 177,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "byd-dolphin": {
+          "label": "BYD Dolphin",
+          "engines": [
+            {
+              "label": "60 kWh (204 Hp) BEV (2023 - 2025)",
+              "hp": 204
+            },
+            {
+              "label": "50.25 kWh (95 Hp) BEV (2024 - 2025)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "44.9 kWh (95 Hp) BEV (2021 - 2025)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "44.9 kWh (177 Hp) BEV (2021 - 2025)",
+              "hp": 177,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "byd-dolphin-g": {
+      "label": "BYD Dolphin G",
+      "series": {
+        "byd-dolphin-g": {
+          "label": "BYD Dolphin G",
+          "engines": [
+            {
+              "label": "Keine exakte Motorliste verfügbar – bitte genaue Motorisierung im Freitext angeben"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "byd-dolphin-surf": {
+      "label": "BYD Dolphin Surf",
+      "series": {
+        "byd-dolphin-surf": {
+          "label": "BYD Dolphin Surf",
+          "engines": [
+            {
+              "label": "43.2 kWh (156 Hp) Electric",
+              "hp": 156,
+              "fuel": "elektro"
+            },
+            {
+              "label": "43.2 kWh (88 Hp) Electric",
+              "hp": 88,
+              "fuel": "elektro"
+            },
+            {
+              "label": "30 kWh (88 Hp) Electric",
+              "hp": 88,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "byd-e2": {
+      "label": "BYD e2",
+      "series": {
+        "byd-e2": {
+          "label": "BYD e2",
+          "engines": [
+            {
+              "label": "47.3 kWh (95 Hp) BEV (2019 - 2021)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "43.2 kWh (95 Hp) BEV",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "35.2 kWh (95 Hp) BEV (2019 - 2021)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "33.2 kWh (95 Hp) BEV",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "byd-e3": {
+      "label": "BYD e3",
+      "series": {
+        "byd-e3": {
+          "label": "BYD e3",
+          "engines": [
+            {
+              "label": "47.3 kWh (95 Hp) BEV (2019 - 2021)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "35.2 kWh (95 Hp) BEV (2019 - 2021)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "byd-e6": {
+      "label": "BYD e6",
+      "series": {
+        "byd-e6": {
+          "label": "BYD e6",
+          "engines": [
+            {
+              "label": "80 kWh (122 Hp) 4WD Electric",
+              "hp": 122,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "byd-e7": {
+      "label": "BYD e7",
+      "series": {
+        "byd-e7": {
+          "label": "BYD e7",
+          "engines": [
+            {
+              "label": "57.6 kWh (136 Hp) Electric",
+              "hp": 136,
+              "fuel": "elektro"
+            },
+            {
+              "label": "48 kWh (136 Hp) Electric",
+              "hp": 136,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "byd-emax-7": {
+      "label": "BYD eMax 7",
+      "series": {
+        "byd-emax-7": {
+          "label": "BYD eMax 7",
+          "engines": [
+            {
+              "label": "71.8 kWh (204 Hp) Electric 7 Seat",
+              "hp": 204,
+              "fuel": "elektro"
+            },
+            {
+              "label": "71.8 kWh (204 Hp) Electric 6 Seat",
+              "hp": 204,
+              "fuel": "elektro"
+            },
+            {
+              "label": "55.4 kWh (163 Hp) Electric 7 Seat",
+              "hp": 163,
+              "fuel": "elektro"
+            },
+            {
+              "label": "55.4 kWh (163 Hp) Electric 6 Seat",
+              "hp": 163,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "byd-etp3": {
+      "label": "BYD ETP3",
+      "series": {
+        "byd-etp3": {
+          "label": "BYD ETP3",
+          "engines": [
+            {
+              "label": "44.9 kWh (136 Hp) Electric",
+              "hp": 136,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "byd-f0": {
+      "label": "BYD F0",
+      "series": {
+        "byd-f0": {
+          "label": "BYD F0",
+          "engines": [
+            {
+              "label": "1.0I (67 Hp) (2008 - 2015)",
+              "hp": 67,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "byd-f3": {
+      "label": "BYD F3",
+      "series": {
+        "byd-f3-r": {
+          "label": "BYD F3 R",
+          "engines": [
+            {
+              "label": "1.6i (100 Hp) (2007 - 2013)",
+              "hp": 100,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "byd-f3": {
+          "label": "BYD F3",
+          "engines": [
+            {
+              "label": "1.6 i (100 Hp) (2005 - 2013)",
+              "hp": 100,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "byd-f6": {
+      "label": "BYD F6",
+      "series": {
+        "byd-f6": {
+          "label": "BYD F6",
+          "engines": [
+            {
+              "label": "2.4 (165 Hp) (2007 - 2012)",
+              "hp": 165,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (140 Hp) (2007 - 2012)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "byd-f8": {
+      "label": "BYD F8",
+      "series": {
+        "byd-f8": {
+          "label": "BYD F8",
+          "engines": [
+            {
+              "label": "2.0 16V (140 Hp) (2009 - 2010)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "byd-flyer-ii": {
+      "label": "BYD FLYER II",
+      "series": {
+        "byd-flyer-ii": {
+          "label": "BYD FLYER II",
+          "engines": [
+            {
+              "label": "0.8 i (40 Hp) (2005 - 2008)",
+              "hp": 40,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "byd-han": {
+      "label": "BYD Han",
+      "series": {
+        "byd-han-l": {
+          "label": "BYD Han L",
+          "engines": [
+            {
+              "label": "DM-p 1.5Ti (544 Hp) Plug-in Hybrid 4WD E-CVT",
+              "hp": 544,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "DM-i 1.5Ti (272 Hp) Plug-in Hybrid E-CVT",
+              "hp": 272,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "83.2 kWh (680 Hp) Electric",
+              "hp": 680,
+              "fuel": "elektro"
+            },
+            {
+              "label": "83.2 kWh (1102 Hp) Electric 4WD",
+              "hp": 1102,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "byd-han-facelift-2022": {
+          "label": "BYD Han (facelift 2022)",
+          "engines": [
+            {
+              "label": "DM-p 1.5Ti (579 Hp) Plug-in Hybrid AWD CVT (2022 - 2023)",
+              "hp": 579,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "DM-i 1.5Ti (272 Hp) Plug-in Hybrid E-CVT (2024 - 2025)",
+              "hp": 272,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "DM-i 1.5Ti (218 Hp) Plug-in Hybrid CVT (2022 - 2023)",
+              "hp": 218,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "DM-i 1.5Ti (197 Hp) Plug-in Hybrid CVT (2022 - 2024)",
+              "hp": 197,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "85.4 kWh (517 Hp) Electric AWD (2022 - 2025)",
+              "hp": 517,
+              "fuel": "elektro"
+            },
+            {
+              "label": "85.4 kWh (245 Hp) Electric (2024 - 2025)",
+              "hp": 245,
+              "fuel": "elektro"
+            },
+            {
+              "label": "72 kWh (228 Hp) Electric (2024 - 2025)",
+              "hp": 228,
+              "fuel": "elektro"
+            },
+            {
+              "label": "60.5 kWh (204 Hp) Electric (2024 - 2025)",
+              "hp": 204,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "byd-han": {
+          "label": "BYD Han",
+          "engines": [
+            {
+              "label": "EV 76.9 kWh (494 Hp) AWD (2020 - 2022)",
+              "hp": 494,
+              "fuel": "elektro"
+            },
+            {
+              "label": "e9 76.9 kWh (222 Hp) (2021 - 2022)",
+              "hp": 222,
+              "fuel": "benzin"
+            },
+            {
+              "label": "DM 2.0TI (437 Hp) Plug-in Hybrid AWD DCT (2020 - 2022)",
+              "hp": 437,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "byd-m3e": {
+      "label": "BYD M3e",
+      "series": {
+        "byd-m3e": {
+          "label": "BYD M3e",
+          "engines": [
+            {
+              "label": "50.3 kWh (95 Hp) BEV",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "byd-m6": {
+      "label": "BYD M6",
+      "series": {
+        "byd-m6-2024": {
+          "label": "BYD M6 (2024)",
+          "engines": [
+            {
+              "label": "71.8 kWh (204 Hp) Electric",
+              "hp": 204,
+              "fuel": "elektro"
+            },
+            {
+              "label": "55.4 kWh (163 Hp) Electric",
+              "hp": 163,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "byd-m6-facelift-2013": {
+          "label": "BYD M6 (facelift 2013)",
+          "engines": [
+            {
+              "label": "2.4L (167 Hp) (2013 - 2017)",
+              "hp": 167,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4L (160 Hp) Automatic (2013 - 2015)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0L (140 Hp) (2013 - 2015)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "byd-m6": {
+          "label": "BYD M6",
+          "engines": [
+            {
+              "label": "2.4L (160 Hp) Automatic (2010 - 2013)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0L (140 Hp) (2010 - 2013)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "byd-qin": {
+      "label": "BYD Qin",
+      "series": {
+        "byd-qin-plus-ii-facelift-2025": {
+          "label": "BYD Qin Plus II (facelift 2025)",
+          "engines": [
+            {
+              "label": "DM-i 1.5L 7.68 kWh (163 Hp) Plug-in Hybrid E-CVT (2025 - 2026)",
+              "hp": 163,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "DM-i 1.5L 25.28 kWh (163 Hp) Plug-in Hybrid E-CVT",
+              "hp": 163,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "DM-i 1.5L 15.87 kWh (163 Hp) Plug-in Hybrid E-CVT",
+              "hp": 163,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "DM-i 1.5L 15.8 kWh (163 Hp) Plug-in Hybrid E-CVT (2025 - 2026)",
+              "hp": 163,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "57.6 kWh (136 Hp) Electric",
+              "hp": 136,
+              "fuel": "elektro"
+            },
+            {
+              "label": "48 kWh (136 Hp) Electric",
+              "hp": 136,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "byd-qin-l": {
+          "label": "BYD Qin L",
+          "engines": [
+            {
+              "label": "EV 56.64 kWh (218 Hp)",
+              "hp": 218,
+              "fuel": "elektro"
+            },
+            {
+              "label": "EV 46.08 kWh (150 Hp)",
+              "hp": 150,
+              "fuel": "elektro"
+            },
+            {
+              "label": "DM-i 1.5L 25.28 kWh (238 Hp) Plug-in Hybrid E-CVT",
+              "hp": 238,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "DM-i 1.5L 15.87 kWh (218 Hp) Plug-in Hybrid E-CVT",
+              "hp": 218,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "DM-i 1.5L 15.87 kWh (163 Hp) Plug-in Hybrid E-CVT",
+              "hp": 163,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "DM-i 1.5L 10.08 kWh (163 Hp) Plug-in Hybrid E-CVT",
+              "hp": 163,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "byd-qin-plus-ii-facelift-2021": {
+          "label": "BYD Qin Plus II (facelift 2021)",
+          "engines": [
+            {
+              "label": "EV 57.6 kWh (136 Hp) (2023 - 2024)",
+              "hp": 136,
+              "fuel": "elektro"
+            },
+            {
+              "label": "EV 48 kWh (136 Hp) (2023 - 2024)",
+              "hp": 136,
+              "fuel": "elektro"
+            },
+            {
+              "label": "DM-i 1.5L 18.32 kWh (197 Hp) Plug-in Hybrid E-CVT (2021 - 2024)",
+              "hp": 197,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "DM-i 1.5L 8.32 kWh (180 Hp) Plug-in Hybrid E-CVT (2021 - 2024)",
+              "hp": 180,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "byd-qin-pro-ii": {
+          "label": "BYD Qin Pro II",
+          "engines": [
+            {
+              "label": "EV 69.5 kWh (184 Hp) (2019 - 2021)",
+              "hp": 184,
+              "fuel": "elektro"
+            },
+            {
+              "label": "EV 56.4 kWh (163 Hp) (2019 - 2021)",
+              "hp": 163,
+              "fuel": "elektro"
+            },
+            {
+              "label": "EV 53.1 kWh (136 Hp) (2019 - 2021)",
+              "hp": 136,
+              "fuel": "elektro"
+            },
+            {
+              "label": "DM 1.5T (310 Hp) Plug-in Hybrid DCT (2019 - 2021)",
+              "hp": 310,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "DM 1.5T (303 Hp) Plug-in Hybrid DCT (2018 - 2020)",
+              "hp": 303,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "byd-s6": {
+      "label": "BYD S6",
+      "series": {
+        "byd-s6": {
+          "label": "BYD S6",
+          "engines": [
+            {
+              "label": "2.4L (167 Hp) DCT (2011 - 2016)",
+              "hp": 167,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0L (140 Hp) (2011 - 2016)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5T (154 Hp) (2014 - 2016)",
+              "hp": 154,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "byd-s7": {
+      "label": "BYD S7",
+      "series": {
+        "byd-s7": {
+          "label": "BYD S7",
+          "engines": [
+            {
+              "label": "2.0L GS-I (202 Hp) DCT (2014 - 2018)",
+              "hp": 202,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "byd-sea-lion-05": {
+      "label": "BYD Sea Lion 05",
+      "series": {
+        "byd-sea-lion-05-ii": {
+          "label": "BYD Sea Lion 05 II",
+          "engines": [
+            {
+              "label": "DM-i 1.5L 34.28 kWh (163 Hp) Plug-in Hybrid E-CVT",
+              "hp": 163,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "DM-i 1.5L 26.63 kWh (163 Hp) Plug-in Hybrid E-CVT",
+              "hp": 163,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "68.55 kWh (326 Hp) Electric",
+              "hp": 326,
+              "fuel": "elektro"
+            },
+            {
+              "label": "57.55 kWh (272 Hp) Electric",
+              "hp": 272,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "byd-sea-lion-05-i": {
+          "label": "BYD Sea Lion 05 I",
+          "engines": [
+            {
+              "label": "DM-i 1.5L 18.3 kWh (163 Hp) Plug-in Hybrid E-CVT (2024 - 2026)",
+              "hp": 163,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "DM-i 1.5L 12.9 kWh (163 Hp) Plug-in Hybrid E-CVT (2024 - 2026)",
+              "hp": 163,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "60.9 kWh (218 Hp) Electric (2025 - 2026)",
+              "hp": 218,
+              "fuel": "elektro"
+            },
+            {
+              "label": "50.05 kWh (190 Hp) Electric (2025 - 2026)",
+              "hp": 190,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "byd-sea-lion-06": {
+      "label": "BYD Sea Lion 06",
+      "series": {
+        "byd-sea-lion-06": {
+          "label": "BYD Sea Lion 06",
+          "engines": [
+            {
+              "label": "DM-i 1.5L 26.6 kWh (218 Hp) Plug-in Hybrid E-CVT",
+              "hp": 218,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "DM-i 1.5L 18.3 kWh (218 Hp) Plug-in Hybrid E-CVT",
+              "hp": 218,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "82.73 kWh (367 Hp) Electric",
+              "hp": 367,
+              "fuel": "elektro"
+            },
+            {
+              "label": "78.72 kWh (245 Hp) Electric",
+              "hp": 245,
+              "fuel": "elektro"
+            },
+            {
+              "label": "69.07 kWh (326 Hp) Electric",
+              "hp": 326,
+              "fuel": "elektro"
+            },
+            {
+              "label": "65.28 kWh (231 Hp) Electric",
+              "hp": 231,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "byd-sea-lion-07": {
+      "label": "BYD Sea Lion 07",
+      "series": {
+        "byd-sea-lion-07": {
+          "label": "BYD Sea Lion 07",
+          "engines": [
+            {
+              "label": "Standard Range 71.8 kWh (231 Hp) Electric",
+              "hp": 231,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Long Range 80.64 kWh (313 Hp) Electric",
+              "hp": 313,
+              "fuel": "elektro"
+            },
+            {
+              "label": "DM-p 1.5T (476 Hp) Plug-in Hybrid 4WD E-CVT",
+              "hp": 476,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "DM-i 1.5T (272 Hp) Plug-in Hybrid E-CVT",
+              "hp": 272,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "80.64 kWh (530 Hp) 4WD Electric",
+              "hp": 530,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "byd-seagull": {
+      "label": "BYD Seagull",
+      "series": {
+        "byd-seagull-facelift-2025": {
+          "label": "BYD Seagull (facelift 2025)",
+          "engines": [
+            {
+              "label": "38.88 kWh (75 Hp) Electric",
+              "hp": 75,
+              "fuel": "elektro"
+            },
+            {
+              "label": "30.08 kWh (75 Hp) Electric",
+              "hp": 75,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "byd-seagull": {
+          "label": "BYD Seagull",
+          "engines": [
+            {
+              "label": "38.88 kWh (75 Hp) BEV (2023 - 2025)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "30.08 kWh (75 Hp) BEV (2023 - 2025)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "byd-seal": {
+      "label": "BYD Seal",
+      "series": {
+        "byd-seal-facelift-2026": {
+          "label": "BYD Seal (facelift 2026)",
+          "engines": [
+            {
+              "label": "Excellence 82.5 kWh (530 Hp) AWD Electric",
+              "hp": 530,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Design 82.5 kWh (313 Hp) Electric",
+              "hp": 313,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Comfort 61.4 kWh (231 Hp) Electric",
+              "hp": 231,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "byd-seal": {
+          "label": "BYD Seal",
+          "engines": [
+            {
+              "label": "Standard Range 61.44 kWh (231 Hp) Electric (2024 - 2026)",
+              "hp": 231,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Standard Range 61.4 kWh (204 Hp) Electric (2022 - 2024)",
+              "hp": 204,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Long Range Performance 82.5 kWh (530 Hp) Electric 4WD (2022 - 2024)",
+              "hp": 530,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Long Range 82.5 kWh (313 Hp) Electric (2022 - 2024)",
+              "hp": 313,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Long Range 80.64 kWh (530 Hp) Electric 4WD (2024 - 2026)",
+              "hp": 530,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Long Range 80.64 kWh (313 Hp) Electric (2024 - 2026)",
+              "hp": 313,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Excellence 82.5 kWh (530 Hp) Electric AWD (2022 - 2026)",
+              "hp": 530,
+              "fuel": "elektro"
+            },
+            {
+              "label": "DM-i 1.5T 30.7 kWh (218 Hp) Plug-in Hybrid E-CVT (2023 - 2024)",
+              "hp": 218,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "DM-i 1.5T 17.6 kWh (218 Hp) Plug-in Hybrid E-CVT (2023 - 2024)",
+              "hp": 218,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "DM-i 1.5L 17.6 kWh (197 Hp) Plug-in Hybrid E-CVT (2023 - 2024)",
+              "hp": 197,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Design 82.5 kWh (313 Hp) Electric (2022 - 2026)",
+              "hp": 313,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "byd-seal-05": {
+      "label": "BYD Seal 05",
+      "series": {
+        "byd-seal-05": {
+          "label": "BYD Seal 05",
+          "engines": [
+            {
+              "label": "DM-i 1.5L 7.68 kWh (163 Hp) Plug-in Hybrid E-CVT",
+              "hp": 163,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "DM-i 1.5L 15.87 kWh (163 Hp) Plug-in Hybrid E-CVT",
+              "hp": 163,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "byd-seal-06": {
+      "label": "BYD Seal 06",
+      "series": {
+        "byd-seal-06-station-wagon": {
+          "label": "BYD Seal 06 Station Wagon",
+          "engines": [
+            {
+              "label": "DM-i 1.5L 18.71 kWh (218 Hp) Plug-in Hybrid E-CVT",
+              "hp": 218,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "DM-i 1.5L 10.08 kWh (163 Hp) Plug-in Hybrid E-CVT",
+              "hp": 163,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "byd-seal-06": {
+          "label": "BYD Seal 06",
+          "engines": [
+            {
+              "label": "DM-i 1.5L 25.28 kWh (238 Hp) Plug-in Hybrid E-CVT",
+              "hp": 238,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "DM-i 1.5L 15.87 kWh (218 Hp) Plug-in Hybrid E-CVT",
+              "hp": 218,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "DM-i 1.5L 15.87 kWh (163 Hp) Plug-in Hybrid E-CVT",
+              "hp": 163,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "DM-i 1.5L 10.08 kWh (163 Hp) Plug-in Hybrid E-CVT",
+              "hp": 163,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "56.64 kWh (218 Hp) Electric",
+              "hp": 218,
+              "fuel": "elektro"
+            },
+            {
+              "label": "46.08 kWh (150 Hp) Electric",
+              "hp": 150,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "byd-seal-06-gt": {
+          "label": "BYD Seal 06 GT",
+          "engines": [
+            {
+              "label": "72.96 kWh (422 Hp) 4WD Electric",
+              "hp": 422,
+              "fuel": "elektro"
+            },
+            {
+              "label": "72.96 kWh (224 Hp) Electric",
+              "hp": 224,
+              "fuel": "elektro"
+            },
+            {
+              "label": "59.52 kWh (218 Hp) Electric",
+              "hp": 218,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "byd-seal-07": {
+      "label": "BYD Seal 07",
+      "series": {
+        "byd-seal-07-facelift-2025": {
+          "label": "BYD Seal 07 (facelift 2025)",
+          "engines": [
+            {
+              "label": "DM-i 1.5Ti 29.46 kWh (272 Hp) Plug-in Hybrid E-CVT",
+              "hp": 272,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "DM-i 1.5Ti 17.6 kWh (272 Hp) Plug-in Hybrid E-CVT",
+              "hp": 272,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "DM-i 1.5L 17.6 kWh (218 Hp) Plug-in Hybrid E-CVT",
+              "hp": 218,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "69.07 kWh (326 Hp) Electric",
+              "hp": 326,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "byd-seal-07": {
+          "label": "BYD Seal 07",
+          "engines": [
+            {
+              "label": "DM-i 1.5L 17.6 kWh (218 Hp) Plug-in Hybrid E-CVT (2024 - 2025)",
+              "hp": 218,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "DM-i 1.5L 10.08 kWh (218 Hp) Plug-in Hybrid E-CVT (2024 - 2025)",
+              "hp": 218,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "byd-seal-5": {
+      "label": "BYD Seal 5",
+      "series": {
+        "byd-seal-5": {
+          "label": "BYD Seal 5",
+          "engines": [
+            {
+              "label": "DM-i 1.5L 18.3 kWh (212 Hp) Plug-in Hybrid E-CVT",
+              "hp": 212,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "byd-seal-6": {
+      "label": "BYD Seal 6",
+      "series": {
+        "byd-seal-6-touring": {
+          "label": "BYD Seal 6 Touring",
+          "engines": [
+            {
+              "label": "DM-i 1.5L 19 kWh (212 Hp) Plug-in Hybrid E-CVT",
+              "hp": 212,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "DM-i 1.5L 10.08 kWh (184 Hp) Plug-in Hybrid E-CVT",
+              "hp": 184,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "byd-seal-6": {
+          "label": "BYD Seal 6",
+          "engines": [
+            {
+              "label": "DM-i 1.5L 19 kWh (212 Hp) Plug-in Hybrid E-CVT",
+              "hp": 212,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "DM-i 1.5L 10.08 kWh (184 Hp) Plug-in Hybrid E-CVT",
+              "hp": 184,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "byd-seal-u": {
+      "label": "BYD Seal U",
+      "series": {
+        "byd-seal-u": {
+          "label": "BYD Seal U",
+          "engines": [
+            {
+              "label": "DM-i 1.5L (324 Hp) Plug-in Hybrid AWD E-CVT",
+              "hp": 324,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "DM-i 1.5L (218 Hp) Plug-in Hybrid E-CVT",
+              "hp": 218,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "87 kWh (218 Hp) Electric",
+              "hp": 218,
+              "fuel": "elektro"
+            },
+            {
+              "label": "71.8 kWh (218 Hp) Electric",
+              "hp": 218,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "byd-sealion-5": {
+      "label": "BYD Sealion 5",
+      "series": {
+        "byd-sealion-5": {
+          "label": "BYD Sealion 5",
+          "engines": [
+            {
+              "label": "DM-i 1.5L 18.3 kWh (212 Hp) Plug-in Hybrid E-CVT",
+              "hp": 212,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "DM-i 1.5L 12.96 kWh (212 Hp) Plug-in Hybrid E-CVT",
+              "hp": 212,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "byd-sealion-6": {
+      "label": "BYD Sealion 6",
+      "series": {
+        "byd-sealion-6": {
+          "label": "BYD Sealion 6",
+          "engines": [
+            {
+              "label": "DM-i 1.5L (324 Hp) Plug-in Hybrid AWD E-CVT",
+              "hp": 324,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "DM-i 1.5L (218 Hp) Plug-in Hybrid E-CVT",
+              "hp": 218,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "byd-sealion-7": {
+      "label": "BYD Sealion 7",
+      "series": {
+        "byd-sealion-7": {
+          "label": "BYD Sealion 7",
+          "engines": [
+            {
+              "label": "91.3 kWh (530 Hp) AWD Electric",
+              "hp": 530,
+              "fuel": "elektro"
+            },
+            {
+              "label": "82.5 kWh (530 Hp) AWD Electric",
+              "hp": 530,
+              "fuel": "elektro"
+            },
+            {
+              "label": "82.5 kWh (313 Hp) Electric",
+              "hp": 313,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "byd-sealion-8": {
+      "label": "BYD Sealion 8",
+      "series": {
+        "byd-sealion-8": {
+          "label": "BYD Sealion 8",
+          "engines": [
+            {
+              "label": "DM-p 1.5T (488 Hp) Plug-in Hybrid AWD E-CVT",
+              "hp": 488,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "DM-i 1.5T (279 Hp) Plug-in Hybrid E-CVT",
+              "hp": 279,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "byd-shark-6": {
+      "label": "BYD Shark 6",
+      "series": {
+        "byd-shark-6": {
+          "label": "BYD Shark 6",
+          "engines": [
+            {
+              "label": "DMO 1.5T 29.6 kWh (435 Hp) Plug-in Hybrid AWD EHS",
+              "hp": 435,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "byd-song": {
+      "label": "BYD Song",
+      "series": {
+        "byd-song-pro-facelift-2024": {
+          "label": "BYD Song Pro (facelift 2024)",
+          "engines": [
+            {
+              "label": "DM-i 1.5L 18.3 kWh (163 Hp) Plug-in Hybrid E-CVT",
+              "hp": 163,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "DM-i 1.5L 12.9 kWh (163 Hp) Plug-in Hybrid E-CVT",
+              "hp": 163,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "byd-song-plus-facelift-2023": {
+          "label": "BYD Song Plus (facelift 2023)",
+          "engines": [
+            {
+              "label": "EV 87.04 kWh (218 Hp) Champion Edition",
+              "hp": 218,
+              "fuel": "elektro"
+            },
+            {
+              "label": "EV 71.8 kWh (204 Hp) Champion Edition",
+              "hp": 204,
+              "fuel": "elektro"
+            },
+            {
+              "label": "DM-i 1.5 26.6 kWh (197 Hp) E-CVT Champion Edition (2023 - 2024)",
+              "hp": 197,
+              "fuel": "benzin"
+            },
+            {
+              "label": "DM-i 1.5 18.3 kWh (197 Hp) E-CVT Champion Edition (2023 - 2024)",
+              "hp": 197,
+              "fuel": "benzin"
+            },
+            {
+              "label": "DM-i 1.5 26.6 kWh (218 Hp) Plug-in Hybrid E-CVT",
+              "hp": 218,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "DM-i 1.5 18.3 kWh (218 Hp) Plug-in Hybrid E-CVT",
+              "hp": 218,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "DM-i 1.5 12.9 kWh (218 Hp) Plug-in Hybrid E-CVT",
+              "hp": 218,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "byd-song-pro-facelift-2023": {
+          "label": "BYD Song Pro (facelift 2023)",
+          "engines": [
+            {
+              "label": "DM-i 1.5 18.3 kWh (197 Hp) E-CVT Champion Edition (2023 - 2024)",
+              "hp": 197,
+              "fuel": "benzin"
+            },
+            {
+              "label": "DM-i 1.5 12.9 kWh (197 Hp) E-CVT Champion Edition (2023 - 2024)",
+              "hp": 197,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "byd-song-pro-facelift-2021": {
+          "label": "BYD Song Pro (facelift 2021)",
+          "engines": [
+            {
+              "label": "DM-i 1.5 (197 Hp) E-CVT (2021 - 2023)",
+              "hp": 197,
+              "fuel": "benzin"
+            },
+            {
+              "label": "DM-i 1.5 (179 Hp) E-CVT (2021 - 2023)",
+              "hp": 179,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "byd-song-plus": {
+          "label": "BYD Song Plus",
+          "engines": [
+            {
+              "label": "EV 71.7 kWh (184 Hp) (2021 - 2023)",
+              "hp": 184,
+              "fuel": "elektro"
+            },
+            {
+              "label": "DM-i 1.5Ti (360 Hp) 4WD E-CVT (2021 - 2023)",
+              "hp": 360,
+              "fuel": "benzin"
+            },
+            {
+              "label": "DM-i 1.5 (197 Hp) E-CVT (2021 - 2023)",
+              "hp": 197,
+              "fuel": "benzin"
+            },
+            {
+              "label": "DM-i 1.5 (179 Hp) E-CVT (2021 - 2023)",
+              "hp": 179,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "byd-song-pro": {
+          "label": "BYD Song Pro",
+          "engines": [
+            {
+              "label": "EV 71 kWh (184 Hp) (2019 - 2022)",
+              "hp": 184,
+              "fuel": "elektro"
+            },
+            {
+              "label": "EV 59.1 kWh (163 Hp) (2019 - 2022)",
+              "hp": 163,
+              "fuel": "elektro"
+            },
+            {
+              "label": "DM 1.5T (473 Hp) 4WD DCT (2019 - 2022)",
+              "hp": 473,
+              "fuel": "benzin"
+            },
+            {
+              "label": "DM 1.5T (323 Hp) 4WD DCT (2019 - 2022)",
+              "hp": 323,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5T (160 Hp) DCT (2019 - 2021)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "byd-song-facelift-2018": {
+          "label": "BYD Song (facelift 2018)",
+          "engines": [
+            {
+              "label": "EV500 62 kWh (218 Hp) (2018 - 2019)",
+              "hp": 218
+            },
+            {
+              "label": "1.5 TID (154 Hp) DCT (2018 - 2019)",
+              "hp": 154,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 TID (154 Hp) (2018 - 2019)",
+              "hp": 154,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "byd-song": {
+          "label": "BYD Song",
+          "engines": [
+            {
+              "label": "2.0 TID (207 Hp) DCT (2015 - 2018)",
+              "hp": 207,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 TID (154 Hp) (2015 - 2018)",
+              "hp": 154,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "byd-song-l": {
+      "label": "BYD Song L",
+      "series": {
+        "byd-song-l-dm-i": {
+          "label": "BYD Song L DM-i",
+          "engines": [
+            {
+              "label": "DM-i 1.5L 26.6 kWh (218 Hp) Plug-in Hybrid E-CVT",
+              "hp": 218,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "DM-i 1.5L 18.3 kWh (218 Hp) Plug-in Hybrid E-CVT",
+              "hp": 218,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "DM-i 1.5L 12.9 kWh (218 Hp) Plug-in Hybrid E-CVT",
+              "hp": 218,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "byd-song-l-ev": {
+          "label": "BYD Song L EV",
+          "engines": [
+            {
+              "label": "87.04 kWh (517 Hp) Electric 4WD",
+              "hp": 517,
+              "fuel": "elektro"
+            },
+            {
+              "label": "87.04 kWh (313 Hp) Electric",
+              "hp": 313,
+              "fuel": "elektro"
+            },
+            {
+              "label": "71.8 kWh (204 Hp) Electric",
+              "hp": 204,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "byd-song-max": {
+      "label": "BYD Song Max",
+      "series": {
+        "byd-song-max-facelift-2021": {
+          "label": "BYD Song Max (facelift 2021)",
+          "engines": [
+            {
+              "label": "DM-i 1.5 (197 Hp) E-CVT",
+              "hp": 197,
+              "fuel": "benzin"
+            },
+            {
+              "label": "DM-i 1.5 (179 Hp) E-CVT",
+              "hp": 179,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5TI (160 Hp) DCT (2021 - 2022)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5TI (160 Hp) (2021 - 2022)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "byd-song-max": {
+          "label": "BYD Song Max",
+          "engines": [
+            {
+              "label": "EV 59.1 kWh (163 Hp) (2019 - 2021)",
+              "hp": 163,
+              "fuel": "elektro"
+            },
+            {
+              "label": "DM 1.5TI 9.98 kWh (310 Hp) DCT (2019 - 2021)",
+              "hp": 310,
+              "fuel": "benzin"
+            },
+            {
+              "label": "DM 1.5TI 15.98 kWh (310 Hp) DCT (2019 - 2021)",
+              "hp": 310,
+              "fuel": "benzin"
+            },
+            {
+              "label": "DM 1.5TI 9.98 kWh (303 Hp) DCT (2019 - 2021)",
+              "hp": 303,
+              "fuel": "benzin"
+            },
+            {
+              "label": "DM 1.5TI 15.98 kWh (303 Hp) DCT (2019 - 2021)",
+              "hp": 303,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5TI (160 Hp) DCT (2019 - 2021)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5TI (160 Hp) (2019 - 2021)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5TI (154 Hp) DCT (2017 - 2019)",
+              "hp": 154,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5TI (154 Hp) (2017 - 2019)",
+              "hp": 154,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "byd-song-ultra": {
+      "label": "BYD Song Ultra",
+      "series": {
+        "byd-song-ultra": {
+          "label": "BYD Song Ultra",
+          "engines": [
+            {
+              "label": "82.7 kWh (367 Hp) Electric",
+              "hp": 367,
+              "fuel": "elektro"
+            },
+            {
+              "label": "69.07 kWh (326 Hp) Electric",
+              "hp": 326,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "byd-t3": {
+      "label": "BYD T3",
+      "series": {
+        "byd-t3": {
+          "label": "BYD T3",
+          "engines": [
+            {
+              "label": "Van 45 kWh (95 Hp) BEV 2 Seat",
+              "hp": 95
+            },
+            {
+              "label": "50.3 kWh (136 Hp) BEV 7 Seat",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "byd-tang": {
+      "label": "BYD Tang",
+      "series": {
+        "byd-tang-l": {
+          "label": "BYD Tang L",
+          "engines": [
+            {
+              "label": "DM-p 1.5Ti (544 Hp) Plug-in Hybrid 4WD E-CVT",
+              "hp": 544,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "DM-i 1.5Ti (272 Hp) Plug-in Hybrid E-CVT",
+              "hp": 272,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "100.5 kWh (680 Hp) Electric",
+              "hp": 680,
+              "fuel": "elektro"
+            },
+            {
+              "label": "100.5 kWh (1102 Hp) Electric 4WD",
+              "hp": 1102,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "byd-tang-ii-facelift-2021": {
+          "label": "BYD Tang II (facelift 2021)",
+          "engines": [
+            {
+              "label": "EV 90.3 kWh (228 Hp) (2022 - 2025)",
+              "hp": 228,
+              "fuel": "elektro"
+            },
+            {
+              "label": "EV 86.4 kWh (517 Hp) AWD (2022 - 2025)",
+              "hp": 517,
+              "fuel": "elektro"
+            },
+            {
+              "label": "EV 108.8 kWh (517 Hp) AWD (2022 - 2025)",
+              "hp": 517,
+              "fuel": "elektro"
+            },
+            {
+              "label": "EV 108.8 kWh (245 Hp) (2022 - 2025)",
+              "hp": 245,
+              "fuel": "elektro"
+            },
+            {
+              "label": "DM-p 1.5Ti (615 Hp) Plug-in Hybrid AWD E-CVT (2022 - 2025)",
+              "hp": 615,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "DM-i 1.5Ti (218 Hp) Plug-in Hybrid E-CVT (2021 - 2024)",
+              "hp": 218,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "DM-i 1.5Ti (197 Hp) Plug-in Hybrid E-CVT (2021 - 2024)",
+              "hp": 197,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "DM 2.0TI (586 Hp) Plug-in Hybrid AWD Honor Automatic (2021 - 2022)",
+              "hp": 586,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "DM 2.0TI (586 Hp) Plug-in Hybrid AWD Genesis Automatic (2021 - 2022)",
+              "hp": 586,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "DM 2.0TI (437 Hp) Plug-in Hybrid AWD Automatic (2021 - 2022)",
+              "hp": 437,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "byd-tang-ii": {
+          "label": "BYD Tang II",
+          "engines": [
+            {
+              "label": "EV 82.8 kWh (490 Hp) AWD (2019 - 2021)",
+              "hp": 490,
+              "fuel": "elektro"
+            },
+            {
+              "label": "DM 2.0 (600 Hp) Plug-in Hybrid AWD Automatic (2018 - 2019)",
+              "hp": 600,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "byd-tang-i": {
+          "label": "BYD Tang I",
+          "engines": [
+            {
+              "label": "2.0T (505 Hp) Plug-in Hybrid 4WD DCT (2015 - 2018)",
+              "hp": 505,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "byd-ti-7": {
+      "label": "BYD Ti 7",
+      "series": {
+        "byd-ti-7": {
+          "label": "BYD Ti 7",
+          "engines": [
+            {
+              "label": "DM-p 1.5L 35.6 kWh (490 Hp) Plug-in Hybrid 4WD E-CVT",
+              "hp": 490,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "DM-p 1.5L 26.6 kWh (490 Hp) Plug-in Hybrid 4WD E-CVT",
+              "hp": 490,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "byd-xia": {
+      "label": "BYD Xia",
+      "series": {
+        "byd-xia": {
+          "label": "BYD Xia",
+          "engines": [
+            {
+              "label": "DM-i 1.5Ti 36.6 kWh (272 Hp) Plug-in Hybrid E-CVT",
+              "hp": 272,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "DM-i 1.5Ti 20.39 kWh (272 Hp) Plug-in Hybrid E-CVT",
+              "hp": 272,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "byd-yuan": {
+      "label": "BYD Yuan",
+      "series": {
+        "byd-yuan-pro-facelift-2021": {
+          "label": "BYD Yuan Pro (facelift 2021)",
+          "engines": [
+            {
+              "label": "47.04 kWh (95 Hp) Electric",
+              "hp": 95,
+              "fuel": "elektro"
+            },
+            {
+              "label": "38 kWh (95 Hp) Electric",
+              "hp": 95,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "byd-yuan-ev": {
+          "label": "BYD Yuan EV",
+          "engines": [
+            {
+              "label": "53.2 kWh (94 Hp) (2020 - 2021)",
+              "hp": 94,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "byd-yuan-plus": {
+      "label": "BYD Yuan Plus",
+      "series": {
+        "byd-yuan-plus-facelift-2025": {
+          "label": "BYD Yuan Plus (facelift 2025)",
+          "engines": [
+            {
+              "label": "60.48 kWh (204 Hp) Electric",
+              "hp": 204,
+              "fuel": "elektro"
+            },
+            {
+              "label": "49.92 kWh (204 Hp) Electric",
+              "hp": 204,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "byd-yuan-plus": {
+          "label": "BYD Yuan Plus",
+          "engines": [
+            {
+              "label": "60.48 kWh (204 Hp) Electric (2022 - 2025)",
+              "hp": 204,
+              "fuel": "elektro"
+            },
+            {
+              "label": "49.92 kWh (204 Hp) Electric (2022 - 2025)",
+              "hp": 204,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "byd-yuan-up": {
+      "label": "BYD Yuan Up",
+      "series": {
+        "byd-yuan-up": {
+          "label": "BYD Yuan Up",
+          "engines": [
+            {
+              "label": "45.12 kWh (95 Hp) Electric",
+              "hp": 95,
+              "fuel": "elektro"
+            },
+            {
+              "label": "45.12 kWh (177 Hp) Electric",
+              "hp": 177,
+              "fuel": "elektro"
+            },
+            {
+              "label": "32 kWh (95 Hp) Electric",
+              "hp": 95,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

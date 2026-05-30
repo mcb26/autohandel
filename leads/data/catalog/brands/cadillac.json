@@ -1,0 +1,1866 @@
+{
+  "label": "Cadillac",
+  "models": {
+    "allante": {
+      "label": "Allante",
+      "series": {
+        "cadillac-allante": {
+          "label": "Cadillac Allante",
+          "engines": [
+            {
+              "label": "4.6 i V8 32V (299 Hp) (1993 - 1996)",
+              "hp": 299,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.5 i V8 (204 Hp) (1989 - 1995)",
+              "hp": 204,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "ats": {
+      "label": "ATS",
+      "series": {
+        "cadillac-ats-coupe": {
+          "label": "Cadillac ATS Coupe",
+          "engines": [
+            {
+              "label": "V 3.6 V6 (471 Hp) Automatic (2016 - 2019)",
+              "hp": 471,
+              "fuel": "benzin"
+            },
+            {
+              "label": "V 3.6 V6 (471 Hp) (2016 - 2019)",
+              "hp": 471,
+              "fuel": "benzin"
+            },
+            {
+              "label": "V 3.6 V6 (461 Hp) Automatic (2016 - 2019)",
+              "hp": 461,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6 V6 (325 Hp) AWD Automatic (2015 - 2019)",
+              "hp": 325,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6 V6 (325 Hp) Automatic (2015 - 2019)",
+              "hp": 325,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (276 Hp) AWD (2015 - 2019)",
+              "hp": 276,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (276 Hp) Automatic (2015 - 2019)",
+              "hp": 276,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (276 Hp) (2015 - 2019)",
+              "hp": 276,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "cadillac-ats-sedan": {
+          "label": "Cadillac ATS Sedan",
+          "engines": [
+            {
+              "label": "V 3.6 V6 (471 Hp) Automatic (2016 - 2019)",
+              "hp": 471,
+              "fuel": "benzin"
+            },
+            {
+              "label": "V 3.6 V6 (471 Hp) (2016 - 2019)",
+              "hp": 471,
+              "fuel": "benzin"
+            },
+            {
+              "label": "V 3.6 V6 (461 Hp) Automatic (2016 - 2019)",
+              "hp": 461,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6 V6 (340 Hp) AWD Automatic (2013 - 2019)",
+              "hp": 340,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6 V6 (340 Hp) Automatic (2013 - 2019)",
+              "hp": 340,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6 V6 (325 Hp) AWD Automatic (2013 - 2019)",
+              "hp": 325,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6 V6 (325 Hp) Automatic (2013 - 2019)",
+              "hp": 325,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 (205 Hp) Automatic (2013 - 2019)",
+              "hp": 205,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (276 Hp) Start/Stop (2013 - 2019)",
+              "hp": 276,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (276 Hp) AWD Automatic (2013 - 2019)",
+              "hp": 276,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (276 Hp) Automatic Start/Stop (2013 - 2019)",
+              "hp": 276,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "bls": {
+      "label": "BLS",
+      "series": {
+        "cadillac-bls-wagon": {
+          "label": "Cadillac BLS Wagon",
+          "engines": [
+            {
+              "label": "2.8 T V6 (255 Hp) Automatic (2007 - 2009)",
+              "hp": 255,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.8 T V6 (255 Hp) (2007 - 2009)",
+              "hp": 255,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 T (210 Hp) Automatic (2007 - 2009)",
+              "hp": 210,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 T (210 Hp) (2007 - 2009)",
+              "hp": 210,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 T (200 Hp) Flexpower Automatic (2007 - 2009)",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 T (200 Hp) Flexpower (2007 - 2009)",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 T (175 Hp) Automatic (2007 - 2009)",
+              "hp": 175,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 T (175 Hp) (2007 - 2009)",
+              "hp": 175,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 TTiD (180 Hp) Automatic (2007 - 2009)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 TTiD (180 Hp) (2007 - 2009)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 TiD (150 Hp) Automatic (2007 - 2009)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 TiD (150 Hp) (2007 - 2009)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "cadillac-bls": {
+          "label": "Cadillac BLS",
+          "engines": [
+            {
+              "label": "2.8 T V6 (255 Hp) Automatic (2006 - 2010)",
+              "hp": 255,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.8 T V6 (255 Hp) (2006 - 2010)",
+              "hp": 255,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 T (210 Hp) Automatic (2006 - 2010)",
+              "hp": 210,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 T (210 Hp) (2006 - 2010)",
+              "hp": 210,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 T (200 Hp) Flexpower Automatic (2006 - 2009)",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 T (200 Hp) Flexpower (2006 - 2009)",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 T (175 Hp) Automatic (2006 - 2010)",
+              "hp": 175,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 T (175 Hp) (2006 - 2010)",
+              "hp": 175,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 TTiD (180 Hp) Automatic (2007 - 2009)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 TTiD (180 Hp) (2007 - 2009)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 TiD (150 Hp) Automatic (2006 - 2010)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 TiD (150 Hp) (2006 - 2010)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "brougham": {
+      "label": "Brougham",
+      "series": {
+        "cadillac-brougham": {
+          "label": "Cadillac Brougham",
+          "engines": [
+            {
+              "label": "5.7 i V8 (188 Hp) (1990 - 1992)",
+              "hp": 188,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.0 i V8 (173 Hp) (1991 - 1992)",
+              "hp": 173,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "catera": {
+      "label": "Catera",
+      "series": {
+        "cadillac-catera": {
+          "label": "Cadillac Catera",
+          "engines": [
+            {
+              "label": "3.2 (211 Hp) (2000 - 2002)",
+              "hp": 211,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 (203 Hp) (1996 - 2001)",
+              "hp": 203,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "celestiq": {
+      "label": "CELESTIQ",
+      "series": {
+        "cadillac-celestiq": {
+          "label": "Cadillac CELESTIQ",
+          "engines": [
+            {
+              "label": "111 kWh (655 Hp) AWD",
+              "hp": 655
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "ct4": {
+      "label": "CT4",
+      "series": {
+        "cadillac-ct4": {
+          "label": "Cadillac CT4",
+          "engines": [
+            {
+              "label": "V Blackwing 3.6 V6 (472 Hp) Automatic",
+              "hp": 472,
+              "fuel": "benzin"
+            },
+            {
+              "label": "V Blackwing 3.6 V6 (472 Hp)",
+              "hp": 472,
+              "fuel": "benzin"
+            },
+            {
+              "label": "V 2.7 Turbo (329 Hp) Automatic",
+              "hp": 329,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.7 Turbo (309 Hp) AWD Automatic",
+              "hp": 309,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.7 Turbo (309 Hp) Automatic",
+              "hp": 309,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Turbo (240 Hp) AWD Automatic",
+              "hp": 240,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Turbo (240 Hp) Automatic",
+              "hp": 240,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "ct5": {
+      "label": "CT5",
+      "series": {
+        "cadillac-ct5-facelift-2024": {
+          "label": "Cadillac CT5 (facelift 2024)",
+          "engines": [
+            {
+              "label": "V Blackwing 6.2 V8 (668 Hp) Automatic",
+              "hp": 668,
+              "fuel": "benzin"
+            },
+            {
+              "label": "V Blackwing 6.2 V8 (668 Hp)",
+              "hp": 668,
+              "fuel": "benzin"
+            },
+            {
+              "label": "V 3.0 V6 (360 Hp) AWD Automatic",
+              "hp": 360,
+              "fuel": "benzin"
+            },
+            {
+              "label": "V 3.0 V6 (360 Hp) Automatic",
+              "hp": 360,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 (335 Hp) AWD Automatic",
+              "hp": 335,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 (335 Hp) Automatic",
+              "hp": 335,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (237 Hp) AWD Automatic",
+              "hp": 237,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (237 Hp) Automatic",
+              "hp": 237,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "cadillac-ct5": {
+          "label": "Cadillac CT5",
+          "engines": [
+            {
+              "label": "V Blackwing 6.2 V8 (668 Hp) Automatic (2021 - 2024)",
+              "hp": 668,
+              "fuel": "benzin"
+            },
+            {
+              "label": "V Blackwing 6.2 V8 (668 Hp) (2021 - 2024)",
+              "hp": 668,
+              "fuel": "benzin"
+            },
+            {
+              "label": "V 3.0 V6 (360 Hp) AWD Automatic (2019 - 2024)",
+              "hp": 360,
+              "fuel": "benzin"
+            },
+            {
+              "label": "V 3.0 V6 (360 Hp) Automatic (2019 - 2024)",
+              "hp": 360,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 (335 Hp) AWD Automatic (2019 - 2024)",
+              "hp": 335,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 (335 Hp) Automatic (2019 - 2024)",
+              "hp": 335,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (237 Hp) AWD Automatic (2019 - 2024)",
+              "hp": 237,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (237 Hp) Automatic (2019 - 2024)",
+              "hp": 237,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "ct6": {
+      "label": "CT6",
+      "series": {
+        "cadillac-ct6-ii": {
+          "label": "Cadillac CT6 II",
+          "engines": [
+            {
+              "label": "28T (237 Hp) Automatic",
+              "hp": 237
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "cadillac-ct6-i-facelift-2019": {
+          "label": "Cadillac CT6 I (facelift 2019)",
+          "engines": [
+            {
+              "label": "V Blackwing 4.2 V8 (550 Hp) AWD Hydra-Matic (2019 - 2020)",
+              "hp": 550,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Blackwing 4.2 V8 (500 Hp) AWD Hydra-Matic (2019 - 2020)",
+              "hp": 500,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6 V6 (335 Hp) AWD Hydra-Matic (2019 - 2020)",
+              "hp": 335,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0T (237 Hp) Hydra-Matic (2020 - 2023)",
+              "hp": 237,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "cadillac-ct6-i": {
+          "label": "Cadillac CT6 I",
+          "engines": [
+            {
+              "label": "V Blackwing 4.2 V8 (550 Hp) AWD Hydra-Matic (2018 - 2019)",
+              "hp": 550,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6 V6 (340 Hp) AWD Hydra-Matic (2016 - 2019)",
+              "hp": 340,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 (409 Hp) AWD Hydra-Matic (2016 - 2019)",
+              "hp": 409,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0T (335 Hp) Plug-in Hybrid EVT (2016 - 2019)",
+              "hp": 335,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "2.0 (269 Hp) Hydra-Matic (2016 - 2019)",
+              "hp": 269,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "cts": {
+      "label": "CTS",
+      "series": {
+        "cadillac-cts-iii": {
+          "label": "Cadillac CTS III",
+          "engines": [
+            {
+              "label": "V 6.2 V8 (649 Hp) Automatic (2016 - 2019)",
+              "hp": 649,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6 V6 (426 Hp) Automatic (2014 - 2019)",
+              "hp": 426,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6 V6 (340 Hp) AWD Automatic (2014 - 2019)",
+              "hp": 340,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6 V6 (340 Hp) Automatic (2014 - 2019)",
+              "hp": 340,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6 V6 (325 Hp) AWD Automatic (2014 - 2019)",
+              "hp": 325,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6 V6 (325 Hp) Automatic (2014 - 2019)",
+              "hp": 325,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (276 Hp) AWD Automatic (2014 - 2019)",
+              "hp": 276,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (276 Hp) Automatic (2014 - 2019)",
+              "hp": 276,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (272 Hp) AWD Automatic (2014 - 2019)",
+              "hp": 272,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (272 Hp) Automatic (2014 - 2019)",
+              "hp": 272,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "cadillac-cts-ii-sport-wagon": {
+          "label": "Cadillac CTS II Sport Wagon",
+          "engines": [
+            {
+              "label": "V 6.2 V8 (564 Hp) Automatic (2011 - 2014)",
+              "hp": 564,
+              "fuel": "benzin"
+            },
+            {
+              "label": "V 6.2 V8 (564 Hp) (2011 - 2014)",
+              "hp": 564,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6 V6 (322 Hp) AWD Automatic (2010 - 2014)",
+              "hp": 322,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6 V6 (322 Hp) Automatic (2010 - 2014)",
+              "hp": 322,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 (273 Hp) AWD Automatic (2010 - 2014)",
+              "hp": 273,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 (273 Hp) Automatic (2010 - 2014)",
+              "hp": 273,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "cadillac-cts-ii-coupe": {
+          "label": "Cadillac CTS II Coupe",
+          "engines": [
+            {
+              "label": "V 6.2 V8 (564 Hp) Automatic (2011 - 2014)",
+              "hp": 564,
+              "fuel": "benzin"
+            },
+            {
+              "label": "V 6.2 V8 (564 Hp) (2011 - 2014)",
+              "hp": 564,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6 V6 (322 Hp) AWD Automatic (2011 - 2014)",
+              "hp": 322,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6 V6 (322 Hp) Automatic (2011 - 2014)",
+              "hp": 322,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6 V6 VVT (304 Hp) (2011 - 2014)",
+              "hp": 304,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "cadillac-cts-ii": {
+          "label": "Cadillac CTS II",
+          "engines": [
+            {
+              "label": "V 6.2 V8 (564 Hp) Automatic (2008 - 2014)",
+              "hp": 564,
+              "fuel": "benzin"
+            },
+            {
+              "label": "V 6.2 V8 (564 Hp) (2008 - 2014)",
+              "hp": 564,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6L V6 SIDI (311 Hp) AWD Automatic (2008 - 2013)",
+              "hp": 311,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6L V6 SIDI (311 Hp) Automatic (2008 - 2013)",
+              "hp": 311,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6L V6 SIDI (311 Hp) (2008 - 2013)",
+              "hp": 311,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 (273 Hp) AWD Automatic (2008 - 2013)",
+              "hp": 273,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 (273 Hp) Automatic (2008 - 2013)",
+              "hp": 273,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 (273 Hp) (2008 - 2013)",
+              "hp": 273,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.8L V6 SFI (211 Hp) Automatic (2008 - 2013)",
+              "hp": 211,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.8L V6 SFI (211 Hp) (2008 - 2013)",
+              "hp": 211,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "cadillac-cts-i": {
+          "label": "Cadillac CTS I",
+          "engines": [
+            {
+              "label": "V 6.0 i V8 (405 Hp) (2004 - 2007)",
+              "hp": 405,
+              "fuel": "benzin"
+            },
+            {
+              "label": "V 5.7 i V8 (405 Hp) (2004 - 2007)",
+              "hp": 405,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6i V6 24V (258 Hp) Automatic (2003 - 2007)",
+              "hp": 258,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6i V6 24V (258 Hp) (2003 - 2007)",
+              "hp": 258,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.2i V6 24V (223 Hp) Automatic (2003 - 2007)",
+              "hp": 223,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.2i V6 24V (223 Hp) (2003 - 2007)",
+              "hp": 223,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.8i V6 24V (215 Hp) Automatic (2003 - 2007)",
+              "hp": 215,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.8i V6 24V (215 Hp) (2003 - 2007)",
+              "hp": 215,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.6i V6 24V L (181 Hp) Automatic (2003 - 2007)",
+              "hp": 181,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.6i V6 24V L (181 Hp) (2003 - 2007)",
+              "hp": 181,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "deville": {
+      "label": "DeVille",
+      "series": {
+        "cadillac-deville-el12": {
+          "label": "Cadillac DeVille (EL12)",
+          "engines": [
+            {
+              "label": "4.6 i V8 32V DTS (304 Hp) (1999 - 2006)",
+              "hp": 304,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.6 i V8 32V DHS (279 Hp) (1999 - 2006)",
+              "hp": 279,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "cadillac-deville": {
+          "label": "Cadillac DeVille",
+          "engines": [
+            {
+              "label": "6.5 V8 (200 Hp) (1960 - 1980)",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.9 i V8 (204 Hp) (1994 - 1999)",
+              "hp": 204,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.6 i V8 32V Concours (305 Hp) (1998 - 1999)",
+              "hp": 305,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.6 i V8 24V Concours (273 Hp) (1994 - 1999)",
+              "hp": 273,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "dts": {
+      "label": "DTS",
+      "series": {
+        "cadillac-dts": {
+          "label": "Cadillac DTS",
+          "engines": [
+            {
+              "label": "4.6 V8 (296 Hp) Automatic (2007 - 2011)",
+              "hp": 296,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.6 V8 (279 Hp) Automatic (2007 - 2011)",
+              "hp": 279,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.6 i V8 (279 Hp) Automatic (2006 - 2006)",
+              "hp": 279,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.5 i V8 (295 Hp) Automatic (2006 - 2006)",
+              "hp": 295,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "eldorado": {
+      "label": "Eldorado",
+      "series": {
+        "cadillac-eldorado-xii": {
+          "label": "Cadillac Eldorado XII",
+          "engines": [
+            {
+              "label": "4.9 i V8 (204 Hp) (1991 - 1994)",
+              "hp": 204,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.6 V8 (273 Hp) (1993 - 1996)",
+              "hp": 273,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.6 (305 Hp) (1994 - 2002)",
+              "hp": 305,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.6 (299 Hp) (1991 - 1994)",
+              "hp": 299,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "cadillac-eldorado-xi-facelift-1988": {
+          "label": "Cadillac Eldorado XI (facelift 1988)",
+          "engines": [
+            {
+              "label": "4.5 V8 (155 Hp) Automatic (1988 - 1990)",
+              "hp": 155,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "cadillac-eldorado-xi": {
+          "label": "Cadillac Eldorado XI",
+          "engines": [
+            {
+              "label": "4.1 V8 (130 Hp) Automatic (1986 - 1987)",
+              "hp": 130,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "cadillac-eldorado-x": {
+          "label": "Cadillac Eldorado X",
+          "engines": [
+            {
+              "label": "6.0 V8 (140 Hp) Hydra-Matic (1981 - 1981)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.7 V8 (170 Hp) Hydra-Matic (1980 - 1980)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.1 V8 (137 Hp) Automatic (1983 - 1985)",
+              "hp": 137,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.1 V8 (127 Hp) Automatic (1982 - 1982)",
+              "hp": 127,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "elr": {
+      "label": "ELR",
+      "series": {
+        "cadillac-elr": {
+          "label": "Cadillac ELR",
+          "engines": [
+            {
+              "label": "1.4 (237 Hp) Hybrid CVT (2014 - 2016)",
+              "hp": 237,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "escalade": {
+      "label": "Escalade",
+      "series": {
+        "cadillac-escalade-iql": {
+          "label": "Cadillac Escalade IQL",
+          "engines": [
+            {
+              "label": "205 kWh (750 Hp) AWD Dual Motor",
+              "hp": 750
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "cadillac-escalade-iq": {
+          "label": "Cadillac Escalade IQ",
+          "engines": [
+            {
+              "label": "200 kWh (762 Hp) AWD Electric",
+              "hp": 762,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "cadillac-escalade-v-facelift-2024": {
+          "label": "Cadillac Escalade V (facelift 2024)",
+          "engines": [
+            {
+              "label": "V 6.2 Supercharged V8 (682 Hp) AWD Hydra-Matic",
+              "hp": 682,
+              "fuel": "benzin"
+            },
+            {
+              "label": "6.2 V8 (420 Hp) Hydra-Matic",
+              "hp": 420,
+              "fuel": "benzin"
+            },
+            {
+              "label": "6.2 V8 (420 Hp) 4WD Hydra-Matic",
+              "hp": 420,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "cadillac-escalade-v-esv-facelift-2024": {
+          "label": "Cadillac Escalade V ESV (facelift 2024)",
+          "engines": [
+            {
+              "label": "V 6.2 Supercharged V8 (682 Hp) AWD Hydra-Matic",
+              "hp": 682,
+              "fuel": "benzin"
+            },
+            {
+              "label": "6.2 V8 (420 Hp) Hydra-Matic",
+              "hp": 420,
+              "fuel": "benzin"
+            },
+            {
+              "label": "6.2 V8 (420 Hp) 4WD Hydra-Matic",
+              "hp": 420,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "cadillac-escalade-v": {
+          "label": "Cadillac Escalade V",
+          "engines": [
+            {
+              "label": "V 6.2 Supercharged V8 (682 Hp) AWD Hydra-Matic (2022 - 2024)",
+              "hp": 682,
+              "fuel": "benzin"
+            },
+            {
+              "label": "6.2 V8 (420 Hp) Hydra-Matic (2020 - 2024)",
+              "hp": 420,
+              "fuel": "benzin"
+            },
+            {
+              "label": "6.2 V8 (420 Hp) 4WD Hydra-Matic (2020 - 2024)",
+              "hp": 420,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 Duramax (277 Hp) Hydra-Matic (2020 - 2024)",
+              "hp": 277,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 Duramax (277 Hp) 4WD Hydra-Matic (2020 - 2024)",
+              "hp": 277,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "cadillac-escalade-v-esv": {
+          "label": "Cadillac Escalade V ESV",
+          "engines": [
+            {
+              "label": "V 6.2 Supercharged V8 (682 Hp) AWD Hydra-Matic (2022 - 2024)",
+              "hp": 682,
+              "fuel": "benzin"
+            },
+            {
+              "label": "6.2 V8 (420 Hp) Hydra-Matic (2020 - 2024)",
+              "hp": 420,
+              "fuel": "benzin"
+            },
+            {
+              "label": "6.2 V8 (420 Hp) 4WD Hydra-Matic (2020 - 2024)",
+              "hp": 420,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 Duramax (277 Hp) Hydra-Matic (2020 - 2024)",
+              "hp": 277,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 Duramax (277 Hp) 4WD Hydra-Matic (2020 - 2024)",
+              "hp": 277,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "cadillac-escalade-iv": {
+          "label": "Cadillac Escalade IV",
+          "engines": [
+            {
+              "label": "ESV 6.2 V8 (420 Hp) AWD Automatic (2014 - 2015)",
+              "hp": 420,
+              "fuel": "benzin"
+            },
+            {
+              "label": "ESV 6.2 V8 (420 Hp) AWD 8 Automatic (2016 - 2017)",
+              "hp": 420,
+              "fuel": "benzin"
+            },
+            {
+              "label": "ESV 6.2 V8 (420 Hp) Automatic (2018 - 2020)",
+              "hp": 420,
+              "fuel": "benzin"
+            },
+            {
+              "label": "ESV 6.2 V8 (420 Hp) 8 Automatic (2016 - 2017)",
+              "hp": 420,
+              "fuel": "benzin"
+            },
+            {
+              "label": "ESV 6.2 V8 (420 Hp) 4WD Automatic (2018 - 2020)",
+              "hp": 420,
+              "fuel": "benzin"
+            },
+            {
+              "label": "6.2 V8 (420 Hp) AWD Automatic (2014 - 2015)",
+              "hp": 420,
+              "fuel": "benzin"
+            },
+            {
+              "label": "6.2 V8 (420 Hp) AWD 8 Automatic (2016 - 2017)",
+              "hp": 420,
+              "fuel": "benzin"
+            },
+            {
+              "label": "6.2 V8 (420 Hp) Automatic (2018 - 2020)",
+              "hp": 420,
+              "fuel": "benzin"
+            },
+            {
+              "label": "6.2 V8 (420 Hp) 8 Automatic (2016 - 2017)",
+              "hp": 420,
+              "fuel": "benzin"
+            },
+            {
+              "label": "6.2 V8 (420 Hp) 4WD Automatic (2018 - 2020)",
+              "hp": 420,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "cadillac-escalade-iii-ext": {
+          "label": "Cadillac Escalade III EXT",
+          "engines": [
+            {
+              "label": "6.2 V8 (403 Hp) AWD Hydra-Matic (2007 - 2013)",
+              "hp": 403,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "cadillac-escalade-iii": {
+          "label": "Cadillac Escalade III",
+          "engines": [
+            {
+              "label": "6.2 V8 VORETEC (409 Hp) AWD Automatic (2007 - 2014)",
+              "hp": 409,
+              "fuel": "benzin"
+            },
+            {
+              "label": "6.0 Vortec V8 (337 Hp) Hybrid 4WD Automatic (2009 - 2013)",
+              "hp": 337,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "cadillac-escalade-ii-ext": {
+          "label": "Cadillac Escalade II EXT",
+          "engines": [
+            {
+              "label": "6.0 i V8 AWD (349 Hp) (2002 - 2006)",
+              "hp": 349,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "cadillac-escalade-ii": {
+          "label": "Cadillac Escalade II",
+          "engines": [
+            {
+              "label": "6.2 i V8 ESV (409 Hp) (2005 - 2006)",
+              "hp": 409,
+              "fuel": "benzin"
+            },
+            {
+              "label": "6.2 i V8 (409 Hp) (2005 - 2006)",
+              "hp": 409,
+              "fuel": "benzin"
+            },
+            {
+              "label": "6.0 i V8 AWD ESV (349 Hp) (2003 - 2006)",
+              "hp": 349,
+              "fuel": "benzin"
+            },
+            {
+              "label": "6.0 i V8 AWD (349 Hp) (2002 - 2006)",
+              "hp": 349,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.3 i V8 (299 Hp) (2003 - 2006)",
+              "hp": 299,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.3 i V8 (288 Hp) (2002 - 2006)",
+              "hp": 288,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "cadillac-escalade-i": {
+          "label": "Cadillac Escalade I",
+          "engines": [
+            {
+              "label": "5.7 V8 (258 Hp) Automatic (1998 - 2002)",
+              "hp": 258,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "fleetwood": {
+      "label": "Fleetwood",
+      "series": {
+        "cadillac-fleetwood": {
+          "label": "Cadillac Fleetwood",
+          "engines": [
+            {
+              "label": "5.7 (264 Hp) (1971 - 1976)",
+              "hp": 264,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.4 (160 Hp) (1950 - 1958)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.5 (180 Hp) (1971 - 1976)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "gt4": {
+      "label": "GT4",
+      "series": {
+        "cadillac-gt4": {
+          "label": "Cadillac GT4",
+          "engines": [
+            {
+              "label": "28T (237 Hp) Mild Hybrid AWD Automatic",
+              "hp": 237,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "25T (211 Hp) Mild Hybrid Automatic",
+              "hp": 211,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "lse": {
+      "label": "LSE",
+      "series": {
+        "cadillac-lse": {
+          "label": "Cadillac LSE",
+          "engines": [
+            {
+              "label": "3.0 i V6 24V (210 Hp) (1993 - 1996)",
+              "hp": 210,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "lyriq": {
+      "label": "LYRIQ",
+      "series": {
+        "cadillac-lyriq": {
+          "label": "Cadillac LYRIQ",
+          "engines": [
+            {
+              "label": "V 102 kWh (615 Hp) Dual Motor AWD",
+              "hp": 615
+            },
+            {
+              "label": "102 kWh (510 Hp) BEV AWD",
+              "hp": 510
+            },
+            {
+              "label": "102 kWh (347 Hp) BEV",
+              "hp": 347
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "optiq": {
+      "label": "OPTIQ",
+      "series": {
+        "cadillac-optiq": {
+          "label": "Cadillac OPTIQ",
+          "engines": [
+            {
+              "label": "V 85 kWh (519 Hp) Dual Motor AWD",
+              "hp": 519
+            },
+            {
+              "label": "85 kWh (300 Hp) Dual Motor AWD",
+              "hp": 300
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "seville": {
+      "label": "Seville",
+      "series": {
+        "cadillac-seville-v": {
+          "label": "Cadillac Seville V",
+          "engines": [
+            {
+              "label": "4.6 i V8 32 (305 Hp) (1997 - 2004)",
+              "hp": 305,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.6 i V8 32 (279 Hp) (1997 - 2004)",
+              "hp": 279,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "cadillac-seville-iv": {
+          "label": "Cadillac Seville IV",
+          "engines": [
+            {
+              "label": "V8 4.6 Northstar (299 Hp) (1991 - 1997)",
+              "hp": 299,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.9 i V8 (203 Hp) (1992 - 1997)",
+              "hp": 203,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.6 V8 (273 Hp) (1993 - 1997)",
+              "hp": 273,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.6 i V8 32 (305 Hp) (1995 - 1997)",
+              "hp": 305,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "sixteen": {
+      "label": "Sixteen",
+      "series": {
+        "cadillac-sixteen": {
+          "label": "Cadillac Sixteen",
+          "engines": [
+            {
+              "label": "13.6 V16 (1000 Hp) Hydra-Matic (2003 - 2003)",
+              "hp": 1000,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "srx": {
+      "label": "SRX",
+      "series": {
+        "cadillac-srx-ii-facelift-2013": {
+          "label": "Cadillac SRX II (facelift, 2013)",
+          "engines": [
+            {
+              "label": "3.6 V6 (308 Hp) AWD Automatic (2013 - 2016)",
+              "hp": 308,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6 V6 (308 Hp) Automatic (2013 - 2016)",
+              "hp": 308,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "cadillac-srx-ii": {
+          "label": "Cadillac SRX II",
+          "engines": [
+            {
+              "label": "3.6 V6 (308 Hp) AWD Automatic (2012 - 2013)",
+              "hp": 308,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6 V6 (308 Hp) Automatic (2012 - 2013)",
+              "hp": 308,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 (265 Hp) AWD Automatic (2009 - 2012)",
+              "hp": 265,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 (265 Hp) Automatic (2009 - 2012)",
+              "hp": 265,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.8T V6 (300 Hp) AWD Automatic (2009 - 2012)",
+              "hp": 300,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "cadillac-srx": {
+          "label": "Cadillac SRX",
+          "engines": [
+            {
+              "label": "4.6 i V8 32V AWD (324 Hp) (2003 - 2009)",
+              "hp": 324,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.6 i V8 32V (324 Hp) (2004 - 2009)",
+              "hp": 324,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6 i V6 24V AWD (255 Hp) (2004 - 2009)",
+              "hp": 255,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6 i V6 24V (255 Hp) (2004 - 2009)",
+              "hp": 255,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "sts": {
+      "label": "STS",
+      "series": {
+        "cadillac-sts": {
+          "label": "Cadillac STS",
+          "engines": [
+            {
+              "label": "V 4.4 i V8 (476 Hp) Automatic (2006 - 2009)",
+              "hp": 476,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.6 i V8 (325 Hp) AWD Automatic (2006 - 2011)",
+              "hp": 325,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.6 i V8 (325 Hp) Automatic (2004 - 2011)",
+              "hp": 325,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6 i V6 (258 Hp) AWD Automatic (2004 - 2011)",
+              "hp": 258,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6 i V6 (258 Hp) Automatic (2004 - 2011)",
+              "hp": 258,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "vistiq": {
+      "label": "VISTIQ",
+      "series": {
+        "cadillac-vistiq": {
+          "label": "Cadillac VISTIQ",
+          "engines": [
+            {
+              "label": "102 kWh (615 Hp) Dual Motor AWD",
+              "hp": 615
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "xlr": {
+      "label": "XLR",
+      "series": {
+        "cadillac-xlr": {
+          "label": "Cadillac XLR",
+          "engines": [
+            {
+              "label": "V 4.4 i V8 32V (449 Hp) Automatic (2006 - 2009)",
+              "hp": 449,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.6 i V8 32V (325 Hp) Automatic (2003 - 2009)",
+              "hp": 325,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "xt4": {
+      "label": "XT4",
+      "series": {
+        "cadillac-xt4-i-facelift-2024": {
+          "label": "Cadillac XT4 I (facelift 2024)",
+          "engines": [
+            {
+              "label": "2.0 Turbo (235 Hp) Hydra-Matic",
+              "hp": 235,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "cadillac-xt4-i": {
+          "label": "Cadillac XT4 I",
+          "engines": [
+            {
+              "label": "350T (230 Hp) AWD Automatic",
+              "hp": 230
+            },
+            {
+              "label": "350D (174 Hp) AWD Automatic",
+              "hp": 174
+            },
+            {
+              "label": "350D (174 Hp) Automatic",
+              "hp": 174
+            },
+            {
+              "label": "2.0 Turbo (238 Hp) Hydra-Matic (2021 - 2023)",
+              "hp": 238,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Turbo (238 Hp) AWD Hydra-Matic (2021 - 2023)",
+              "hp": 238,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (241 Hp) AWD Automatic (2018 - 2021)",
+              "hp": 241,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (241 Hp) Automatic (2018 - 2021)",
+              "hp": 241,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "xt5": {
+      "label": "XT5",
+      "series": {
+        "cadillac-xt5-facelift-2020": {
+          "label": "Cadillac XT5 (facelift 2020)",
+          "engines": [
+            {
+              "label": "3.6 V6 (310 Hp) AWD Automatic",
+              "hp": 310,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6 V6 (310 Hp) Automatic",
+              "hp": 310,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (237 Hp) AWD Automatic",
+              "hp": 237,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (237 Hp) Automatic",
+              "hp": 237,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "cadillac-xt5": {
+          "label": "Cadillac XT5",
+          "engines": [
+            {
+              "label": "3.6 V6 (314 Hp) Automatic (2016 - 2020)",
+              "hp": 314,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6 (314 Hp) AWD Automatic (2016 - 2020)",
+              "hp": 314,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (261 Hp) AWD Automatic (2016 - 2020)",
+              "hp": 261,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (261 Hp) Automatic (2016 - 2020)",
+              "hp": 261,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "xt6": {
+      "label": "XT6",
+      "series": {
+        "cadillac-xt6": {
+          "label": "Cadillac XT6",
+          "engines": [
+            {
+              "label": "3.6 V6 (311 Hp) AWD Automatic",
+              "hp": 311,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6 V6 (311 Hp) Automatic",
+              "hp": 311,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Turbo (238 Hp) AWD Automatic",
+              "hp": 238,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Turbo (238 Hp) Automatic",
+              "hp": 238,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "xts": {
+      "label": "XTS",
+      "series": {
+        "cadillac-xts-facelift-2017": {
+          "label": "Cadillac XTS (facelift 2017)",
+          "engines": [
+            {
+              "label": "3.6 V6 (416 Hp) AWD Automatic (2017 - 2019)",
+              "hp": 416,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6 V6 (309 Hp) AWD Automatic (2017 - 2019)",
+              "hp": 309,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6 V6 (309 Hp) Automatic (2017 - 2019)",
+              "hp": 309,
+              "fuel": "benzin"
+            },
+            {
+              "label": "28T (269 Hp) Automatic (2017 - 2020)",
+              "hp": 269
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "cadillac-xts": {
+          "label": "Cadillac XTS",
+          "engines": [
+            {
+              "label": "3.6 V6 (416 Hp) Automatic (2012 - 2017)",
+              "hp": 416,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6 V6 (305 Hp) AWD Automatic (2012 - 2017)",
+              "hp": 305,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6 V6 (305 Hp) Automatic (2012 - 2017)",
+              "hp": 305,
+              "fuel": "benzin"
+            },
+            {
+              "label": "28T (269 Hp) Automatic (2013 - 2017)",
+              "hp": 269
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

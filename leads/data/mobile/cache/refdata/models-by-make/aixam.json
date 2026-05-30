@@ -1,0 +1,37 @@
+[
+  {
+    "name": "City",
+    "description": "City",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/AIXAM/model/City"
+  },
+  {
+    "name": "Coupé",
+    "description": "Coupé",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/AIXAM/model/Coup%C3%A9"
+  },
+  {
+    "name": "Crossline",
+    "description": "Cross",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/AIXAM/model/Crossline"
+  },
+  {
+    "name": "MinAuto",
+    "description": "MinAuto",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/AIXAM/model/MinAuto"
+  },
+  {
+    "name": "Roadline",
+    "description": "Roadline",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/AIXAM/model/Roadline"
+  },
+  {
+    "name": "Scouty R",
+    "description": "Scouty R",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/AIXAM/model/Scouty%20R"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/AIXAM/model/ANDERE"
+  }
+]

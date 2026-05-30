@@ -1,0 +1,32 @@
+[
+  {
+    "name": "COOPER_CABRIO",
+    "description": "Cooper Cabrio",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/modelgroups/CABRIO_SERIES_ALL/models/COOPER_CABRIO"
+  },
+  {
+    "name": "COOPER_D_CABRIO",
+    "description": "Cooper D Cabrio",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/modelgroups/CABRIO_SERIES_ALL/models/COOPER_D_CABRIO"
+  },
+  {
+    "name": "COOPER_SD_CABRIO",
+    "description": "Cooper SD Cabrio",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/modelgroups/CABRIO_SERIES_ALL/models/COOPER_SD_CABRIO"
+  },
+  {
+    "name": "COOPER_S_CABRIO",
+    "description": "Cooper S Cabrio",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/modelgroups/CABRIO_SERIES_ALL/models/COOPER_S_CABRIO"
+  },
+  {
+    "name": "JOHN_COOPER_WORKS_CABRIO",
+    "description": "John Cooper Works Cabrio",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/modelgroups/CABRIO_SERIES_ALL/models/JOHN_COOPER_WORKS_CABRIO"
+  },
+  {
+    "name": "ONE_CABRIO",
+    "description": "One Cabrio",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MINI/modelgroups/CABRIO_SERIES_ALL/models/ONE_CABRIO"
+  }
+]

@@ -1,0 +1,262 @@
+[
+  {
+    "name": "Adam",
+    "description": "Adam",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/OPEL/model/Adam"
+  },
+  {
+    "name": "Agila",
+    "description": "Agila",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/OPEL/model/Agila"
+  },
+  {
+    "name": "Ampera",
+    "description": "Ampera",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/OPEL/model/Ampera"
+  },
+  {
+    "name": "Ampera-e",
+    "description": "Ampera-e",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/OPEL/model/Ampera-e"
+  },
+  {
+    "name": "Antara",
+    "description": "Antara",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/OPEL/model/Antara"
+  },
+  {
+    "name": "Arena",
+    "description": "Arena",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/OPEL/model/Arena"
+  },
+  {
+    "name": "Ascona",
+    "description": "Ascona",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/OPEL/model/Ascona"
+  },
+  {
+    "name": "Astra",
+    "description": "Astra",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/OPEL/model/Astra"
+  },
+  {
+    "name": "Astra Electric",
+    "description": "Astra Electric",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/OPEL/model/Astra%20Electric"
+  },
+  {
+    "name": "Calibra",
+    "description": "Calibra",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/OPEL/model/Calibra"
+  },
+  {
+    "name": "Campo",
+    "description": "Campo",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/OPEL/model/Campo"
+  },
+  {
+    "name": "Cascada",
+    "description": "Cascada",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/OPEL/model/Cascada"
+  },
+  {
+    "name": "Cavalier",
+    "description": "Cavalier",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/OPEL/model/Cavalier"
+  },
+  {
+    "name": "Combo",
+    "description": "Combo",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/OPEL/model/Combo"
+  },
+  {
+    "name": "Combo Electric",
+    "description": "Combo Electric",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/OPEL/model/Combo%20Electric"
+  },
+  {
+    "name": "Combo Life",
+    "description": "Combo Life",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/OPEL/model/Combo%20Life"
+  },
+  {
+    "name": "Commodore",
+    "description": "Commodore",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/OPEL/model/Commodore"
+  },
+  {
+    "name": "Corsa",
+    "description": "Corsa",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/OPEL/model/Corsa"
+  },
+  {
+    "name": "Crossland X",
+    "description": "Crossland (X)",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/OPEL/model/Crossland%20X"
+  },
+  {
+    "name": "Diplomat",
+    "description": "Diplomat",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/OPEL/model/Diplomat"
+  },
+  {
+    "name": "Frontera",
+    "description": "Frontera",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/OPEL/model/Frontera"
+  },
+  {
+    "name": "GT",
+    "description": "GT",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/OPEL/model/GT"
+  },
+  {
+    "name": "Grandland X",
+    "description": "Grandland (X)",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/OPEL/model/Grandland%20X"
+  },
+  {
+    "name": "Insignia",
+    "description": "Insignia",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/OPEL/model/Insignia"
+  },
+  {
+    "name": "Insignia CT",
+    "description": "Insignia CT",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/OPEL/model/Insignia%20CT"
+  },
+  {
+    "name": "Kadett",
+    "description": "Kadett",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/OPEL/model/Kadett"
+  },
+  {
+    "name": "Karl",
+    "description": "Karl",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/OPEL/model/Karl"
+  },
+  {
+    "name": "Manta",
+    "description": "Manta",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/OPEL/model/Manta"
+  },
+  {
+    "name": "Meriva",
+    "description": "Meriva",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/OPEL/model/Meriva"
+  },
+  {
+    "name": "Mokka",
+    "description": "Mokka",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/OPEL/model/Mokka"
+  },
+  {
+    "name": "Mokka X",
+    "description": "Mokka X",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/OPEL/model/Mokka%20X"
+  },
+  {
+    "name": "Mokka-e",
+    "description": "Mokka-e",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/OPEL/model/Mokka-e"
+  },
+  {
+    "name": "Monterey",
+    "description": "Monterey",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/OPEL/model/Monterey"
+  },
+  {
+    "name": "Monza",
+    "description": "Monza",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/OPEL/model/Monza"
+  },
+  {
+    "name": "Movano",
+    "description": "Movano",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/OPEL/model/Movano"
+  },
+  {
+    "name": "Nova",
+    "description": "Nova",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/OPEL/model/Nova"
+  },
+  {
+    "name": "Omega",
+    "description": "Omega",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/OPEL/model/Omega"
+  },
+  {
+    "name": "Pick Up Sportscap",
+    "description": "Pick Up Sportscap",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/OPEL/model/Pick%20Up%20Sportscap"
+  },
+  {
+    "name": "Rekord",
+    "description": "Rekord",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/OPEL/model/Rekord"
+  },
+  {
+    "name": "Rocks-e",
+    "description": "Rocks-e",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/OPEL/model/Rocks-e"
+  },
+  {
+    "name": "Senator",
+    "description": "Senator",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/OPEL/model/Senator"
+  },
+  {
+    "name": "Signum",
+    "description": "Signum",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/OPEL/model/Signum"
+  },
+  {
+    "name": "Sintra",
+    "description": "Sintra",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/OPEL/model/Sintra"
+  },
+  {
+    "name": "Speedster",
+    "description": "Speedster",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/OPEL/model/Speedster"
+  },
+  {
+    "name": "Tigra",
+    "description": "Tigra",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/OPEL/model/Tigra"
+  },
+  {
+    "name": "Vectra",
+    "description": "Vectra",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/OPEL/model/Vectra"
+  },
+  {
+    "name": "Vivaro",
+    "description": "Vivaro",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/OPEL/model/Vivaro"
+  },
+  {
+    "name": "Zafira",
+    "description": "Zafira",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/OPEL/model/Zafira"
+  },
+  {
+    "name": "Zafira Electric",
+    "description": "Zafira Electric",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/OPEL/model/Zafira%20Electric"
+  },
+  {
+    "name": "Zafira Life",
+    "description": "Zafira Life",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/OPEL/model/Zafira%20Life"
+  },
+  {
+    "name": "Zafira Tourer",
+    "description": "Zafira Tourer",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/OPEL/model/Zafira%20Tourer"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/OPEL/model/ANDERE"
+  }
+]

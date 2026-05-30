@@ -1,0 +1,97 @@
+[
+  {
+    "name": "Beta",
+    "description": "Beta",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LANCIA/model/Beta"
+  },
+  {
+    "name": "Dedra",
+    "description": "Dedra",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LANCIA/model/Dedra"
+  },
+  {
+    "name": "Delta",
+    "description": "Delta",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LANCIA/model/Delta"
+  },
+  {
+    "name": "Flaminia",
+    "description": "Flaminia",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LANCIA/model/Flaminia"
+  },
+  {
+    "name": "Flavia",
+    "description": "Flavia",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LANCIA/model/Flavia"
+  },
+  {
+    "name": "Fulvia",
+    "description": "Fulvia",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LANCIA/model/Fulvia"
+  },
+  {
+    "name": "Gamma",
+    "description": "Gamma",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LANCIA/model/Gamma"
+  },
+  {
+    "name": "Kappa",
+    "description": "Kappa",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LANCIA/model/Kappa"
+  },
+  {
+    "name": "Lybra",
+    "description": "Lybra",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LANCIA/model/Lybra"
+  },
+  {
+    "name": "MUSA",
+    "description": "MUSA",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LANCIA/model/MUSA"
+  },
+  {
+    "name": "Phedra",
+    "description": "Phedra",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LANCIA/model/Phedra"
+  },
+  {
+    "name": "Prisma",
+    "description": "Prisma",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LANCIA/model/Prisma"
+  },
+  {
+    "name": "Stratos",
+    "description": "Stratos",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LANCIA/model/Stratos"
+  },
+  {
+    "name": "Thema",
+    "description": "Thema",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LANCIA/model/Thema"
+  },
+  {
+    "name": "Thesis",
+    "description": "Thesis",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LANCIA/model/Thesis"
+  },
+  {
+    "name": "Voyager",
+    "description": "Voyager",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LANCIA/model/Voyager"
+  },
+  {
+    "name": "Ypsilon",
+    "description": "Ypsilon",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LANCIA/model/Ypsilon"
+  },
+  {
+    "name": "Zeta",
+    "description": "Zeta",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LANCIA/model/Zeta"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/LANCIA/model/ANDERE"
+  }
+]

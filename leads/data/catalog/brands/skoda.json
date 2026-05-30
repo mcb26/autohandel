@@ -1,0 +1,6162 @@
+{
+  "label": "Skoda",
+  "models": {
+    "100": {
+      "label": "100",
+      "series": {
+        "skoda-100": {
+          "label": "Skoda 100",
+          "engines": [
+            {
+              "label": "1.0 (42 Hp) (1969 - 1977)",
+              "hp": 42,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 (39 Hp) (1969 - 1977)",
+              "hp": 39,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "105120": {
+      "label": "105,120",
+      "series": {
+        "skoda-105120-744": {
+          "label": "Skoda 105,120 (744)",
+          "engines": [
+            {
+              "label": "1.2 120 GLS (58 Hp) (1983 - 1990)",
+              "hp": 58,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 120 L (52 Hp) (1983 - 1990)",
+              "hp": 52,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 120 L (48 Hp) (1987 - 1990)",
+              "hp": 48,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 105 S,L,LS (45 Hp) (1983 - 1990)",
+              "hp": 45,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 105 S,L (44 Hp) (1988 - 1990)",
+              "hp": 44,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "skoda-105120-742": {
+          "label": "Skoda 105,120 (742)",
+          "engines": [
+            {
+              "label": "1.2 120 LS (58 Hp) (1976 - 1990)",
+              "hp": 58,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 120 L (52 Hp) (1976 - 1990)",
+              "hp": 52,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 105 S,L (46 Hp) (1976 - 1990)",
+              "hp": 46,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 105 S,L,GL (45 Hp) (1976 - 1983)",
+              "hp": 45,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "110": {
+      "label": "110",
+      "series": {
+        "skoda-110-coupe": {
+          "label": "Skoda 110 Coupe",
+          "engines": [
+            {
+              "label": "1.1 R (52 Hp) (1970 - 1980)",
+              "hp": 52,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "skoda-110": {
+          "label": "Skoda 110",
+          "engines": [
+            {
+              "label": "1.1 LS (52 Hp) (1970 - 1977)",
+              "hp": 52,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.1 L (48 Hp) (1969 - 1977)",
+              "hp": 48,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.1 L (45 Hp) (1969 - 1977)",
+              "hp": 45,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "130": {
+      "label": "130",
+      "series": {
+        "skoda-130": {
+          "label": "Skoda 130",
+          "engines": [
+            {
+              "label": "L,GL (61 Hp) (1984 - 1988)",
+              "hp": 61
+            },
+            {
+              "label": "GL (S135) (58 Hp) (1988 - 1990)",
+              "hp": 58
+            },
+            {
+              "label": "GL (53 Hp) (1987 - 1990)",
+              "hp": 53
+            },
+            {
+              "label": "G,GL (S136) (63 Hp) (1988 - 1990)",
+              "hp": 63
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "citigo": {
+      "label": "Citigo",
+      "series": {
+        "skoda-citigo-facelift-2017-5-door": {
+          "label": "Skoda Citigo (facelift 2017, 5-door)",
+          "engines": [
+            {
+              "label": "iV 36.8 kWh (83 Hp) (2019 - 2020)",
+              "hp": 83,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 MPI GreenTech (75 Hp) (2017 - 2019)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 MPI (75 Hp) ASG (2017 - 2019)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 MPI GreenTech (60 Hp) (2017 - 2019)",
+              "hp": 60,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 G-TEC (68 Hp) CNG (2018 - 2019)",
+              "hp": 68,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 (60 Hp) ASG (2017 - 2019)",
+              "hp": 60,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 (60 Hp) (2017 - 2019)",
+              "hp": 60,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "skoda-citigo-facelift-2017-3-door": {
+          "label": "Skoda Citigo (facelift 2017, 3-door)",
+          "engines": [
+            {
+              "label": "1.0 MPI GreenTech (75 Hp) (2017 - 2019)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 MPI (75 Hp) ASG (2017 - 2019)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 MPI GreenTech (60 Hp) (2017 - 2019)",
+              "hp": 60,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 (60 Hp) ASG (2017 - 2019)",
+              "hp": 60,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 (60 Hp) (2017 - 2019)",
+              "hp": 60,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "skoda-citigo-5-door": {
+          "label": "Skoda Citigo (5-door)",
+          "engines": [
+            {
+              "label": "1.0 (75 Hp) Automatic (2011 - 2017)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 (75 Hp) (2011 - 2017)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 (60 Hp) Automatic (2011 - 2017)",
+              "hp": 60,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 (60 Hp) (2011 - 2017)",
+              "hp": 60,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "skoda-citigo-3-door": {
+          "label": "Skoda Citigo (3-door)",
+          "engines": [
+            {
+              "label": "1.0 (75 Hp) Automatic (2011 - 2017)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 (75 Hp) (2011 - 2017)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 (60 Hp) Automatic (2011 - 2017)",
+              "hp": 60,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 (60 Hp) (2011 - 2017)",
+              "hp": 60,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "elroq": {
+      "label": "Elroq",
+      "series": {
+        "skoda-elroq": {
+          "label": "Skoda Elroq",
+          "engines": [
+            {
+              "label": "RS 84 kWh (340 Hp) Electric AWD",
+              "hp": 340,
+              "fuel": "elektro"
+            },
+            {
+              "label": "85x 82 kWh (299 Hp) Electric AWD",
+              "hp": 299,
+              "fuel": "elektro"
+            },
+            {
+              "label": "85x 82 kWh (286 Hp) Electric AWD (2025 - 2026)",
+              "hp": 286,
+              "fuel": "elektro"
+            },
+            {
+              "label": "85 82 kWh (286 Hp) Electric",
+              "hp": 286,
+              "fuel": "elektro"
+            },
+            {
+              "label": "60 63 kWh (204 Hp) Electric (2024 - 2026)",
+              "hp": 204,
+              "fuel": "elektro"
+            },
+            {
+              "label": "60 61 kWh (190 Hp) Electric",
+              "hp": 190,
+              "fuel": "elektro"
+            },
+            {
+              "label": "50 55 kWh (170 Hp) Electric (2024 - 2026)",
+              "hp": 170,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "enyaq": {
+      "label": "Enyaq",
+      "series": {
+        "skoda-enyaq-coupe-facelift-2025": {
+          "label": "Skoda Enyaq Coupe (facelift 2025)",
+          "engines": [
+            {
+              "label": "RS 84 kWh (340 Hp) AWD",
+              "hp": 340
+            },
+            {
+              "label": "85x 82 kWh (286 Hp) AWD (2025 - 2026)",
+              "hp": 286
+            },
+            {
+              "label": "85 82 kWh (286 Hp)",
+              "hp": 286
+            },
+            {
+              "label": "60 63 kWh (204 Hp) (2025 - 2026)",
+              "hp": 204
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "skoda-enyaq-facelift-2025": {
+          "label": "Skoda Enyaq (facelift 2025)",
+          "engines": [
+            {
+              "label": "RS 84 kWh (340 Hp) AWD",
+              "hp": 340
+            },
+            {
+              "label": "85x 82 kWh (299 Hp) AWD",
+              "hp": 299
+            },
+            {
+              "label": "85x 82 kWh (286 Hp) AWD (2025 - 2026)",
+              "hp": 286
+            },
+            {
+              "label": "85 82 kWh (286 Hp)",
+              "hp": 286
+            },
+            {
+              "label": "60 63 kWh (204 Hp) (2025 - 2026)",
+              "hp": 204
+            },
+            {
+              "label": "60 61 kWh (190 Hp)",
+              "hp": 190
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "skoda-enyaq-coupe-iv": {
+          "label": "Skoda Enyaq Coupe iV",
+          "engines": [
+            {
+              "label": "RS 82 kWh (340 Hp) AWD (2023 - 2025)",
+              "hp": 340
+            },
+            {
+              "label": "RS 82 kWh (299 Hp) AWD (2022 - 2023)",
+              "hp": 299
+            },
+            {
+              "label": "85x 82 kWh (286 Hp) AWD (2023 - 2025)",
+              "hp": 286
+            },
+            {
+              "label": "85 82 kWh (286 Hp) (2023 - 2025)",
+              "hp": 286
+            },
+            {
+              "label": "80x 82 kWh (265 Hp) AWD (2022 - 2023)",
+              "hp": 265
+            },
+            {
+              "label": "80 82 kWh (204 Hp) (2022 - 2023)",
+              "hp": 204
+            },
+            {
+              "label": "60 62 kWh (180 Hp) (2022 - 2024)",
+              "hp": 180
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "skoda-enyaq-iv": {
+          "label": "Skoda Enyaq iV",
+          "engines": [
+            {
+              "label": "RS 82 kWh (340 Hp) AWD (2023 - 2025)",
+              "hp": 340
+            },
+            {
+              "label": "RS 82 kWh (299 Hp) AWD (2023 - 2023)",
+              "hp": 299
+            },
+            {
+              "label": "85x 82 kWh (286 Hp) AWD (2023 - 2025)",
+              "hp": 286
+            },
+            {
+              "label": "85 82 kWh (286 Hp) (2023 - 2025)",
+              "hp": 286
+            },
+            {
+              "label": "80x 82 kWh (265 Hp) AWD (2021 - 2023)",
+              "hp": 265
+            },
+            {
+              "label": "80 82 kWh (204 Hp) (2020 - 2023)",
+              "hp": 204
+            },
+            {
+              "label": "60 62 kWh (180 Hp) (2020 - 2024)",
+              "hp": 180
+            },
+            {
+              "label": "50 55 kWh (148 Hp) (2021 - 2023)",
+              "hp": 148
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "epiq": {
+      "label": "Epiq",
+      "series": {
+        "skoda-epiq": {
+          "label": "Skoda Epiq",
+          "engines": [
+            {
+              "label": "55 55 kWh (211 Hp) Electric",
+              "hp": 211,
+              "fuel": "elektro"
+            },
+            {
+              "label": "40 38.5 kWh (135 Hp) Electric",
+              "hp": 135,
+              "fuel": "elektro"
+            },
+            {
+              "label": "35 38.5 kWh (116 Hp) Electric",
+              "hp": 116,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "skoda-epiq-concept": {
+          "label": "Skoda Epiq Concept",
+          "engines": [
+            {
+              "label": "Keine exakte Motorliste verfügbar – bitte genaue Motorisierung im Freitext angeben"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "fabia": {
+      "label": "Fabia",
+      "series": {
+        "skoda-fabia-iv": {
+          "label": "Skoda Fabia IV",
+          "engines": [
+            {
+              "label": "130 1.5 TSI (177 Hp) DSG",
+              "hp": 177,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 TSI (150 Hp) DSG",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TSI (115 Hp) DSG",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TSI (115 Hp)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TSI (110 Hp) DSG (2021 - 2023)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TSI (110 Hp) (2021 - 2023)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TSI (95 Hp)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 MPI (80 Hp)",
+              "hp": 80,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 MPI (65 Hp)",
+              "hp": 65,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "skoda-fabia-iii-combi-facelift-2018": {
+          "label": "Skoda Fabia III Combi (facelift 2018)",
+          "engines": [
+            {
+              "label": "1.0 TSI (110 Hp) DSG (2018 - 2020)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TSI (110 Hp) (2018 - 2020)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TSI (95 Hp) DSG (2020 - 2021)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TSI (95 Hp) (2018 - 2020)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 MPI (75 Hp) (2018 - 2019)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 MPI (60 Hp) (2020 - 2021)",
+              "hp": 60,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "skoda-fabia-iii-facelift-2018": {
+          "label": "Skoda Fabia III (facelift 2018)",
+          "engines": [
+            {
+              "label": "1.0 TSI (110 Hp) DSG (2018 - 2020)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TSI (110 Hp) (2018 - 2020)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TSI (95 Hp) DSG (2020 - 2021)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TSI (95 Hp) (2018 - 2020)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 MPI (75 Hp) (2018 - 2019)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 MPI (60 Hp) (2019 - 2020)",
+              "hp": 60,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "skoda-fabia-iii-combi": {
+          "label": "Skoda Fabia III Combi",
+          "engines": [
+            {
+              "label": "1.4 TDI (105 Hp) (2014 - 2018)",
+              "hp": 105,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.4 TDI (90 Hp) DSG (2014 - 2018)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.4 TDI (90 Hp) (2014 - 2018)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.2 TSI (110 Hp) DSG (2014 - 2017)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TSI (110 Hp) (2014 - 2017)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TSI (90 Hp) (2014 - 2017)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TSI (110 Hp) DSG (2017 - 2018)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TSI (110 Hp) (2017 - 2018)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TSI (95 Hp) (2017 - 2018)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 (75 Hp) (2014 - 2018)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "skoda-fabia-iii": {
+          "label": "Skoda Fabia III",
+          "engines": [
+            {
+              "label": "1.4 TDI (105 Hp) (2014 - 2018)",
+              "hp": 105,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.4 TDI (90 Hp) DSG (2014 - 2018)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.4 TDI (90 Hp) (2014 - 2018)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.2 TSI (110 Hp) DSG (2014 - 2017)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TSI (110 Hp) (2014 - 2017)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TSI (90 Hp) (2014 - 2017)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TSI (110 Hp) DSG (2017 - 2018)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TSI (110 Hp) (2017 - 2018)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TSI (95 Hp) (2017 - 2018)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 (75 Hp) (2014 - 2018)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 (60 Hp) (2014 - 2018)",
+              "hp": 60,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "skoda-fabia-ii-combi-scout-facelift-2010": {
+          "label": "Skoda Fabia II Combi Scout (facelift 2010)",
+          "engines": [
+            {
+              "label": "1.6 TDI (105 Hp) (2010 - 2014)",
+              "hp": 105,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI (90 Hp) (2010 - 2014)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.2 TSI (105 Hp) DSG (2010 - 2014)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TSI (105 Hp) (2010 - 2014)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TSI (86 Hp) (2010 - 2014)",
+              "hp": 86,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "skoda-fabia-ii-combi-facelift-2010": {
+          "label": "Skoda Fabia II Combi (facelift 2010)",
+          "engines": [
+            {
+              "label": "RS 1.4 TSI (180 Hp) DSG (2010 - 2014)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 TDI (105 Hp) (2010 - 2014)",
+              "hp": 105,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI (90 Hp) (2010 - 2014)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI (75 Hp) (2010 - 2014)",
+              "hp": 75,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.4 MPI (86 Hp) (2010 - 2014)",
+              "hp": 86,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TSI (105 Hp) DSG (2010 - 2014)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TSI (105 Hp) (2010 - 2014)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TSI (86 Hp) (2010 - 2014)",
+              "hp": 86,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TDI (75 Hp) (2010 - 2013)",
+              "hp": 75,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.2 MPI (70 Hp) (2010 - 2014)",
+              "hp": 70,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 MPI (60 Hp) (2011 - 2014)",
+              "hp": 60,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "skoda-fabia-ii-facelift-2010": {
+          "label": "Skoda Fabia II (facelift 2010)",
+          "engines": [
+            {
+              "label": "RS 1.4 TSI (180 Hp) DSG (2010 - 2014)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 TDI (105 Hp) (2010 - 2014)",
+              "hp": 105,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI (90 Hp) (2010 - 2014)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI (75 Hp) (2010 - 2014)",
+              "hp": 75,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.4 MPI (86 Hp) (2010 - 2014)",
+              "hp": 86,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TSI (105 Hp) DSG (2010 - 2014)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TSI (105 Hp) (2010 - 2014)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TSI (86 Hp) (2010 - 2014)",
+              "hp": 86,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TDI (75 Hp) (2010 - 2013)",
+              "hp": 75,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.2 MPI (70 Hp) (2010 - 2014)",
+              "hp": 70,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 MPI (60 Hp) (2011 - 2014)",
+              "hp": 60,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "skoda-fabia-ii-combi-scout": {
+          "label": "Skoda Fabia II Combi Scout",
+          "engines": [
+            {
+              "label": "1.9 TDI (105 Hp) DPF (2009 - 2010)",
+              "hp": 105,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.9 TDI (105 Hp) (2009 - 2010)",
+              "hp": 105,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 16V (105 Hp) Tiptronic (2009 - 2010)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 16V (105 Hp) (2009 - 2010)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TDI (80 Hp) DPF (2009 - 2010)",
+              "hp": 80,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.4 TDI (80 Hp) (2009 - 2010)",
+              "hp": 80,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.4 16V (86 Hp) (2009 - 2010)",
+              "hp": 86,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "skoda-fabia-ii-combi": {
+          "label": "Skoda Fabia II Combi",
+          "engines": [
+            {
+              "label": "1.9 TDI (105 Hp) DPF (2007 - 2010)",
+              "hp": 105,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.9 TDI (105 Hp) (2007 - 2010)",
+              "hp": 105,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 HTP 16V (105 Hp) Tiptronic (2007 - 2010)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 HTP 16V (105 Hp) (2007 - 2010)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TDI DPF (80 Hp) (2007 - 2010)",
+              "hp": 80,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.4 TDI (80 Hp) (2007 - 2010)",
+              "hp": 80,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.4 TDI (70 Hp) (2007 - 2010)",
+              "hp": 70,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.4 HTP 16V (86 Hp) (2007 - 2010)",
+              "hp": 86,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 HTP 12V (70 Hp) (2007 - 2010)",
+              "hp": 70,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 HTP (60 Hp) (2007 - 2010)",
+              "hp": 60,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "skoda-fabia-ii": {
+          "label": "Skoda Fabia II",
+          "engines": [
+            {
+              "label": "1.9 TDI (105 Hp) DPF (2007 - 2010)",
+              "hp": 105,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.9 TDI (105 Hp) (2007 - 2010)",
+              "hp": 105,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 i 16V (105 Hp) Automatic (2007 - 2010)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 i 16V (105 Hp) (2007 - 2010)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TDI (80 Hp) (2007 - 2010)",
+              "hp": 80,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.4 TDI (69 Hp) (2007 - 2010)",
+              "hp": 69,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.4 i 16V (86 Hp) (2007 - 2010)",
+              "hp": 86,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 i HTP 12V (69 Hp) (2007 - 2010)",
+              "hp": 69,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 i HTP (60 Hp) (2007 - 2010)",
+              "hp": 60,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "skoda-fabia-i-combi-6y-facelift-2004": {
+          "label": "Skoda Fabia I Combi (6Y, facelift 2004)",
+          "engines": [
+            {
+              "label": "2.0 (115 Hp) (2004 - 2006)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 TDI PD (101 Hp) (2004 - 2006)",
+              "hp": 101,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.9 SDI (64 Hp) (2004 - 2005)",
+              "hp": 64,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TDI (80 Hp) (2005 - 2007)",
+              "hp": 80,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.4 TDI PD (69 Hp) (2004 - 2006)",
+              "hp": 69,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.4 16V (80 Hp) (2004 - 2007)",
+              "hp": 80,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 (75 Hp) Automatic (2004 - 2006)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 (101 Hp) (2004 - 2006)",
+              "hp": 101,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 HTP (64 Hp) (2004 - 2007)",
+              "hp": 64,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "skoda-fabia-i-6y-facelift-2004": {
+          "label": "Skoda Fabia I (6Y, facelift 2004)",
+          "engines": [
+            {
+              "label": "2.0 (115 Hp) (2004 - 2006)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 TDI PD (101 Hp) (2004 - 2006)",
+              "hp": 101,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.9 SDI (64 Hp) (2004 - 2005)",
+              "hp": 64,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TDI (80 Hp) (2005 - 2006)",
+              "hp": 80,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.4 TDI PD (69 Hp) (2004 - 2006)",
+              "hp": 69,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.4 (75 Hp) Automatic (2004 - 2006)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 (75 Hp) (2004 - 2006)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 (101 Hp) (2004 - 2006)",
+              "hp": 101,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 HTP (64 Hp) (2004 - 2006)",
+              "hp": 64,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 HTP (55 Hp) (2004 - 2006)",
+              "hp": 55,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "skoda-fabia-sedan-i-6y-facelift-2004": {
+          "label": "Skoda Fabia Sedan I (6Y, facelift 2004)",
+          "engines": [
+            {
+              "label": "2.0 (115 Hp) (2004 - 2006)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 TDI PD (101 Hp) (2004 - 2006)",
+              "hp": 101,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.9 SDI (64 Hp) (2004 - 2005)",
+              "hp": 64,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TDI (80 Hp) (2005 - 2007)",
+              "hp": 80,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.4 TDI PD (69 Hp) (2004 - 2006)",
+              "hp": 69,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.4 16V (80 Hp) (2006 - 2007)",
+              "hp": 80,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 (75 Hp) Automatic (2004 - 2007)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 (101 Hp) (2004 - 2006)",
+              "hp": 101,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 HTP (64 Hp) (2004 - 2007)",
+              "hp": 64,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "skoda-fabia-i-combi-6y": {
+          "label": "Skoda Fabia I Combi (6Y)",
+          "engines": [
+            {
+              "label": "2.0 (115 Hp) (1999 - 2004)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 TDI (101 Hp) (2000 - 2004)",
+              "hp": 101,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.9 SDI (64 Hp) (1999 - 2004)",
+              "hp": 64,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TDI (75 Hp) (2003 - 2004)",
+              "hp": 75,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.4 16V (101 Hp) (1999 - 2004)",
+              "hp": 101,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 16V (75 Hp) Automatic (1999 - 2004)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 16V (75 Hp) (1999 - 2004)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 (68 Hp) (1999 - 2004)",
+              "hp": 68,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 (60 Hp) (2000 - 2004)",
+              "hp": 60,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 i (64 Hp) (2003 - 2004)",
+              "hp": 64,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "skoda-fabia-i-6y": {
+          "label": "Skoda Fabia I (6Y)",
+          "engines": [
+            {
+              "label": "RS 1.9 TDI (130 Hp) (2003 - 2004)",
+              "hp": 130,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 (115 Hp) (1999 - 2004)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 TDI (98 Hp) (2000 - 2004)",
+              "hp": 98,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.9 SDI (64 Hp) (1999 - 2004)",
+              "hp": 64,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TDI (75 Hp) (2003 - 2004)",
+              "hp": 75,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.4 16V (101 Hp) (1999 - 2004)",
+              "hp": 101,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 16V (75 Hp) Automatic (1999 - 2004)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 16V (75 Hp) (1999 - 2004)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 (68 Hp) (1999 - 2004)",
+              "hp": 68,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 (60 Hp) (2000 - 2004)",
+              "hp": 60,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 i (54 Hp) (2001 - 2004)",
+              "hp": 54,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 HTP (64 Hp) (2003 - 2004)",
+              "hp": 64,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 (50 Hp) (2000 - 2004)",
+              "hp": 50,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "skoda-fabia-sedan-i-6y": {
+          "label": "Skoda Fabia Sedan I (6Y)",
+          "engines": [
+            {
+              "label": "2.0 (115 Hp) (1999 - 2004)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 TDI (101 Hp) (2000 - 2004)",
+              "hp": 101,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.9 SDI (64 Hp) (1999 - 2004)",
+              "hp": 64,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TDI (75 Hp) (2003 - 2004)",
+              "hp": 75,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.4 16V (101 Hp) (1999 - 2004)",
+              "hp": 101,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 16V (75 Hp) Automatic (1999 - 2004)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 16V (75 Hp) (1999 - 2004)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 (68 Hp) (1999 - 2004)",
+              "hp": 68,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 (60 Hp) (2000 - 2004)",
+              "hp": 60,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 i (65 Hp) (2003 - 2004)",
+              "hp": 65,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "favorit": {
+      "label": "Favorit",
+      "series": {
+        "skoda-favorit-781": {
+          "label": "Skoda Favorit (781)",
+          "engines": [
+            {
+              "label": "1.3 136 (781) (63 Hp) (1990 - 1994)",
+              "hp": 63,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 136 (781) (61 Hp) (1990 - 1994)",
+              "hp": 61,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 135 (781) (60 Hp) (1990 - 1994)",
+              "hp": 60,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 135L (781) (58 Hp) (1989 - 1993)",
+              "hp": 58,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 135 (781) (58 Hp) (1991 - 1994)",
+              "hp": 58,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 135 X,LX,GLX (781) (54 Hp) (1990 - 1994)",
+              "hp": 54,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 (781) (68 Hp) (1994 - 1994)",
+              "hp": 68,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "skoda-favorit-forman-785": {
+          "label": "Skoda Favorit Forman (785)",
+          "engines": [
+            {
+              "label": "1.3 (68 Hp) (1994 - 1995)",
+              "hp": 68,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 (136) (61 Hp) (1991 - 1995)",
+              "hp": 61,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 (135) (60 Hp) (1991 - 1995)",
+              "hp": 60,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 (135 E) (54 Hp) (1992 - 1995)",
+              "hp": 54,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "felicia": {
+      "label": "Felicia",
+      "series": {
+        "skoda-felicia-ii": {
+          "label": "Skoda Felicia II",
+          "engines": [
+            {
+              "label": "1.9 D (64 Hp) (1998 - 2001)",
+              "hp": 64,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (75 Hp) (1998 - 2001)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 (68 Hp) (1998 - 2001)",
+              "hp": 68,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 (58 Hp) (1998 - 2001)",
+              "hp": 58,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 (54 Hp) (1998 - 2001)",
+              "hp": 54,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "skoda-felicia-ii-combi": {
+          "label": "Skoda Felicia II Combi",
+          "engines": [
+            {
+              "label": "1.9 D (64 Hp) (1998 - 2000)",
+              "hp": 64,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (75 Hp) (1998 - 2001)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 (68 Hp) (1998 - 2001)",
+              "hp": 68,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 (58 Hp) (1998 - 2000)",
+              "hp": 58,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 (54 Hp) (1998 - 2000)",
+              "hp": 54,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "skoda-felicia-i-fun-797": {
+          "label": "Skoda Felicia I Fun (797)",
+          "engines": [
+            {
+              "label": "1.9 D (64 Hp) (1997 - 2000)",
+              "hp": 64,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (75 Hp) (1997 - 2000)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 (68 Hp) (1997 - 2000)",
+              "hp": 68,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 (54 Hp) (1997 - 2000)",
+              "hp": 54,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "skoda-felicia-i-791": {
+          "label": "Skoda Felicia I (791)",
+          "engines": [
+            {
+              "label": "1.9 D (64 Hp) (1995 - 1997)",
+              "hp": 64,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 LX (75 Hp) (1995 - 1997)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 (68 Hp) (1996 - 1997)",
+              "hp": 68,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 (58 Hp) (1995 - 1997)",
+              "hp": 58,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 (54 Hp) (1996 - 1997)",
+              "hp": 54,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "skoda-felicia-i-combi-795": {
+          "label": "Skoda Felicia I Combi (795)",
+          "engines": [
+            {
+              "label": "1.9 D (64 Hp) (1995 - 1997)",
+              "hp": 64,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 GLX (75 Hp) (1995 - 1997)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 LXI (68 Hp) (1996 - 1997)",
+              "hp": 68,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 LX (54 Hp) (1996 - 1997)",
+              "hp": 54,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 (58 Hp) (1995 - 1997)",
+              "hp": 58,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "kamiq": {
+      "label": "Kamiq",
+      "series": {
+        "skoda-kamiq-facelift-2023": {
+          "label": "Skoda Kamiq (facelift 2023)",
+          "engines": [
+            {
+              "label": "1.5 TSI ACT (150 Hp) DSG",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 TSI ACT (150 Hp)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TSI (115 Hp) DSG",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TSI (115 Hp)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TSI (95 Hp)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "skoda-kamiq": {
+          "label": "Skoda Kamiq",
+          "engines": [
+            {
+              "label": "1.6 TDI (115 Hp) DSG (2019 - 2020)",
+              "hp": 115,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI (115 Hp) (2019 - 2020)",
+              "hp": 115,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5i (110 Hp) Tiptronic (2018 - 2023)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5i (110 Hp) (2018 - 2023)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 TSI (150 Hp) DSG (2019 - 2023)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 TSI (150 Hp) (2019 - 2023)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TSI (115 Hp) DSG (2019 - 2020)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TSI (115 Hp) (2019 - 2020)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TSI (95 Hp) (2019 - 2023)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 G-TEC (90 Hp) (2020 - 2022)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "karoq": {
+      "label": "Karoq",
+      "series": {
+        "skoda-karoq-facelift-2021": {
+          "label": "Skoda Karoq (facelift 2021)",
+          "engines": [
+            {
+              "label": "2.0 TSI (190 Hp) 4x4 DSG",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) 4x4 DSG",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (150 Hp)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (116 Hp) DSG",
+              "hp": 116,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (116 Hp)",
+              "hp": 116,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 TSI (150 Hp) DSG",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 TSI (150 Hp)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TSI ACT (115 Hp)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TSI (110 Hp) (2021 - 2023)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "skoda-karoq-scout": {
+          "label": "Skoda Karoq Scout",
+          "engines": [
+            {
+              "label": "2.0 TDI (190 Hp) 4x4 DSG (2019 - 2020)",
+              "hp": 190,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) 4x4 DSG (2019 - 2021)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) 4x4 (2018 - 2019)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "skoda-karoq": {
+          "label": "Skoda Karoq",
+          "engines": [
+            {
+              "label": "2.0 TSI (190 Hp) 4x4 DSG (2019 - 2021)",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TDI (190 Hp) 4x4 DSG (2019 - 2020)",
+              "hp": 190,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) 4x4 Automatic (2017 - 2021)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) 4x4 (2017 - 2021)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (143 Hp) DSG (2018 - 2021)",
+              "hp": 143,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (116 Hp) DSG (2020 - 2021)",
+              "hp": 116,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (116 Hp) (2020 - 2021)",
+              "hp": 116,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI (116 Hp) Automatic (2017 - 2020)",
+              "hp": 116,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI (116 Hp) (2017 - 2020)",
+              "hp": 116,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 TSI (150 Hp) Automatic (2017 - 2021)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 TSI (150 Hp) (2017 - 2021)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TSI (116 Hp) Automatic (2017 - 2020)",
+              "hp": 116,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TSI (116 Hp) (2017 - 2020)",
+              "hp": 116,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TSI (110 Hp) (2020 - 2021)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "kodiaq": {
+      "label": "Kodiaq",
+      "series": {
+        "skoda-kodiaq-ii": {
+          "label": "Skoda Kodiaq II",
+          "engines": [
+            {
+              "label": "RS 2.0 TSI (265 Hp) 4x4 DSG 7 Seat",
+              "hp": 265,
+              "fuel": "benzin"
+            },
+            {
+              "label": "RS 2.0 TSI (265 Hp) 4x4 DSG",
+              "hp": 265,
+              "fuel": "benzin"
+            },
+            {
+              "label": "iV 1.5 TSI (204 Hp) Plug-in Hybrid DSG",
+              "hp": 204,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "2.0 TSI (204 Hp) 4x4 DSG 7 Seat",
+              "hp": 204,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TSI (204 Hp) 4x4 DSG",
+              "hp": 204,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TDI (193 Hp) 4x4 DSG 7 Seat",
+              "hp": 193,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (193 Hp) 4x4 DSG",
+              "hp": 193,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) DSG 7 Seat",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) DSG",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 TSI (150 Hp) Mild Hybrid DSG 7 Seat",
+              "hp": 150,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.5 TSI (150 Hp) Mild Hybrid DSG",
+              "hp": 150,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "skoda-kodiaq-i-facelift-2021": {
+          "label": "Skoda Kodiaq I (facelift 2021)",
+          "engines": [
+            {
+              "label": "RS 2.0 TSI (245 Hp) 4x4 DSG (2021 - 2023)",
+              "hp": 245,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TSI (190 Hp) 4x4 DSG (2021 - 2023)",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TDI (200 Hp) 4x4 DSG (2021 - 2023)",
+              "hp": 200,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) DSG (2021 - 2023)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) 4x4 DSG (2021 - 2023)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 TSI (150 Hp) DSG (2021 - 2023)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 TSI (150 Hp) (2021 - 2023)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "skoda-kodiaq-i-scout": {
+          "label": "Skoda Kodiaq I Scout",
+          "engines": [
+            {
+              "label": "2.0 TSI (190 Hp) 4x4 DSG 7 Seat (2019 - 2019)",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TSI (190 Hp) 4x4 DSG (2019 - 2019)",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TSI (180 Hp) 4x4 DSG 7 Seat (2017 - 2018)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TSI (180 Hp) 4x4 DSG (2017 - 2018)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TDI (200 Hp) 4x4 DSG 7 Seat (2020 - 2021)",
+              "hp": 200,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (200 Hp) 4x4 DSG (2020 - 2021)",
+              "hp": 200,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (190 Hp) 4x4 DSG 7 Seat (2017 - 2020)",
+              "hp": 190,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (190 Hp) 4x4 DSG (2017 - 2020)",
+              "hp": 190,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) 4x4 DSG 7 Seat (2017 - 2021)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) 4x4 DSG (2017 - 2021)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) 4x4 7 Seat (2017 - 2020)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) 4x4 (2017 - 2020)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 TSI (150 Hp) 4x4 DSG 7 Seat (2018 - 2019)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 TSI (150 Hp) 4x4 DSG (2018 - 2019)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TSI (150 Hp) 4x4 DSG 7 Seat (2017 - 2018)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TSI (150 Hp) 4x4 DSG (2017 - 2018)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TSI (150 Hp) 4x4 7 Seat (2017 - 2018)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TSI (150 Hp) 4x4 (2017 - 2018)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "skoda-kodiaq-i": {
+          "label": "Skoda Kodiaq I",
+          "engines": [
+            {
+              "label": "RS 2.0 BiTDI (240 Hp) 4x4 DSG 7 Seat (2018 - 2020)",
+              "hp": 240,
+              "fuel": "diesel"
+            },
+            {
+              "label": "RS 2.0 BiTDI (240 Hp) 4x4 DSG (2018 - 2020)",
+              "hp": 240,
+              "fuel": "diesel"
+            },
+            {
+              "label": "GT TSI380 (220 Hp) 4x4 DSG (2018 - 2021)",
+              "hp": 220,
+              "fuel": "benzin"
+            },
+            {
+              "label": "GT TSI330 (186 Hp) Automatic (2018 - 2021)",
+              "hp": 186,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TSI (190 Hp) 4x4 DSG 7 Seat (2019 - 2021)",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TSI (190 Hp) 4x4 DSG (2019 - 2021)",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TSI (180 Hp) 4x4 DSG 7 Seat (2016 - 2018)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TSI (180 Hp) 4x4 DSG (2016 - 2018)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TDI (200 Hp) 4x4 DSG 7 Seat (2020 - 2021)",
+              "hp": 200,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (200 Hp) 4x4 DSG (2020 - 2021)",
+              "hp": 200,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (190 Hp) 4x4 DSG 7 Seat (2016 - 2018)",
+              "hp": 190,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (190 Hp) 4x4 DSG (2016 - 2018)",
+              "hp": 190,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (177 Hp) 4x4 DSG 7 Seat (2018 - 2021)",
+              "hp": 177,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (177 Hp) 4x4 DSG (2018 - 2021)",
+              "hp": 177,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) DSG 7 Seat (2016 - 2018)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) DSG (2016 - 2018)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) 4x4 DSG 7 Seat (2016 - 2018)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) 4x4 DSG (2016 - 2018)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) 4x4 7 Seat (2016 - 2018)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) 4x4 (2016 - 2018)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (116 Hp) 7 Seat (2018 - 2021)",
+              "hp": 116,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (116 Hp) (2018 - 2021)",
+              "hp": 116,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 TSI (150 Hp) DSG 7 Seat (2018 - 2021)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 TSI (150 Hp) DSG (2018 - 2021)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 TSI (150 Hp) 7 Seat (2018 - 2021)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 TSI (150 Hp) 4x4 DSG 7 Seat (2018 - 2019)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 TSI (150 Hp) 4x4 DSG (2018 - 2019)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 TSI (150 Hp) (2018 - 2021)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TSI (150 Hp) ACT DSG 7 Seat (2016 - 2018)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TSI (150 Hp) ACT DSG (2016 - 2018)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TSI (150 Hp) ACT 4x4 DSG 7 Seat (2016 - 2018)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TSI (150 Hp) ACT 4x4 DSG (2016 - 2018)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TSI (150 Hp) ACT 4x4 7 Seat (2016 - 2018)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TSI (150 Hp) ACT 4x4 (2016 - 2018)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TSI (125 Hp) 7 Seat (2016 - 2018)",
+              "hp": 125,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TSI (125 Hp) (2016 - 2018)",
+              "hp": 125,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "kushaq": {
+      "label": "Kushaq",
+      "series": {
+        "skoda-kushaq": {
+          "label": "Skoda Kushaq",
+          "engines": [
+            {
+              "label": "1.5 TSI (150 Hp) DSG",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 TSI (150 Hp)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TSI (116 Hp) Automatic",
+              "hp": 116,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TSI (116 Hp)",
+              "hp": 116,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "kylaq": {
+      "label": "Kylaq",
+      "series": {
+        "skoda-kylaq": {
+          "label": "Skoda Kylaq",
+          "engines": [
+            {
+              "label": "1.0 TSI (115 Hp) Tiptronic",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TSI (115 Hp)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "octavia": {
+      "label": "Octavia",
+      "series": {
+        "skoda-octavia-iv-combi-facelift-2024": {
+          "label": "Skoda Octavia IV Combi (facelift 2024)",
+          "engines": [
+            {
+              "label": "RS 2.0 TSI (265 Hp) DSG",
+              "hp": 265,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TSI (204 Hp) 4x4 DSG",
+              "hp": 204,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) DSG",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (115 Hp)",
+              "hp": 115,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 TSI (150 Hp) Mild Hybrid DSG",
+              "hp": 150,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.5 TSI (150 Hp)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 TSI (116 Hp) Mild Hybrid DSG",
+              "hp": 116,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.5 TSI (116 Hp)",
+              "hp": 116,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "skoda-octavia-iv-facelift-2024": {
+          "label": "Skoda Octavia IV (facelift 2024)",
+          "engines": [
+            {
+              "label": "RS 2.0 TSI (265 Hp) DSG",
+              "hp": 265,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TSI (204 Hp) 4x4 DSG",
+              "hp": 204,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) DSG",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (115 Hp)",
+              "hp": 115,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 TSI (150 Hp) Mild Hybrid DSG",
+              "hp": 150,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.5 TSI (150 Hp)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 TSI (116 Hp) Mild Hybrid DSG",
+              "hp": 116,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.5 TSI (116 Hp)",
+              "hp": 116,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "skoda-octavia-iv-scout": {
+          "label": "Skoda Octavia IV Scout",
+          "engines": [
+            {
+              "label": "2.0 TSI (190 Hp) 4x4 DSG (2021 - 2023)",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TDI (200 Hp) 4x4 DSG (2019 - 2023)",
+              "hp": 200,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI SCR (150 Hp) 4x4 DSG (2021 - 2023)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 TSI ACT (150 Hp) DSG (2020 - 2024)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "skoda-octavia-iv-combi": {
+          "label": "Skoda Octavia IV Combi",
+          "engines": [
+            {
+              "label": "RS iV 1.4 TSI (245 Hp) Plug-in Hybrid DSG (2020 - 2023)",
+              "hp": 245,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "RS 2.0 TSI (245 Hp) DSG (2020 - 2023)",
+              "hp": 245,
+              "fuel": "benzin"
+            },
+            {
+              "label": "RS 2.0 TSI (245 Hp) (2020 - 2023)",
+              "hp": 245,
+              "fuel": "benzin"
+            },
+            {
+              "label": "iV 1.4 TSI (204 Hp) Plug-in Hybrid DSG (2020 - 2023)",
+              "hp": 204,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "2.0 TSI (190 Hp) 4x4 DSG (2021 - 2023)",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TDI (200 Hp) 4x4 DSG (2019 - 2023)",
+              "hp": 200,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) DSG (2019 - 2024)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) 4x4 DSG (2021 - 2023)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) (2019 - 2023)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (116 Hp) DSG (2019 - 2023)",
+              "hp": 116,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (116 Hp) (2019 - 2024)",
+              "hp": 116,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 TSI EVO e-TEC (150 Hp) Mild Hybrid DSG (2020 - 2024)",
+              "hp": 150,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.5 TSI EVO (150 Hp) (2020 - 2024)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 TSI G-TEC (130 Hp) CNG DSG (2020 - 2022)",
+              "hp": 130,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 TSI G-TEC (130 Hp) CNG (2020 - 2022)",
+              "hp": 130,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TSI EVO e-TEC (110 Hp) Mild Hybrid DSG (2020 - 2023)",
+              "hp": 110,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.0 TSI EVO (110 Hp) (2020 - 2023)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "skoda-octavia-iv": {
+          "label": "Skoda Octavia IV",
+          "engines": [
+            {
+              "label": "vRS 2.0 TSI (245 Hp) DSG (2020 - 2023)",
+              "hp": 245,
+              "fuel": "benzin"
+            },
+            {
+              "label": "vRS 2.0 TSI (245 Hp) (2020 - 2023)",
+              "hp": 245,
+              "fuel": "benzin"
+            },
+            {
+              "label": "RS iV 1.4 TSI (245 Hp) Plug-in Hybrid DSG (2020 - 2023)",
+              "hp": 245,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "iV 1.4 TSI (204 Hp) Plug-in Hybrid DSG (2019 - 2023)",
+              "hp": 204,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "2.0 TSI (190 Hp) 4x4 DSG (2021 - 2023)",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TDI (200 Hp) 4x4 DSG (2020 - 2023)",
+              "hp": 200,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) DSG (2019 - 2024)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) 4x4 DSG (2021 - 2023)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) (2019 - 2023)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (116 Hp) DSG (2019 - 2023)",
+              "hp": 116,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (116 Hp) (2019 - 2024)",
+              "hp": 116,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 TSI EVO e-TEC (150 Hp) Mild Hybrid DSG (2020 - 2024)",
+              "hp": 150,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.5 TSI EVO (150 Hp) (2020 - 2024)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 TGI G-TEC (130 Hp) CNG DSG (2020 - 2022)",
+              "hp": 130,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 TGI G-TEC (130 Hp) CNG (2020 - 2022)",
+              "hp": 130,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TSI EVO e-TEC (110 Hp) Mild Hybrid DSG (2020 - 2023)",
+              "hp": 110,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.0 TSI EVO (110 Hp) (2020 - 2023)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "skoda-octavia-iii-scout-facelift-2017": {
+          "label": "Skoda Octavia III Scout (facelift 2017)",
+          "engines": [
+            {
+              "label": "2.0 TSI (190 Hp) 4x4 DSG (2019 - 2019)",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TDI (184 Hp) 4x4 DSG (2017 - 2019)",
+              "hp": 184,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) 4x4 DSG (2017 - 2019)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) 4x4 (2017 - 2019)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.8 TSI (180 Hp) DSG 4x4 (2017 - 2018)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "skoda-octavia-iii-combi-facelift-2017": {
+          "label": "Skoda Octavia III Combi (facelift 2017)",
+          "engines": [
+            {
+              "label": "RS 2.0 TSI (245 Hp) DSG (2017 - 2019)",
+              "hp": 245,
+              "fuel": "benzin"
+            },
+            {
+              "label": "RS 2.0 TSI (245 Hp) (2017 - 2019)",
+              "hp": 245,
+              "fuel": "benzin"
+            },
+            {
+              "label": "RS 2.0 TSI (230 Hp) DSG (2017 - 2018)",
+              "hp": 230,
+              "fuel": "benzin"
+            },
+            {
+              "label": "RS 2.0 TSI (230 Hp) (2017 - 2018)",
+              "hp": 230,
+              "fuel": "benzin"
+            },
+            {
+              "label": "RS 2.0 TDI (184 Hp) 7 DSG (2018 - 2019)",
+              "hp": 184,
+              "fuel": "diesel"
+            },
+            {
+              "label": "RS 2.0 TDI (184 Hp) 6 DSG (2017 - 2018)",
+              "hp": 184,
+              "fuel": "diesel"
+            },
+            {
+              "label": "RS 2.0 TDI (184 Hp) 4x4 7 DSG (2018 - 2019)",
+              "hp": 184,
+              "fuel": "diesel"
+            },
+            {
+              "label": "RS 2.0 TDI (184 Hp) 4x4 6 DSG (2017 - 2018)",
+              "hp": 184,
+              "fuel": "diesel"
+            },
+            {
+              "label": "RS 2.0 TDI (184 Hp) (2017 - 2019)",
+              "hp": 184,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TSI (190 Hp) DSG (2018 - 2019)",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TSI (190 Hp) 4x4 DSG (2018 - 2019)",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) DSG 4x4 (2017 - 2019)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) 7 DSG (2018 - 2019)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) 6 DSG (2017 - 2018)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) 4x4 (2017 - 2019)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) (2017 - 2019)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (143 Hp) DSG (2018 - 2019)",
+              "hp": 143,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (143 Hp) (2018 - 2019)",
+              "hp": 143,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.8 TSI (180 Hp) DSG (2017 - 2018)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 TSI (180 Hp) 4x4 DSG (2017 - 2018)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 TSI (180 Hp) (2017 - 2018)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 TDI (116 Hp) DSG (2017 - 2019)",
+              "hp": 116,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI (116 Hp) 4x4 (2018 - 2019)",
+              "hp": 116,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI (116 Hp) (2017 - 2019)",
+              "hp": 116,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI (90 Hp) (2017 - 2018)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 MPI (110 Hp) Automatic (2018 - 2019)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 MPI (110 Hp) (2018 - 2019)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 TSI (150 Hp) DSG (2017 - 2020)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 TSI (150 Hp) (2017 - 2020)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 G-TEC (130 Hp) CNG DSG (2019 - 2019)",
+              "hp": 130,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TSI (150 Hp) DSG (2017 - 2018)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TSI (150 Hp) (2017 - 2018)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 G-TEC (110 Hp) CNG DSG (2017 - 2018)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 G-TEC (110 Hp) CNG (2017 - 2018)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TSI (86 Hp) (2017 - 2018)",
+              "hp": 86,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TSI (116 Hp) DSG (2017 - 2019)",
+              "hp": 116,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TSI (116 Hp) (2017 - 2019)",
+              "hp": 116,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "skoda-octavia-iii-facelift-2017": {
+          "label": "Skoda Octavia III (facelift 2017)",
+          "engines": [
+            {
+              "label": "RS 2.0 TSI (245 Hp) DSG (2017 - 2019)",
+              "hp": 245,
+              "fuel": "benzin"
+            },
+            {
+              "label": "RS 2.0 TSI (245 Hp) (2017 - 2019)",
+              "hp": 245,
+              "fuel": "benzin"
+            },
+            {
+              "label": "RS 2.0 TSI (230 Hp) DSG (2017 - 2018)",
+              "hp": 230,
+              "fuel": "benzin"
+            },
+            {
+              "label": "RS 2.0 TSI (230 Hp) (2017 - 2018)",
+              "hp": 230,
+              "fuel": "benzin"
+            },
+            {
+              "label": "RS 2.0 TDI (184 Hp) 7 DSG (2018 - 2019)",
+              "hp": 184,
+              "fuel": "diesel"
+            },
+            {
+              "label": "RS 2.0 TDI (184 Hp) 6 DSG (2017 - 2018)",
+              "hp": 184,
+              "fuel": "diesel"
+            },
+            {
+              "label": "RS 2.0 TDI (184 Hp) 4x4 7 DSG (2018 - 2019)",
+              "hp": 184,
+              "fuel": "diesel"
+            },
+            {
+              "label": "RS 2.0 TDI (184 Hp) 4x4 6 DSG (2017 - 2018)",
+              "hp": 184,
+              "fuel": "diesel"
+            },
+            {
+              "label": "RS 2.0 TDI (184 Hp) (2017 - 2019)",
+              "hp": 184,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TSI (190 Hp) DSG (2018 - 2019)",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TSI (190 Hp) 4x4 DSG (2018 - 2019)",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TDI (184 Hp) 4x4 7 DSG (2018 - 2019)",
+              "hp": 184,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (184 Hp) 4x4 6 DSG (2017 - 2018)",
+              "hp": 184,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) 7 DSG (2018 - 2019)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) 6 DSG (2017 - 2018)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) 4x4 DSG (2017 - 2019)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) 4x4 (2017 - 2019)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) (2017 - 2019)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (143 Hp) DSG (2018 - 2019)",
+              "hp": 143,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (143 Hp) (2018 - 2019)",
+              "hp": 143,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.8 TSI (180 Hp) DSG (2017 - 2018)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 TSI (180 Hp) 4x4 DSG (2017 - 2018)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 TSI (180 Hp) (2017 - 2018)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 TDI (116 Hp) DSG (2017 - 2019)",
+              "hp": 116,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI (116 Hp) 4x4 (2018 - 2019)",
+              "hp": 116,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI (116 Hp) (2017 - 2019)",
+              "hp": 116,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 MPI (110 Hp) Automatic (2018 - 2019)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 MPI (110 Hp) (2018 - 2019)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 TSI (150 Hp) DSG (2017 - 2019)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 TSI (150 Hp) (2017 - 2019)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TSI (150 Hp) DSG (2017 - 2018)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TSI (150 Hp) (2017 - 2018)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 G-TEC (110 Hp) CNG DSG (2017 - 2018)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 G-TEC (110 Hp) CNG (2017 - 2018)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TSI (86 Hp) (2017 - 2018)",
+              "hp": 86,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TSI (116 Hp) DSG (2017 - 2019)",
+              "hp": 116,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TSI (116 Hp) (2017 - 2019)",
+              "hp": 116,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "skoda-octavia-iii-scout": {
+          "label": "Skoda Octavia III Scout",
+          "engines": [
+            {
+              "label": "2.0 TDI (184 Hp) DSG 4x4 (2013 - 2017)",
+              "hp": 184,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) 4x4 (2013 - 2017)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.8 TSI (180 Hp) DSG 4x4 (2014 - 2017)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 TDI (110 Hp) 4x4 (2016 - 2016)",
+              "hp": 110,
+              "fuel": "diesel"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "skoda-octavia-iii-combi": {
+          "label": "Skoda Octavia III Combi",
+          "engines": [
+            {
+              "label": "RS 2.0 TSI (230 Hp) DSG (2015 - 2017)",
+              "hp": 230,
+              "fuel": "benzin"
+            },
+            {
+              "label": "RS 2.0 TSI (230 Hp) (2015 - 2017)",
+              "hp": 230,
+              "fuel": "benzin"
+            },
+            {
+              "label": "RS 2.0 TSI (220 Hp) DSG (2013 - 2017)",
+              "hp": 220,
+              "fuel": "benzin"
+            },
+            {
+              "label": "RS 2.0 TSI (220 Hp) (2013 - 2017)",
+              "hp": 220,
+              "fuel": "benzin"
+            },
+            {
+              "label": "RS 2.0 TDI (184 Hp) DSG (2013 - 2017)",
+              "hp": 184,
+              "fuel": "diesel"
+            },
+            {
+              "label": "RS 2.0 TDI (184 Hp) (2013 - 2017)",
+              "hp": 184,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (184 Hp) DSG 4x4 (2013 - 2017)",
+              "hp": 184,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) DSG (2013 - 2017)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) 4x4 (2013 - 2017)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) (2013 - 2017)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.8 TSI (180 Hp) DSG (2013 - 2017)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 TSI (180 Hp) 4x4 DSG (2013 - 2017)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 TSI (180 Hp) (2013 - 2017)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 TDI (110 Hp) GreenLine (2013 - 2017)",
+              "hp": 110,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI (110 Hp) DSG (2013 - 2017)",
+              "hp": 110,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI (110 Hp) 4x4 (2013 - 2017)",
+              "hp": 110,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI (110 Hp) (2013 - 2017)",
+              "hp": 110,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI (105 Hp) DSG (2013 - 2015)",
+              "hp": 105,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI (105 Hp) 4x4 (2013 - 2015)",
+              "hp": 105,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI (105 Hp) (2013 - 2015)",
+              "hp": 105,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI (90 Hp) (2013 - 2017)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.4 TSI (150 Hp) DSG (2015 - 2017)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TSI (150 Hp) (2015 - 2017)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TSI (140 Hp) DSG (2013 - 2015)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TSI (140 Hp) (2013 - 2015)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 G-TEC (110 Hp) CNG DSG (2013 - 2017)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 G-TEC (110 Hp) CNG (2013 - 2017)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TSI (110 Hp) DSG (2015 - 2016)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TSI (110 Hp) (2015 - 2016)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TSI (105 Hp) DSG (2013 - 2015)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TSI (105 Hp) (2013 - 2015)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TSI (86 Hp) (2013 - 2017)",
+              "hp": 86,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TSI (115 Hp) DSG (2016 - 2017)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TSI (115 Hp) (2016 - 2017)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "skoda-octavia-iii": {
+          "label": "Skoda Octavia III",
+          "engines": [
+            {
+              "label": "RS 2.0 TSI (230 Hp) DSG (2015 - 2017)",
+              "hp": 230,
+              "fuel": "benzin"
+            },
+            {
+              "label": "RS 2.0 TSI (230 Hp) (2015 - 2017)",
+              "hp": 230,
+              "fuel": "benzin"
+            },
+            {
+              "label": "RS 2.0 TSI (220 Hp) DSG (2013 - 2017)",
+              "hp": 220,
+              "fuel": "benzin"
+            },
+            {
+              "label": "RS 2.0 TSI (220 Hp) (2013 - 2017)",
+              "hp": 220,
+              "fuel": "benzin"
+            },
+            {
+              "label": "RS 2.0 TDI (184 Hp) DSG (2013 - 2017)",
+              "hp": 184,
+              "fuel": "diesel"
+            },
+            {
+              "label": "RS 2.0 TDI (184 Hp) (2013 - 2017)",
+              "hp": 184,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (184 Hp) DSG 4x4 (2013 - 2017)",
+              "hp": 184,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) DSG (2013 - 2017)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) 4x4 (2013 - 2017)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) (2013 - 2017)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.8 TSI (180 Hp) DSG 4x4 (2013 - 2017)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 TSI (180 Hp) DSG (2013 - 2017)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 TSI (180 Hp) (2013 - 2017)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 TDI (110 Hp) GreenLine (2013 - 2017)",
+              "hp": 110,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI (110 Hp) DSG (2013 - 2017)",
+              "hp": 110,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI (110 Hp) 4x4 (2013 - 2017)",
+              "hp": 110,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI (110 Hp) (2013 - 2017)",
+              "hp": 110,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI (105 Hp) DSG (2013 - 2015)",
+              "hp": 105,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI (105 Hp) 4x4 (2013 - 2015)",
+              "hp": 105,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI (105 Hp) (2013 - 2015)",
+              "hp": 105,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI (90 Hp) (2013 - 2017)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.4 TSI (150 Hp) DSG (2015 - 2017)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TSI (150 Hp) (2015 - 2017)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TSI (140 Hp) DSG (2013 - 2015)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TSI (140 Hp) (2013 - 2015)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 G-TEC (110 Hp) CNG DSG (2013 - 2017)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 G-TEC (110 Hp) CNG (2013 - 2017)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TSI (110 Hp) DSG (2015 - 2016)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TSI (110 Hp) (2015 - 2016)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TSI (105 Hp) DSG (2013 - 2015)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TSI (105 Hp) (2013 - 2015)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TSI (86 Hp) (2013 - 2017)",
+              "hp": 86,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TSI (115 Hp) DSG (2016 - 2017)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TSI (115 Hp) (2016 - 2017)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "skoda-octavia-ii-combi-facelift-2009": {
+          "label": "Skoda Octavia II Combi (facelift 2009)",
+          "engines": [
+            {
+              "label": "RS 2.0 TSI (200 Hp) DSG (2009 - 2013)",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "RS 2.0 TSI (200 Hp) (2009 - 2013)",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "RS 2.0 TDI (170 Hp) DSG (2010 - 2013)",
+              "hp": 170,
+              "fuel": "diesel"
+            },
+            {
+              "label": "RS 2.0 TDI (170 Hp) (2010 - 2013)",
+              "hp": 170,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI PD 16V (140 Hp) DSG (2009 - 2010)",
+              "hp": 140,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI PD 16V (140 Hp) (2009 - 2010)",
+              "hp": 140,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI CR (140 Hp) DSG (2010 - 2013)",
+              "hp": 140,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI CR (140 Hp) 4x4 (2010 - 2013)",
+              "hp": 140,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI CR (140 Hp) (2010 - 2013)",
+              "hp": 140,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.9 TDI (105 Hp) DSG (2009 - 2010)",
+              "hp": 105,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.9 TDI (105 Hp) 4x4 (2009 - 2010)",
+              "hp": 105,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.9 TDI (105 Hp) (2009 - 2010)",
+              "hp": 105,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.8 TSI (160 Hp) 7-DSG (2009 - 2013)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 TSI (160 Hp) 4x4 (2009 - 2013)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 TSI (160 Hp) (2009 - 2013)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 TDI CR DPF (105 Hp) (2009 - 2013)",
+              "hp": 105,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 MPI (102/98 Hp) LPG (2009 - 2013)",
+              "hp": 98,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 MPI (102 Hp) Tiptronic (2009 - 2013)",
+              "hp": 102,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 MPI (102 Hp) (2009 - 2013)",
+              "hp": 102,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TSI (122 Hp) DSG (2009 - 2013)",
+              "hp": 122,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TSI (122 Hp) (2009 - 2013)",
+              "hp": 122,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 MPI (80 Hp) (2009 - 2013)",
+              "hp": 80,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TSI (105 Hp) (2010 - 2013)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "skoda-octavia-ii-facelift-2009": {
+          "label": "Skoda Octavia II (facelift 2009)",
+          "engines": [
+            {
+              "label": "RS 2.0 TSI (200 Hp) DSG (2009 - 2013)",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "RS 2.0 TSI (200 Hp) (2009 - 2013)",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "RS 2.0 TDI (170 Hp) DSG (2009 - 2013)",
+              "hp": 170,
+              "fuel": "diesel"
+            },
+            {
+              "label": "RS 2.0 TDI (170 Hp) (2009 - 2013)",
+              "hp": 170,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI PD 16V (140 Hp) DSG (2009 - 2010)",
+              "hp": 140,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI PD 16V (140 Hp) (2009 - 2010)",
+              "hp": 140,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI CR (140 Hp) DSG (2010 - 2013)",
+              "hp": 140,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI CR (140 Hp) (2010 - 2013)",
+              "hp": 140,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.9 TDI (105 Hp) DSG (2009 - 2010)",
+              "hp": 105,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.9 TDI (105 Hp) (2009 - 2010)",
+              "hp": 105,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.8 TSI (160 Hp) 7-DSG (2009 - 2013)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 TSI (160 Hp) (2009 - 2013)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 TDI CR DPF (105 Hp) (2009 - 2013)",
+              "hp": 105,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 MPI (102/98 Hp) LPG (2009 - 2013)",
+              "hp": 98,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 MPI (102 Hp) Tiptronic (2009 - 2013)",
+              "hp": 102,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 MPI (102 Hp) (2009 - 2013)",
+              "hp": 102,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TSI (122 Hp) DSG (2009 - 2013)",
+              "hp": 122,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TSI (122 Hp) (2009 - 2013)",
+              "hp": 122,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 MPI (80 Hp) (2009 - 2013)",
+              "hp": 80,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TSI (105 Hp) (2010 - 2013)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "skoda-octavia-ii-scout-facelift-2009": {
+          "label": "Skoda Octavia II Scout (facelift 2009)",
+          "engines": [
+            {
+              "label": "2.0 TDI CR (140 Hp) 4x4 DSG (2010 - 2012)",
+              "hp": 140,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI CR (140 Hp) 4x4 (2010 - 2012)",
+              "hp": 140,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.8 TSI (160 Hp) 4x4 (2009 - 2012)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "skoda-octavia-ii-scout": {
+          "label": "Skoda Octavia II Scout",
+          "engines": [
+            {
+              "label": "2.0 TDI (140 Hp) 4x4 (2007 - 2009)",
+              "hp": 140,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 FSI (150 Hp) 4x4 (2007 - 2008)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 TSI (160 Hp) 4x4 (2008 - 2009)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "skoda-octavia-ii-combi": {
+          "label": "Skoda Octavia II Combi",
+          "engines": [
+            {
+              "label": "RS 2.0 TFSI (200 Hp) (2005 - 2008)",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "RS 2.0 TDI (170 Hp) DSG (2006 - 2008)",
+              "hp": 170,
+              "fuel": "diesel"
+            },
+            {
+              "label": "RS 2.0 TDI (170 Hp) (2006 - 2008)",
+              "hp": 170,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (140 Hp) DSG (2004 - 2008)",
+              "hp": 140,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (140 Hp) 4x4 (2004 - 2008)",
+              "hp": 140,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (140 Hp) (2004 - 2008)",
+              "hp": 140,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 FSI (150 Hp) Tiptronic (2004 - 2008)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 FSI (150 Hp) 4x4 (2004 - 2008)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 FSI (150 Hp) (2004 - 2008)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 TDI (105 Hp) DSG (2004 - 2008)",
+              "hp": 105,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.9 TDI (105 Hp) Automatic (2004 - 2008)",
+              "hp": 105,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.9 TDI (105 Hp) 4x4 (2004 - 2008)",
+              "hp": 105,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.9 TDI (105 Hp) (2004 - 2008)",
+              "hp": 105,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.8 TSI (160 Hp) (2007 - 2008)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 FSI (115 Hp) Tiptronic (2004 - 2008)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (102 Hp) Tiptronic (2004 - 2008)",
+              "hp": 102,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (102 Hp) (2004 - 2008)",
+              "hp": 102,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 MPI (75 Hp) (2004 - 2006)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "skoda-octavia-ii": {
+          "label": "Skoda Octavia II",
+          "engines": [
+            {
+              "label": "RS 2.0 TFSI (200 Hp) (2005 - 2008)",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "RS 2.0 TDI (170 Hp) DSG (2006 - 2008)",
+              "hp": 170,
+              "fuel": "diesel"
+            },
+            {
+              "label": "RS 2.0 TDI (170 Hp) (2006 - 2008)",
+              "hp": 170,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI PD (140 Hp) Automatic (2004 - 2008)",
+              "hp": 140,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI PD (140 Hp) (2004 - 2008)",
+              "hp": 140,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 16V FSI (150 Hp) Automatic (2004 - 2008)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 16V FSI (150 Hp) (2004 - 2008)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 TDI (105 Hp) DSG (2004 - 2008)",
+              "hp": 105,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.9 TDI (105 Hp) DPF DSG (2006 - 2008)",
+              "hp": 105,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.9 TDI (105 Hp) DPF (2006 - 2008)",
+              "hp": 105,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.9 TDI (105 Hp) (2004 - 2008)",
+              "hp": 105,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.8 TSI (160 Hp) (2007 - 2008)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 MPI (102 Hp) Automatic (2004 - 2008)",
+              "hp": 102,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 MPI (102 Hp) (2004 - 2008)",
+              "hp": 102,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 16V FSI (115 Hp) Automatic (2004 - 2008)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 16V FSI (115 Hp) (2004 - 2008)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 MPI (75 Hp) Automatic (2004 - 2006)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 MPI (75 Hp) (2004 - 2006)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "skoda-octavia-i-combi-tour-facelift-2000": {
+          "label": "Skoda Octavia I Combi Tour (facelift 2000)",
+          "engines": [
+            {
+              "label": "2.0 (115 Hp) 4x4 (2000 - 2010)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (115 Hp) (2000 - 2007)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 TDI (130 Hp) (2002 - 2004)",
+              "hp": 130,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.9 TDI (110 Hp) (2000 - 2006)",
+              "hp": 110,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.9 TDI (100 Hp) 4x4 (2000 - 2006)",
+              "hp": 100,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.9 TDI (100 Hp) (2005 - 2010)",
+              "hp": 100,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.9 TDI (90 Hp) Automatic (2000 - 2010)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.9 TDI (90 Hp) (2000 - 2010)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.9 SDI (68 Hp) (2000 - 2004)",
+              "hp": 68,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 T (180 Hp) (2000 - 2006)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 T (150 Hp) Automatic (2000 - 2010)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 T (150 Hp) 4x4 (2000 - 2006)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 T (150 Hp) (2000 - 2010)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (102 Hp) Automatic (2000 - 2007)",
+              "hp": 102,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (102 Hp) (2000 - 2010)",
+              "hp": 102,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 i 16V (75 Hp) (2000 - 2010)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "skoda-octavia-i-tour-facelift-2000": {
+          "label": "Skoda Octavia I Tour (facelift 2000)",
+          "engines": [
+            {
+              "label": "2.0 (115 Hp) (2000 - 2007)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 TDI (130 Hp) (2003 - 2010)",
+              "hp": 130,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.9 TDI (110 Hp) (2000 - 2006)",
+              "hp": 110,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.9 TDI (100 Hp) (2005 - 2010)",
+              "hp": 100,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.9 TDI (90 Hp) Automatic (2000 - 2010)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.9 TDI (90 Hp) (2000 - 2010)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.9 SDI (68 Hp) (2000 - 2004)",
+              "hp": 68,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 T (180 Hp) (2000 - 2006)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 T (150 Hp) Automatic (2000 - 2010)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 T (150 Hp) 4x4 (2000 - 2006)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 T (150 Hp) (2000 - 2010)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (102 Hp) Automatic (2000 - 2010)",
+              "hp": 102,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (102 Hp) (2000 - 2010)",
+              "hp": 102,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 (75 Hp) (2000 - 2010)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "skoda-octavia-i-combi-tour": {
+          "label": "Skoda Octavia I Combi Tour",
+          "engines": [
+            {
+              "label": "2.0 (116 Hp) Automatic (1999 - 2000)",
+              "hp": 116,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (116 Hp) (1999 - 2000)",
+              "hp": 116,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 TDI (110 Hp) (1997 - 2000)",
+              "hp": 110,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.9 TDI (90 Hp) Automatic (1996 - 2000)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.9 TDI (90 Hp) 4x4 Automatic (1999 - 2000)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.9 TDI (90 Hp) 4x4 (1999 - 2000)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.9 TDI (90 Hp) (1996 - 2000)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.9 SDI (68 Hp) (1997 - 2000)",
+              "hp": 68,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 T (150 Hp) Automatic (1997 - 2000)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 T (150 Hp) (1997 - 2000)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 20V (125 Hp) (1997 - 2000)",
+              "hp": 125,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (75 Hp) Automatic (1996 - 2000)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (75 Hp) (1996 - 2000)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (100 Hp) Automatic (1997 - 2000)",
+              "hp": 100,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (100 Hp) (1997 - 2000)",
+              "hp": 100,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "skoda-octavia-i-tour": {
+          "label": "Skoda Octavia I Tour",
+          "engines": [
+            {
+              "label": "2.0 (115 Hp) Automatic (1999 - 2000)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (115 Hp) (1999 - 2000)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 TDI (110 Hp) (1997 - 2000)",
+              "hp": 110,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.9 TDI (90 Hp) Automatic (1996 - 2000)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.9 TDI (90 Hp) (1996 - 2000)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.9 SDI (68 Hp) (1997 - 2000)",
+              "hp": 68,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 SDI (64 Hp) (1996 - 2000)",
+              "hp": 64,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 T (150 Hp) Automatic (1997 - 2000)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 T (150 Hp) (1997 - 2000)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 20V (125 Hp) Automatic (1997 - 2000)",
+              "hp": 125,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 20V (125 Hp) (1997 - 2000)",
+              "hp": 125,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (75 Hp) (1996 - 2000)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (101 Hp) Automatic (1997 - 2000)",
+              "hp": 101,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 (101 Hp) (1997 - 2000)",
+              "hp": 101,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 (60 Hp) (1999 - 2000)",
+              "hp": 60,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "praktik": {
+      "label": "Praktik",
+      "series": {
+        "skoda-praktik": {
+          "label": "Skoda Praktik",
+          "engines": [
+            {
+              "label": "1.4 TDI (80 Hp) (2006 - 2010)",
+              "hp": 80,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.4 TDI (69 Hp) (2006 - 2010)",
+              "hp": 69,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.4 16V (86 Hp) (2006 - 2010)",
+              "hp": 86,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 12V HTP (69 Hp) (2006 - 2010)",
+              "hp": 69,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "rapid": {
+      "label": "Rapid",
+      "series": {
+        "skoda-rapid-ii-russia": {
+          "label": "Skoda Rapid II (Russia)",
+          "engines": [
+            {
+              "label": "1.6 MPI (110 Hp) Automatic (2019 - 2022)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 MPI (110 Hp) (2019 - 2022)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 MPI (90 Hp) (2019 - 2022)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TSI (125 Hp) DSG (2019 - 2022)",
+              "hp": 125,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "skoda-rapid-sedan-china": {
+          "label": "Skoda Rapid Sedan (China)",
+          "engines": [
+            {
+              "label": "1.5i (110 Hp) Automatic (2018 - 2019)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5i (110 Hp) (2018 - 2019)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "skoda-rapid-facelift-2017": {
+          "label": "Skoda Rapid (facelift 2017)",
+          "engines": [
+            {
+              "label": "1.6 TDI (116 Hp) (2017 - 2019)",
+              "hp": 116,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 MPI (110 Hp) Automatic (2018 - 2019)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 MPI (110 Hp) (2018 - 2019)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 MPI (90 Hp) (2018 - 2019)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TSI (125 Hp) Automatic (2017 - 2019)",
+              "hp": 125,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TDI (90 Hp) Automatic (2017 - 2019)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.4 TDI (90 Hp) (2017 - 2019)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.0 TSI (110 Hp) (2017 - 2019)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TSI (95 Hp) Automatic (2017 - 2019)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TSI (95 Hp) (2017 - 2019)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "skoda-rapid-spaceback-facelift-2017": {
+          "label": "Skoda Rapid Spaceback (facelift 2017)",
+          "engines": [
+            {
+              "label": "TSI230 (131 Hp) DSG (2018 - 2019)",
+              "hp": 131,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6i (110 Hp) Automatic (2018 - 2019)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6i (110 Hp) (2018 - 2019)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 TDI (116 Hp) (2017 - 2019)",
+              "hp": 116,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.4i (90 Hp) (2018 - 2019)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TSI (125 Hp) Automatic (2017 - 2019)",
+              "hp": 125,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TDI (90 Hp) Automatic (2017 - 2019)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.4 TDI (90 Hp) (2017 - 2019)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.0 TSI (110 Hp) (2017 - 2019)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TSI (95 Hp) Automatic (2017 - 2019)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TSI (95 Hp) (2017 - 2019)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "skoda-rapid-spaceback": {
+          "label": "Skoda Rapid Spaceback",
+          "engines": [
+            {
+              "label": "1.6 TDI (115 Hp) (2015 - 2017)",
+              "hp": 115,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI (105 Hp) start/stop (2013 - 2015)",
+              "hp": 105,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI (105 Hp) (2013 - 2015)",
+              "hp": 105,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI (90 Hp) start/stop (2013 - 2015)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI (90 Hp) Green Line (2013 - 2015)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI (90 Hp) DSG (2013 - 2015)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI (90 Hp) (2013 - 2015)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.4 TSI (125 Hp) DSG (2015 - 2017)",
+              "hp": 125,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TSI (122 Hp) DSG start/stop (2013 - 2015)",
+              "hp": 122,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TSI (122 Hp) DSG (2013 - 2015)",
+              "hp": 122,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TDI (90 Hp) DSG (2015 - 2017)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.4 TDI (90 Hp) (2015 - 2017)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.2 TSI (110 Hp) (2014 - 2017)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TSI (105 Hp) start/stop (2013 - 2015)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TSI (105 Hp) (2013 - 2015)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TSI (90 Hp) DSG (2015 - 2017)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TSI (90 Hp) (2015 - 2017)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TSI (86 Hp) start/stop (2013 - 2015)",
+              "hp": 86,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TSI (86 Hp) (2013 - 2015)",
+              "hp": 86,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "skoda-rapid-2012": {
+          "label": "Skoda Rapid (2012)",
+          "engines": [
+            {
+              "label": "1.6 TDI (115 Hp) (2015 - 2017)",
+              "hp": 115,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI CR DPF (105 Hp) (2012 - 2015)",
+              "hp": 105,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.4 TSI (125 Hp) DSG (2015 - 2017)",
+              "hp": 125,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TSI (122 Hp) (2012 - 2015)",
+              "hp": 122,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TDI (90 Hp) DSG (2015 - 2017)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.4 TDI (90 Hp) (2015 - 2017)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.2 TSI (110 Hp) (2015 - 2017)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TSI (105 Hp) (2012 - 2015)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TSI (90 Hp) DSG (2015 - 2017)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TSI (90 Hp) (2015 - 2017)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TSI (85 Hp) (2012 - 2015)",
+              "hp": 85,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 MPI (75 Hp) (2012 - 2015)",
+              "hp": 75,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "skoda-rapid-120g130g135g": {
+          "label": "Skoda Rapid (120G,130G,135G)",
+          "engines": [
+            {
+              "label": "1.3 S (135GL) (58 Hp) (1984 - 1990)",
+              "hp": 58,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 (130G) (62 Hp) (1985 - 1988)",
+              "hp": 62,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 (130G) (53 Hp) (1987 - 1990)",
+              "hp": 53,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 (120G) (58 Hp) (1984 - 1990)",
+              "hp": 58,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "roomster": {
+      "label": "Roomster",
+      "series": {
+        "skoda-roomster-facelift-2010": {
+          "label": "Skoda Roomster (facelift 2010)",
+          "engines": [
+            {
+              "label": "1.6 TDI (105 Hp) DPF (2010 - 2015)",
+              "hp": 105,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI (90 Hp) DPF (2010 - 2015)",
+              "hp": 90,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.4 (86 Hp) (2010 - 2015)",
+              "hp": 86,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TSI (105 Hp) Automatic (2010 - 2015)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TSI (105 Hp) (2010 - 2015)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TSI (86 Hp) (2010 - 2015)",
+              "hp": 86,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TDI (75 Hp) DPF (2010 - 2015)",
+              "hp": 75,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.2 HTP (70 Hp) (2010 - 2015)",
+              "hp": 70,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "skoda-roomster": {
+          "label": "Skoda Roomster",
+          "engines": [
+            {
+              "label": "1.9 TDI (105 Hp) (2006 - 2010)",
+              "hp": 105,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 i 16V (105 Hp) Tiptronic (2006 - 2010)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 i 16V (105 Hp) (2006 - 2010)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TDI (80 Hp) (2006 - 2010)",
+              "hp": 80,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.4 TDI (70 Hp) (2006 - 2010)",
+              "hp": 70,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.4 16V (86 Hp) (2006 - 2010)",
+              "hp": 86,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 12V (64 Hp) (2006 - 2007)",
+              "hp": 64,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "scala": {
+      "label": "Scala",
+      "series": {
+        "skoda-scala-facelift-2023": {
+          "label": "Skoda Scala (facelift 2023)",
+          "engines": [
+            {
+              "label": "1.5 TSI ACT (150 Hp) DSG",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 TSI ACT (150 Hp)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TSI (115 Hp) DSG",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TSI (115 Hp)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TSI (95 Hp)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "skoda-scala": {
+          "label": "Skoda Scala",
+          "engines": [
+            {
+              "label": "Edition S 1.5 TSI (190 Hp) (2021 - 2021)",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 TDI (115 Hp) DSG (2019 - 2020)",
+              "hp": 115,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI (115 Hp) (2019 - 2020)",
+              "hp": 115,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 TSI (150 Hp) DSG (2019 - 2023)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 TSI (150 Hp) (2019 - 2023)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TSI (115 Hp) DSG (2019 - 2020)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TSI (115 Hp) (2019 - 2020)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TSI (110 Hp) DSG (2020 - 2023)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TSI (110 Hp) (2020 - 2023)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TSI (95 Hp) (2020 - 2023)",
+              "hp": 95,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 G-TEC (90 Hp) CNG (2020 - 2022)",
+              "hp": 90,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "slavia": {
+      "label": "Slavia",
+      "series": {
+        "skoda-slavia": {
+          "label": "Skoda Slavia",
+          "engines": [
+            {
+              "label": "1.5 TSI (150 Hp) ACT DSG",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 TSI (150 Hp) ACT",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TSI (116 Hp) Automatic",
+              "hp": 116,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 TSI (116 Hp)",
+              "hp": 116,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "skoda-slavia-concept": {
+          "label": "Skoda Slavia Concept",
+          "engines": [
+            {
+              "label": "1.5 TSI (150 Hp) DSG (2020 - 2020)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "superb": {
+      "label": "Superb",
+      "series": {
+        "skoda-superb-iv": {
+          "label": "Skoda Superb IV",
+          "engines": [
+            {
+              "label": "iV 1.5 TSI (272 Hp) Plug-in Hybrid DSG",
+              "hp": 272,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "iV 1.5 TSI (204 Hp) Plug-in Hybrid DSG",
+              "hp": 204,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "2.0 TSI (265 Hp) 4x4 DSG",
+              "hp": 265,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TSI (204 Hp) DSG",
+              "hp": 204,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TDI (193 Hp) 4x4 DSG",
+              "hp": 193,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) DSG",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 TSI (150 Hp) Mild Hybrid DSG",
+              "hp": 150,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "skoda-superb-iv-combi": {
+          "label": "Skoda Superb IV Combi",
+          "engines": [
+            {
+              "label": "iV 1.5 TSI (204 Hp) Plug-in Hybrid DSG",
+              "hp": 204,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "2.0 TSI (265 Hp) 4x4 DSG",
+              "hp": 265,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TSI (204 Hp) DSG",
+              "hp": 204,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TDI (193 Hp) 4x4 DSG",
+              "hp": 193,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) DSG",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 TSI (150 Hp) Mild Hybrid DSG",
+              "hp": 150,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "skoda-superb-iii-facelift-2019": {
+          "label": "Skoda Superb III (facelift 2019)",
+          "engines": [
+            {
+              "label": "iV 1.4 TSi (218 Hp) Plug-in hybrid (2019 - 2022)",
+              "hp": 218,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "2.0 TSI (280 Hp) 4x4 DSG (2020 - 2023)",
+              "hp": 280,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TSI (272 Hp) 4x4 DSG (2019 - 2020)",
+              "hp": 272,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TSI (190 Hp) DSG (2021 - 2023)",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TDI (200 Hp) DSG (2020 - 2023)",
+              "hp": 200,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (200 Hp) 4x4 DSG (2020 - 2023)",
+              "hp": 200,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (190 Hp) DSG (2019 - 2020)",
+              "hp": 190,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (190 Hp) 4x4 DSG (2019 - 2020)",
+              "hp": 190,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) DSG (2019 - 2023)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) (2019 - 2023)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (122 Hp) DSG (2020 - 2021)",
+              "hp": 122,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI (120 Hp) DSG (2019 - 2020)",
+              "hp": 120,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 TSI (150 Hp) DSG (2019 - 2023)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 TSI (150 Hp) (2019 - 2023)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "skoda-superb-iii-combi-facelift-2019": {
+          "label": "Skoda Superb III Combi (facelift 2019)",
+          "engines": [
+            {
+              "label": "Sleeper Edition 2.0 TSI (477 Hp) 4x4 DSG (2024 - 2024)",
+              "hp": 477,
+              "fuel": "benzin"
+            },
+            {
+              "label": "iV 1.4 TSi (218 Hp) Plug-in hybrid DSG (2019 - 2022)",
+              "hp": 218,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "2.0 TSI (280 Hp) 4x4 DSG (2020 - 2023)",
+              "hp": 280,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TSI (272 Hp) 4x4 DSG (2019 - 2020)",
+              "hp": 272,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TSI (190 Hp) DSG (2021 - 2023)",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TDI (200 Hp) DSG (2020 - 2023)",
+              "hp": 200,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (200 Hp) 4x4 DSG (2020 - 2023)",
+              "hp": 200,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (190 Hp) DSG (2019 - 2020)",
+              "hp": 190,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (190 Hp) 4x4 DSG (2019 - 2020)",
+              "hp": 190,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) DSG (2019 - 2020)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) (2019 - 2020)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (122 Hp) DSG (2020 - 2021)",
+              "hp": 122,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI (120 Hp) DSG (2019 - 2020)",
+              "hp": 120,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 TSI (150 Hp) DSG (2019 - 2023)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 TSI (150 Hp) (2019 - 2023)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "skoda-superb-iii-scout-facelift-2019": {
+          "label": "Skoda Superb III Scout (facelift 2019)",
+          "engines": [
+            {
+              "label": "2.0 TSI (272 Hp) 4x4 DSG (2019 - 2020)",
+              "hp": 272,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TDI (200 Hp) 4x4 DSG (2020 - 2023)",
+              "hp": 200,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (190 Hp) 4x4 DSG (2019 - 2020)",
+              "hp": 190,
+              "fuel": "diesel"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "skoda-superb-iii": {
+          "label": "Skoda Superb III",
+          "engines": [
+            {
+              "label": "2.0 TSI (280 Hp) 4x4 DSG (2015 - 2018)",
+              "hp": 280,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TSI (272 Hp) 4x4 DSG (2018 - 2019)",
+              "hp": 272,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TSI (220 Hp) DSG (2015 - 2018)",
+              "hp": 220,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TDI (190 Hp) 7 DSG (2019 - 2019)",
+              "hp": 190,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (190 Hp) 6 DSG (2015 - 2018)",
+              "hp": 190,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (190 Hp) 4x4 7 DSG (2019 - 2019)",
+              "hp": 190,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (190 Hp) 4x4 6 DSG (2015 - 2018)",
+              "hp": 190,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (190 Hp) (2015 - 2019)",
+              "hp": 190,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) DSG (2015 - 2018)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) 4x4 (2015 - 2018)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) (2015 - 2018)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.8 TSI (180 Hp) DSG (2015 - 2018)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 TSI (180 Hp) (2015 - 2018)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 TDI (120 Hp) DSG (2015 - 2018)",
+              "hp": 120,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI (120 Hp) (2015 - 2018)",
+              "hp": 120,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 TSI (150 Hp) DSG ACT (2018 - 2019)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 TSI (150 Hp) ACT (2018 - 2019)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TSI (150 Hp) DSG ACT (2015 - 2018)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TSI (150 Hp) ACT (2015 - 2018)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TSI (150 Hp) 4x4 ACT (2015 - 2018)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TSI (125 Hp) (2015 - 2018)",
+              "hp": 125,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "skoda-superb-iii-combi": {
+          "label": "Skoda Superb III Combi",
+          "engines": [
+            {
+              "label": "2.0 TSI (280 Hp) 4x4 DSG (2015 - 2018)",
+              "hp": 280,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TSI (272 Hp) 4x4 DSG (2018 - 2019)",
+              "hp": 272,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TSI (220 Hp) DSG (2015 - 2018)",
+              "hp": 220,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TDI (190 Hp) 7 DSG (2019 - 2019)",
+              "hp": 190,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (190 Hp) 6 DSG (2015 - 2018)",
+              "hp": 190,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (190 Hp) 4x4 7 DSG (2019 - 2019)",
+              "hp": 190,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (190 Hp) 4x4 6 DSG (2015 - 2018)",
+              "hp": 190,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (190 Hp) (2015 - 2019)",
+              "hp": 190,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) DSG (2015 - 2018)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) 4x4 (2015 - 2018)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) (2015 - 2018)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.8 TSI (180 Hp) DSG (2015 - 2018)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 TSI (180 Hp) (2015 - 2018)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 TDI (120 Hp) DSG (2015 - 2018)",
+              "hp": 120,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.6 TDI (120 Hp) (2015 - 2018)",
+              "hp": 120,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.5 TSI (150 Hp) DSG ACT (2018 - 2019)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 TSI (150 Hp) ACT (2018 - 2019)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TSI (150 Hp) DSG ACT (2015 - 2018)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TSI (150 Hp) ACT (2015 - 2018)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TSI (150 Hp) 4x4 ACT (2015 - 2018)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TSI (125 Hp) (2015 - 2018)",
+              "hp": 125,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "skoda-superb-ii-facelift-2013": {
+          "label": "Skoda Superb II (facelift 2013)",
+          "engines": [
+            {
+              "label": "3.6 FSI (260 Hp) 4x4 DSG (2013 - 2015)",
+              "hp": 260,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TSI (200 Hp) DSG (2013 - 2015)",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TDI (170 Hp) DPF DSG (2013 - 2015)",
+              "hp": 170,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (170 Hp) DPF (2013 - 2015)",
+              "hp": 170,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (170 Hp) 4x4 DSG DPF (2013 - 2015)",
+              "hp": 170,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (140 Hp) DPF DSG (2013 - 2015)",
+              "hp": 140,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (140 Hp) DPF (2013 - 2015)",
+              "hp": 140,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (140 Hp) 4x4 DPF (2013 - 2015)",
+              "hp": 140,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.8 TSI (160 Hp) DSG (2013 - 2015)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 TSI (160 Hp) 4x4 (2013 - 2015)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 TSI (160 Hp) (2013 - 2015)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 TDI (105 Hp) DPF (2013 - 2015)",
+              "hp": 105,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.4 TSI (125 Hp) (2013 - 2015)",
+              "hp": 125,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "skoda-superb-ii-combi-facelift-2013": {
+          "label": "Skoda Superb II Combi (facelift 2013)",
+          "engines": [
+            {
+              "label": "3.6 FSI (260 Hp) 4x4 DSG (2013 - 2015)",
+              "hp": 260,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TSI (200 Hp) DSG (2013 - 2015)",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TDI (170 Hp) DPF DSG (2013 - 2015)",
+              "hp": 170,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (170 Hp) DPF (2013 - 2015)",
+              "hp": 170,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (170 Hp) 4x4 DSG DPF (2014 - 2015)",
+              "hp": 170,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (140 Hp) DPF DSG (2013 - 2015)",
+              "hp": 140,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (140 Hp) DPF (2013 - 2015)",
+              "hp": 140,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (140 Hp) 4x4 DPF (2013 - 2015)",
+              "hp": 140,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.8 TSI (160 Hp) DSG (2013 - 2015)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 TSI (160 Hp) 4x4 (2013 - 2015)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 TSI (160 Hp) (2013 - 2015)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 TDI (105 Hp) DPF (2013 - 2015)",
+              "hp": 105,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.4 TSI (125 Hp) (2013 - 2015)",
+              "hp": 125,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "skoda-superb-ii-combi": {
+          "label": "Skoda Superb II Combi",
+          "engines": [
+            {
+              "label": "3.6 FSI V6 (260 Hp) 4x4 DSG (2009 - 2013)",
+              "hp": 260,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TSI (200 Hp) DSG (2010 - 2013)",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TDI CR (170 Hp) DSG DPF (2009 - 2013)",
+              "hp": 170,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI CR (170 Hp) DPF (2009 - 2013)",
+              "hp": 170,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI CR (170 Hp) 4x4 DPF (2009 - 2013)",
+              "hp": 170,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI PD (140 Hp) DPF DSG (2009 - 2010)",
+              "hp": 140,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI PD (140 Hp) DPF (2009 - 2010)",
+              "hp": 140,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI CR (140 Hp) DSG DPF (2010 - 2013)",
+              "hp": 140,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI CR (140 Hp) DPF (2010 - 2013)",
+              "hp": 140,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI CR (140 Hp) 4x4 DSG DPF (2010 - 2013)",
+              "hp": 140,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.9 TDI (105 Hp) (2009 - 2010)",
+              "hp": 105,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.8 TSI (160 Hp) DSG (2010 - 2013)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 TSI (160 Hp) 4x4 (2009 - 2013)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 TSI (160 Hp) (2009 - 2013)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 TDI CR (105 Hp) DPF (2010 - 2013)",
+              "hp": 105,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.4 TSI (125 Hp) (2009 - 2013)",
+              "hp": 125,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "skoda-superb-ii": {
+          "label": "Skoda Superb II",
+          "engines": [
+            {
+              "label": "3.6 FSI V6 (260 Hp) 4x4 DSG (2008 - 2013)",
+              "hp": 260,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TSI (200 Hp) DSG (2010 - 2013)",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 TDI CR (170 Hp) DSG (2008 - 2013)",
+              "hp": 170,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI CR (170 Hp) 4x4 (2008 - 2013)",
+              "hp": 170,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI CR (170 Hp) (2008 - 2013)",
+              "hp": 170,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI CR (166 Hp) DPF (2010 - 2013)",
+              "hp": 166,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI PD (140 Hp) DPF DSG (2008 - 2010)",
+              "hp": 140,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI PD (140 Hp) DPF (2008 - 2010)",
+              "hp": 140,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI CR (140 Hp) DPF (2010 - 2013)",
+              "hp": 140,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.9 TDI (105 Hp) (2008 - 2010)",
+              "hp": 105,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.8 TSI (160 Hp) DSG (2008 - 2013)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 TSI (160 Hp) 4x4 (2008 - 2013)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 TSI (160 Hp) (2008 - 2013)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 TDI CR (105 Hp) DPF (2010 - 2013)",
+              "hp": 105,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.4 TSI (125 Hp) (2008 - 2013)",
+              "hp": 125,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "skoda-superb-i-facelift-2006": {
+          "label": "Skoda Superb I (facelift 2006)",
+          "engines": [
+            {
+              "label": "2.8 V6 (193 Hp) Tiptronic (2006 - 2008)",
+              "hp": 193,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.8 V6 (193 Hp) (2006 - 2008)",
+              "hp": 193,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.8 V6 (190 Hp) Tiptronic (2006 - 2008)",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 TDI V6 (163 Hp) (2006 - 2008)",
+              "hp": 163,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI PD (140 Hp) (2006 - 2008)",
+              "hp": 140,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 (115 Hp) (2006 - 2008)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 TDI (130 Hp) (2006 - 2008)",
+              "hp": 130,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.9 TDI (115 Hp) (2007 - 2008)",
+              "hp": 115,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.9 TDI (105 Hp) (2006 - 2007)",
+              "hp": 105,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.8 T (150 Hp) Tiptronic (2006 - 2008)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 T (150 Hp) (2006 - 2008)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "skoda-superb-i": {
+          "label": "Skoda Superb I",
+          "engines": [
+            {
+              "label": "2.8 V6 (193 Hp) Automatic (2001 - 2006)",
+              "hp": 193,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.8 V6 (193 Hp) (2001 - 2006)",
+              "hp": 193,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 V6 TDI (163 Hp) Automatic (2003 - 2006)",
+              "hp": 163,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.5 V6 TDI (163 Hp) (2003 - 2006)",
+              "hp": 163,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.5 TDI V6 (155 Hp) Automatic (2001 - 2006)",
+              "hp": 155,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.5 TDI V6 (155 Hp) (2001 - 2006)",
+              "hp": 155,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI PD (140 Hp) DPF (2005 - 2006)",
+              "hp": 140,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 (115 Hp) (2001 - 2006)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.9 TDI (131 Hp) (2001 - 2006)",
+              "hp": 131,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.9 TDI (130 Hp) Tiptronic (2004 - 2006)",
+              "hp": 130,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.9 TDI (101 Hp) (2002 - 2006)",
+              "hp": 101,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.8 T (150 Hp) Tiptronic (2004 - 2006)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.8 T (150 Hp) (2001 - 2006)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "vision": {
+      "label": "Vision",
+      "series": {
+        "skoda-vision-7s-concept": {
+          "label": "Skoda Vision 7S (Concept)",
+          "engines": [
+            {
+              "label": "Keine exakte Motorliste verfügbar – bitte genaue Motorisierung im Freitext angeben"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "skoda-vision-iv-concept": {
+          "label": "Skoda Vision iV (Concept)",
+          "engines": [
+            {
+              "label": "Keine exakte Motorliste verfügbar – bitte genaue Motorisierung im Freitext angeben"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "skoda-vision-rs-concept": {
+          "label": "Skoda Vision RS (Concept)",
+          "engines": [
+            {
+              "label": "Keine exakte Motorliste verfügbar – bitte genaue Motorisierung im Freitext angeben"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "skoda-vision-x-concept": {
+          "label": "Skoda Vision X (Concept)",
+          "engines": [
+            {
+              "label": "Keine exakte Motorliste verfügbar – bitte genaue Motorisierung im Freitext angeben"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "skoda-vision-e-concept": {
+          "label": "Skoda Vision E (Concept)",
+          "engines": [
+            {
+              "label": "(306 Hp) Electric",
+              "hp": 306,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "yeti": {
+      "label": "Yeti",
+      "series": {
+        "skoda-yeti-facelift-2013": {
+          "label": "Skoda Yeti (facelift 2013)",
+          "engines": [
+            {
+              "label": "2.0 TDI (170 Hp) 4x4 DSG (2013 - 2015)",
+              "hp": 170,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (170 Hp) 4x4 (2013 - 2015)",
+              "hp": 170,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) SCR 4x4 DSG (2015 - 2017)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) SCR 4x4 (2015 - 2017)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (150 Hp) SCR (2015 - 2017)",
+              "hp": 150,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (140 Hp) 4x4 DSG (2013 - 2015)",
+              "hp": 140,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (140 Hp) 4x4 (2013 - 2015)",
+              "hp": 140,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (140 Hp) (2013 - 2015)",
+              "hp": 140,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (110 Hp) SCR (2015 - 2017)",
+              "hp": 110,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (110 Hp) 4x4 SCR (2015 - 2017)",
+              "hp": 110,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (110 Hp) 4x4 (2013 - 2015)",
+              "hp": 110,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (110 Hp) (2013 - 2015)",
+              "hp": 110,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.8 TSI (160 Hp) 4x4 (2013 - 2015)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TSI (150 Hp) 4x4 DSG (2015 - 2017)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TSI (150 Hp) 4x4 (2015 - 2017)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TSI (125 Hp) DSG (2014 - 2017)",
+              "hp": 125,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TSI (125 Hp) (2014 - 2017)",
+              "hp": 125,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TSI (122 Hp) DSG (2013 - 2015)",
+              "hp": 122,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 TSI (122 Hp) (2013 - 2015)",
+              "hp": 122,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TSI (110 Hp) DSG (2015 - 2017)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TSI (110 Hp) (2015 - 2017)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TSI (105 Hp) DSG (2013 - 2015)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TSI (105 Hp) (2013 - 2015)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "skoda-yeti": {
+          "label": "Skoda Yeti",
+          "engines": [
+            {
+              "label": "2.0 TDI (170 Hp) DPF 4x4 (2009 - 2010)",
+              "hp": 170,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (140 Hp) DPF 4x4 (2009 - 2013)",
+              "hp": 140,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (140 Hp) DPF (2009 - 2013)",
+              "hp": 140,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (110 Hp) DPF 4x4 (2009 - 2013)",
+              "hp": 110,
+              "fuel": "diesel"
+            },
+            {
+              "label": "2.0 TDI (110 Hp) DPF (2009 - 2013)",
+              "hp": 110,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.8 TSI (152 Hp) 4x4 (2009 - 2013)",
+              "hp": 152,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 TDI (105 Hp) DPF (2010 - 2013)",
+              "hp": 105,
+              "fuel": "diesel"
+            },
+            {
+              "label": "1.4 TSI (122 Hp) (2010 - 2013)",
+              "hp": 122,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TSI (105 Hp) DSG (2011 - 2013)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 TSI (105 Hp) (2009 - 2013)",
+              "hp": 105,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

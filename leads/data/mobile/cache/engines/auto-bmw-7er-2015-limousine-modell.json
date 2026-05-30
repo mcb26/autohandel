@@ -1,0 +1,57 @@
+[
+  {
+    "label": "750Li xDrive (Benzin, 532 PS)",
+    "fuel": "benzin",
+    "hp": 532
+  },
+  {
+    "label": "750i xDrive (Benzin, 532 PS)",
+    "fuel": "benzin",
+    "hp": 532
+  },
+  {
+    "label": "745Le xDrive (Benzin/Elektro-PlugIn, 286 PS)",
+    "fuel": "benzin/elektro-plugin",
+    "hp": 286
+  },
+  {
+    "label": "745Le (Benzin/Elektro-PlugIn, 286 PS)",
+    "fuel": "benzin/elektro-plugin",
+    "hp": 286
+  },
+  {
+    "label": "745e (Benzin/Elektro-PlugIn, 285 PS)",
+    "fuel": "benzin/elektro-plugin",
+    "hp": 285
+  },
+  {
+    "label": "730Ld xDrive (Diesel, 286 PS)",
+    "fuel": "diesel",
+    "hp": 286
+  },
+  {
+    "label": "730Ld (Diesel, 286 PS)",
+    "fuel": "diesel",
+    "hp": 286
+  },
+  {
+    "label": "730d xDrive (Diesel, 286 PS)",
+    "fuel": "diesel",
+    "hp": 286
+  },
+  {
+    "label": "730d (Diesel, 286 PS)",
+    "fuel": "diesel",
+    "hp": 286
+  },
+  {
+    "label": "740Ld xDrive (Diesel, 340 PS)",
+    "fuel": "diesel",
+    "hp": 340
+  },
+  {
+    "label": "740d xDrive (Diesel, 340 PS)",
+    "fuel": "diesel",
+    "hp": 340
+  }
+]

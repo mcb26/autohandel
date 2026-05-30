@@ -1,0 +1,197 @@
+[
+  {
+    "label": "Crafter 35 TDI VA (Diesel, 102 PS)",
+    "fuel": "diesel",
+    "hp": 102
+  },
+  {
+    "label": "Crafter 35 TDI plus VA (Diesel, 102 PS)",
+    "fuel": "diesel",
+    "hp": 102
+  },
+  {
+    "label": "Crafter 30 TDI VA (Diesel, 102 PS)",
+    "fuel": "diesel",
+    "hp": 102
+  },
+  {
+    "label": "Crafter 50 TDI HA (Diesel, 122 PS)",
+    "fuel": "diesel",
+    "hp": 122
+  },
+  {
+    "label": "Crafter 55 TDI HA (Diesel, 122 PS)",
+    "fuel": "diesel",
+    "hp": 122
+  },
+  {
+    "label": "Crafter 50 TDI plus HA (Diesel, 122 PS)",
+    "fuel": "diesel",
+    "hp": 122
+  },
+  {
+    "label": "Crafter 55 TDI plus HA (Diesel, 122 PS)",
+    "fuel": "diesel",
+    "hp": 122
+  },
+  {
+    "label": "Crafter 35 TDI Autm. VA (Diesel, 140 PS)",
+    "fuel": "diesel",
+    "hp": 140
+  },
+  {
+    "label": "Crafter 30 TDI Autm. VA (Diesel, 140 PS)",
+    "fuel": "diesel",
+    "hp": 140
+  },
+  {
+    "label": "Crafter 35 TDI Autm. plus VA (Diesel, 140 PS)",
+    "fuel": "diesel",
+    "hp": 140
+  },
+  {
+    "label": "Crafter 35 TDI VA (Diesel, 140 PS)",
+    "fuel": "diesel",
+    "hp": 140
+  },
+  {
+    "label": "Crafter 35 TDI 4MOTION (Diesel, 140 PS)",
+    "fuel": "diesel",
+    "hp": 140
+  },
+  {
+    "label": "Crafter 35 TDI HA (Diesel, 140 PS)",
+    "fuel": "diesel",
+    "hp": 140
+  },
+  {
+    "label": "Crafter 35 TDI plus VA (Diesel, 140 PS)",
+    "fuel": "diesel",
+    "hp": 140
+  },
+  {
+    "label": "Crafter 30 TDI 4MOTION (Diesel, 140 PS)",
+    "fuel": "diesel",
+    "hp": 140
+  },
+  {
+    "label": "Crafter 30 TDI VA (Diesel, 140 PS)",
+    "fuel": "diesel",
+    "hp": 140
+  },
+  {
+    "label": "Crafter 35 TDI plus 4MOTION (Diesel, 140 PS)",
+    "fuel": "diesel",
+    "hp": 140
+  },
+  {
+    "label": "Crafter 35 TDI Autm. 4MOTION (Diesel, 177 PS)",
+    "fuel": "diesel",
+    "hp": 177
+  },
+  {
+    "label": "Crafter 35 TDI Autm. VA (Diesel, 177 PS)",
+    "fuel": "diesel",
+    "hp": 177
+  },
+  {
+    "label": "Crafter 50 TDI Autm. HA (Diesel, 177 PS)",
+    "fuel": "diesel",
+    "hp": 177
+  },
+  {
+    "label": "Crafter 55 TDI Autm. HA (Diesel, 177 PS)",
+    "fuel": "diesel",
+    "hp": 177
+  },
+  {
+    "label": "Crafter 30 TDI Autm. 4MOTION (Diesel, 177 PS)",
+    "fuel": "diesel",
+    "hp": 177
+  },
+  {
+    "label": "Crafter 30 TDI Autm. VA (Diesel, 177 PS)",
+    "fuel": "diesel",
+    "hp": 177
+  },
+  {
+    "label": "Crafter 35 TDI plus Autm. 4MOTION (Diesel, 177 PS)",
+    "fuel": "diesel",
+    "hp": 177
+  },
+  {
+    "label": "Crafter 35 TDI plus Autm. VA (Diesel, 177 PS)",
+    "fuel": "diesel",
+    "hp": 177
+  },
+  {
+    "label": "Crafter 50 TDI plus Autm. HA (Diesel, 177 PS)",
+    "fuel": "diesel",
+    "hp": 177
+  },
+  {
+    "label": "Crafter 55 TDI plus Autm. HA (Diesel, 177 PS)",
+    "fuel": "diesel",
+    "hp": 177
+  },
+  {
+    "label": "Crafter 35 TDI 4MOTION (Diesel, 177 PS)",
+    "fuel": "diesel",
+    "hp": 177
+  },
+  {
+    "label": "Crafter 35 TDI HA (Diesel, 177 PS)",
+    "fuel": "diesel",
+    "hp": 177
+  },
+  {
+    "label": "Crafter 35 TDI VA (Diesel, 177 PS)",
+    "fuel": "diesel",
+    "hp": 177
+  },
+  {
+    "label": "Crafter 50 TDI HA (Diesel, 177 PS)",
+    "fuel": "diesel",
+    "hp": 177
+  },
+  {
+    "label": "Crafter 55 TDI HA (Diesel, 177 PS)",
+    "fuel": "diesel",
+    "hp": 177
+  },
+  {
+    "label": "Crafter 30 TDI 4MOTION (Diesel, 177 PS)",
+    "fuel": "diesel",
+    "hp": 177
+  },
+  {
+    "label": "Crafter 30 TDI VA (Diesel, 177 PS)",
+    "fuel": "diesel",
+    "hp": 177
+  },
+  {
+    "label": "Crafter 35 TDI plus 4MOTION (Diesel, 177 PS)",
+    "fuel": "diesel",
+    "hp": 177
+  },
+  {
+    "label": "Crafter 35 TDI plus VA (Diesel, 177 PS)",
+    "fuel": "diesel",
+    "hp": 177
+  },
+  {
+    "label": "Crafter 50 TDI plus HA (Diesel, 177 PS)",
+    "fuel": "diesel",
+    "hp": 177
+  },
+  {
+    "label": "Crafter 55 TDI plus HA (Diesel, 177 PS)",
+    "fuel": "diesel",
+    "hp": 177
+  },
+  {
+    "label": "e-Crafter 35 PSM VA (Elektrischer Strom, 136 PS)",
+    "fuel": "elektrischer strom",
+    "hp": 136
+  }
+]

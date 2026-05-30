@@ -1,0 +1,257 @@
+[
+  {
+    "label": "A5 1.8 TFSI multitronic (Benzin, 160 PS)",
+    "fuel": "benzin",
+    "hp": 160
+  },
+  {
+    "label": "A5 1.8 TFSI (Benzin, 160 PS)",
+    "fuel": "benzin",
+    "hp": 160
+  },
+  {
+    "label": "A5 1.8 TFSI multitronic (Benzin, 170 PS)",
+    "fuel": "benzin",
+    "hp": 170
+  },
+  {
+    "label": "A5 1.8 TFSI (Benzin, 170 PS)",
+    "fuel": "benzin",
+    "hp": 170
+  },
+  {
+    "label": "A5 1.8 TFSI multitronic (Benzin, 177 PS)",
+    "fuel": "benzin",
+    "hp": 177
+  },
+  {
+    "label": "A5 1.8 TFSI (Benzin, 177 PS)",
+    "fuel": "benzin",
+    "hp": 177
+  },
+  {
+    "label": "A5 2.0 TFSI multitronic (Benzin, 180 PS)",
+    "fuel": "benzin",
+    "hp": 180
+  },
+  {
+    "label": "A5 2.0 TFSI (Benzin, 180 PS)",
+    "fuel": "benzin",
+    "hp": 180
+  },
+  {
+    "label": "A5 2.0 TFSI multitronic (Benzin, 211 PS)",
+    "fuel": "benzin",
+    "hp": 211
+  },
+  {
+    "label": "A5 2.0 TFSI quattro S tronic (Benzin, 211 PS)",
+    "fuel": "benzin",
+    "hp": 211
+  },
+  {
+    "label": "A5 2.0 TFSI quattro (Benzin, 211 PS)",
+    "fuel": "benzin",
+    "hp": 211
+  },
+  {
+    "label": "A5 2.0 TFSI (Benzin, 211 PS)",
+    "fuel": "benzin",
+    "hp": 211
+  },
+  {
+    "label": "A5 2.0 TFSI multitronic (Benzin, 225 PS)",
+    "fuel": "benzin",
+    "hp": 225
+  },
+  {
+    "label": "A5 2.0 TFSI quattro S tronic (Benzin, 225 PS)",
+    "fuel": "benzin",
+    "hp": 225
+  },
+  {
+    "label": "A5 2.0 TFSI quattro (Benzin, 225 PS)",
+    "fuel": "benzin",
+    "hp": 225
+  },
+  {
+    "label": "A5 2.0 TFSI (Benzin, 225 PS)",
+    "fuel": "benzin",
+    "hp": 225
+  },
+  {
+    "label": "A5 2.0 TFSI multitronic (Benzin, 230 PS)",
+    "fuel": "benzin",
+    "hp": 230
+  },
+  {
+    "label": "A5 2.0 TFSI quattro S tronic (Benzin, 230 PS)",
+    "fuel": "benzin",
+    "hp": 230
+  },
+  {
+    "label": "A5 2.0 TFSI quattro (Benzin, 230 PS)",
+    "fuel": "benzin",
+    "hp": 230
+  },
+  {
+    "label": "A5 2.0 TFSI (Benzin, 230 PS)",
+    "fuel": "benzin",
+    "hp": 230
+  },
+  {
+    "label": "A5 3.2 FSI multitronic (Benzin, 265 PS)",
+    "fuel": "benzin",
+    "hp": 265
+  },
+  {
+    "label": "A5 3.2 FSI quattro tiptronic (Benzin, 265 PS)",
+    "fuel": "benzin",
+    "hp": 265
+  },
+  {
+    "label": "A5 3.2 FSI quattro (Benzin, 265 PS)",
+    "fuel": "benzin",
+    "hp": 265
+  },
+  {
+    "label": "A5 3.0 TFSI quattro S tronic (Benzin, 272 PS)",
+    "fuel": "benzin",
+    "hp": 272
+  },
+  {
+    "label": "S5 S tronic (Benzin, 333 PS)",
+    "fuel": "benzin",
+    "hp": 333
+  },
+  {
+    "label": "S5 tiptronic (Benzin, 354 PS)",
+    "fuel": "benzin",
+    "hp": 354
+  },
+  {
+    "label": "S5 (Benzin, 354 PS)",
+    "fuel": "benzin",
+    "hp": 354
+  },
+  {
+    "label": "RS5 S tronic (Benzin, 450 PS)",
+    "fuel": "benzin",
+    "hp": 450
+  },
+  {
+    "label": "A5 2.0 TDI Ultra DPF (Diesel, 163 PS)",
+    "fuel": "diesel",
+    "hp": 163
+  },
+  {
+    "label": "A5 2.0 TDI DPF quattro (Diesel, 170 PS)",
+    "fuel": "diesel",
+    "hp": 170
+  },
+  {
+    "label": "A5 2.0 TDI DPF (Diesel, 170 PS)",
+    "fuel": "diesel",
+    "hp": 170
+  },
+  {
+    "label": "A5 2.0 TDI DPF multitronic (Diesel, 177 PS)",
+    "fuel": "diesel",
+    "hp": 177
+  },
+  {
+    "label": "A5 2.0 TDI DPF quattro S tronic (Diesel, 177 PS)",
+    "fuel": "diesel",
+    "hp": 177
+  },
+  {
+    "label": "A5 2.0 TDI DPF quattro (Diesel, 177 PS)",
+    "fuel": "diesel",
+    "hp": 177
+  },
+  {
+    "label": "A5 2.0 TDI DPF (Diesel, 177 PS)",
+    "fuel": "diesel",
+    "hp": 177
+  },
+  {
+    "label": "A5 2.0 TDI DPF (clean diesel) multitronic (Diesel, 190 PS)",
+    "fuel": "clean diesel) multitronic (diesel",
+    "hp": 190
+  },
+  {
+    "label": "A5 2.0 TDI DPF (clean diesel) quattro S tronic (Diesel, 190 PS)",
+    "fuel": "clean diesel) quattro s tronic (diesel",
+    "hp": 190
+  },
+  {
+    "label": "A5 2.7 TDI DPF multitronic (Diesel, 190 PS)",
+    "fuel": "diesel",
+    "hp": 190
+  },
+  {
+    "label": "A5 2.0 TDI DPF (clean diesel) quattro (Diesel, 190 PS)",
+    "fuel": "clean diesel) quattro (diesel",
+    "hp": 190
+  },
+  {
+    "label": "A5 2.0 TDI DPF (clean diesel) (Diesel, 190 PS)",
+    "fuel": "clean diesel) (diesel",
+    "hp": 190
+  },
+  {
+    "label": "A5 2.7 TDI DPF (Diesel, 190 PS)",
+    "fuel": "diesel",
+    "hp": 190
+  },
+  {
+    "label": "A5 3.0 TDI DPF multitronic (Diesel, 204 PS)",
+    "fuel": "diesel",
+    "hp": 204
+  },
+  {
+    "label": "A5 3.0 TDI DPF (Diesel, 204 PS)",
+    "fuel": "diesel",
+    "hp": 204
+  },
+  {
+    "label": "A5 3.0 TDI DPF quattro S tronic (Diesel, 218 PS)",
+    "fuel": "diesel",
+    "hp": 218
+  },
+  {
+    "label": "A5 3.0 TDI DPF quattro S tronic (Diesel, 240 PS)",
+    "fuel": "diesel",
+    "hp": 240
+  },
+  {
+    "label": "A5 3.0 TDI DPF quattro tiptronic (Diesel, 240 PS)",
+    "fuel": "diesel",
+    "hp": 240
+  },
+  {
+    "label": "A5 3.0 TDI DPF quattro (Diesel, 240 PS)",
+    "fuel": "diesel",
+    "hp": 240
+  },
+  {
+    "label": "A5 3.0 TDI DPF (clean diesel) quattro S tronic (Diesel, 245 PS)",
+    "fuel": "clean diesel) quattro s tronic (diesel",
+    "hp": 245
+  },
+  {
+    "label": "A5 3.0 TDI DPF clean diesel quattro S tronic (Diesel, 245 PS)",
+    "fuel": "diesel",
+    "hp": 245
+  },
+  {
+    "label": "A5 3.0 TDI DPF quattro S tronic (Diesel, 245 PS)",
+    "fuel": "diesel",
+    "hp": 245
+  },
+  {
+    "label": "A5 3.0 TDI DPF quattro (Diesel, 245 PS)",
+    "fuel": "diesel",
+    "hp": 245
+  }
+]

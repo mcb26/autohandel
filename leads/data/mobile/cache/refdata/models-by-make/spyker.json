@@ -1,0 +1,32 @@
+[
+  {
+    "name": "C8",
+    "description": "C8",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SPYKER/model/C8"
+  },
+  {
+    "name": "C8 AILERON",
+    "description": "C8 AILERON",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SPYKER/model/C8%20AILERON"
+  },
+  {
+    "name": "C8 DOUBLE 12 S",
+    "description": "C8 DOUBLE 12 S",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SPYKER/model/C8%20DOUBLE%2012%20S"
+  },
+  {
+    "name": "C8 LAVIOLETTE SWB",
+    "description": "C8 LAVIOLETTE SWB",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SPYKER/model/C8%20LAVIOLETTE%20SWB"
+  },
+  {
+    "name": "C8 SPYDER SWB",
+    "description": "C8 SPYDER SWB",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SPYKER/model/C8%20SPYDER%20SWB"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SPYKER/model/ANDERE"
+  }
+]

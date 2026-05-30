@@ -1,0 +1,151 @@
+{
+  "label": "Polestar",
+  "models": {
+    "1": {
+      "label": "1",
+      "series": {
+        "polestar-1": {
+          "label": "Polestar 1",
+          "engines": [
+            {
+              "label": "2.0 (600 Hp) Plug-in Hybrid AWD",
+              "hp": 600,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "2": {
+      "label": "2",
+      "series": {
+        "polestar-2-facelift-2023": {
+          "label": "Polestar 2 (facelift 2023)",
+          "engines": [
+            {
+              "label": "82 kWh (476 Hp) Long Range Dual Motor with Performance pack AWD",
+              "hp": 476
+            },
+            {
+              "label": "82 kWh (421 Hp) Long Range Dual Motor AWD",
+              "hp": 421
+            },
+            {
+              "label": "82 kWh (299 Hp) Long Range Single Motor",
+              "hp": 299
+            },
+            {
+              "label": "69 kWh (272 Hp) Standard Range Single Motor",
+              "hp": 272
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "polestar-2": {
+          "label": "Polestar 2",
+          "engines": [
+            {
+              "label": "78 kWh (408 Hp) Long Range Dual Motor AWD (2020 - 2023)",
+              "hp": 408
+            },
+            {
+              "label": "78 kWh (231 Hp) Long Range Single Motor (2021 - 2023)",
+              "hp": 231
+            },
+            {
+              "label": "64 kWh (224 Hp) Standard Range Single Motor (2021 - 2022)",
+              "hp": 224
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "3": {
+      "label": "3",
+      "series": {
+        "polestar-3": {
+          "label": "Polestar 3",
+          "engines": [
+            {
+              "label": "92 kWh (333 Hp) Rear Motor",
+              "hp": 333
+            },
+            {
+              "label": "111 kWh (517 Hp) AWD Performance Pack (2022 - 2025)",
+              "hp": 517
+            },
+            {
+              "label": "111 kWh (490 Hp) AWD Long range Dual motor (2022 - 2025)",
+              "hp": 490
+            },
+            {
+              "label": "111 kWh (299 Hp) Long Range Single Motor (2024 - 2025)",
+              "hp": 299
+            },
+            {
+              "label": "106 kWh (680 Hp) AWD Performance",
+              "hp": 680
+            },
+            {
+              "label": "106 kWh (544 Hp) AWD Dual Motor",
+              "hp": 544
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "4": {
+      "label": "4",
+      "series": {
+        "polestar-4": {
+          "label": "Polestar 4",
+          "engines": [
+            {
+              "label": "102 kWh (544 Hp) Long Range Dual Motor AWD",
+              "hp": 544
+            },
+            {
+              "label": "102 kWh (272 Hp) Long Range Single Motor",
+              "hp": 272
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "5": {
+      "label": "5",
+      "series": {
+        "polestar-5": {
+          "label": "Polestar 5",
+          "engines": [
+            {
+              "label": "112 kWh (884 Hp) Performance AWD",
+              "hp": 884
+            },
+            {
+              "label": "112 kWh (748 Hp) Dual motor AWD",
+              "hp": 748
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

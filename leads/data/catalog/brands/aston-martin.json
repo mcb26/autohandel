@@ -1,0 +1,1599 @@
+{
+  "label": "Aston Martin",
+  "models": {
+    "amv8": {
+      "label": "AMV8",
+      "series": {
+        "aston-martin-amv8-volante": {
+          "label": "Aston Martin AMV8 Volante",
+          "engines": [
+            {
+              "label": "5.3 (438 Hp) Automatic (1972 - 1986)",
+              "hp": 438,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.3 (438 Hp) (1972 - 1986)",
+              "hp": 438,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.3 (324 Hp) Automatic (1978 - 1989)",
+              "hp": 324,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.3 (324 Hp) (1978 - 1989)",
+              "hp": 324,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.3 (309 Hp) Automatic (1978 - 1989)",
+              "hp": 309,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.3 (309 Hp) (1978 - 1989)",
+              "hp": 309,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "aston-martin-amv8": {
+          "label": "Aston Martin AMV8",
+          "engines": [
+            {
+              "label": "5.3 V8 (385 Hp) Vantage Automatic (1977 - 1989)",
+              "hp": 385,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.3 V8 (385 Hp) Vantage (1977 - 1989)",
+              "hp": 385,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.3 V8 (325 Hp) Automatic (1973 - 1978)",
+              "hp": 325,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.3 V8 (325 Hp) (1973 - 1978)",
+              "hp": 325,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.3 (438 Hp) Automatic (1972 - 1986)",
+              "hp": 438,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.3 (438 Hp) (1972 - 1986)",
+              "hp": 438,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "bulldog": {
+      "label": "Bulldog",
+      "series": {
+        "aston-martin-bulldog": {
+          "label": "Aston Martin Bulldog",
+          "engines": [
+            {
+              "label": "5.3 (600 Hp) (1980 - 1982)",
+              "hp": 600,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "cygnet": {
+      "label": "Cygnet",
+      "series": {
+        "aston-martin-cygnet-v8": {
+          "label": "Aston Martin Cygnet V8",
+          "engines": [
+            {
+              "label": "4.7 V8 (430 Hp) Automatic",
+              "hp": 430,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "aston-martin-cygnet": {
+          "label": "Aston Martin Cygnet",
+          "engines": [
+            {
+              "label": "1.33 Dual VVT-i (98 Hp) Automatic (2011 - 2013)",
+              "hp": 98,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.33 Dual VVT-i (98 Hp) (2011 - 2013)",
+              "hp": 98,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "db11": {
+      "label": "DB11",
+      "series": {
+        "aston-martin-db11-volante": {
+          "label": "Aston Martin DB11 Volante",
+          "engines": [
+            {
+              "label": "4.0 V8 (510 Hp) Automatic (2018 - 2021)",
+              "hp": 510,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "aston-martin-db11": {
+          "label": "Aston Martin DB11",
+          "engines": [
+            {
+              "label": "AMR 5.2 V12 (639 Hp) Automatic (2018 - 2023)",
+              "hp": 639,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.2 V12 (608 Hp) Automatic (2016 - 2018)",
+              "hp": 608,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.0 V8 (503 Hp) Automatic (2017 - 2021)",
+              "hp": 503,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "db12": {
+      "label": "DB12",
+      "series": {
+        "aston-martin-db12-volante": {
+          "label": "Aston Martin DB12 Volante",
+          "engines": [
+            {
+              "label": "S 4.0 V8 (700 Hp) Automatic",
+              "hp": 700,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.0 V8 (680 Hp) Automatic",
+              "hp": 680,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "aston-martin-db12": {
+          "label": "Aston Martin DB12",
+          "engines": [
+            {
+              "label": "S 4.0 V8 (700 Hp) Automatic",
+              "hp": 700,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.0 V8 (680 Hp) Automatic",
+              "hp": 680,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "db4": {
+      "label": "DB4",
+      "series": {
+        "aston-martin-db4-convertible": {
+          "label": "Aston Martin DB4 Convertible",
+          "engines": [
+            {
+              "label": "3.7 (243 Hp) Automatic (1961 - 1963)",
+              "hp": 243,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.7 (243 Hp) (1961 - 1963)",
+              "hp": 243,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "aston-martin-db4-series-3": {
+          "label": "Aston Martin DB4 (Series 3)",
+          "engines": [
+            {
+              "label": "3.7i (243 Hp) Automatic (1961 - 1962)",
+              "hp": 243,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.7i (243 Hp) (1961 - 1962)",
+              "hp": 243,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "aston-martin-db4-gt-zagato": {
+          "label": "Aston Martin DB4 GT Zagato",
+          "engines": [
+            {
+              "label": "3.7 (318 Hp) (1960 - 1963)",
+              "hp": 318,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "aston-martin-db4-gt": {
+          "label": "Aston Martin DB4 GT",
+          "engines": [
+            {
+              "label": "3.7 (306 Hp) (1959 - 1963)",
+              "hp": 306,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "aston-martin-db4": {
+          "label": "Aston Martin DB4",
+          "engines": [
+            {
+              "label": "3.7 (243 Hp) Automatic (1958 - 1963)",
+              "hp": 243,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.7 (243 Hp) (1958 - 1963)",
+              "hp": 243,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "db5": {
+      "label": "DB5",
+      "series": {
+        "aston-martin-db5": {
+          "label": "Aston Martin DB5",
+          "engines": [
+            {
+              "label": "4.0 (286 Hp) (1963 - 1965)",
+              "hp": 286,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "db6": {
+      "label": "DB6",
+      "series": {
+        "aston-martin-db6-mark-ii": {
+          "label": "Aston Martin DB6 Mark II",
+          "engines": [
+            {
+              "label": "4.0 (330 Hp) (1969 - 1970)",
+              "hp": 330,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "aston-martin-db6-volante": {
+          "label": "Aston Martin DB6 Volante",
+          "engines": [
+            {
+              "label": "4.0 (286 Hp) (1966 - 1969)",
+              "hp": 286,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "aston-martin-db6": {
+          "label": "Aston Martin DB6",
+          "engines": [
+            {
+              "label": "4.0 (286 Hp) Automatic (1965 - 1969)",
+              "hp": 286,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.0 (286 Hp) (1965 - 1969)",
+              "hp": 286,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "db7": {
+      "label": "DB7",
+      "series": {
+        "aston-martin-db7-ar1": {
+          "label": "Aston Martin DB7 AR1",
+          "engines": [
+            {
+              "label": "5.9 V12 (426 Hp) Automatic (2002 - 2004)",
+              "hp": 426,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "aston-martin-db7-zagato": {
+          "label": "Aston Martin DB7 Zagato",
+          "engines": [
+            {
+              "label": "5.9 V12 (441 Hp) Automatic (2003 - 2003)",
+              "hp": 441,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.9 V12 (441 Hp) (2003 - 2003)",
+              "hp": 441,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.9 i V12 48V (450 Hp) (2003 - 2003)",
+              "hp": 450,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "aston-martin-db7-gt": {
+          "label": "Aston Martin DB7 GT",
+          "engines": [
+            {
+              "label": "GTA 5.9 V12 (426 Hp) Automatic (2002 - 2003)",
+              "hp": 426,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.9 i V12 48V (440 Hp) (2003 - 2004)",
+              "hp": 440,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "aston-martin-db7-vantage": {
+          "label": "Aston Martin DB7 Vantage",
+          "engines": [
+            {
+              "label": "5.9i V12 48V (420 Hp) Automatic (1999 - 1999)",
+              "hp": 420,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.9i V12 48V (420 Hp) (1999 - 1999)",
+              "hp": 420,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.9 V12 (426 Hp) Automatic (1999 - 2003)",
+              "hp": 426,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.9 V12 (426 Hp) (1999 - 2003)",
+              "hp": 426,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "aston-martin-db7-volante": {
+          "label": "Aston Martin DB7 Volante",
+          "engines": [
+            {
+              "label": "5.9i V12 48V (420 Hp) Automatic (1999 - 1999)",
+              "hp": 420,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.9i V12 48V (420 Hp) (1999 - 1999)",
+              "hp": 420,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.9 V12 (426 Hp) Automatic (1999 - 2003)",
+              "hp": 426,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.9 V12 (426 Hp) (1999 - 2003)",
+              "hp": 426,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.2 (360 Hp) Automatic (1996 - 1999)",
+              "hp": 360,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.2 (360 Hp) (1996 - 1999)",
+              "hp": 360,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "aston-martin-db7": {
+          "label": "Aston Martin DB7",
+          "engines": [
+            {
+              "label": "3.2 (360 Hp) Automatic (1994 - 1999)",
+              "hp": 360,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.2 (360 Hp) (1994 - 1999)",
+              "hp": 360,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "db9": {
+      "label": "DB9",
+      "series": {
+        "aston-martin-db9-gt-volante": {
+          "label": "Aston Martin DB9 GT Volante",
+          "engines": [
+            {
+              "label": "6.0 V12 (547 Hp) Automatic (2015 - 2016)",
+              "hp": 547,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "aston-martin-db9-gt-coupe": {
+          "label": "Aston Martin DB9 GT Coupe",
+          "engines": [
+            {
+              "label": "6.0 V12 (547 Hp) Automatic (2015 - 2016)",
+              "hp": 547,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "aston-martin-db9-volante-facelift-2012": {
+          "label": "Aston Martin DB9 Volante (facelift 2012)",
+          "engines": [
+            {
+              "label": "6.0 V12 (517 Hp) Automatic (2012 - 2015)",
+              "hp": 517,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "aston-martin-db9-coupe-facelift-2012": {
+          "label": "Aston Martin DB9 Coupe (facelift 2012)",
+          "engines": [
+            {
+              "label": "6.0 V12 (517 Hp) Automatic (2012 - 2015)",
+              "hp": 517,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "aston-martin-db9-coupe": {
+          "label": "Aston Martin DB9 Coupe",
+          "engines": [
+            {
+              "label": "RS 6.0 V12 (558 Hp) (2006 - 2012)",
+              "hp": 558,
+              "fuel": "benzin"
+            },
+            {
+              "label": "R 6.0 V12 (608 Hp) (2004 - 2012)",
+              "hp": 608,
+              "fuel": "benzin"
+            },
+            {
+              "label": "6.0 i V12 48V (456 Hp) Automatic (2004 - 2012)",
+              "hp": 456,
+              "fuel": "benzin"
+            },
+            {
+              "label": "6.0 i V12 48V (456 Hp) (2004 - 2012)",
+              "hp": 456,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "aston-martin-db9-volante": {
+          "label": "Aston Martin DB9 Volante",
+          "engines": [
+            {
+              "label": "6.0 i V12 48V (456 Hp) Automatic (2004 - 2012)",
+              "hp": 456,
+              "fuel": "benzin"
+            },
+            {
+              "label": "6.0 i V12 (456 Hp) (2004 - 2012)",
+              "hp": 456,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "dbs": {
+      "label": "DBS",
+      "series": {
+        "aston-martin-dbs-superleggera-volante": {
+          "label": "Aston Martin DBS Superleggera Volante",
+          "engines": [
+            {
+              "label": "Ultimate 5.2 V12 (770 Hp) Automatic",
+              "hp": 770,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.2 V12 (725 Hp) Automatic",
+              "hp": 725,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "aston-martin-dbs-superleggera": {
+          "label": "Aston Martin DBS Superleggera",
+          "engines": [
+            {
+              "label": "Ultimate 5.2 V12 (770 Hp) Automatic",
+              "hp": 770,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.2 V12 (725 Hp) Automatic",
+              "hp": 725,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "aston-martin-dbs-v12-volante": {
+          "label": "Aston Martin DBS V12 Volante",
+          "engines": [
+            {
+              "label": "5.9 (517 Hp) Touchtronic (2009 - 2012)",
+              "hp": 517,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.9 (517 Hp) (2009 - 2012)",
+              "hp": 517,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "aston-martin-dbs-v12": {
+          "label": "Aston Martin DBS V12",
+          "engines": [
+            {
+              "label": "5.9 V12 (517 Hp) Automatic (2007 - 2012)",
+              "hp": 517,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.9 V12 (517 Hp) (2007 - 2012)",
+              "hp": 517,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "aston-martin-dbs-v8": {
+          "label": "Aston Martin DBS V8",
+          "engines": [
+            {
+              "label": "5.3 V8 (286 Hp) Automatic (1969 - 1972)",
+              "hp": 286,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.3 V8 (286 Hp) (1969 - 1972)",
+              "hp": 286,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "aston-martin-dbs": {
+          "label": "Aston Martin DBS",
+          "engines": [
+            {
+              "label": "4.0 (286 Hp) Automatic (1967 - 1972)",
+              "hp": 286,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.0 (286 Hp) (1967 - 1972)",
+              "hp": 286,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "dbx": {
+      "label": "DBX",
+      "series": {
+        "aston-martin-dbx": {
+          "label": "Aston Martin DBX",
+          "engines": [
+            {
+              "label": "S 4.0 V8 (727 Hp) AWD Automatic",
+              "hp": 727,
+              "fuel": "benzin"
+            },
+            {
+              "label": "707 4.0 V8 (707 Hp) AWD Automatic",
+              "hp": 707,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.0 V8 (550 Hp) AWD Automatic (2020 - 2024)",
+              "hp": 550,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "lagonda": {
+      "label": "Lagonda",
+      "series": {
+        "aston-martin-lagonda-all-terrain-concept": {
+          "label": "Aston Martin Lagonda All-Terrain Concept",
+          "engines": [
+            {
+              "label": "Keine exakte Motorliste verfügbar – bitte genaue Motorisierung im Freitext angeben"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "aston-martin-lagonda-vision-concept": {
+          "label": "Aston Martin Lagonda Vision Concept",
+          "engines": [
+            {
+              "label": "Keine exakte Motorliste verfügbar – bitte genaue Motorisierung im Freitext angeben"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "aston-martin-lagonda-i-shooting-brake": {
+          "label": "Aston Martin Lagonda I Shooting Brake",
+          "engines": [
+            {
+              "label": "5.3 (310 Hp) (1976 - 1997)",
+              "hp": 310,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "aston-martin-lagonda-ii": {
+          "label": "Aston Martin Lagonda II",
+          "engines": [
+            {
+              "label": "5.3 (310 Hp) (1976 - 1989)",
+              "hp": 310,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "one-77": {
+      "label": "One-77",
+      "series": {
+        "aston-martin-one-77": {
+          "label": "Aston Martin One-77",
+          "engines": [
+            {
+              "label": "7.3 V12 (760 Hp) Automatic (2009 - 2012)",
+              "hp": 760,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "rapide": {
+      "label": "Rapide",
+      "series": {
+        "aston-martin-rapide-e": {
+          "label": "Aston Martin Rapide E",
+          "engines": [
+            {
+              "label": "65 kWh (612 Hp) (2019 - 2020)",
+              "hp": 612
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "aston-martin-rapide-amr": {
+          "label": "Aston Martin Rapide AMR",
+          "engines": [
+            {
+              "label": "6.0 V12 (603 Hp) Touchtronic (UK & EU) (2018 - 2020)",
+              "hp": 603,
+              "fuel": "benzin"
+            },
+            {
+              "label": "6.0 V12 (588 Hp) Touchtronic (2018 - 2020)",
+              "hp": 588,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "aston-martin-rapide-s": {
+          "label": "Aston Martin Rapide S",
+          "engines": [
+            {
+              "label": "6.0 V12 (560 Hp) Touchtronic (2015 - 2018)",
+              "hp": 560,
+              "fuel": "benzin"
+            },
+            {
+              "label": "6.0 V12 (558 Hp) Touchtronic (2013 - 2014)",
+              "hp": 558,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "aston-martin-rapide": {
+          "label": "Aston Martin Rapide",
+          "engines": [
+            {
+              "label": "6.0 V12 (476 Hp) Automatic (2010 - 2013)",
+              "hp": 476,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "tickford-capri": {
+      "label": "Tickford Capri",
+      "series": {
+        "aston-martin-tickford-capri": {
+          "label": "Aston Martin Tickford Capri",
+          "engines": [
+            {
+              "label": "2.8 T (208 Hp) (1982 - 1985)",
+              "hp": 208,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "v12-vantage": {
+      "label": "V12 Vantage",
+      "series": {
+        "aston-martin-v12-vantage-roadster": {
+          "label": "Aston Martin V12 Vantage Roadster",
+          "engines": [
+            {
+              "label": "S 6.0 V12 (573 Hp) Sportshift (2016 - 2018)",
+              "hp": 573,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "aston-martin-v12-vantage": {
+          "label": "Aston Martin V12 Vantage",
+          "engines": [
+            {
+              "label": "S 6.0 V12 (573 Hp) Sportshift (2016 - 2018)",
+              "hp": 573,
+              "fuel": "benzin"
+            },
+            {
+              "label": "6.0 (517 Hp) (2010 - 2013)",
+              "hp": 517,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "v8-vantage": {
+      "label": "V8 Vantage",
+      "series": {
+        "aston-martin-v8-vantage-roadster-2018-facelift-2024": {
+          "label": "Aston Martin V8 Vantage Roadster (2018), (facelift 2024)",
+          "engines": [
+            {
+              "label": "4.0 V8 (665 Hp) Automatic",
+              "hp": 665,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "aston-martin-v8-vantage-2018-facelift-2024": {
+          "label": "Aston Martin V8 Vantage (2018), (facelift 2024)",
+          "engines": [
+            {
+              "label": "S 4.0 V8 (680 Hp) Automatic",
+              "hp": 680,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.0 V8 (665 Hp) Automatic",
+              "hp": 665,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "aston-martin-v8-vantage-roadster-2018": {
+          "label": "Aston Martin V8 Vantage Roadster (2018)",
+          "engines": [
+            {
+              "label": "F1 Edition 4.0 V8 (535 Hp) Automatic (2021 - 2024)",
+              "hp": 535,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.0 V8 (510 Hp) Automatic (2020 - 2024)",
+              "hp": 510,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "aston-martin-v8-vantage-2018": {
+          "label": "Aston Martin V8 Vantage (2018)",
+          "engines": [
+            {
+              "label": "F1 Edition 4.0 V8 (535 Hp) Automatic (2021 - 2024)",
+              "hp": 535,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.0 V8 (510 Hp) Automatic (2017 - 2024)",
+              "hp": 510,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "aston-martin-v8-vantage-roadster-facelift-2008": {
+          "label": "Aston Martin V8 Vantage Roadster (facelift 2008)",
+          "engines": [
+            {
+              "label": "S 4.7 V8 (436 Hp) Sportshift (2015 - 2016)",
+              "hp": 436,
+              "fuel": "benzin"
+            },
+            {
+              "label": "S 4.7 V8 (436 Hp) (2011 - 2016)",
+              "hp": 436,
+              "fuel": "benzin"
+            },
+            {
+              "label": "N430 4.7 V8 (436 Hp) Sportshift (2015 - 2016)",
+              "hp": 436,
+              "fuel": "benzin"
+            },
+            {
+              "label": "N430 4.7 V8 (436 Hp) (2015 - 2016)",
+              "hp": 436,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.7 V8 (426 Hp) Sportshift (2008 - 2016)",
+              "hp": 426,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.7 V8 (426 Hp) (2008 - 2016)",
+              "hp": 426,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "aston-martin-v8-vantage-facelift-2008": {
+          "label": "Aston Martin V8 Vantage (facelift 2008)",
+          "engines": [
+            {
+              "label": "SP10 4.7 V8 (442 Hp) (2013 - 2016)",
+              "hp": 442,
+              "fuel": "benzin"
+            },
+            {
+              "label": "S 4.7 V8 (436 Hp) Sportshift (2015 - 2016)",
+              "hp": 436,
+              "fuel": "benzin"
+            },
+            {
+              "label": "S 4.7 V8 (436 Hp) (2011 - 2016)",
+              "hp": 436,
+              "fuel": "benzin"
+            },
+            {
+              "label": "N430 4.7 V8 (436 Hp) Sportshift (2014 - 2016)",
+              "hp": 436,
+              "fuel": "benzin"
+            },
+            {
+              "label": "N430 4.7 V8 (436 Hp) (2014 - 2016)",
+              "hp": 436,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.7 V8 (426 Hp) Sportshift (2008 - 2016)",
+              "hp": 426,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.7 V8 (426 Hp) (2008 - 2016)",
+              "hp": 426,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "aston-martin-v8-vantage-2005": {
+          "label": "Aston Martin V8 Vantage (2005)",
+          "engines": [
+            {
+              "label": "N24 4.3 V8 (416 Hp) (2006 - 2008)",
+              "hp": 416,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.3 i V8 32V (385 Hp) (2005 - 2008)",
+              "hp": 385,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "aston-martin-v8-vantage-roadster-2005": {
+          "label": "Aston Martin V8 Vantage Roadster (2005)",
+          "engines": [
+            {
+              "label": "4.3 i V8 32V (385 Hp) (2006 - 2008)",
+              "hp": 385,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "aston-martin-v8-vantage-ii": {
+          "label": "Aston Martin V8 Vantage (II)",
+          "engines": [
+            {
+              "label": "5.3 i V8 32V (557 Hp) (1993 - 2000)",
+              "hp": 557,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "aston-martin-v8-volante": {
+          "label": "Aston Martin V8 Volante",
+          "engines": [
+            {
+              "label": "5.3 (375 Hp) (1977 - 1989)",
+              "hp": 375,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.3 (340 Hp) (1977 - 1989)",
+              "hp": 340,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "aston-martin-v8-vantage": {
+          "label": "Aston Martin V8 Vantage",
+          "engines": [
+            {
+              "label": "5.3 (385 Hp) Automatic (1977 - 1990)",
+              "hp": 385,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.3 (385 Hp) (1977 - 1990)",
+              "hp": 385,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "valhalla": {
+      "label": "Valhalla",
+      "series": {
+        "aston-martin-valhalla": {
+          "label": "Aston Martin Valhalla",
+          "engines": [
+            {
+              "label": "4.0 V8 (1079 Hp) Plug-in Hybrid E-AWDD DCT",
+              "hp": 1079,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "aston-martin-valhalla-concept": {
+          "label": "Aston Martin Valhalla concept",
+          "engines": [
+            {
+              "label": "Keine exakte Motorliste verfügbar – bitte genaue Motorisierung im Freitext angeben"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "valiant": {
+      "label": "Valiant",
+      "series": {
+        "aston-martin-valiant": {
+          "label": "Aston Martin Valiant",
+          "engines": [
+            {
+              "label": "Keine exakte Motorliste verfügbar – bitte genaue Motorisierung im Freitext angeben"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "valkyrie": {
+      "label": "Valkyrie",
+      "series": {
+        "aston-martin-valkyrie": {
+          "label": "Aston Martin Valkyrie",
+          "engines": [
+            {
+              "label": "Keine exakte Motorliste verfügbar – bitte genaue Motorisierung im Freitext angeben"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "aston-martin-valkyrie-am-rb-003": {
+          "label": "Aston Martin Valkyrie AM-RB 003",
+          "engines": [
+            {
+              "label": "Keine exakte Motorliste verfügbar – bitte genaue Motorisierung im Freitext angeben"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "aston-martin-valkyrie-amr-pro": {
+          "label": "Aston Martin Valkyrie AMR Pro",
+          "engines": [
+            {
+              "label": "Keine exakte Motorliste verfügbar – bitte genaue Motorisierung im Freitext angeben"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "valour": {
+      "label": "Valour",
+      "series": {
+        "aston-martin-valour": {
+          "label": "Aston Martin Valour",
+          "engines": [
+            {
+              "label": "5.2 V12 (715 Hp)",
+              "hp": 715,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "vanquish": {
+      "label": "Vanquish",
+      "series": {
+        "aston-martin-vanquish-iii-volante": {
+          "label": "Aston Martin Vanquish III Volante",
+          "engines": [
+            {
+              "label": "5.2 V12 (835 Hp) ZF",
+              "hp": 835,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "aston-martin-vanquish-iii": {
+          "label": "Aston Martin Vanquish III",
+          "engines": [
+            {
+              "label": "5.2 V12 (835 Hp) ZF",
+              "hp": 835,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "aston-martin-vanquish-vision-concept": {
+          "label": "Aston Martin Vanquish Vision Concept",
+          "engines": [
+            {
+              "label": "Keine exakte Motorliste verfügbar – bitte genaue Motorisierung im Freitext angeben"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "aston-martin-vanquish-s-ii-volante": {
+          "label": "Aston Martin Vanquish S II Volante",
+          "engines": [
+            {
+              "label": "6.0 V12 (603 Hp) Automatic (2016 - 2018)",
+              "hp": 603,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "aston-martin-vanquish-s-ii": {
+          "label": "Aston Martin Vanquish S II",
+          "engines": [
+            {
+              "label": "6.0 V12 (603 Hp) Touchtronic (2016 - 2018)",
+              "hp": 603,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "aston-martin-vanquish-ii-volante": {
+          "label": "Aston Martin Vanquish II Volante",
+          "engines": [
+            {
+              "label": "6.0 V12 (577 Hp) Automatic (2013 - 2018)",
+              "hp": 577,
+              "fuel": "benzin"
+            },
+            {
+              "label": "6.0 V12 (573 Hp) Automatic (2013 - 2014)",
+              "hp": 573,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "aston-martin-vanquish-ii": {
+          "label": "Aston Martin Vanquish II",
+          "engines": [
+            {
+              "label": "6.0 V12 (577 Hp) Automatic (2012 - 2018)",
+              "hp": 577,
+              "fuel": "benzin"
+            },
+            {
+              "label": "6.0 V12 (573 Hp) Automatic (2012 - 2014)",
+              "hp": 573,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "aston-martin-v12-vanquish-s": {
+          "label": "Aston Martin V12 Vanquish S",
+          "engines": [
+            {
+              "label": "6.0 V12 (527 Hp) Automatic (2005 - 2007)",
+              "hp": 527,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "aston-martin-v12-vanquish": {
+          "label": "Aston Martin V12 Vanquish",
+          "engines": [
+            {
+              "label": "6.0 V12 (466 Hp) Automatic (2001 - 2004)",
+              "hp": 466,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "virage": {
+      "label": "Virage",
+      "series": {
+        "aston-martin-virage-ii-volante": {
+          "label": "Aston Martin Virage II Volante",
+          "engines": [
+            {
+              "label": "6.0 V12 (497 Hp) Touchtronic (2011 - 2012)",
+              "hp": 497,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "aston-martin-virage-ii": {
+          "label": "Aston Martin Virage II",
+          "engines": [
+            {
+              "label": "6.0 V12 (497 Hp) Touchtronic (2011 - 2012)",
+              "hp": 497,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "aston-martin-virage-limited-edition": {
+          "label": "Aston Martin Virage Limited Edition",
+          "engines": [
+            {
+              "label": "5.3 (335 Hp) (1995 - 1995)",
+              "hp": 335,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "aston-martin-virage-saloon": {
+          "label": "Aston Martin Virage Saloon",
+          "engines": [
+            {
+              "label": "6.3 (335 Hp) (1995 - 1995)",
+              "hp": 335,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.3 i V8 32V (335 Hp) (1993 - 1999)",
+              "hp": 335,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.3 (335 Hp) (1994 - 1995)",
+              "hp": 335,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "aston-martin-virage-shooting-brake": {
+          "label": "Aston Martin Virage Shooting Brake",
+          "engines": [
+            {
+              "label": "6.3 (507 Hp) (1994 - 1995)",
+              "hp": 507,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.3 (335 Hp) (1993 - 1995)",
+              "hp": 335,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "aston-martin-virage-vantage": {
+          "label": "Aston Martin Virage Vantage",
+          "engines": [
+            {
+              "label": "5.3 (558 Hp) (1992 - 1995)",
+              "hp": 558,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.3 (507 Hp) (1992 - 2000)",
+              "hp": 507,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.3 (336 Hp) (1988 - 1992)",
+              "hp": 336,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "aston-martin-virage-volante": {
+          "label": "Aston Martin Virage Volante",
+          "engines": [
+            {
+              "label": "6.3 (507 Hp) (1990 - 1995)",
+              "hp": 507,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.3 (336 Hp) (1990 - 1995)",
+              "hp": 336,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "aston-martin-virage": {
+          "label": "Aston Martin Virage",
+          "engines": [
+            {
+              "label": "5.3 (336 Hp) Automatic (1990 - 1995)",
+              "hp": 336,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "zagato": {
+      "label": "Zagato",
+      "series": {
+        "aston-martin-v12-zagato": {
+          "label": "Aston Martin V12 Zagato",
+          "engines": [
+            {
+              "label": "6.0 V12 (517 Hp) (2011 - 2012)",
+              "hp": 517,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "aston-martin-zagato-vantage": {
+          "label": "Aston Martin Zagato Vantage",
+          "engines": [
+            {
+              "label": "5.3 (438 Hp) (1986 - 1989)",
+              "hp": 438,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "aston-martin-zagato-volante": {
+          "label": "Aston Martin Zagato Volante",
+          "engines": [
+            {
+              "label": "5.3 (309 Hp) (1986 - 1989)",
+              "hp": 309,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

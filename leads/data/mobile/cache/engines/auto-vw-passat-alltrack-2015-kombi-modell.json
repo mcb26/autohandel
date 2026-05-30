@@ -1,0 +1,37 @@
+[
+  {
+    "label": "Passat Alltrack 2.0 TSI (BMT) 4Motion DSG (Benzin, 220 PS)",
+    "fuel": "bmt) 4motion dsg (benzin",
+    "hp": 220
+  },
+  {
+    "label": "Passat Alltrack 2.0 TSI OPF 4 Motion DSG (Benzin, 272 PS)",
+    "fuel": "benzin",
+    "hp": 272
+  },
+  {
+    "label": "Passat Alltrack 2.0 TDI SCR (BMT) 4Mot. (Diesel, 150 PS)",
+    "fuel": "bmt) 4mot. (diesel",
+    "hp": 150
+  },
+  {
+    "label": "Passat Alltrack 2.0 TDI SCR 4Motion DSG (BMT) (Diesel, 190 PS)",
+    "fuel": "bmt) (diesel",
+    "hp": 190
+  },
+  {
+    "label": "Passat Alltrack 2.0 TDI SCR 4Motion DSG (Diesel, 190 PS)",
+    "fuel": "diesel",
+    "hp": 190
+  },
+  {
+    "label": "Passat Alltrack 2.0 TDI SCR 4Motion DSG (BMT) (Diesel, 240 PS)",
+    "fuel": "bmt) (diesel",
+    "hp": 240
+  },
+  {
+    "label": "Passat Alltrack 2.0 TDI SCR 4Motion DSG (Diesel, 240 PS)",
+    "fuel": "diesel",
+    "hp": 240
+  }
+]

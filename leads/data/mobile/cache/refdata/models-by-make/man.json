@@ -1,0 +1,12 @@
+[
+  {
+    "name": "TGE",
+    "description": "TGE",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MAN/model/TGE"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MAN/model/ANDERE"
+  }
+]

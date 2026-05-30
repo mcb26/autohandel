@@ -1,0 +1,22 @@
+[
+  {
+    "label": "Motorisierungsvariante Technische Daten und Motorisierung Amarok 3.0 TDI 4MOTION Autm. (Diesel, 204 PS) Amarok 3.0 TDI 4MOTION Autm. (Diesel, 258 PS)",
+    "fuel": "diesel",
+    "hp": 258
+  },
+  {
+    "label": "Amarok 3.0 TDI 4MOTION Autm. (Diesel, 204 PS) Amarok 3.0 TDI 4MOTION Autm. (Diesel, 258 PS)",
+    "fuel": "diesel",
+    "hp": 258
+  },
+  {
+    "label": "Amarok 3.0 TDI 4MOTION Autm. (Diesel, 204 PS)",
+    "fuel": "diesel",
+    "hp": 204
+  },
+  {
+    "label": "Amarok 3.0 TDI 4MOTION Autm. (Diesel, 258 PS)",
+    "fuel": "diesel",
+    "hp": 258
+  }
+]

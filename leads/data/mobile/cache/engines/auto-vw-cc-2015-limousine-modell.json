@@ -1,0 +1,32 @@
+[
+  {
+    "label": "CC 1.4 TSI BlueMotion Technology DSG (Benzin, 150 PS)",
+    "fuel": "benzin",
+    "hp": 150
+  },
+  {
+    "label": "CC 1.4 TSI BlueMotion Technology (Benzin, 150 PS)",
+    "fuel": "benzin",
+    "hp": 150
+  },
+  {
+    "label": "CC 2.0 TDI BlueMotion Technology DSG (Diesel, 149 PS)",
+    "fuel": "diesel",
+    "hp": 149
+  },
+  {
+    "label": "CC 2.0 TDI BlueMotion Technology (Diesel, 150 PS)",
+    "fuel": "diesel",
+    "hp": 150
+  },
+  {
+    "label": "CC 2.0 TDI BlueMotion Technology DSG (Diesel, 183 PS)",
+    "fuel": "diesel",
+    "hp": 183
+  },
+  {
+    "label": "CC 2.0 TDI BlueMotion Technology (Diesel, 183 PS)",
+    "fuel": "diesel",
+    "hp": 183
+  }
+]

@@ -1,0 +1,34 @@
+{% extends "base.html" %}
+{% load static %}
+
+{% block title %}{{ site_brand_name }} | Ihr Partner für Fahrzeuge{% endblock %}
+
+{% block extra_head %}
+<link href="https://cdn.jsdelivr.net/npm/tom-select@2.4.1/dist/css/tom-select.bootstrap5.min.css" rel="stylesheet" crossorigin="anonymous">
+{% endblock %}
+
+{% block content %}
+<section class="hero-section" style="background-image: linear-gradient(rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.55)), url('{% static 'img/hero-car.png' %}');">
+    <div class="container py-5 hero-content-wrap">
+        <div class="hero-content text-white">
+            <h1 class="hero-title mb-2">IHR PARTNER</h1>
+            <h2 class="hero-title hero-title-accent mb-3">FÜR FAHRZEUGE</h2>
+            <p class="hero-subtitle mb-0">Wir kaufen Ihr Auto schnell, unkompliziert und zu fairen Preisen.</p>
+        </div>
+    </div>
+</section>
+
+<section class="lead-form-section">
+    <div class="container">
+        {% include "car_lead_form.html" %}
+    </div>
+</section>
+{% endblock %}
+
+{% block extra_scripts %}
+<script id="lead-form-config" type="application/json">
+{"brandDetailUrl": "{% url 'leads:catalog_brand_detail' brand_slug='__SLUG__' %}"}
+</script>
+<script src="https://cdn.jsdelivr.net/npm/tom-select@2.4.1/dist/js/tom-select.complete.min.js" crossorigin="anonymous"></script>
+<script src="{% static 'js/lead-form.js' %}"></script>
+{% endblock %}

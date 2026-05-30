@@ -1,0 +1,22 @@
+[
+  {
+    "name": "E-HS9",
+    "description": "E-HS9",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/HONGQI/model/E-HS9"
+  },
+  {
+    "name": "H9",
+    "description": "H9",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/HONGQI/model/H9"
+  },
+  {
+    "name": "HS5",
+    "description": "HS5",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/HONGQI/model/HS5"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/HONGQI/model/ANDERE"
+  }
+]

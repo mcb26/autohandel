@@ -1,0 +1,37 @@
+[
+  {
+    "name": "G70",
+    "description": "G70",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/GENESIS/model/G70"
+  },
+  {
+    "name": "G80",
+    "description": "G80",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/GENESIS/model/G80"
+  },
+  {
+    "name": "G90",
+    "description": "G90",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/GENESIS/model/G90"
+  },
+  {
+    "name": "GV60",
+    "description": "GV60",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/GENESIS/model/GV60"
+  },
+  {
+    "name": "GV70",
+    "description": "GV70",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/GENESIS/model/GV70"
+  },
+  {
+    "name": "GV80",
+    "description": "GV80",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/GENESIS/model/GV80"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/GENESIS/model/ANDERE"
+  }
+]

@@ -1,0 +1,397 @@
+[
+  {
+    "label": "E 200 7G-TRONIC (Benzin, 184 PS)",
+    "fuel": "benzin",
+    "hp": 184
+  },
+  {
+    "label": "E 200 BlueEFFICIENCY 7G-TRONIC (Benzin, 184 PS)",
+    "fuel": "benzin",
+    "hp": 184
+  },
+  {
+    "label": "E 200 CGI BlueEFFICIENCY 7G-TRONIC (Benzin, 184 PS)",
+    "fuel": "benzin",
+    "hp": 184
+  },
+  {
+    "label": "E 200 CGI BlueEFFICIENCY Automatik (Benzin, 183 PS)",
+    "fuel": "benzin",
+    "hp": 183
+  },
+  {
+    "label": "E 200 (Benzin, 184 PS)",
+    "fuel": "benzin",
+    "hp": 184
+  },
+  {
+    "label": "E 200 BlueEFFICIENCY (Benzin, 184 PS)",
+    "fuel": "benzin",
+    "hp": 184
+  },
+  {
+    "label": "E 200 CGI BlueEFFICIENCY (Benzin, 184 PS)",
+    "fuel": "benzin",
+    "hp": 184
+  },
+  {
+    "label": "E 250 BlueEFFICIENCY 7G-TRONIC (Benzin, 204 PS)",
+    "fuel": "benzin",
+    "hp": 204
+  },
+  {
+    "label": "E 250 CGI BlueEFFICIENCY 7G-TRONIC (Benzin, 204 PS)",
+    "fuel": "benzin",
+    "hp": 204
+  },
+  {
+    "label": "E 250 CGI BlueEFFICIENCY Automatik (Benzin, 204 PS)",
+    "fuel": "benzin",
+    "hp": 204
+  },
+  {
+    "label": "E 250 7G-TRONIC (Benzin, 211 PS)",
+    "fuel": "benzin",
+    "hp": 211
+  },
+  {
+    "label": "E 300 4Matic 7G-TRONIC (Benzin, 252 PS)",
+    "fuel": "benzin",
+    "hp": 252
+  },
+  {
+    "label": "E 300 4Matic BlueEFFICIENCY 7G-TRONIC (Benzin, 252 PS)",
+    "fuel": "benzin",
+    "hp": 252
+  },
+  {
+    "label": "E 300 7G-TRONIC (Benzin, 252 PS)",
+    "fuel": "benzin",
+    "hp": 252
+  },
+  {
+    "label": "E 300 BlueEFFICIENCY 7G-TRONIC (Benzin, 252 PS)",
+    "fuel": "benzin",
+    "hp": 252
+  },
+  {
+    "label": "E 350 4Matic 7G-TRONIC (Benzin, 272 PS)",
+    "fuel": "benzin",
+    "hp": 272
+  },
+  {
+    "label": "E 350 CGI BlueEFFICIENCY 7G-TRONIC (Benzin, 292 PS)",
+    "fuel": "benzin",
+    "hp": 292
+  },
+  {
+    "label": "E 350 4Matic 7G-TRONIC (Benzin, 306 PS)",
+    "fuel": "benzin",
+    "hp": 306
+  },
+  {
+    "label": "E 350 4Matic BlueEFFICIENCY 7G-TRONIC (Benzin, 306 PS)",
+    "fuel": "benzin",
+    "hp": 306
+  },
+  {
+    "label": "E 350 7G-TRONIC (Benzin, 306 PS)",
+    "fuel": "benzin",
+    "hp": 306
+  },
+  {
+    "label": "E 350 BlueEFFICIENCY 7G-TRONIC (Benzin, 306 PS)",
+    "fuel": "benzin",
+    "hp": 306
+  },
+  {
+    "label": "E 400 4Matic 7G-TRONIC (Benzin, 333 PS)",
+    "fuel": "benzin",
+    "hp": 333
+  },
+  {
+    "label": "E 400 7G-TRONIC (Benzin, 333 PS)",
+    "fuel": "benzin",
+    "hp": 333
+  },
+  {
+    "label": "E 500 4Matic 7G-TRONIC (Benzin, 387 PS)",
+    "fuel": "benzin",
+    "hp": 387
+  },
+  {
+    "label": "E 500 7G-TRONIC (Benzin, 387 PS)",
+    "fuel": "benzin",
+    "hp": 387
+  },
+  {
+    "label": "E 500 4Matic 7G-TRONIC (Benzin, 408 PS)",
+    "fuel": "benzin",
+    "hp": 408
+  },
+  {
+    "label": "E 500 4Matic BlueEFFICIENCY 7G-TRONIC (Benzin, 408 PS)",
+    "fuel": "benzin",
+    "hp": 408
+  },
+  {
+    "label": "E 500 7G-TRONIC (Benzin, 408 PS)",
+    "fuel": "benzin",
+    "hp": 408
+  },
+  {
+    "label": "E 500 BlueEFFICIENCY 7G-TRONIC (Benzin, 408 PS)",
+    "fuel": "benzin",
+    "hp": 408
+  },
+  {
+    "label": "E 63 AMG AMG Speedshift 7G-MCT (Benzin, 525 PS)",
+    "fuel": "benzin",
+    "hp": 525
+  },
+  {
+    "label": "E 63 AMG AMG Speedshift MCT (Benzin, 525 PS)",
+    "fuel": "benzin",
+    "hp": 525
+  },
+  {
+    "label": "E 63 AMG AMG Speedshift MCT (Benzin, 557 PS)",
+    "fuel": "benzin",
+    "hp": 557
+  },
+  {
+    "label": "E 63 AMG 4Matic AMG Speedshift MCT (Benzin, 557 PS)",
+    "fuel": "benzin",
+    "hp": 557
+  },
+  {
+    "label": "E 63 AMG S 4Matic AMG Speedshift MCT (Benzin, 585 PS)",
+    "fuel": "benzin",
+    "hp": 585
+  },
+  {
+    "label": "E 200 Natural Gas Drive 7G-TRONIC (Benzin/Gas, 156 PS)",
+    "fuel": "benzin/gas",
+    "hp": 156
+  },
+  {
+    "label": "E 200 NGT BlueEFFICIENCY Automatik (Benzin/Gas, 163 PS)",
+    "fuel": "benzin/gas",
+    "hp": 163
+  },
+  {
+    "label": "E 200 BlueTEC 7G-TRONIC (Diesel, 136 PS)",
+    "fuel": "diesel",
+    "hp": 136
+  },
+  {
+    "label": "E 200 CDI 7G-TRONIC (Diesel, 136 PS)",
+    "fuel": "diesel",
+    "hp": 136
+  },
+  {
+    "label": "E 200 CDI DPF BlueEFFICIENCY 7G-TRONIC (Diesel, 136 PS)",
+    "fuel": "diesel",
+    "hp": 136
+  },
+  {
+    "label": "E 200 CDI DPF BlueEFFICIENCY Automatik (Diesel, 136 PS)",
+    "fuel": "diesel",
+    "hp": 136
+  },
+  {
+    "label": "E 200 BlueTEC (Diesel, 136 PS)",
+    "fuel": "diesel",
+    "hp": 136
+  },
+  {
+    "label": "E 200 CDI DPF BlueEFFICIENCY (Diesel, 136 PS)",
+    "fuel": "diesel",
+    "hp": 136
+  },
+  {
+    "label": "E 200 CDI (Diesel, 136 PS)",
+    "fuel": "diesel",
+    "hp": 136
+  },
+  {
+    "label": "E 220 BlueTEC 4Matic 7G-TRONIC (Diesel, 170 PS)",
+    "fuel": "diesel",
+    "hp": 170
+  },
+  {
+    "label": "E 220 BlueTEC 9G-TRONIC (Diesel, 170 PS)",
+    "fuel": "diesel",
+    "hp": 170
+  },
+  {
+    "label": "E 220 BlueTEC BlueEFFICIENCY Edition 9G-TRONIC (Diesel, 170 PS)",
+    "fuel": "diesel",
+    "hp": 170
+  },
+  {
+    "label": "E 220 BlueTEC BlueEFFICIENCY 7G-TRONIC (Diesel, 170 PS)",
+    "fuel": "diesel",
+    "hp": 170
+  },
+  {
+    "label": "E 220 CDI 7G-TRONIC (Diesel, 170 PS)",
+    "fuel": "diesel",
+    "hp": 170
+  },
+  {
+    "label": "E 220 CDI DPF BlueEFFICIENCY 7G-TRONIC (Diesel, 170 PS)",
+    "fuel": "diesel",
+    "hp": 170
+  },
+  {
+    "label": "E 220 CDI DPF BlueEFFICIENCY Automatik (Diesel, 170 PS)",
+    "fuel": "diesel",
+    "hp": 170
+  },
+  {
+    "label": "E 220 BlueTEC BlueEFFICIENCY Edition (Diesel, 170 PS)",
+    "fuel": "diesel",
+    "hp": 170
+  },
+  {
+    "label": "E 220 BlueTEC (Diesel, 170 PS)",
+    "fuel": "diesel",
+    "hp": 170
+  },
+  {
+    "label": "E 220 CDI DPF BlueEFFICIENCY (Diesel, 170 PS)",
+    "fuel": "diesel",
+    "hp": 170
+  },
+  {
+    "label": "E 220 CDI (Diesel, 170 PS)",
+    "fuel": "diesel",
+    "hp": 170
+  },
+  {
+    "label": "E 250 BlueTEC 4Matic 7G-TRONIC (Diesel, 204 PS)",
+    "fuel": "diesel",
+    "hp": 204
+  },
+  {
+    "label": "E 250 BlueTEC 9G-TRONIC (Diesel, 204 PS)",
+    "fuel": "diesel",
+    "hp": 204
+  },
+  {
+    "label": "E 250 CDI 4Matic 7G-TRONIC (Diesel, 204 PS)",
+    "fuel": "diesel",
+    "hp": 204
+  },
+  {
+    "label": "E 250 CDI 7G-TRONIC (Diesel, 204 PS)",
+    "fuel": "diesel",
+    "hp": 204
+  },
+  {
+    "label": "E 250 CDI DPF 4Matic BlueEFFICIENCY 7G-TRONIC (Diesel, 204 PS)",
+    "fuel": "diesel",
+    "hp": 204
+  },
+  {
+    "label": "E 250 CDI DPF BlueEFFICIENCY 7G-TRONIC (Diesel, 204 PS)",
+    "fuel": "diesel",
+    "hp": 204
+  },
+  {
+    "label": "E 250 CDI DPF BlueEFFICIENCY Automatik (Diesel, 204 PS)",
+    "fuel": "diesel",
+    "hp": 204
+  },
+  {
+    "label": "E 300 CDI DPF BlueEFFICIENCY 7G-TRONIC (Diesel, 204 PS)",
+    "fuel": "diesel",
+    "hp": 204
+  },
+  {
+    "label": "E 250 BlueTEC (Diesel, 204 PS)",
+    "fuel": "diesel",
+    "hp": 204
+  },
+  {
+    "label": "E 250 CDI DPF BlueEFFICIENCY (Diesel, 204 PS)",
+    "fuel": "diesel",
+    "hp": 204
+  },
+  {
+    "label": "E 250 CDI (Diesel, 204 PS)",
+    "fuel": "diesel",
+    "hp": 204
+  },
+  {
+    "label": "E 350 DPF BlueTEC 7G-TRONIC (Diesel, 211 PS)",
+    "fuel": "diesel",
+    "hp": 211
+  },
+  {
+    "label": "E 300 BlueTEC 9G-TRONIC (Diesel, 231 PS)",
+    "fuel": "diesel",
+    "hp": 231
+  },
+  {
+    "label": "E 300 BlueTEC 7G-TRONIC (Diesel, 231 PS)",
+    "fuel": "diesel",
+    "hp": 231
+  },
+  {
+    "label": "E 300 CDI DPF BlueEFFICIENCY 7G-TRONIC (Diesel, 231 PS)",
+    "fuel": "diesel",
+    "hp": 231
+  },
+  {
+    "label": "E 350 CDI DPF 4Matic BlueEFFICIENCY 7G-TRONIC (Diesel, 231 PS)",
+    "fuel": "diesel",
+    "hp": 231
+  },
+  {
+    "label": "E 350 CDI DPF BlueEFFICIENCY 7G-TRONIC (Diesel, 231 PS)",
+    "fuel": "diesel",
+    "hp": 231
+  },
+  {
+    "label": "E 350 BlueTEC 4Matic 7G-TRONIC (Diesel, 252 PS)",
+    "fuel": "diesel",
+    "hp": 252
+  },
+  {
+    "label": "E 350 BlueTEC 7G-TRONIC (Diesel, 252 PS)",
+    "fuel": "diesel",
+    "hp": 252
+  },
+  {
+    "label": "E 350 BlueTEC 9G-TRONIC (Diesel, 252 PS)",
+    "fuel": "diesel",
+    "hp": 252
+  },
+  {
+    "label": "E 350 BlueTEC 4Matic 7G-TRONIC (Diesel, 258 PS)",
+    "fuel": "diesel",
+    "hp": 258
+  },
+  {
+    "label": "E 350 BlueTEC 9G-TRONIC (Diesel, 258 PS)",
+    "fuel": "diesel",
+    "hp": 258
+  },
+  {
+    "label": "E 350 CDI DPF 4Matic BlueEFFICIENCY 7G-TRONIC (Diesel, 265 PS)",
+    "fuel": "diesel",
+    "hp": 265
+  },
+  {
+    "label": "E 350 CDI DPF BlueEFFICIENCY 7G-TRONIC (Diesel, 265 PS)",
+    "fuel": "diesel",
+    "hp": 265
+  },
+  {
+    "label": "E 300 BlueTEC HYBRID 7G-TRONIC (Diesel/Elektro, 204 PS)",
+    "fuel": "diesel/elektro",
+    "hp": 204
+  }
+]

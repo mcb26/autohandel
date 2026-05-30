@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Corniche",
+    "description": "Corniche",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ROLLS%20ROYCE/model/Corniche"
+  },
+  {
+    "name": "Cullinan",
+    "description": "Cullinan",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ROLLS%20ROYCE/model/Cullinan"
+  },
+  {
+    "name": "Dawn",
+    "description": "Dawn",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ROLLS%20ROYCE/model/Dawn"
+  },
+  {
+    "name": "Flying Spur",
+    "description": "Flying Spur",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ROLLS%20ROYCE/model/Flying%20Spur"
+  },
+  {
+    "name": "Ghost",
+    "description": "Ghost",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ROLLS%20ROYCE/model/Ghost"
+  },
+  {
+    "name": "Park Ward",
+    "description": "Park Ward",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ROLLS%20ROYCE/model/Park%20Ward"
+  },
+  {
+    "name": "Phantom",
+    "description": "Phantom",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ROLLS%20ROYCE/model/Phantom"
+  },
+  {
+    "name": "Silver Cloud",
+    "description": "Silver Cloud",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ROLLS%20ROYCE/model/Silver%20Cloud"
+  },
+  {
+    "name": "Silver Dawn",
+    "description": "Silver Dawn",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ROLLS%20ROYCE/model/Silver%20Dawn"
+  },
+  {
+    "name": "Silver Seraph",
+    "description": "Silver Seraph",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ROLLS%20ROYCE/model/Silver%20Seraph"
+  },
+  {
+    "name": "Silver Shadow",
+    "description": "Silver Shadow",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ROLLS%20ROYCE/model/Silver%20Shadow"
+  },
+  {
+    "name": "Silver Spirit",
+    "description": "Silver Spirit",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ROLLS%20ROYCE/model/Silver%20Spirit"
+  },
+  {
+    "name": "Silver Spur",
+    "description": "Silver Spur",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ROLLS%20ROYCE/model/Silver%20Spur"
+  },
+  {
+    "name": "Spectre",
+    "description": "Spectre",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ROLLS%20ROYCE/model/Spectre"
+  },
+  {
+    "name": "Wraith",
+    "description": "Wraith",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ROLLS%20ROYCE/model/Wraith"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ROLLS%20ROYCE/model/ANDERE"
+  }
+]

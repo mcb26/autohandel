@@ -1,0 +1,47 @@
+[
+  {
+    "name": "GLC 200",
+    "description": "GLC 200",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/GLC-Klasse/models/GLC%20200"
+  },
+  {
+    "name": "GLC 220",
+    "description": "GLC 220",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/GLC-Klasse/models/GLC%20220"
+  },
+  {
+    "name": "GLC 250",
+    "description": "GLC 250",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/GLC-Klasse/models/GLC%20250"
+  },
+  {
+    "name": "GLC 300",
+    "description": "GLC 300",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/GLC-Klasse/models/GLC%20300"
+  },
+  {
+    "name": "GLC 350",
+    "description": "GLC 350",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/GLC-Klasse/models/GLC%20350"
+  },
+  {
+    "name": "GLC 400",
+    "description": "GLC 400",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/GLC-Klasse/models/GLC%20400"
+  },
+  {
+    "name": "GLC 43 AMG",
+    "description": "GLC 43 AMG",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/GLC-Klasse/models/GLC%2043%20AMG"
+  },
+  {
+    "name": "GLC 450",
+    "description": "GLC 450",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/GLC-Klasse/models/GLC%20450"
+  },
+  {
+    "name": "GLC 63 AMG",
+    "description": "GLC 63 AMG",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/MERCEDES-BENZ/modelgroups/GLC-Klasse/models/GLC%2063%20AMG"
+  }
+]

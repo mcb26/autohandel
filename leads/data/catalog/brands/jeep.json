@@ -1,0 +1,2468 @@
+{
+  "label": "Jeep",
+  "models": {
+    "avenger": {
+      "label": "Avenger",
+      "series": {
+        "jeep-avenger-facelift-2026": {
+          "label": "Jeep Avenger (facelift 2026)",
+          "engines": [
+            {
+              "label": "54 kWh (156 Hp) Electric",
+              "hp": 156,
+              "fuel": "elektro"
+            },
+            {
+              "label": "1.2 GSE T3 (100 Hp)",
+              "hp": 100,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 4xe (145 Hp) Hybrid eAWD eDCT",
+              "hp": 145,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.2 (110 Hp) e-Hybrid eDCT",
+              "hp": 110,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "jeep-avenger": {
+          "label": "Jeep Avenger",
+          "engines": [
+            {
+              "label": "54 kWh (156 Hp) Electric (2022 - 2026)",
+              "hp": 156,
+              "fuel": "elektro"
+            },
+            {
+              "label": "1.2 GSE T3 (100 Hp) (2023 - 2026)",
+              "hp": 100,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.2 4xe (145 Hp) Hybrid eAWD eDCT (2025 - 2026)",
+              "hp": 145,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.2 4xe (136 Hp) Hybrid eAWD e-DCT (2024 - 2025)",
+              "hp": 136,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.2 (110 Hp) e-Hybrid eDCT (2025 - 2026)",
+              "hp": 110,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.2 (100 Hp) e-Hybrid e-DCS (2023 - 2025)",
+              "hp": 100,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "cherokee": {
+      "label": "Cherokee",
+      "series": {
+        "jeep-cherokee-vi-km": {
+          "label": "Jeep Cherokee VI (KM)",
+          "engines": [
+            {
+              "label": "1.6 (210 Hp) Hybrid 4x4 ECVT",
+              "hp": 210,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "jeep-cherokee-v-kl-facelift-2018": {
+          "label": "Jeep Cherokee V (KL, facelift 2018)",
+          "engines": [
+            {
+              "label": "3.2 V6 (271 Hp) Automatic (2018 - 2023)",
+              "hp": 271,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.2 V6 (271 Hp) 4WD Automatic (2018 - 2023)",
+              "hp": 271,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 (180 Hp) Automatic (2018 - 2023)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 (180 Hp) 4WD Automatic (2018 - 2023)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 MultiJet II (195 Hp) AWD Automatic (2018 - 2021)",
+              "hp": 195,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 MultiJet II (195 Hp) Automatic (2018 - 2021)",
+              "hp": 195,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (272 Hp) Automatic (2019 - 2023)",
+              "hp": 272,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (272 Hp) 4WD Automatic (2019 - 2023)",
+              "hp": 272,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "jeep-cherokee-v-kl": {
+          "label": "Jeep Cherokee V (KL)",
+          "engines": [
+            {
+              "label": "3.2 V6 (272 Hp) 4WD LOCK Automatic Stop-Start (2013 - 2017)",
+              "hp": 272,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.2 V6 (272 Hp) 4WD Automatic Stop-Start (2013 - 2017)",
+              "hp": 272,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 MultiAir2 TIGERSHARK (184 Hp) Automatic (2013 - 2017)",
+              "hp": 184,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 MultiAir2 TIGERSHARK (184 Hp) 4WD LOCK Automatic (2013 - 2017)",
+              "hp": 184,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 MultiAir2 TIGERSHARK (184 Hp) 4WD Automatic (2013 - 2017)",
+              "hp": 184,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 MultiAir2 TIGERSHARK (177 Hp) Automatic (2013 - 2017)",
+              "hp": 177,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 MultiAir2 TIGERSHARK (177 Hp) 4WD LOCK Automatic (2013 - 2017)",
+              "hp": 177,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 MultiAir2 TIGERSHARK (177 Hp) 4WD Automatic (2013 - 2017)",
+              "hp": 177,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 MultiJet TD (200 Hp) 4WD Automatic (2015 - 2017)",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 MultiJet II TD (200 Hp) 4WD Automatic (2015 - 2017)",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 MultiJet TD (185 Hp) 4WD Automatic (2015 - 2017)",
+              "hp": 185,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (170 Hp) 4WD Automatic (2013 - 2017)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (140 Hp) 4WD (2013 - 2017)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (140 Hp) (2013 - 2017)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "jeep-cherokee-iv-kk": {
+          "label": "Jeep Cherokee IV (KK)",
+          "engines": [
+            {
+              "label": "3.7 V6 (205 Hp) (2008 - 2012)",
+              "hp": 205,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.8 CRD (177 Hp) (2008 - 2012)",
+              "hp": 177,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "jeep-cherokee-iii-kj": {
+          "label": "Jeep Cherokee III (KJ)",
+          "engines": [
+            {
+              "label": "3.7 i V6 (210 Hp) Automatic (2002 - 2008)",
+              "hp": 210,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.7 i V6 (210 Hp) (2002 - 2008)",
+              "hp": 210,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.8 TD (150 Hp) (2003 - 2008)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.8 CRDi (163 Hp) Automatic (2004 - 2008)",
+              "hp": 163,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.8 CRDi (163 Hp) (2004 - 2008)",
+              "hp": 163,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 CRD (143 Hp) (2002 - 2008)",
+              "hp": 143,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4i 16V (147 Hp) AWD (2001 - 2005)",
+              "hp": 147,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "jeep-cherokee-ii-xj-5-door": {
+          "label": "Jeep Cherokee II (XJ) 5-door",
+          "engines": [
+            {
+              "label": "4.0 i (184 Hp) (1991 - 1996)",
+              "hp": 184,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.0 i (178 Hp) (1996 - 2000)",
+              "hp": 178,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 i SE (130 Hp) Automatic (1993 - 1995)",
+              "hp": 130,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 i SE (130 Hp) (1993 - 1995)",
+              "hp": 130,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 i Jamboree (122 Hp) (1991 - 1995)",
+              "hp": 122,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 i (118 Hp) (1998 - 2001)",
+              "hp": 118,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.1 TD (86 Hp) (1988 - 1995)",
+              "hp": 86,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "jeep-cherokee-ii-xj-3-door": {
+          "label": "Jeep Cherokee II (XJ) 3-door",
+          "engines": [
+            {
+              "label": "4.0 i Sport 4WD (192 Hp) (1999 - 2001)",
+              "hp": 192,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.0 i Sport (192 Hp) Automatic (1999 - 2001)",
+              "hp": 192,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.0 i Sport (192 Hp) (1999 - 2001)",
+              "hp": 192,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.0 i Country (190 Hp) Automatic (1993 - 1999)",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.0 i Country (190 Hp) (1993 - 1999)",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.0 i (190 Hp) 4WD Automatic (1993 - 1998)",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.0 i (190 Hp) 4WD (1993 - 1998)",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.0 i (184 Hp) Automatic (1991 - 1996)",
+              "hp": 184,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 TD (115 Hp) (1995 - 2001)",
+              "hp": 115,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 i SE 4WD (127 Hp) (1996 - 2001)",
+              "hp": 127,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 i SE (127 Hp) (1996 - 2001)",
+              "hp": 127,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "jeep-cherokee-i-sj-5-door": {
+          "label": "Jeep Cherokee I (SJ) 5-door",
+          "engines": [
+            {
+              "label": "5.9 V8 (175 Hp) 4WD Automatic (1977 - 1983)",
+              "hp": 175,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.9 V8 (153 Hp) 4WD Automatic (1980 - 1983)",
+              "hp": 153,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "jeep-cherokee-i-sj-3-door": {
+          "label": "Jeep Cherokee I (SJ) 3-door",
+          "engines": [
+            {
+              "label": "Chief-17 5.9 V8 (153 Hp) 4WD Automatic (1980 - 1983)",
+              "hp": 153,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Chief 5.9 V8 (182 Hp) 4WD Automatic (1977 - 1978)",
+              "hp": 182,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.9 V8 (140 Hp) 4WD Automatic (1975 - 1978)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.9 V8 (133 Hp) 4WD Automatic (1978 - 1979)",
+              "hp": 133,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.2 (103 Hp) 4WD (1976 - 1978)",
+              "hp": 103,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "cj": {
+      "label": "CJ",
+      "series": {
+        "jeep-cj-7": {
+          "label": "Jeep CJ-7",
+          "engines": [
+            {
+              "label": "3.8 (100 Hp) (1976 - 1978)",
+              "hp": 100,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 (82 Hp) (1980 - 1983)",
+              "hp": 82,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "jeep-cj-5": {
+          "label": "Jeep CJ-5",
+          "engines": [
+            {
+              "label": "5.0 (121 Hp) (1973 - 1981)",
+              "hp": 121,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.2 (103 Hp) (1972 - 1987)",
+              "hp": 103,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.8 (100 Hp) (1972 - 1978)",
+              "hp": 100,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.7 (150 Hp) (1966 - 1971)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 (88 Hp) (1980 - 1983)",
+              "hp": 88,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 (106 Hp) (1984 - 1987)",
+              "hp": 106,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 D (60 Hp) (1983 - 1987)",
+              "hp": 60,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.1 D (60 Hp) (1983 - 1987)",
+              "hp": 60,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (85 Hp) (1983 - 1987)",
+              "hp": 85,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "jeep-cj-3a": {
+          "label": "Jeep CJ-3A",
+          "engines": [
+            {
+              "label": "Keine exakte Motorliste verfügbar – bitte genaue Motorisierung im Freitext angeben"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "jeep-cj-2a": {
+          "label": "Jeep CJ-2A",
+          "engines": [
+            {
+              "label": "Keine exakte Motorliste verfügbar – bitte genaue Motorisierung im Freitext angeben"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "commander": {
+      "label": "Commander",
+      "series": {
+        "jeep-commander-2022": {
+          "label": "Jeep Commander (2022)",
+          "engines": [
+            {
+              "label": "2.0d (170 Hp) AWD Automatic",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "jeep-commander-xk": {
+          "label": "Jeep Commander (XK)",
+          "engines": [
+            {
+              "label": "5.7 i V8 Limited (334 Hp) 4WD Automatic (2006 - 2010)",
+              "hp": 334,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.7 i V8 Hemi Limited (326 Hp) 4WD Automatic (2006 - 2010)",
+              "hp": 326,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.7 i V8 Limited (231 Hp) 4WD Automatic (2006 - 2010)",
+              "hp": 231,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.7 i V8 (231 Hp) 4WD Automatic (2006 - 2010)",
+              "hp": 231,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.7 i V6 (213 Hp) Automatic (2006 - 2010)",
+              "hp": 213,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.7 i V6 (213 Hp) 4WD Automatic (2006 - 2010)",
+              "hp": 213,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 CRD (218 Hp) 4WD Automatic (2006 - 2010)",
+              "hp": 218,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "compass": {
+      "label": "Compass",
+      "series": {
+        "jeep-compass-iii": {
+          "label": "Jeep Compass III",
+          "engines": [
+            {
+              "label": "e 74 kWh (213 Hp) Electric",
+              "hp": 213,
+              "fuel": "elektro"
+            },
+            {
+              "label": "1.6 (225 Hp) Plug-in Hybrid eDCT",
+              "hp": 225,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.2 (145 Hp) e-Hybrid eDCT",
+              "hp": 145,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "jeep-compass-ii-mp-facelift-2021": {
+          "label": "Jeep Compass II (MP, facelift 2021)",
+          "engines": [
+            {
+              "label": "Trailhawk 2.0 Turbo (200 Hp) 4x4 Automatic",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Turbo (200 Hp) 4x4 Automatic",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 MultiAir (177 Hp) Automatic (2021 - 2022)",
+              "hp": 177,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 MultiAir (177 Hp) 4x4 Automatic (2021 - 2022)",
+              "hp": 177,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 Multijet (130 Hp) (2021 - 2022)",
+              "hp": 130,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 GSE (130 Hp) e-Hybrid DCT (2022 - 2025)",
+              "hp": 130,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.3 GSE T4 (240 Hp) Plug-in Hybrid 4xe Automatic (2021 - 2024)",
+              "hp": 240,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.3 GSE T4 (150 Hp) DCT (2021 - 2021)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 GSE T4 (190 Hp) Plug-in Hybrid 4xe Automatic (2021 - 2024)",
+              "hp": 190,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.3 GSE T4 (130 Hp) (2021 - 2022)",
+              "hp": 130,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "jeep-compass-ii-mp": {
+          "label": "Jeep Compass II (MP)",
+          "engines": [
+            {
+              "label": "Trailhawk 2.0 Multijet (170 Hp) 4x4 Automatic (2018 - 2020)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 MultiAir (180 Hp) Automatic (2017 - 2021)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 MultiAir (180 Hp) 4x4 Automatic (2017 - 2021)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 MultiAir (180 Hp) 4x4 (2017 - 2021)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 MultiAir (180 Hp) (2017 - 2021)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Multijet (170 Hp) 4x4 Automatic (2018 - 2020)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Multijet (140 Hp) 4x4 Automatic (2018 - 2020)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Multijet (140 Hp) 4x4 (2018 - 2020)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 Multijet (120 Hp) (2018 - 2020)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 MultiAir (170 Hp) 4x4 Automatic (2017 - 2020)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 MultiAir (140 Hp) (2017 - 2020)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 GSE T4 (150 Hp) DCT (2020 - 2021)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 GSE T4 (130 Hp) (2020 - 2021)",
+              "hp": 130,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 (240 Hp) Plug-in Hybrid 4xe Automatic (2020 - 2021)",
+              "hp": 240,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.3 (190 Hp) Plug-in Hybrid 4xe Automatic (2020 - 2021)",
+              "hp": 190,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "jeep-compass-i-mk-facelift-2011": {
+          "label": "Jeep Compass I (MK, facelift 2011)",
+          "engines": [
+            {
+              "label": "2.4 (172 Hp) Automatic (2013 - 2016)",
+              "hp": 172,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 (172 Hp) 4x4 (2011 - 2016)",
+              "hp": 172,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 (172 Hp) (2011 - 2016)",
+              "hp": 172,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 (170 Hp) 4x4 CVT (2011 - 2013)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 (170 Hp) 4x4 Automatic (2013 - 2016)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 (170 Hp) 4x4 (2011 - 2013)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 CRD (163 Hp) 4x4 (2011 - 2015)",
+              "hp": 163,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.2 CRD (136 Hp) (2011 - 2015)",
+              "hp": 136,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (158 Hp) CVT (2011 - 2013)",
+              "hp": 158,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (158 Hp) Automatic (2013 - 2016)",
+              "hp": 158,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (156 Hp) (2011 - 2015)",
+              "hp": 156,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "jeep-compass-i-mk": {
+          "label": "Jeep Compass I (MK)",
+          "engines": [
+            {
+              "label": "2.4 (170 Hp) CVT 4x4 (2006 - 2010)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 (170 Hp) 4x4 (2006 - 2010)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 CRD (140 Hp) 4x4 (2007 - 2010)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 (158 Hp) CVT2 (2006 - 2010)",
+              "hp": 158,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "gladiator": {
+      "label": "Gladiator",
+      "series": {
+        "jeep-gladiator-jt-facelift-2024": {
+          "label": "Jeep Gladiator (JT, facelift 2024)",
+          "engines": [
+            {
+              "label": "Willys 3.6 Pentastar V6 (285 Hp) 4x4 Automatic",
+              "hp": 285,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Willys 3.6 Pentastar V6 (285 Hp) 4x4",
+              "hp": 285,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sport 3.6 Pentastar V6 (285 Hp) 4x4 Automatic",
+              "hp": 285,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sport 3.6 Pentastar V6 (285 Hp) 4x4",
+              "hp": 285,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Rubicon 3.6 Pentastar V6 (285 Hp) 4x4 Automatic",
+              "hp": 285,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Rubicon 3.6 Pentastar V6 (285 Hp) 4x4",
+              "hp": 285,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Mojave 3.6 Pentastar V6 (285 Hp) 4x4 Automatic",
+              "hp": 285,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Mojave 3.6 Pentastar V6 (285 Hp) 4x4",
+              "hp": 285,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "jeep-gladiator-jt": {
+          "label": "Jeep Gladiator (JT)",
+          "engines": [
+            {
+              "label": "3.6 Pentastar V6 (285 Hp) 4WD Automatic (2019 - 2023)",
+              "hp": 285,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6 Pentastar V6 (285 Hp) 4WD (2019 - 2023)",
+              "hp": 285,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 Multijet V6 (264 Hp) 4WD Automatic (2021 - 2023)",
+              "hp": 264,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "grand-cherokee": {
+      "label": "Grand Cherokee",
+      "series": {
+        "jeep-grand-cherokee-v-wl-facelift-2025": {
+          "label": "Jeep Grand Cherokee V (WL, facelift 2025)",
+          "engines": [
+            {
+              "label": "3.6 V6 Pentastar (293 Hp) TorqueFlite",
+              "hp": 293,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6 V6 Pentastar (293 Hp) 4x4 TorqueFlite",
+              "hp": 293,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Turbo (324 Hp) TorqueFlite",
+              "hp": 324,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Turbo (324 Hp) 4x4 TorqueFlite",
+              "hp": 324,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Turbo (375 Hp) 4xe eTorque TorqueFlite",
+              "hp": 375,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "jeep-grand-cherokee-l-v-wl-facelift-2025": {
+          "label": "Jeep Grand Cherokee L V (WL, facelift 2025)",
+          "engines": [
+            {
+              "label": "3.6 V6 Pentastar (293 Hp) TorqueFlite",
+              "hp": 293,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6 V6 Pentastar (293 Hp) 4x4 TorqueFlite",
+              "hp": 293,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Turbo (324 Hp) TorqueFlite",
+              "hp": 324,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Turbo (324 Hp) 4x4 TorqueFlite",
+              "hp": 324,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "jeep-grand-cherokee-v-wl": {
+          "label": "Jeep Grand Cherokee V (WL)",
+          "engines": [
+            {
+              "label": "5.7 V8 (364 Hp) 4x4 Torqueflite (2021 - 2023)",
+              "hp": 364,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6 V6 Pentastar (293 Hp) Torqueflite (2021 - 2025)",
+              "hp": 293,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6 V6 Pentastar (293 Hp) 4x4 Torqueflite (2021 - 2025)",
+              "hp": 293,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Turbo (375 Hp) 4xe eTorque Torqueflite",
+              "hp": 375,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "jeep-grand-cherokee-l-v-wl": {
+          "label": "Jeep Grand Cherokee L V (WL)",
+          "engines": [
+            {
+              "label": "5.7 V8 (364 Hp) 4x4 TorqueFlite (2021 - 2024)",
+              "hp": 364,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6 V6 Pentastar (290 Hp) TorqueFlite (2021 - 2025)",
+              "hp": 290,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6 V6 Pentastar (290 Hp) 4x4 TorqueFlite (2021 - 2025)",
+              "hp": 290,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "jeep-grand-cherokee-iv-wk2-facelift-2017": {
+          "label": "Jeep Grand Cherokee IV (WK2, facelift 2017)",
+          "engines": [
+            {
+              "label": "Trackhawk 6.2 V8 (710 Hp) 4x4 Automatic (2017 - 2021)",
+              "hp": 710,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Trackhawk 6.2 V8 (707 Hp) 4x4 Automatic (2017 - 2021)",
+              "hp": 707,
+              "fuel": "benzin"
+            },
+            {
+              "label": "SRT 6.4 V8 (475 Hp) 4x4 Automatic (2017 - 2021)",
+              "hp": 475,
+              "fuel": "benzin"
+            },
+            {
+              "label": "SRT 6.4 V8 (468 Hp) 4x4 Automatic (2017 - 2021)",
+              "hp": 468,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.7 V8 (360 Hp) 4x4 Automatic (2017 - 2021)",
+              "hp": 360,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.7 V8 (352 Hp) 4x4 Automatic (2017 - 2018)",
+              "hp": 352,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6 V6 (295 Hp) Automatic (2017 - 2022)",
+              "hp": 295,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6 V6 (295 Hp) 4x4 Automatic (2017 - 2022)",
+              "hp": 295,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6 V6 (290 Hp) 4x4 Automatic (2017 - 2018)",
+              "hp": 290,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 MultiJet (250 Hp) 4x4 Automatic (2017 - 2021)",
+              "hp": 250,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 V6 EcoDiesel (240 Hp) Automatic (2017 - 2019)",
+              "hp": 240,
+              "fuel": "diesel"
+            },
+            {
+              "label": "3.0 V6 EcoDiesel (240 Hp) 4x4 Automatic (2017 - 2019)",
+              "hp": 240,
+              "fuel": "diesel"
+            },
+            {
+              "label": "3.0 V6 MultiJet (190 Hp) 4x4 Automatic (2017 - 2019)",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "jeep-grand-cherokee-iv-wk2-facelift-2013": {
+          "label": "Jeep Grand Cherokee IV (WK2, facelift 2013)",
+          "engines": [
+            {
+              "label": "SRT8 6.4 V8 (468 Hp) 4x4 Automatic (2013 - 2017)",
+              "hp": 468,
+              "fuel": "benzin"
+            },
+            {
+              "label": "SRT 6.4 V8 (481 Hp) 4x4 Automatic (2016 - 2017)",
+              "hp": 481,
+              "fuel": "benzin"
+            },
+            {
+              "label": "SRT 6.4 V8 (476 Hp) 4x4 Automatic (2014 - 2016)",
+              "hp": 476,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.7 V8 (364 Hp) Automatic (2014 - 2017)",
+              "hp": 364,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.7 V8 (364 Hp) 4x4 Automatic (2014 - 2017)",
+              "hp": 364,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.7 V8 (352 Hp) 4x4 Automatic (2013 - 2017)",
+              "hp": 352,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6 V6 (299 Hp) Automatic (2016 - 2017)",
+              "hp": 299,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6 V6 (299 Hp) 4x4 Automatic (2016 - 2017)",
+              "hp": 299,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6 V6 (294 Hp) Automatic (2014 - 2016)",
+              "hp": 294,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6 V6 (294 Hp) 4x4 Automatic (2014 - 2017)",
+              "hp": 294,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6 V6 (286 Hp) 4x4 Automatic (2013 - 2017)",
+              "hp": 286,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 EcoDiesel (243 Hp) Automatic (2014 - 2017)",
+              "hp": 243,
+              "fuel": "diesel"
+            },
+            {
+              "label": "3.0 EcoDiesel (243 Hp) 4x4 Automatic (2014 - 2017)",
+              "hp": 243,
+              "fuel": "diesel"
+            },
+            {
+              "label": "3.0 CRD (250 Hp) 4x4 Automatic (2013 - 2017)",
+              "hp": 250,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 CRD (190 Hp) 4x4 Automatic (2013 - 2017)",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "jeep-grand-cherokee-iv-wk2": {
+          "label": "Jeep Grand Cherokee IV (WK2)",
+          "engines": [
+            {
+              "label": "SRT8 6.4 V8 (477 Hp) 4x4 Automatic (2011 - 2013)",
+              "hp": 477,
+              "fuel": "benzin"
+            },
+            {
+              "label": "SRT8 6.4 V8 (472 Hp) 4x4 Automatic (2011 - 2013)",
+              "hp": 472,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.7 V8 (364 Hp) 4x4 Automatic (2011 - 2013)",
+              "hp": 364,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.7 V8 (360 Hp) Automatic (2011 - 2013)",
+              "hp": 360,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.7 V8 (352 Hp) 4x4 Automatic (2010 - 2013)",
+              "hp": 352,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6 V6 (294 Hp) Automatic (2011 - 2013)",
+              "hp": 294,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6 V6 (294 Hp) 4x4 Automatic (2011 - 2013)",
+              "hp": 294,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.6 V6 (286 Hp) 4x4 Automatic (2010 - 2013)",
+              "hp": 286,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 CRD (241 Hp) 4x4 Automatic (2011 - 2013)",
+              "hp": 241,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 CRD (190 Hp) 4x4 Automatic (2011 - 2013)",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "jeep-grand-cherokee-iii-wk": {
+          "label": "Jeep Grand Cherokee III (WK)",
+          "engines": [
+            {
+              "label": "SRT8 6.1i V8 (426 Hp) 4x4 Automatic (2006 - 2010)",
+              "hp": 426,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.7i V8 (362 Hp) Automatic (2009 - 2010)",
+              "hp": 362,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.7i V8 (362 Hp) 4x4 Automatic (2009 - 2010)",
+              "hp": 362,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.7i V8 (352 Hp) 4x4 Automatic (2009 - 2010)",
+              "hp": 352,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.7i V8 (335 Hp) Automatic (2006 - 2008)",
+              "hp": 335,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.7i V8 (335 Hp) 4x4 Automatic (2006 - 2008)",
+              "hp": 335,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.7i V8 (326 Hp) 4x4 Automatic (2005 - 2008)",
+              "hp": 326,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.7i V8 (309 Hp) Automatic (2008 - 2009)",
+              "hp": 309,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.7i V8 (309 Hp) 4x4 Automatic (2008 - 2010)",
+              "hp": 309,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.7i V8 (238 Hp) Automatic (2005 - 2007)",
+              "hp": 238,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.7i V8 (238 Hp) 4x4 Automatic (2005 - 2007)",
+              "hp": 238,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.7i V8 (231 Hp) 4x4 Automatic (2005 - 2010)",
+              "hp": 231,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.7i V6 (214 Hp) Automatic (2005 - 2010)",
+              "hp": 214,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.7i V6 (214 Hp) 4x4 Automatic (2005 - 2010)",
+              "hp": 214,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.7i V6 (201 Hp) 4x4 Automatic (2008 - 2010)",
+              "hp": 201,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 CRD (218 Hp) Automatic (2007 - 2009)",
+              "hp": 218,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 CRD (218 Hp) 4x4 Automatic (2005 - 2010)",
+              "hp": 218,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "jeep-grand-cherokee-ii-wj-facelift-2003": {
+          "label": "Jeep Grand Cherokee II (WJ, facelift 2003)",
+          "engines": [
+            {
+              "label": "4.7 HO V8 (265 Hp) Automatic (2003 - 2004)",
+              "hp": 265,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.7 HO V8 (265 Hp) 4x4 Automatic (2003 - 2004)",
+              "hp": 265,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.7 HO V8 (258 Hp) 4x4 Automatic (2003 - 2004)",
+              "hp": 258,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.7 V8 (235 Hp) Automatic (2003 - 2004)",
+              "hp": 235,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.7 V8 (235 Hp) 4x4 Automatic (2003 - 2004)",
+              "hp": 235,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.7 V8 (227 Hp) 4x4 Automatic (2003 - 2004)",
+              "hp": 227,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.0 (195 Hp) Automatic (2003 - 2004)",
+              "hp": 195,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.0 (195 Hp) 4x4 Automatic (2003 - 2004)",
+              "hp": 195,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.7 CRD (163 Hp) 4x4 Automatic (2003 - 2004)",
+              "hp": 163,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "jeep-grand-cherokee-ii-wj": {
+          "label": "Jeep Grand Cherokee II (WJ)",
+          "engines": [
+            {
+              "label": "4.7 HO V8 (265 Hp) Automatic (2001 - 2003)",
+              "hp": 265,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.7 HO V8 (265 Hp) 4x4 Automatic (2001 - 2003)",
+              "hp": 265,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.7 HO V8 (258 Hp) 4x4 Automatic (2001 - 2003)",
+              "hp": 258,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.7 V8 (235 Hp) Automatic (2001 - 2003)",
+              "hp": 235,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.7 V8 (235 Hp) 4x4 Automatic (2001 - 2003)",
+              "hp": 235,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.7 V8 (223 Hp) 4x4 Automatic (2001 - 2003)",
+              "hp": 223,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.7 V8 (220 Hp) 4x4 Automatic (1999 - 2001)",
+              "hp": 220,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.0 (195 Hp) Automatic (1998 - 2003)",
+              "hp": 195,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.0 (195 Hp) 4x4 Automatic (1998 - 2003)",
+              "hp": 195,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.0 (190 Hp) 4x4 Automatic (1999 - 2003)",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.1 TD (140 Hp) 4x4 Automatic (1999 - 2001)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.7 CRD (163 Hp) 4x4 Automatic (2002 - 2003)",
+              "hp": 163,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "jeep-grand-cherokee-i-zj": {
+          "label": "Jeep Grand Cherokee I (ZJ)",
+          "engines": [
+            {
+              "label": "5.9i V8 (249 Hp) 4x4 Automatic (1997 - 1998)",
+              "hp": 249,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.9i V8 (241 Hp) 4x4 Automatic (1997 - 1998)",
+              "hp": 241,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.2i V8 (223 Hp) Automatic (1996 - 1997)",
+              "hp": 223,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.2i V8 (223 Hp) 4x4 Automatic (1992 - 1993)",
+              "hp": 223,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.2i V8 (220 Hp) 4x4 Automatic (1992 - 1999)",
+              "hp": 220,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.2i V8 (215 Hp) 4x4 Automatic (1993 - 1994)",
+              "hp": 215,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.2i V8 (212 Hp) 4x4 Automatic (1996 - 1997)",
+              "hp": 212,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.2i V8 (211 Hp) 4x4 Automatic (1995 - 1995)",
+              "hp": 211,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.0i (193 Hp) Automatic (1993 - 1994)",
+              "hp": 193,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.0i (193 Hp) 4x4 Automatic (1992 - 1993)",
+              "hp": 193,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.0i (193 Hp) 4x4 (1992 - 1993)",
+              "hp": 193,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.0i (192 Hp) Automatic (1992 - 1993)",
+              "hp": 192,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.0i (192 Hp) 4x4 Automatic (1993 - 1994)",
+              "hp": 192,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.0i (192 Hp) 4x4 (1993 - 1994)",
+              "hp": 192,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.0i (190 Hp) Automatic (1991 - 1999)",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.0i (190 Hp) 4x4 Automatic (1991 - 1999)",
+              "hp": 190,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.0i (188 Hp) Automatic (1994 - 1995)",
+              "hp": 188,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.0i (188 Hp) 4x4 Automatic (1994 - 1995)",
+              "hp": 188,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.0i (184 Hp) 4x4 Automatic (1993 - 1994)",
+              "hp": 184,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.0i (180 Hp) 4x4 Automatic (1995 - 1995)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.0i (177 Hp) 4x4 Automatic (1996 - 1997)",
+              "hp": 177,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 TD (116 Hp) 4x4 (1996 - 1997)",
+              "hp": 116,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "grand-commander": {
+      "label": "Grand Commander",
+      "series": {
+        "jeep-grand-commander": {
+          "label": "Jeep Grand Commander",
+          "engines": [
+            {
+              "label": "2.0 T (265 Hp) AWD Automatic (2018 - 2022)",
+              "hp": 265,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 T (234 Hp) AWD Automatic (2018 - 2022)",
+              "hp": 234,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "liberty": {
+      "label": "Liberty",
+      "series": {
+        "jeep-liberty-ii": {
+          "label": "Jeep Liberty II",
+          "engines": [
+            {
+              "label": "3.7 i V6 12V (210 Hp) Automatic (2007 - 2013)",
+              "hp": 210,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.7 i V6 12V (210 Hp) 4WD Automatic (2007 - 2013)",
+              "hp": 210,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.7 i V6 12V (210 Hp) 4WD (2007 - 2013)",
+              "hp": 210,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.7 i V6 12V (210 Hp) (2007 - 2013)",
+              "hp": 210,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "jeep-liberty-i-facelift-2004": {
+          "label": "Jeep Liberty I (facelift 2004)",
+          "engines": [
+            {
+              "label": "3.7 i V6 12V (210 Hp) Automatic (2005 - 2007)",
+              "hp": 210,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.7 i V6 12V (210 Hp) 4WD Automatic (2005 - 2007)",
+              "hp": 210,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.7 i V6 12V (210 Hp) 4WD (2005 - 2007)",
+              "hp": 210,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.7 i V6 12V (210 Hp) (2005 - 2007)",
+              "hp": 210,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.8 CRD (160 Hp) 4WD Automatic (2004 - 2007)",
+              "hp": 160,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 16V (150 Hp) 4WD (2005 - 2006)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 16V (150 Hp) (2005 - 2006)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "jeep-liberty-i": {
+          "label": "Jeep Liberty I",
+          "engines": [
+            {
+              "label": "3.7 i V6 12V (210 Hp) Automatic (2001 - 2004)",
+              "hp": 210,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.7 i V6 12V (210 Hp) 4WD Automatic (2001 - 2004)",
+              "hp": 210,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.7 i V6 12V (210 Hp) 4WD (2001 - 2004)",
+              "hp": 210,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.7 i V6 12V (210 Hp) (2001 - 2004)",
+              "hp": 210,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 16V (150 Hp) 4WD (2001 - 2004)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 16V (150 Hp) (2001 - 2004)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "meridian": {
+      "label": "Meridian",
+      "series": {
+        "jeep-meridian": {
+          "label": "Jeep Meridian",
+          "engines": [
+            {
+              "label": "2.0d (170 Hp) Automatic",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0d (170 Hp) 4x4 Automatic",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0d (170 Hp)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "patriot": {
+      "label": "Patriot",
+      "series": {
+        "jeep-patriot": {
+          "label": "Jeep Patriot",
+          "engines": [
+            {
+              "label": "2.4 i 16V 4WD (174 Hp) (2007 - 2016)",
+              "hp": 174,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 i 16V (174 Hp) (2007 - 2016)",
+              "hp": 174,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "recon": {
+      "label": "Recon",
+      "series": {
+        "jeep-recon": {
+          "label": "Jeep Recon",
+          "engines": [
+            {
+              "label": "100.5 kWh (650 Hp) 4WD",
+              "hp": 650,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "renegade": {
+      "label": "Renegade",
+      "series": {
+        "jeep-renegade-facelift-2018": {
+          "label": "Jeep Renegade (facelift 2018)",
+          "engines": [
+            {
+              "label": "2.4 MultiAir2 TIGERSHARK (182 Hp) Automatic",
+              "hp": 182,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 MultiAir2 TIGERSHARK (182 Hp) 4x4 Automatic",
+              "hp": 182,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Multijet (170 Hp) 4x4 Automatic (2018 - 2020)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Multijet (140 Hp) 4x4 Automatic (2018 - 2020)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 Multijet (140 Hp) 4x4 (2018 - 2020)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 Multijet (130 Hp) (2021 - 2022)",
+              "hp": 130,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 Multijet (120 Hp) DDCT (2018 - 2020)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 Multijet (120 Hp) (2018 - 2020)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.5 GSE T4 (130 Hp) e-Hybrid DCT",
+              "hp": 130,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.3 Turbo (240 Hp) Plug-in Hybrid 4xe Automatic",
+              "hp": 240,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.3 Turbo (150 Hp) DDCT (2018 - 2021)",
+              "hp": 150,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.3 Turbo (190 Hp) Plug-in Hybrid 4xe Automatic",
+              "hp": 190,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "1.3 T-GDI (180 Hp) 4x4 Automatic (2018 - 2020)",
+              "hp": 180,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.0 T-GDI (120 Hp) (2018 - 2022)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "jeep-renegade": {
+          "label": "Jeep Renegade",
+          "engines": [
+            {
+              "label": "2.4 MultiAir2 TIGERSHARK (185 Hp) Automatic 4x4 (2014 - 2018)",
+              "hp": 185,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 MultiAir2 TIGERSHARK (185 Hp) Automatic (2014 - 2018)",
+              "hp": 185,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 MultiJet (170 Hp) 4x4 Automatic start&stop (2014 - 2018)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 MultiJet (140 Hp) 4x4 start&stop (2014 - 2018)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.0 MultiJet (140 Hp) 4x4 Automatic start&stop (2014 - 2018)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 MultiJet (120 Hp) start&stop (2014 - 2018)",
+              "hp": 120,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.6 e-torq (110 Hp) start&stop (2014 - 2018)",
+              "hp": 110,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 MultiAir2 (170 Hp) 4x4 Automatic start&stop (2014 - 2018)",
+              "hp": 170,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 MultiAir2 (140 Hp) start&stop (2014 - 2018)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "1.4 MultiAir2 (140 Hp) DDCT start&stop (2014 - 2018)",
+              "hp": 140,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "wagoneer": {
+      "label": "Wagoneer",
+      "series": {
+        "jeep-grand-wagoneer-l-ws-facelift-2025": {
+          "label": "Jeep Grand Wagoneer L (WS, facelift 2025)",
+          "engines": [
+            {
+              "label": "3.0 Standard Output (420 Hp) TorqueFlite",
+              "hp": 420,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 Standard Output (420 Hp) 4WD TorqueFlite",
+              "hp": 420,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "jeep-grand-wagoneer-ws-facelift-2025": {
+          "label": "Jeep Grand Wagoneer (WS, facelift 2025)",
+          "engines": [
+            {
+              "label": "3.0 Standard Output (420 Hp) TorqueFlite",
+              "hp": 420,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 Standard Output (420 Hp) 4WD TorqueFlite",
+              "hp": 420,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "jeep-grand-wagoneer-l-ws": {
+          "label": "Jeep Grand Wagoneer L (WS)",
+          "engines": [
+            {
+              "label": "3.0 High Output (540 Hp) 4WD TorqueFlite",
+              "hp": 540,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 High Output (510 Hp) 4WD TorqueFlite (2022 - 2024)",
+              "hp": 510,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "jeep-wagoneer-l-ws": {
+          "label": "Jeep Wagoneer L (WS)",
+          "engines": [
+            {
+              "label": "3.0 (420 Hp) TorqueFlite",
+              "hp": 420,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 (420 Hp) 4WD TorqueFlite",
+              "hp": 420,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "jeep-grand-wagoneer-ws": {
+          "label": "Jeep Grand Wagoneer (WS)",
+          "engines": [
+            {
+              "label": "6.4 V8 (477 Hp) 4WD TorqueFlite (2021 - 2023)",
+              "hp": 477,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 High Output (540 Hp) 4WD TorqueFlite",
+              "hp": 540,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 High Output (510 Hp) 4WD TorqueFlite (2022 - 2024)",
+              "hp": 510,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "jeep-wagoneer-ws": {
+          "label": "Jeep Wagoneer (WS)",
+          "engines": [
+            {
+              "label": "5.7 V8 HEMI (397 Hp) eTorque TorqueFlite (2021 - 2023)",
+              "hp": 397,
+              "fuel": "benzin"
+            },
+            {
+              "label": "5.7 V8 HEMI (397 Hp) eTorque 4WD TorqueFlite (2021 - 2023)",
+              "hp": 397,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 (420 Hp) TorqueFlite",
+              "hp": 420,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.0 (420 Hp) 4WD TorqueFlite",
+              "hp": 420,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "wagoneer-s": {
+      "label": "Wagoneer S",
+      "series": {
+        "jeep-wagoneer-s": {
+          "label": "Jeep Wagoneer S",
+          "engines": [
+            {
+              "label": "100.5 kWh (608 Hp) 4WD Electric",
+              "hp": 608,
+              "fuel": "elektro"
+            },
+            {
+              "label": "100.5 kWh (500 Hp) 4WD Electric",
+              "hp": 500,
+              "fuel": "elektro"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    },
+    "wrangler": {
+      "label": "Wrangler",
+      "series": {
+        "jeep-wrangler-iv-unlimited-jl-facelift-2023": {
+          "label": "Jeep Wrangler IV Unlimited (JL, facelift 2023)",
+          "engines": [
+            {
+              "label": "Sport 3.6 Pentastar V6 (290 Hp) 4x4",
+              "hp": 290,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sahara 2.0L (380 Hp) 4xe Plug-in Hybrid 4x4 Automatic",
+              "hp": 380,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sahara 2.0 T-GDI (272 Hp) 4x4 Automatic",
+              "hp": 272,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Rubicon 392 6.4 V8 (481 Hp) 4x4 Automatic",
+              "hp": 481,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Rubicon 3.6 Pentastar V6 (290 Hp) 4x4 Automatic",
+              "hp": 290,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Rubicon 3.6 Pentastar V6 (290 Hp) 4x4",
+              "hp": 290,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Rubicon 2.0L (380 Hp) 4xe Plug-in Hybrid 4x4 Automatic",
+              "hp": 380,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Rubicon 2.0 T-GDI (272 Hp) 4x4 Automatic",
+              "hp": 272,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "jeep-wrangler-iv-jl-facelift-2023": {
+          "label": "Jeep Wrangler IV (JL, facelift 2023)",
+          "engines": [
+            {
+              "label": "Sport 3.6 Pentastar V6 (290 Hp) 4x4",
+              "hp": 290,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sport 2.0 Turbo (272 Hp) 4x4 Automatic",
+              "hp": 272,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sahara 2.0 Turbo (272 Hp) 4x4 Automatic",
+              "hp": 272,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Rubicon 3.6 Pentastar V6 (290 Hp) 4x4 Automatic",
+              "hp": 290,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Rubicon 3.6 Pentastar V6 (290 Hp) 4x4",
+              "hp": 290,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Rubicon 2.0 Turbo (272 Hp) 4x4 Automatic",
+              "hp": 272,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "jeep-wrangler-iv-unlimited-jl": {
+          "label": "Jeep Wrangler IV Unlimited (JL)",
+          "engines": [
+            {
+              "label": "Rubicon 6.4 392 V8 (470 Hp) 4x4 Selec-Trac Automatic (2020 - 2023)",
+              "hp": 470,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Rubicon 2.0 Turbo (375 Hp) 4xe eTorque Plug-in Hybrid Rock-Trac Automatic (2021 - 2023)",
+              "hp": 375,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sahara 3.6 Pentastar V6 (285 Hp) eTorque Mild Hybrid 4x4 Automatic (2019 - 2023)",
+              "hp": 285,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Rubicon 3.6 Pentastar V6 (285 Hp) 4x4 (2017 - 2023)",
+              "hp": 285,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sport 2.0 Turbo (270 Hp) 4x4 Automatic (2019 - 2023)",
+              "hp": 270,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sahara 2.0 Turbo (270 Hp) eTorque Mild Hybrid 4x4 Automatic (2017 - 2020)",
+              "hp": 270,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Rubicon 2.0 Turbo (270 Hp) 4x4 Automatic (2019 - 2023)",
+              "hp": 270,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sport 3.0 EcoDiesel V6 (260 Hp) 4x4 Automatic (2018 - 2022)",
+              "hp": 260,
+              "fuel": "diesel"
+            },
+            {
+              "label": "Rubicon 3.0 EcoDiesel V6 (260 Hp) 4x4 Automatic (2018 - 2022)",
+              "hp": 260,
+              "fuel": "diesel"
+            },
+            {
+              "label": "Sahara 2.2 CRDi (200 Hp) 4x4 Automatic (2018 - 2020)",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Rubicon 2.2 CRDi (200 Hp) 4x4 Automatic (2018 - 2020)",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "jeep-wrangler-iv-jl": {
+          "label": "Jeep Wrangler IV (JL)",
+          "engines": [
+            {
+              "label": "Rubicon 3.6 Pentastar V6 (285 Hp) eTorque Mild Hybrid 4x4 Automatic (2020 - 2023)",
+              "hp": 285,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Rubicon 3.6 Pentastar V6 (285 Hp) 4x4 (2017 - 2023)",
+              "hp": 285,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sport 2.0 Turbo (270 Hp) eTorque Mild Hybrid 4x4 Automatic (2017 - 2019)",
+              "hp": 270,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sport 2.0 Turbo (270 Hp) 4x4 Automatic (2019 - 2023)",
+              "hp": 270,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Rubicon 2.0 Turbo (270 Hp) eTorque Mild Hybrid 4x4 Automatic (2017 - 2019)",
+              "hp": 270,
+              "fuel": "hybrid"
+            },
+            {
+              "label": "Sahara 2.2 CRDi (200 Hp) 4x4 Automatic (2018 - 2020)",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Rubicon 2.2 CRDi (200 Hp) 4x4 Automatic (2018 - 2020)",
+              "hp": 200,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "jeep-wrangler-iii-unlimited-jk": {
+          "label": "Jeep Wrangler III Unlimited (JK)",
+          "engines": [
+            {
+              "label": "Sahara 3.6i V6 24V (285 Hp) 4x4 Automatic (2011 - 2018)",
+              "hp": 285,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sahara 3.8i V6 12V (202 Hp) 4x4 Automatic (2010 - 2011)",
+              "hp": 202,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sahara 3.8i V6 12V (202 Hp) 4x4 (2006 - 2007)",
+              "hp": 202,
+              "fuel": "benzin"
+            },
+            {
+              "label": "3.8i V6 12V (196 Hp) 4x4 Automatic (2006 - 2009)",
+              "hp": 196,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.8 CRDi (197 Hp) 4x4 Automatic (2011 - 2018)",
+              "hp": 197,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.8 CRDi (197 Hp) 4x4 (2011 - 2018)",
+              "hp": 197,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.8 CRDi (174 Hp) 4x4 Automatic (2007 - 2009)",
+              "hp": 174,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "jeep-wrangler-iii-jk": {
+          "label": "Jeep Wrangler III (JK)",
+          "engines": [
+            {
+              "label": "Sport 2.8 CRDi (197 Hp) 4x4 (2011 - 2018)",
+              "hp": 197,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sport 3.8i V6 (196 Hp) 4x4 (2007 - 2011)",
+              "hp": 196,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sport 2.8 CRDi (174 Hp) 4x4 (2007 - 2009)",
+              "hp": 174,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sahara 3.6i V6 24V (285 Hp) 4x4 Automatic (2011 - 2018)",
+              "hp": 285,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sahara 3.8i V6 (202 Hp) 4x4 Automatic (2006 - 2007)",
+              "hp": 202,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sahara 3.8i V6 (202 Hp) 4x4 (2006 - 2007)",
+              "hp": 202,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sahara 2.8 CRDi (197 Hp) 4x4 Automatic (2011 - 2018)",
+              "hp": 197,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Rubicon 3.8i V6 (196 Hp) 4x4 Automatic (2007 - 2009)",
+              "hp": 196,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "jeep-wrangler-ii-tj": {
+          "label": "Jeep Wrangler II (TJ)",
+          "engines": [
+            {
+              "label": "Rubicon 4.0 i (193 Hp) Automatic (2003 - 2006)",
+              "hp": 193,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Rubicon 4.0 i (193 Hp) (2003 - 2006)",
+              "hp": 193,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.0 i (192 Hp) (2000 - 2006)",
+              "hp": 192,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.0 i (183 Hp) Automatic (2000 - 2006)",
+              "hp": 183,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.0 i (183 Hp) (2000 - 2006)",
+              "hp": 183,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.0 i (178 Hp) (1997 - 2006)",
+              "hp": 178,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 i (121 Hp) (2000 - 2003)",
+              "hp": 121,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 i Soft Top (118 Hp) (2000 - 2006)",
+              "hp": 118,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 i (118 Hp) (1997 - 2000)",
+              "hp": 118,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 i 16V (147 Hp) Automatic (2003 - 2006)",
+              "hp": 147,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.4 i 16V (147 Hp) (2003 - 2006)",
+              "hp": 147,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        },
+        "jeep-wrangler-i-yj": {
+          "label": "Jeep Wrangler I (YJ)",
+          "engines": [
+            {
+              "label": "4.0 i (184 Hp) Automatic (1987 - 1995)",
+              "hp": 184,
+              "fuel": "benzin"
+            },
+            {
+              "label": "4.0 i (184 Hp) (1987 - 1995)",
+              "hp": 184,
+              "fuel": "benzin"
+            },
+            {
+              "label": "2.5 i (121 Hp) (1987 - 1995)",
+              "hp": 121,
+              "fuel": "benzin"
+            },
+            {
+              "label": "Sonstige Motorisierung (bitte in Nachricht ergänzen)"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Coffee 01",
+    "description": "Coffee 01",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/WEY/model/Coffee%2001"
+  },
+  {
+    "name": "Coffee 02",
+    "description": "Coffee 02",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/WEY/model/Coffee%2002"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/WEY/model/ANDERE"
+  }
+]

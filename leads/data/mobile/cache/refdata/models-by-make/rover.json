@@ -1,0 +1,162 @@
+[
+  {
+    "name": "100",
+    "description": "100",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ROVER/model/100"
+  },
+  {
+    "name": "111",
+    "description": "111",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ROVER/model/111"
+  },
+  {
+    "name": "114",
+    "description": "114",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ROVER/model/114"
+  },
+  {
+    "name": "115",
+    "description": "115",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ROVER/model/115"
+  },
+  {
+    "name": "200",
+    "description": "200",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ROVER/model/200"
+  },
+  {
+    "name": "213",
+    "description": "213",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ROVER/model/213"
+  },
+  {
+    "name": "214",
+    "description": "214",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ROVER/model/214"
+  },
+  {
+    "name": "216",
+    "description": "216",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ROVER/model/216"
+  },
+  {
+    "name": "218",
+    "description": "218",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ROVER/model/218"
+  },
+  {
+    "name": "220",
+    "description": "220",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ROVER/model/220"
+  },
+  {
+    "name": "25",
+    "description": "25",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ROVER/model/25"
+  },
+  {
+    "name": "400",
+    "description": "400",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ROVER/model/400"
+  },
+  {
+    "name": "414",
+    "description": "414",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ROVER/model/414"
+  },
+  {
+    "name": "416",
+    "description": "416",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ROVER/model/416"
+  },
+  {
+    "name": "418",
+    "description": "418",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ROVER/model/418"
+  },
+  {
+    "name": "420",
+    "description": "420",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ROVER/model/420"
+  },
+  {
+    "name": "45",
+    "description": "45",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ROVER/model/45"
+  },
+  {
+    "name": "600",
+    "description": "600",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ROVER/model/600"
+  },
+  {
+    "name": "618",
+    "description": "618",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ROVER/model/618"
+  },
+  {
+    "name": "620",
+    "description": "620",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ROVER/model/620"
+  },
+  {
+    "name": "623",
+    "description": "623",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ROVER/model/623"
+  },
+  {
+    "name": "75",
+    "description": "75",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ROVER/model/75"
+  },
+  {
+    "name": "800",
+    "description": "800",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ROVER/model/800"
+  },
+  {
+    "name": "820",
+    "description": "820",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ROVER/model/820"
+  },
+  {
+    "name": "825",
+    "description": "825",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ROVER/model/825"
+  },
+  {
+    "name": "827",
+    "description": "827",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ROVER/model/827"
+  },
+  {
+    "name": "City Rover",
+    "description": "City Rover",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ROVER/model/City%20Rover"
+  },
+  {
+    "name": "Metro",
+    "description": "Metro",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ROVER/model/Metro"
+  },
+  {
+    "name": "Montego",
+    "description": "Montego",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ROVER/model/Montego"
+  },
+  {
+    "name": "SD",
+    "description": "SD",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ROVER/model/SD"
+  },
+  {
+    "name": "Streetwise",
+    "description": "Streetwise",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ROVER/model/Streetwise"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/ROVER/model/ANDERE"
+  }
+]

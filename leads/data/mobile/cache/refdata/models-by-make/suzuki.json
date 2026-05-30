@@ -1,0 +1,127 @@
+[
+  {
+    "name": "Across",
+    "description": "Across",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SUZUKI/model/Across"
+  },
+  {
+    "name": "Alto",
+    "description": "Alto",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SUZUKI/model/Alto"
+  },
+  {
+    "name": "Baleno",
+    "description": "Baleno",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SUZUKI/model/Baleno"
+  },
+  {
+    "name": "Cappuccino",
+    "description": "Cappuccino",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SUZUKI/model/Cappuccino"
+  },
+  {
+    "name": "Carry",
+    "description": "Carry",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SUZUKI/model/Carry"
+  },
+  {
+    "name": "Celerio",
+    "description": "Celerio",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SUZUKI/model/Celerio"
+  },
+  {
+    "name": "Grand Vitara",
+    "description": "Grand Vitara",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SUZUKI/model/Grand%20Vitara"
+  },
+  {
+    "name": "Ignis",
+    "description": "Ignis",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SUZUKI/model/Ignis"
+  },
+  {
+    "name": "Jimny",
+    "description": "Jimny",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SUZUKI/model/Jimny"
+  },
+  {
+    "name": "Kizashi",
+    "description": "Kizashi",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SUZUKI/model/Kizashi"
+  },
+  {
+    "name": "LJ",
+    "description": "LJ",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SUZUKI/model/LJ"
+  },
+  {
+    "name": "Liana",
+    "description": "Liana",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SUZUKI/model/Liana"
+  },
+  {
+    "name": "SJ Samurai",
+    "description": "SJ Samurai",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SUZUKI/model/SJ%20Samurai"
+  },
+  {
+    "name": "SX4",
+    "description": "SX4",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SUZUKI/model/SX4"
+  },
+  {
+    "name": "SX4 S-Cross",
+    "description": "(SX4) S-Cross",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SUZUKI/model/SX4%20S-Cross"
+  },
+  {
+    "name": "Splash",
+    "description": "Splash",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SUZUKI/model/Splash"
+  },
+  {
+    "name": "Super-Carry",
+    "description": "Super-Carry",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SUZUKI/model/Super-Carry"
+  },
+  {
+    "name": "Swace",
+    "description": "Swace",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SUZUKI/model/Swace"
+  },
+  {
+    "name": "Swift",
+    "description": "Swift",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SUZUKI/model/Swift"
+  },
+  {
+    "name": "Vitara",
+    "description": "Vitara",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SUZUKI/model/Vitara"
+  },
+  {
+    "name": "Wagon R+",
+    "description": "Wagon R+",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SUZUKI/model/Wagon%20R%2B"
+  },
+  {
+    "name": "X-90",
+    "description": "X-90",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SUZUKI/model/X-90"
+  },
+  {
+    "name": "e Vitara",
+    "description": "e Vitara",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SUZUKI/model/e%20Vitara"
+  },
+  {
+    "name": "iK-2",
+    "description": "iK-2",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SUZUKI/model/iK-2"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/SUZUKI/model/ANDERE"
+  }
+]

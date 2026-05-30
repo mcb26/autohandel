@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Espero",
+    "description": "Espero",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DAEWOO/model/Espero"
+  },
+  {
+    "name": "Evanda",
+    "description": "Evanda",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DAEWOO/model/Evanda"
+  },
+  {
+    "name": "Kalos",
+    "description": "Kalos",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DAEWOO/model/Kalos"
+  },
+  {
+    "name": "Korando",
+    "description": "Korando",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DAEWOO/model/Korando"
+  },
+  {
+    "name": "Lacetti",
+    "description": "Lacetti",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DAEWOO/model/Lacetti"
+  },
+  {
+    "name": "Lanos",
+    "description": "Lanos",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DAEWOO/model/Lanos"
+  },
+  {
+    "name": "Leganza",
+    "description": "Leganza",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DAEWOO/model/Leganza"
+  },
+  {
+    "name": "Matiz",
+    "description": "Matiz",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DAEWOO/model/Matiz"
+  },
+  {
+    "name": "Musso",
+    "description": "Musso",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DAEWOO/model/Musso"
+  },
+  {
+    "name": "Nexia",
+    "description": "Nexia",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DAEWOO/model/Nexia"
+  },
+  {
+    "name": "Nubira",
+    "description": "Nubira",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DAEWOO/model/Nubira"
+  },
+  {
+    "name": "Rezzo",
+    "description": "Rezzo",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DAEWOO/model/Rezzo"
+  },
+  {
+    "name": "Tacuma",
+    "description": "Tacuma",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DAEWOO/model/Tacuma"
+  },
+  {
+    "name": "ANDERE",
+    "description": "Andere",
+    "url": "https://services.mobile.de/refdata/classes/Car/makes/DAEWOO/model/ANDERE"
+  }
+]

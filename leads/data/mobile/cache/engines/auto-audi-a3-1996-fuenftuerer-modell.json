@@ -1,0 +1,67 @@
+[
+  {
+    "label": "A3 1.6 (Benzin, 101 PS)",
+    "fuel": "benzin",
+    "hp": 101
+  },
+  {
+    "label": "A3 1.6 (Benzin, 102 PS)",
+    "fuel": "benzin",
+    "hp": 102
+  },
+  {
+    "label": "A3 1.8 (Benzin, 125 PS)",
+    "fuel": "benzin",
+    "hp": 125
+  },
+  {
+    "label": "A3 1.8 T (Benzin, 150 PS)",
+    "fuel": "benzin",
+    "hp": 150
+  },
+  {
+    "label": "A3 1.8 T Automatik (Benzin, 150 PS)",
+    "fuel": "benzin",
+    "hp": 150
+  },
+  {
+    "label": "A3 1.8 T quattro (Benzin, 150 PS)",
+    "fuel": "benzin",
+    "hp": 150
+  },
+  {
+    "label": "A3 1.8 T (Benzin, 180 PS)",
+    "fuel": "benzin",
+    "hp": 180
+  },
+  {
+    "label": "A3 1.8 T quattro (Benzin, 180 PS)",
+    "fuel": "benzin",
+    "hp": 180
+  },
+  {
+    "label": "A3 1.9 TDI (Diesel, 90 PS)",
+    "fuel": "diesel",
+    "hp": 90
+  },
+  {
+    "label": "A3 1.9 TDI (Diesel, 101 PS)",
+    "fuel": "diesel",
+    "hp": 101
+  },
+  {
+    "label": "A3 1.9 TDI (Diesel, 110 PS)",
+    "fuel": "diesel",
+    "hp": 110
+  },
+  {
+    "label": "A3 1.9 TDI (Diesel, 130 PS)",
+    "fuel": "diesel",
+    "hp": 130
+  },
+  {
+    "label": "A3 1.9 TDI quattro (Diesel, 130 PS)",
+    "fuel": "diesel",
+    "hp": 130
+  }
+]
