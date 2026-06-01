@@ -13,6 +13,7 @@
 
 html {
     height: 100%;
+    overflow-x: clip;
 }
 
 body {
@@ -22,6 +23,8 @@ body {
     font-size: 1rem;
     line-height: 1.5;
     margin: 0;
+    overflow-x: clip;
+    max-width: 100%;
 }
 
 .site-page {
@@ -971,7 +974,7 @@ h6 {
     align-items: flex-start;
     justify-content: space-between;
     gap: 1rem 2rem;
-    flex-wrap: nowrap;
+    flex-wrap: wrap;
 }
 
 .footer-brand-block {
@@ -1016,7 +1019,9 @@ h6 {
     color: #e5e7eb;
     text-decoration: none;
     transition: color 0.15s ease;
-    flex-shrink: 0;
+    flex-shrink: 1;
+    min-width: 0;
+    max-width: 100%;
 }
 
 .footer-contact-card:hover {
@@ -1063,6 +1068,8 @@ h6 {
     font-weight: 600;
     line-height: 1.2;
     white-space: normal;
+    overflow-wrap: anywhere;
+    word-break: break-word;
 }
 
 .footer-contact-label {
@@ -1637,8 +1644,8 @@ body.dashboard-lightbox-open {
         position: sticky;
         bottom: 0;
         z-index: 40;
-        margin: 1rem -0.75rem -0.5rem;
-        padding: 0.85rem 0.75rem calc(0.85rem + env(safe-area-inset-bottom, 0px));
+        margin: 1rem 0 -0.5rem;
+        padding: 0.85rem 0 calc(0.85rem + env(safe-area-inset-bottom, 0px));
         background: linear-gradient(
             180deg,
             rgba(255, 255, 255, 0) 0%,
@@ -1692,6 +1699,82 @@ body.dashboard-lightbox-open {
 
     .footer-legal-inline {
         gap: 0.5rem 0.85rem;
+    }
+
+    .site-footer {
+        padding: 1.35rem 0 calc(1.1rem + env(safe-area-inset-bottom, 0px));
+    }
+
+    .site-footer .container {
+        max-width: 100%;
+    }
+
+    .footer-row {
+        flex-direction: column;
+        gap: 1.1rem;
+    }
+
+    .footer-brand-block {
+        flex-direction: column;
+        align-items: flex-start;
+        width: 100%;
+        max-width: 100%;
+        gap: 0.65rem;
+    }
+
+    .site-footer .brand-logo-header {
+        height: 52px;
+        max-width: min(210px, 72vw);
+    }
+
+    .footer-address {
+        max-width: 100%;
+        font-size: 0.82rem;
+    }
+
+    .footer-contacts {
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 0.55rem;
+        width: 100%;
+        justify-content: stretch;
+    }
+
+    .footer-contact-card {
+        width: 100%;
+        padding: 0.6rem 0.7rem;
+        background: rgba(255, 255, 255, 0.04);
+        border: 1px solid rgba(255, 255, 255, 0.08);
+        border-radius: 0.45rem;
+    }
+
+    .footer-contact-value {
+        font-size: 0.8rem;
+    }
+
+    .footer-contact-label {
+        font-size: 0.62rem;
+    }
+
+    .footer-attribution {
+        font-size: 0.62rem;
+        line-height: 1.4;
+    }
+
+    .footer-legal-inline {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 0.4rem;
+    }
+
+    .lead-form-section,
+    .lead-form-panel {
+        overflow-x: clip;
+        max-width: 100%;
+    }
+
+    .lead-form-panel .ts-wrapper {
+        max-width: 100%;
     }
 
     /* Dashboard mobil */
