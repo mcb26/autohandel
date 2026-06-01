@@ -74,36 +74,42 @@ Danach Seite neu laden (Hard-Reload). Der Server erkennt Änderungen an `leads/d
 
 Repository: [github.com/mcb26/autohandel](https://github.com/mcb26/autohandel)
 
-### 1. Code holen
+**Produktiv-Pfad (devmc.eu):** `/var/www/vhosts/devmc.eu/cars.devmc.eu/`  
+**Domain:** `https://cars.devmc.eu`
+
+### Erstinstallation (einmalig, per SSH auf dem Server)
 
 ```bash
-cd /var/www   # oder ein anderer Zielordner
-git clone https://github.com/mcb26/autohandel.git
-cd autohandel
+cd /var/www/vhosts/devmc.eu/cars.devmc.eu
+# Skript aus dem Repo (nach erstem Clone) oder manuell:
+bash scripts/server-first-install.sh
 ```
 
-### 2. Python-Umgebung & Abhängigkeiten
+Manuell statt Skript:
 
 ```bash
+cd /var/www/vhosts/devmc.eu/cars.devmc.eu
+git clone https://github.com/mcb26/autohandel.git .
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
-```
-
-### 3. Konfiguration (`.env`)
-
-```bash
 cp .env.example .env
 nano .env
+python manage.py migrate
+python manage.py createsuperuser
+python manage.py collectstatic --noinput
 ```
 
-Wichtig für Produktion:
+### Konfiguration (`.env`) für cars.devmc.eu
 
 ```env
 DJANGO_DEBUG=False
-DJANGO_ALLOWED_HOSTS=ihre-domain.de,www.ihre-domain.de
+DJANGO_ALLOWED_HOSTS=cars.devmc.eu,www.cars.devmc.eu
 DJANGO_SECRET_KEY=ein-langer-zufälliger-string
-SITE_BASE_URL=https://ihre-domain.de
+DJANGO_CSRF_COOKIE_SECURE=True
+DJANGO_SESSION_COOKIE_SECURE=True
+DJANGO_SECURE_SSL_REDIRECT=True
+SITE_BASE_URL=https://cars.devmc.eu
 
 TELEGRAM_BOT_TOKEN=...
 TELEGRAM_NOTIFY_CHAT_ID=...
@@ -111,34 +117,22 @@ TELEGRAM_NOTIFY_CHAT_ID=...
 
 Die `.env` liegt nur auf dem Server – nie ins Git committen.
 
-### 4. Datenbank & Admin-Benutzer
+### Test & Dauerbetrieb
 
 ```bash
+cd /var/www/vhosts/devmc.eu/cars.devmc.eu
 source venv/bin/activate
-python manage.py migrate
-python manage.py createsuperuser
-python manage.py collectstatic --noinput
+python manage.py runserver 127.0.0.1:8000
 ```
 
-Damit werden Tabellen angelegt und statische Dateien nach `staticfiles/` kopiert.
+Für Produktion: **Gunicorn** + **Nginx/Apache** (Reverse Proxy auf `127.0.0.1:8000`).  
+Ordner `media/` muss beschreibbar sein (Fahrzeugbilder).
 
-### 5. Test starten
-
-```bash
-python manage.py runserver 0.0.0.0:8000
-```
-
-Für Dauerbetrieb z. B. **Gunicorn** + **Nginx** (Reverse Proxy). `media/` muss beschreibbar sein (hochgeladene Fahrzeugbilder).
-
-### 6. Updates vom GitHub holen
+### Updates (nach jedem `git push`)
 
 ```bash
-cd /var/www/autohandel
-git pull
-source venv/bin/activate
-pip install -r requirements.txt
-python manage.py migrate
-python manage.py collectstatic --noinput
+cd /var/www/vhosts/devmc.eu/cars.devmc.eu
+bash scripts/deploy.sh
 # Gunicorn/Systemd-Dienst neu starten
 ```
 
