@@ -95,9 +95,27 @@
                             <div class="fw-semibold">{{ lead.engine }}</div>
                         </div>
                         {% endif %}
+                        {% if lead.engine_technical_summary %}
+                        <div class="col-12">
+                            <div class="text-muted small">Technische Daten</div>
+                            <div class="fw-semibold">{{ lead.engine_technical_summary }}</div>
+                        </div>
+                        {% endif %}
                         <div class="col-12 col-md-6">
                             <div class="text-muted small">Erstzulassung</div>
                             <div class="fw-semibold">{{ lead.first_registration_display }}</div>
+                        </div>
+                        <div class="col-12 col-md-6">
+                            <div class="text-muted small">TÜV bis</div>
+                            <div class="fw-semibold">{{ lead.tuv_until_display }}</div>
+                        </div>
+                        <div class="col-12 col-md-6">
+                            <div class="text-muted small">Kraftstoffart</div>
+                            <div class="fw-semibold">{% if lead.fuel_type %}{{ lead.get_fuel_type_display }}{% else %}–{% endif %}</div>
+                        </div>
+                        <div class="col-12 col-md-6">
+                            <div class="text-muted small">Farbe</div>
+                            <div class="fw-semibold">{% if lead.vehicle_color %}{{ lead.get_vehicle_color_display }}{% else %}–{% endif %}</div>
                         </div>
                         <div class="col-12 col-md-6">
                             <div class="text-muted small">Kilometerstand</div>
@@ -111,6 +129,26 @@
                             <div class="text-muted small">Zustand</div>
                             <div class="fw-semibold">{{ lead.get_vehicle_condition_display }}</div>
                         </div>
+                        {% if lead.active_vehicle_features %}
+                        <div class="col-12">
+                            <div class="text-muted small mb-1">Fahrzeugmerkmale</div>
+                            <div class="dashboard-feature-badges">
+                                {% for label in lead.active_vehicle_features %}
+                                    <span class="dashboard-feature-badge">{{ label }}</span>
+                                {% endfor %}
+                            </div>
+                        </div>
+                        {% endif %}
+                        {% if lead.selected_vehicle_extras %}
+                        <div class="col-12">
+                            <div class="text-muted small mb-1">Extras</div>
+                            <div class="dashboard-feature-badges">
+                                {% for label in lead.selected_vehicle_extras %}
+                                    <span class="dashboard-feature-badge dashboard-extra-badge">{{ label }}</span>
+                                {% endfor %}
+                            </div>
+                        </div>
+                        {% endif %}
                     </div>
                 </div>
             </div>

@@ -1,0 +1,22 @@
+<fieldset
+    class="form-section form-section-collapsible"
+    id="{{ section_id }}"
+    data-collapsible-section
+    data-section-type="{{ section_type }}"
+>
+    <div class="form-section-heading">
+        <legend class="form-section-title form-section-title-green mb-0">{{ section_title }}</legend>
+        <button
+            type="button"
+            class="form-section-toggle"
+            aria-expanded="false"
+            aria-controls="{{ section_id }}-body"
+        >
+            <span class="visually-hidden">{{ section_title }} </span>
+            <span class="form-section-toggle-label">Einblenden</span>
+            <span class="form-section-toggle-icon" aria-hidden="true"></span>
+        </button>
+    </div>
+    <p class="form-section-summary" data-section-summary></p>
+    <div class="form-section-body" id="{{ section_id }}-body">
+        <div class="row g-3">

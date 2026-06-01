@@ -231,6 +231,17 @@ def parse_trims(html: str) -> list[dict]:
             entry["hp"] = int(hp_match.group(1))
         if fuel:
             entry["fuel"] = fuel
+        disp_match = re.search(
+            r"(?:^|[\s(])(\d+(?:\.\d+)?)\s*(?:l|L|Liter)?(?:\s|\(|$|TDI|TSI|CDI|d|i|V\d)",
+            name,
+            re.IGNORECASE,
+        )
+        if disp_match:
+            entry["displacement"] = disp_match.group(1)
+        elif re.search(r"(\d+\.\d+)\s*(?:TSI|TDI|CDI|HDI|DCI|d|i)", name, re.IGNORECASE):
+            entry["displacement"] = re.search(
+                r"(\d+\.\d+)\s*(?:TSI|TDI|CDI|HDI|DCI|d|i)", name, re.IGNORECASE
+            ).group(1)
         trims.append(entry)
     return trims
 

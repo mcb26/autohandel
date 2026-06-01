@@ -1,0 +1,61 @@
+<div class="col-12{% if field.errors %} is-field-invalid{% endif %}">
+    <div class="vehicle-extras-field" id="vehicle-extras-field">
+        <div class="vehicle-extras-toolbar">
+            <div>
+                <div class="form-label mb-1">{{ field.label }}</div>
+                <p class="choice-section-hint mb-0">
+                    Optional — tippen Sie auf die Karten oder suchen Sie nach einer Ausstattung.
+                </p>
+            </div>
+            <div class="vehicle-extras-toolbar-actions">
+                <span class="vehicle-extras-count" id="vehicle-extras-count" aria-live="polite">0 ausgewählt</span>
+                <button type="button" class="btn btn-sm btn-outline-secondary vehicle-extras-clear" id="vehicle-extras-clear">
+                    Alle abwählen
+                </button>
+            </div>
+        </div>
+
+        <div class="vehicle-extras-search-wrap">
+            <label class="visually-hidden" for="vehicle-extras-search">Extras durchsuchen</label>
+            <input
+                type="search"
+                class="form-control vehicle-extras-search"
+                id="vehicle-extras-search"
+                placeholder="Extra suchen, z. B. LED, Panorama, ABS …"
+                autocomplete="off"
+            >
+        </div>
+
+        <div class="vehicle-extras-groups" id="vehicle-extras-groups">
+            {% for group in vehicle_extras_groups %}
+                <section class="extras-group" data-extras-group>
+                    <h3 class="extras-group-title">{{ group.title }}</h3>
+                    <div class="choice-chip-grid choice-chip-grid--extras">
+                        {% for item in group.items %}
+                            <label
+                                class="choice-chip choice-chip--extra"
+                                data-extra-label="{{ item.label|lower }}"
+                            >
+                                {{ item.widget.tag }}
+                                <span class="choice-chip-body">
+                                    <span class="choice-chip-label">{{ item.label }}</span>
+                                    <span class="choice-chip-check" aria-hidden="true"></span>
+                                </span>
+                            </label>
+                        {% endfor %}
+                    </div>
+                </section>
+            {% endfor %}
+        </div>
+
+        <p class="vehicle-extras-empty d-none" id="vehicle-extras-empty" role="status">
+            Kein Extra passt zur Suche. Anderen Suchbegriff versuchen.
+        </p>
+
+        {% if field.errors %}
+            <div class="field-error-message mt-2" role="alert">
+                {% for error in field.errors %}<div>{{ error }}</div>{% endfor %}
+            </div>
+        {% endif %}
+    </div>
+</div>

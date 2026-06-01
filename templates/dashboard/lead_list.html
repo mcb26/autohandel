@@ -163,6 +163,11 @@
                                     <td class="col-vehicle">
                                         <div class="fw-semibold">{{ lead.brand }}</div>
                                         <div class="small text-muted dashboard-table-model" title="{{ lead.vehicle_summary }}">{{ lead.vehicle_summary }}</div>
+                                        {% if lead.engine_technical_summary %}
+                                            <div class="dashboard-tech-line">{{ lead.engine_technical_summary }}{% if lead.vehicle_color %} · {{ lead.get_vehicle_color_display }}{% endif %}</div>
+                                        {% elif lead.vehicle_color %}
+                                            <div class="dashboard-tech-line">{{ lead.get_vehicle_color_display }}</div>
+                                        {% endif %}
                                     </td>
                                     <td class="col-ez">{{ lead.first_registration_display }}</td>
                                     <td class="col-km">{{ lead.mileage|floatformat:0 }} km</td>
@@ -265,7 +270,15 @@
                                         <span class="dashboard-mobile-vehicle-brand">{{ lead.brand }}</span>
                                         <span class="dashboard-mobile-vehicle-model">{{ lead.vehicle_summary }}</span>
                                     </div>
-                                    <div class="text-muted small">{{ lead.mileage }} km · EZ {{ lead.first_registration_display }}</div>
+                                    <div class="text-muted small">
+                                        {{ lead.mileage }} km · EZ {{ lead.first_registration_display }}
+                                        {% if lead.tuv_until %} · TÜV {{ lead.tuv_until_display }}{% endif %}
+                                    </div>
+                                    {% if lead.engine_technical_summary %}
+                                        <div class="dashboard-tech-line">{{ lead.engine_technical_summary }}{% if lead.vehicle_color %} · {{ lead.get_vehicle_color_display }}{% endif %}</div>
+                                    {% elif lead.vehicle_color %}
+                                        <div class="dashboard-tech-line">{{ lead.get_vehicle_color_display }}</div>
+                                    {% endif %}
                                 </div>
                                 <div class="d-flex flex-column align-items-end gap-1">
                                     <span class="badge {{ lead.status|dashboard_status_badge }}">{{ lead.get_status_display }}</span>

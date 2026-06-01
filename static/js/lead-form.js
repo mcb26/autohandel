@@ -26,6 +26,70 @@ document.addEventListener("DOMContentLoaded", function () {
         var tomInstances = {};
         var catalogLoading = false;
         var dependentSelects = [modelSelect, seriesSelect, engineSelect];
+        var currentEngineEntries = [];
+        var fuelSelect = document.getElementById("id_fuel_type");
+        var specsPanel = document.getElementById("engine-specs-panel");
+        var specDisplacement = document.getElementById("engine-spec-displacement");
+        var specHp = document.getElementById("engine-spec-hp");
+        var specFuel = document.getElementById("engine-spec-fuel");
+
+        var fuelLabels = {
+            benzin: "Benzin",
+            diesel: "Diesel",
+            elektro: "Elektro",
+            hybrid: "Hybrid",
+            gas: "Gas (LPG/CNG)",
+            other: "Sonstiges",
+        };
+
+        function parseDisplacementFromLabel(label) {
+            if (!label) {
+                return "";
+            }
+            var match = label.match(/(?:^|[\s(])(\d+(?:\.\d+)?)\s*(?:l|L|Liter)?(?:\s|\(|$|TDI|TSI|CDI|d|i|V\d)/i);
+            if (match) {
+                return match[1];
+            }
+            match = label.match(/(\d+\.\d+)\s*(?:TSI|TDI|CDI|HDI|DCI|d|i)/i);
+            return match ? match[1] : "";
+        }
+
+        function updateEngineSpecsPanel() {
+            var label = engineSelect.value;
+            if (!label || !specsPanel) {
+                if (specsPanel) {
+                    specsPanel.classList.add("d-none");
+                }
+                return;
+            }
+
+            var entry = null;
+            currentEngineEntries.forEach(function (eng) {
+                if (eng.label === label) {
+                    entry = eng;
+                }
+            });
+
+            var displacement = (entry && entry.displacement) || parseDisplacementFromLabel(label);
+            var hp = entry && entry.hp;
+            var fuelKey = entry && entry.fuel;
+
+            if (specDisplacement) {
+                specDisplacement.textContent = displacement ? displacement + " l" : "–";
+            }
+            if (specHp) {
+                specHp.textContent = hp ? hp + " PS" : "–";
+            }
+            if (specFuel) {
+                specFuel.textContent = fuelKey ? fuelLabels[fuelKey] || fuelKey : "–";
+            }
+
+            if (fuelSelect && fuelKey && fuelLabels[fuelKey]) {
+                fuelSelect.value = fuelKey;
+            }
+
+            specsPanel.classList.remove("d-none");
+        }
 
         function setCatalogLoading(active) {
             catalogLoading = active;
@@ -99,6 +163,9 @@ document.addEventListener("DOMContentLoaded", function () {
                 placeholder: selectEl.options[0] ? selectEl.options[0].text : "",
                 onChange: function () {
                     selectEl.value = this.getValue() || "";
+                    if (selectEl === engineSelect) {
+                        updateEngineSpecsPanel();
+                    }
                 },
             });
         }
@@ -214,6 +281,7 @@ document.addEventListener("DOMContentLoaded", function () {
             var modelKey = modelSelect.value;
             var seriesKey = seriesSelect.value;
             var engineOptions = [];
+            currentEngineEntries = [];
             if (
                 catalog &&
                 brandKey &&
@@ -224,8 +292,8 @@ document.addEventListener("DOMContentLoaded", function () {
                 catalog.models[modelKey].series &&
                 catalog.models[modelKey].series[seriesKey]
             ) {
-                var engines = catalog.models[modelKey].series[seriesKey].engines || [];
-                engines.forEach(function (eng) {
+                currentEngineEntries = catalog.models[modelKey].series[seriesKey].engines || [];
+                currentEngineEntries.forEach(function (eng) {
                     engineOptions.push({ value: eng.label, label: eng.label });
                 });
             }
@@ -238,9 +306,14 @@ document.addEventListener("DOMContentLoaded", function () {
             } else if (engineSelect.value && tomInstances[engineSelect.id]) {
                 tomInstances[engineSelect.id].setValue(engineSelect.value, true);
             }
+            updateEngineSpecsPanel();
         }
 
         function resetDependentSelects() {
+            currentEngineEntries = [];
+            if (specsPanel) {
+                specsPanel.classList.add("d-none");
+            }
             setOptions(modelSelect, [], "Bitte zuerst Marke auswählen");
             setOptions(seriesSelect, [], "Bitte zuerst Modellreihe auswählen");
             setOptions(engineSelect, [], "Bitte zuerst Baureihe auswählen");
@@ -274,6 +347,7 @@ document.addEventListener("DOMContentLoaded", function () {
             });
         }
 
+        engineSelect.addEventListener("change", updateEngineSpecsPanel);
         brandSelect.addEventListener("change", onBrandChange);
         modelSelect.addEventListener("change", onModelChange);
         seriesSelect.addEventListener("change", onSeriesChange);
@@ -456,29 +530,206 @@ document.addEventListener("DOMContentLoaded", function () {
     }
 
     function initMonthYearInput() {
-        var input = document.getElementById("id_first_registration");
+        document.querySelectorAll(".lead-month-year-input").forEach(function (input) {
+            input.addEventListener("input", function () {
+                var digits = input.value.replace(/\D/g, "").slice(0, 4);
+                if (digits.length <= 2) {
+                    input.value = digits;
+                    return;
+                }
+                input.value = digits.slice(0, 2) + "/" + digits.slice(2);
+            });
+
+            input.addEventListener("keydown", function (event) {
+                if (event.key === "Backspace" && input.value.endsWith("/")) {
+                    input.value = input.value.slice(0, -1);
+                }
+            });
+        });
+    }
+
+    function syncChoiceChip(chip) {
+        var input = chip.querySelector('input[type="checkbox"]');
         if (!input) {
             return;
         }
+        chip.classList.toggle("is-selected", input.checked);
+    }
 
-        input.addEventListener("input", function () {
-            var digits = input.value.replace(/\D/g, "").slice(0, 4);
-            if (digits.length <= 2) {
-                input.value = digits;
+    function initChoiceChips() {
+        document.querySelectorAll(".choice-chip").forEach(function (chip) {
+            syncChoiceChip(chip);
+            var input = chip.querySelector('input[type="checkbox"]');
+            if (!input) {
                 return;
             }
-            input.value = digits.slice(0, 2) + "/" + digits.slice(2);
+            input.addEventListener("change", function () {
+                syncChoiceChip(chip);
+            });
+        });
+    }
+
+    function initCollapsibleFormSections() {
+        document.querySelectorAll("[data-collapsible-section]").forEach(function (section) {
+            var toggle = section.querySelector(".form-section-toggle");
+            var summary = section.querySelector("[data-section-summary]");
+            var labelEl = toggle && toggle.querySelector(".form-section-toggle-label");
+            var sectionType = section.getAttribute("data-section-type") || "";
+
+            if (!toggle) {
+                return;
+            }
+
+            function countSelected() {
+                return section.querySelectorAll('input[type="checkbox"]:checked').length;
+            }
+
+            function buildSummaryText() {
+                var count = countSelected();
+                if (sectionType === "features") {
+                    if (count === 0) {
+                        return "Keine Merkmale ausgewählt";
+                    }
+                    return count === 1
+                        ? "1 Merkmal ausgewählt"
+                        : count + " Merkmale ausgewählt";
+                }
+                if (sectionType === "extras") {
+                    if (count === 0) {
+                        return "Keine Extras ausgewählt";
+                    }
+                    return count === 1
+                        ? "1 Extra ausgewählt"
+                        : count + " Extras ausgewählt";
+                }
+                return count === 0 ? "Nichts ausgewählt" : count + " ausgewählt";
+            }
+
+            function updateSummary() {
+                if (!summary) {
+                    return;
+                }
+                summary.textContent = buildSummaryText();
+            }
+
+            function setExpanded(expanded) {
+                section.classList.toggle("is-expanded", expanded);
+                toggle.setAttribute("aria-expanded", expanded ? "true" : "false");
+                if (labelEl) {
+                    labelEl.textContent = expanded ? "Ausblenden" : "Einblenden";
+                }
+                if (summary) {
+                    summary.hidden = expanded;
+                    if (!expanded) {
+                        updateSummary();
+                    }
+                }
+            }
+
+            if (section.querySelector(".field-error-message")) {
+                setExpanded(true);
+            } else {
+                setExpanded(false);
+            }
+
+            toggle.addEventListener("click", function () {
+                setExpanded(!section.classList.contains("is-expanded"));
+            });
+
+            section.querySelectorAll('input[type="checkbox"]').forEach(function (input) {
+                input.addEventListener("change", function () {
+                    if (!section.classList.contains("is-expanded")) {
+                        updateSummary();
+                    }
+                });
+            });
+        });
+    }
+
+    function initVehicleExtrasPicker() {
+        var root = document.getElementById("vehicle-extras-field");
+        if (!root) {
+            return;
+        }
+
+        var searchInput = document.getElementById("vehicle-extras-search");
+        var countEl = document.getElementById("vehicle-extras-count");
+        var clearBtn = document.getElementById("vehicle-extras-clear");
+        var emptyEl = document.getElementById("vehicle-extras-empty");
+        var chips = root.querySelectorAll(".choice-chip--extra");
+        var groups = root.querySelectorAll("[data-extras-group]");
+
+        function updateExtrasCount() {
+            if (!countEl) {
+                return;
+            }
+            var selected = root.querySelectorAll('.choice-chip--extra input[type="checkbox"]:checked').length;
+            countEl.textContent =
+                selected === 1 ? "1 Extra ausgewählt" : selected + " Extras ausgewählt";
+        }
+
+        function applyExtrasFilter() {
+            var query = (searchInput && searchInput.value ? searchInput.value : "")
+                .trim()
+                .toLowerCase();
+            var visibleTotal = 0;
+
+            groups.forEach(function (group) {
+                var groupVisible = 0;
+                group.querySelectorAll(".choice-chip--extra").forEach(function (chip) {
+                    var label = (chip.getAttribute("data-extra-label") || "").toLowerCase();
+                    var show = !query || label.indexOf(query) !== -1;
+                    chip.classList.toggle("is-filter-hidden", !show);
+                    if (show) {
+                        groupVisible += 1;
+                        visibleTotal += 1;
+                    }
+                });
+                group.classList.toggle("is-filter-hidden", groupVisible === 0);
+            });
+
+            if (emptyEl) {
+                emptyEl.classList.toggle("d-none", visibleTotal > 0 || !query);
+            }
+        }
+
+        chips.forEach(function (chip) {
+            var input = chip.querySelector('input[type="checkbox"]');
+            if (!input) {
+                return;
+            }
+            input.addEventListener("change", function () {
+                syncChoiceChip(chip);
+                updateExtrasCount();
+            });
         });
 
-        input.addEventListener("keydown", function (event) {
-            if (event.key === "Backspace" && input.value.endsWith("/")) {
-                input.value = input.value.slice(0, -1);
-            }
-        });
+        if (searchInput) {
+            searchInput.addEventListener("input", applyExtrasFilter);
+        }
+
+        if (clearBtn) {
+            clearBtn.addEventListener("click", function () {
+                chips.forEach(function (chip) {
+                    var input = chip.querySelector('input[type="checkbox"]');
+                    if (input && input.checked) {
+                        input.checked = false;
+                        syncChoiceChip(chip);
+                    }
+                });
+                updateExtrasCount();
+            });
+        }
+
+        updateExtrasCount();
+        applyExtrasFilter();
     }
 
     initVehicleCatalog();
     initImageMultiUpload();
     initMonthYearInput();
+    initChoiceChips();
+    initCollapsibleFormSections();
+    initVehicleExtrasPicker();
     initLeadFormSubmit();
 });

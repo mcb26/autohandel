@@ -42,14 +42,29 @@ def build_lead_notification_text(lead: CarLead) -> str:
         "",
         f"<b>Kunde:</b> {html.escape(lead.customer_name)}",
         f"<b>Fahrzeug:</b> {html.escape(lead.vehicle_summary())}",
-        f"<b>Erstzulassung:</b> {html.escape(lead.first_registration_display)}",
-        f"<b>Kilometerstand:</b> {html.escape(mileage)} km",
-        f"<b>Zustand:</b> {html.escape(condition)}",
-        f"<b>Preisvorstellung:</b> {html.escape(price)}",
-        f"<b>Telefon:</b> {html.escape(lead.phone)}",
-        f"<b>E-Mail:</b> {html.escape(lead.email)}",
-        f"<b>PLZ:</b> {html.escape(lead.postal_code)}",
     ]
+    if lead.engine_technical_summary:
+        lines.append(f"<b>Technik:</b> {html.escape(lead.engine_technical_summary)}")
+    lines.extend(
+        [
+            f"<b>Erstzulassung:</b> {html.escape(lead.first_registration_display)}",
+            f"<b>TÜV bis:</b> {html.escape(lead.tuv_until_display)}",
+            f"<b>Kraftstoff:</b> {html.escape(lead.get_fuel_type_display() if lead.fuel_type else '–')}",
+            f"<b>Farbe:</b> {html.escape(lead.get_vehicle_color_display() if lead.vehicle_color else '–')}",
+            f"<b>Kilometerstand:</b> {html.escape(mileage)} km",
+            f"<b>Zustand:</b> {html.escape(condition)}",
+            f"<b>Preisvorstellung:</b> {html.escape(price)}",
+            f"<b>Telefon:</b> {html.escape(lead.phone)}",
+            f"<b>E-Mail:</b> {html.escape(lead.email)}",
+            f"<b>PLZ:</b> {html.escape(lead.postal_code)}",
+        ]
+    )
+    features = lead.active_vehicle_features()
+    if features:
+        lines.append(f"<b>Merkmale:</b> {html.escape(', '.join(features))}")
+    extras = lead.selected_vehicle_extras()
+    if extras:
+        lines.append(f"<b>Extras:</b> {html.escape(', '.join(extras))}")
     if lead.message:
         lines.append(f"<b>Nachricht:</b> {html.escape(lead.message[:500])}")
     lines.extend(

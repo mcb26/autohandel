@@ -43,9 +43,19 @@
             <div><strong>Fahrzeug:</strong> {{ lead.vehicle_summary }}</div>
             {% if lead.series %}<div><strong>Baureihe:</strong> {{ lead.series }}</div>{% endif %}
             {% if lead.engine %}<div><strong>Motorisierung:</strong> {{ lead.engine }}</div>{% endif %}
+            {% if lead.engine_technical_summary %}<div><strong>Technik:</strong> {{ lead.engine_technical_summary }}</div>{% endif %}
             <div><strong>Erstzulassung:</strong> {{ lead.first_registration_display }}</div>
+            <div><strong>TÜV bis:</strong> {{ lead.tuv_until_display }}</div>
+            <div><strong>Kraftstoff:</strong> {% if lead.fuel_type %}{{ lead.get_fuel_type_display }}{% else %}–{% endif %}</div>
+            <div><strong>Farbe:</strong> {% if lead.vehicle_color %}{{ lead.get_vehicle_color_display }}{% else %}–{% endif %}</div>
             <div><strong>Kilometerstand:</strong> {{ lead.mileage }} km</div>
             <div><strong>Zustand:</strong> {{ lead.get_vehicle_condition_display }}</div>
+            {% if lead.active_vehicle_features %}
+                <div><strong>Merkmale:</strong> {{ lead.active_vehicle_features|join:", " }}</div>
+            {% endif %}
+            {% if lead.selected_vehicle_extras %}
+                <div><strong>Extras:</strong> {{ lead.selected_vehicle_extras|join:", " }}</div>
+            {% endif %}
             <div><strong>Preisvorstellung:</strong> {% if lead.expected_price %}{{ lead.expected_price }} €{% else %}-{% endif %}</div>
         </div>
     </div>

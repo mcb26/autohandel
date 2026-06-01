@@ -33,6 +33,7 @@ from .dashboard_filters import (
 )
 from .forms import CarLeadForm
 from .models import CarLead, CarLeadImage
+from .vehicle_extras import build_vehicle_extras_groups, build_vehicle_features_fields
 
 logger = logging.getLogger(__name__)
 
@@ -42,6 +43,14 @@ MIN_FORM_SECONDS = 3
 RATE_LIMIT_MAX_SUCCESS = 5
 RATE_LIMIT_WINDOW_SECONDS = 60 * 60
 GENERIC_FORM_ERROR = "Ihre Anfrage konnte nicht verarbeitet werden. Bitte versuchen Sie es später erneut."
+
+
+def _lead_form_template_context(form):
+    return {
+        "form": form,
+        "vehicle_features_fields": build_vehicle_features_fields(form),
+        "vehicle_extras_groups": build_vehicle_extras_groups(form),
+    }
 
 
 def _get_client_ip(request):
@@ -70,10 +79,17 @@ def _send_dealer_mail(lead):
         f"Modellreihe: {lead.model}\n"
         f"Baureihe: {lead.series or '-'}\n"
         f"Motorisierung: {lead.engine or '-'}\n"
+        f"Hubraum: {lead.engine_displacement or '-'} l\n"
+        f"Leistung: {lead.engine_hp or '-'} PS\n"
+        f"Kraftstoff: {lead.get_fuel_type_display() if lead.fuel_type else '-'}\n"
+        f"Farbe: {lead.get_vehicle_color_display() if lead.vehicle_color else '-'}\n"
         f"Erstzulassung: {lead.first_registration_display}\n"
+        f"TÜV bis: {lead.tuv_until_display}\n"
         f"Kilometerstand: {lead.mileage}\n"
         f"Zustand: {lead.vehicle_condition}\n"
         f"Preisvorstellung: {lead.expected_price or '-'}\n"
+        f"Merkmale: {', '.join(lead.active_vehicle_features()) or '-'}\n"
+        f"Extras: {', '.join(lead.selected_vehicle_extras()) or '-'}\n"
         f"PLZ: {lead.postal_code}\n"
         f"Nachricht: {lead.message or '-'}\n"
     )
@@ -95,18 +111,18 @@ def home(request):
             if (form.cleaned_data.get("website") or "").strip():
                 logger.warning("Spam blockiert (honeypot). ip=%s", ip)
                 form.add_error(None, GENERIC_FORM_ERROR)
-                return render(request, "home.html", {"form": form})
+                return render(request, "home.html", _lead_form_template_context(form))
 
             # Zeitprüfung: muss mindestens MIN_FORM_SECONDS dauern
             loaded_at = request.session.get(HOME_FORM_SESSION_KEY)
             if not loaded_at:
                 logger.warning("Spam blockiert (missing session timestamp). ip=%s", ip)
                 form.add_error(None, GENERIC_FORM_ERROR)
-                return render(request, "home.html", {"form": form})
+                return render(request, "home.html", _lead_form_template_context(form))
             if time.time() - float(loaded_at) < MIN_FORM_SECONDS:
                 logger.warning("Spam blockiert (too fast). ip=%s", ip)
                 form.add_error(None, GENERIC_FORM_ERROR)
-                return render(request, "home.html", {"form": form})
+                return render(request, "home.html", _lead_form_template_context(form))
 
             # Rate limiting: max. 5 erfolgreiche Saves pro IP / 60 Minuten
             key = _rate_limit_cache_key(ip)
@@ -114,7 +130,7 @@ def home(request):
             if current >= RATE_LIMIT_MAX_SUCCESS:
                 logger.warning("Spam/RateLimit blockiert (limit reached). ip=%s", ip)
                 form.add_error(None, GENERIC_FORM_ERROR)
-                return render(request, "home.html", {"form": form})
+                return render(request, "home.html", _lead_form_template_context(form))
 
             lead = form.save(commit=False)
             lead.source_ip = ip
@@ -131,7 +147,7 @@ def home(request):
         form = CarLeadForm()
         request.session[HOME_FORM_SESSION_KEY] = time.time()
 
-    return render(request, "home.html", {"form": form})
+    return render(request, "home.html", _lead_form_template_context(form))
 
 
 def thank_you(request):

@@ -1,0 +1,27 @@
+<div class="col-12">
+    <p class="choice-section-hint mb-3">
+        Tippen Sie auf ein Merkmal, um es zu markieren. Mehrfachauswahl möglich.
+    </p>
+    <div class="choice-chip-grid choice-chip-grid--features" role="group" aria-label="Fahrzeugmerkmale">
+        {% for item in vehicle_features_fields %}
+            <label class="choice-chip choice-chip--feature choice-chip--icon-{{ item.icon }}{% if item.field.value %} is-selected{% endif %}" for="{{ item.field.id_for_label }}">
+                {{ item.field }}
+                <span class="choice-chip-body">
+                    <span class="choice-chip-icon" data-letter="{{ item.letter }}" aria-hidden="true"></span>
+                    <span class="choice-chip-text">
+                        <span class="choice-chip-label">{{ item.label }}</span>
+                        <span class="choice-chip-hint">{{ item.hint }}</span>
+                    </span>
+                    <span class="choice-chip-check" aria-hidden="true"></span>
+                </span>
+            </label>
+        {% endfor %}
+    </div>
+    {% for item in vehicle_features_fields %}
+        {% if item.field.errors %}
+            <div class="field-error-message mt-2" role="alert">
+                {% for error in item.field.errors %}<div>{{ error }}</div>{% endfor %}
+            </div>
+        {% endif %}
+    {% endfor %}
+</div>

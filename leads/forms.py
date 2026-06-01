@@ -6,7 +6,9 @@ from django.core.exceptions import ValidationError
 from django.core.validators import RegexValidator
 
 from .catalog_loader import get_brand_catalog, ordered_brand_choices
+from .engine_specs import find_engine_in_catalog, parse_displacement_liters
 from .models import CarLead
+from .vehicle_extras import VALID_EXTRA_KEYS, VEHICLE_EXTRAS_CHOICES
 
 
 class MonthYearInput(forms.TextInput):
@@ -85,6 +87,35 @@ class MonthYearField(forms.Field):
         return parse_month_year(str(value))
 
 
+class OptionalMonthYearField(MonthYearField):
+    def __init__(self, **kwargs):
+        kwargs.setdefault("required", False)
+        super().__init__(**kwargs)
+
+    def to_python(self, value):
+        if value in (None, ""):
+            return None
+        return parse_month_year(str(value))
+
+
+class TuvMonthYearInput(MonthYearInput):
+    def __init__(self, attrs=None):
+        defaults = {
+            "inputmode": "numeric",
+            "placeholder": "MM/JJ",
+            "maxlength": "7",
+            "autocomplete": "off",
+            "class": "form-control lead-month-year-input lead-tuv-input",
+            "aria-describedby": "id_tuv_until_help",
+        }
+        if attrs:
+            defaults.update(attrs)
+        super(MonthYearInput, self).__init__(attrs=defaults)
+
+
+OptionalMonthYearField.widget = TuvMonthYearInput
+
+
 class MultipleFileInput(forms.ClearableFileInput):
     allow_multiple_selected = True
 
@@ -135,6 +166,21 @@ class CarLeadForm(forms.ModelForm):
         validators=[RegexValidator(r"^\d{5}$", "Bitte eine gültige 5-stellige PLZ eingeben.")],
     )
     first_registration = MonthYearField()
+    tuv_until = OptionalMonthYearField(
+        label="TÜV bis (MM/JJ)",
+        help_text="Format: MM/JJ — z. B. 03/27 für März 2027",
+    )
+    fuel_type = forms.ChoiceField(
+        required=True,
+        label="Kraftstoffart",
+        choices=[("", "Bitte Kraftstoff wählen")] + list(CarLead.FUEL_TYPE_CHOICES),
+    )
+    vehicle_extras = forms.MultipleChoiceField(
+        required=False,
+        label="Extras",
+        choices=VEHICLE_EXTRAS_CHOICES,
+        widget=forms.CheckboxSelectMultiple,
+    )
 
     class Meta:
         model = CarLead
@@ -143,9 +189,18 @@ class CarLeadForm(forms.ModelForm):
             "model",
             "series",
             "first_registration",
+            "tuv_until",
+            "fuel_type",
+            "vehicle_color",
             "mileage",
             "vehicle_condition",
             "expected_price",
+            "feature_maintenance",
+            "feature_roadworthy",
+            "feature_warranty",
+            "feature_inspection_new",
+            "feature_non_smoker",
+            "feature_service_book",
             "customer_name",
             "email",
             "phone",
@@ -160,9 +215,18 @@ class CarLeadForm(forms.ModelForm):
             "series": "Baureihe / Generation",
             "engine": "Ausstattung / Motorisierung",
             "first_registration": "Erstzulassung",
+            "tuv_until": "TÜV bis",
+            "fuel_type": "Kraftstoffart",
+            "vehicle_color": "Farbe",
             "mileage": "Kilometerstand",
             "vehicle_condition": "Fahrzeugzustand",
             "expected_price": "Preisvorstellung (EUR)",
+            "feature_maintenance": "Wartung",
+            "feature_roadworthy": "Fahrtauglich",
+            "feature_warranty": "Garantie",
+            "feature_inspection_new": "Inspektion neu",
+            "feature_non_smoker": "Nichtraucher-Fahrzeug",
+            "feature_service_book": "Scheckheftgepflegt",
             "customer_name": "Name",
             "email": "E-Mail",
             "phone": "Telefonnummer",
@@ -183,9 +247,19 @@ class CarLeadForm(forms.ModelForm):
                 "series",
                 "engine_choice",
                 "first_registration",
+                "tuv_until",
+                "fuel_type",
+                "vehicle_color",
                 "mileage",
                 "vehicle_condition",
                 "expected_price",
+                "feature_maintenance",
+                "feature_roadworthy",
+                "feature_warranty",
+                "feature_inspection_new",
+                "feature_non_smoker",
+                "feature_service_book",
+                "vehicle_extras",
                 "customer_name",
                 "email",
                 "phone",
@@ -203,6 +277,8 @@ class CarLeadForm(forms.ModelForm):
             "series",
             "engine_choice",
             "first_registration",
+            "fuel_type",
+            "vehicle_color",
             "mileage",
             "vehicle_condition",
             "customer_name",
@@ -230,6 +306,9 @@ class CarLeadForm(forms.ModelForm):
                 "series",
                 "engine_choice",
                 "first_registration",
+                "tuv_until",
+                "fuel_type",
+                "vehicle_color",
                 "customer_name",
                 "email",
                 "phone",
@@ -244,9 +323,13 @@ class CarLeadForm(forms.ModelForm):
                 css_class = "form-check-input"
                 field.widget.attrs["class"] = css_class
             elif isinstance(field.widget, forms.Select):
-                css_class = "form-select catalog-select"
-                field.widget.attrs["class"] = css_class
+                if field_name in ("brand", "model", "series", "engine_choice"):
+                    field.widget.attrs["class"] = "form-select catalog-select"
+                else:
+                    field.widget.attrs["class"] = "form-select"
             elif field_name == "first_registration":
+                pass
+            elif field_name == "tuv_until":
                 pass
             else:
                 css_class = "form-control"
@@ -261,6 +344,10 @@ class CarLeadForm(forms.ModelForm):
         self.fields["vehicle_condition"].choices = [("", "Bitte Zustand auswählen")] + list(
             CarLead.CONDITION_CHOICES
         )
+        self.fields["vehicle_color"].choices = [("", "Bitte Farbe wählen")] + list(CarLead.COLOR_CHOICES)
+
+        if self.instance.pk and self.instance.vehicle_extras:
+            self.initial.setdefault("vehicle_extras", self.instance.vehicle_extras)
 
         selected_brand = (self.data.get("brand") if self.is_bound else self.initial.get("brand")) or ""
         selected_model = (self.data.get("model") if self.is_bound else self.initial.get("model")) or ""
@@ -319,6 +406,10 @@ class CarLeadForm(forms.ModelForm):
                 raise forms.ValidationError("Ein Bild darf maximal 8 MB groß sein.")
         return files
 
+    def clean_vehicle_extras(self):
+        selected = self.cleaned_data.get("vehicle_extras") or []
+        return [key for key in selected if key in VALID_EXTRA_KEYS]
+
     def clean(self):
         cleaned_data = super().clean()
         brand_key = cleaned_data.get("brand")
@@ -352,6 +443,13 @@ class CarLeadForm(forms.ModelForm):
         cleaned_data["series"] = series_map[series_key]["label"]
         cleaned_data["engine"] = engine_choice
 
+        engine_entry = find_engine_in_catalog(brand_data, model_key, series_key, engine_choice)
+        if engine_entry.get("hp"):
+            cleaned_data["engine_hp"] = engine_entry["hp"]
+        displacement = engine_entry.get("displacement") or parse_displacement_liters(engine_choice)
+        if displacement:
+            cleaned_data["engine_displacement"] = displacement
+
         return cleaned_data
 
     def save(self, commit=True):
@@ -359,4 +457,7 @@ class CarLeadForm(forms.ModelForm):
         self.instance.model = self.cleaned_data.get("model", "")
         self.instance.series = self.cleaned_data.get("series", "")
         self.instance.engine = self.cleaned_data.get("engine", "")
+        self.instance.engine_hp = self.cleaned_data.get("engine_hp")
+        self.instance.engine_displacement = self.cleaned_data.get("engine_displacement") or ""
+        self.instance.vehicle_extras = self.cleaned_data.get("vehicle_extras") or []
         return super().save(commit=commit)

@@ -68,11 +68,23 @@ class CarLeadAdmin(admin.ModelAdmin):
                     "model",
                     "series",
                     "engine",
+                    "engine_displacement",
+                    "engine_hp",
+                    "fuel_type",
+                    "vehicle_color",
                     "internal_notes",
                     "first_registration",
+                    "tuv_until",
                     "mileage",
                     "vehicle_condition",
                     "expected_price",
+                    "feature_maintenance",
+                    "feature_roadworthy",
+                    "feature_warranty",
+                    "feature_inspection_new",
+                    "feature_non_smoker",
+                    "feature_service_book",
+                    "vehicle_extras",
                 )
             },
         ),
@@ -132,10 +144,16 @@ class CarLeadAdmin(admin.ModelAdmin):
                 f"Modellreihe: {lead.model}\n"
                 f"Baureihe: {lead.series or '-'}\n"
                 f"Motorisierung: {lead.engine or '-'}\n"
+                f"Hubraum: {lead.engine_displacement or '-'} l · PS: {lead.engine_hp or '-'}\n"
+                f"Kraftstoff: {lead.get_fuel_type_display() if lead.fuel_type else '-'}\n"
+                f"Farbe: {lead.get_vehicle_color_display() if lead.vehicle_color else '-'}\n"
                 f"Erstzulassung: {lead.first_registration_display}\n"
+                f"TÜV bis: {lead.tuv_until_display}\n"
                 f"Kilometerstand: {lead.mileage}\n"
                 f"Zustand: {lead.get_vehicle_condition_display()}\n"
                 f"Preisvorstellung: {lead.expected_price or '-'}\n"
+                f"Merkmale: {', '.join(lead.active_vehicle_features()) or '-'}\n"
+                f"Extras: {', '.join(lead.selected_vehicle_extras()) or '-'}\n"
                 f"\nInterne Notizen\n{lead.internal_notes or '-'}\n"
                 f"\nNachricht\n{lead.message or '-'}\n"
             )

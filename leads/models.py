@@ -22,6 +22,39 @@ class CarLead(models.Model):
         ("defekt", "Defekt / Bastlerfahrzeug"),
     ]
 
+    FUEL_TYPE_CHOICES = [
+        ("benzin", "Benzin"),
+        ("diesel", "Diesel"),
+        ("elektro", "Elektro"),
+        ("hybrid", "Hybrid"),
+        ("gas", "Gas (LPG/CNG)"),
+        ("other", "Sonstiges"),
+    ]
+
+    COLOR_CHOICES = [
+        ("schwarz", "Schwarz"),
+        ("weiss", "Weiß"),
+        ("silber", "Silber"),
+        ("grau", "Grau"),
+        ("blau", "Blau"),
+        ("rot", "Rot"),
+        ("gruen", "Grün"),
+        ("braun", "Braun / Beige"),
+        ("gelb", "Gelb / Orange"),
+        ("gold", "Gold / Bronze"),
+        ("violett", "Violett"),
+        ("other", "Sonstige"),
+    ]
+
+    VEHICLE_FEATURE_FIELDS = (
+        ("feature_maintenance", "Wartung"),
+        ("feature_roadworthy", "Fahrtauglich"),
+        ("feature_warranty", "Garantie"),
+        ("feature_inspection_new", "Inspektion neu"),
+        ("feature_non_smoker", "Nichtraucher-Fahrzeug"),
+        ("feature_service_book", "Scheckheftgepflegt"),
+    )
+
     created_at = models.DateTimeField(auto_now_add=True)
     updated_at = models.DateTimeField(auto_now=True)
     status = models.CharField(max_length=20, choices=STATUS_CHOICES, default=STATUS_NEW)
@@ -32,10 +65,24 @@ class CarLead(models.Model):
     model = models.CharField(max_length=120)
     series = models.CharField(max_length=200, blank=True, default="")
     engine = models.CharField(max_length=200, blank=True, default="")
+    engine_hp = models.PositiveSmallIntegerField(null=True, blank=True)
+    engine_displacement = models.CharField(max_length=20, blank=True, default="")
+    fuel_type = models.CharField(max_length=30, choices=FUEL_TYPE_CHOICES, blank=True, default="")
     first_registration = models.DateField()
+    tuv_until = models.DateField(null=True, blank=True)
     mileage = models.PositiveIntegerField()
+    vehicle_color = models.CharField(max_length=30, choices=COLOR_CHOICES, blank=True, default="")
     vehicle_condition = models.CharField(max_length=100, choices=CONDITION_CHOICES)
     expected_price = models.DecimalField(max_digits=12, decimal_places=2, blank=True, null=True)
+
+    feature_maintenance = models.BooleanField(default=False)
+    feature_roadworthy = models.BooleanField(default=False)
+    feature_warranty = models.BooleanField(default=False)
+    feature_inspection_new = models.BooleanField(default=False)
+    feature_non_smoker = models.BooleanField(default=False)
+    feature_service_book = models.BooleanField(default=False)
+
+    vehicle_extras = models.JSONField(default=list, blank=True)
 
     customer_name = models.CharField(max_length=120)
     email = models.EmailField()
@@ -60,6 +107,40 @@ class CarLead(models.Model):
         if not self.first_registration:
             return "-"
         return self.first_registration.strftime("%m/%Y")
+
+    @property
+    def tuv_until_display(self) -> str:
+        if not self.tuv_until:
+            return "-"
+        return self.tuv_until.strftime("%m/%Y")
+
+    @property
+    def engine_technical_summary(self) -> str:
+        parts = []
+        if self.engine_displacement:
+            parts.append(f"{self.engine_displacement} l")
+        if self.engine_hp:
+            parts.append(f"{self.engine_hp} PS")
+        if self.fuel_type:
+            parts.append(self.get_fuel_type_display())
+        return " · ".join(parts)
+
+    def active_vehicle_features(self) -> list[str]:
+        labels = []
+        for field_name, label in self.VEHICLE_FEATURE_FIELDS:
+            if getattr(self, field_name, False):
+                labels.append(label)
+        return labels
+
+    def selected_vehicle_extras(self) -> list[str]:
+        from .vehicle_extras import VEHICLE_EXTRAS_LABELS
+
+        labels = []
+        for key in self.vehicle_extras or []:
+            label = VEHICLE_EXTRAS_LABELS.get(key)
+            if label:
+                labels.append(label)
+        return labels
 
     def vehicle_summary(self) -> str:
         parts = [self.brand, self.model]
