@@ -16,11 +16,22 @@ urlpatterns = [
     path("datenschutz/", views.privacy, name="privacy"),
     path("impressum/", views.imprint, name="imprint"),
     path("dashboard/", views.dashboard_home, name="dashboard_home"),
+    path("dashboard/vorlagen/", views.dashboard_document_templates, name="dashboard_document_templates"),
+    path(
+        "dashboard/vorlagen/beispiel/<slug:template_type>/",
+        views.dashboard_download_starter_template,
+        name="dashboard_starter_template_download",
+    ),
     path("dashboard/leads/<int:pk>/", views.dashboard_lead_detail, name="dashboard_lead_detail"),
     path("dashboard/leads/<int:pk>/archive/", views.dashboard_lead_archive, name="dashboard_lead_archive"),
     path("dashboard/leads/<int:pk>/unarchive/", views.dashboard_lead_unarchive, name="dashboard_lead_unarchive"),
     path("dashboard/leads/<int:pk>/delete/", views.dashboard_lead_delete, name="dashboard_lead_delete"),
     path("dashboard/leads/<int:pk>/print/", views.dashboard_lead_print, name="dashboard_lead_print"),
+    path(
+        "dashboard/leads/<int:pk>/dokument/<slug:template_type>/",
+        views.dashboard_lead_generate_document,
+        name="dashboard_lead_generate_document",
+    ),
     path(
         "dashboard/leads/<int:pk>/package.zip/",
         views.dashboard_lead_package_download,

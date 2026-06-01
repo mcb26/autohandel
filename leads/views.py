@@ -9,6 +9,7 @@ from django.contrib import messages
 from django.contrib.auth import views as auth_views
 from django.contrib.auth.decorators import login_required
 from django.core.cache import cache
+from django.core.exceptions import ValidationError
 from django.core.mail import send_mail
 from django import forms
 from django.core.paginator import Paginator
@@ -31,8 +32,17 @@ from .dashboard_filters import (
     filters_from_request,
     list_query_string,
 )
+from .dashboard_forms import DealerTemplateUploadForm, save_dealer_template
+from .document_templates import (
+    DOCX_CONTENT_TYPE,
+    PLACEHOLDER_HELP_DETAILS,
+    PLACEHOLDER_HELP_CONTRACT,
+    build_starter_template_docx,
+    get_active_template,
+    render_lead_document,
+)
 from .forms import CarLeadForm
-from .models import CarLead, CarLeadImage
+from .models import CarLead, CarLeadImage, DealerDocumentTemplate
 from .vehicle_extras import build_vehicle_extras_groups, build_vehicle_features_fields
 
 logger = logging.getLogger(__name__)
@@ -87,6 +97,7 @@ def _send_dealer_mail(lead):
         f"TÜV bis: {lead.tuv_until_display}\n"
         f"Kilometerstand: {lead.mileage}\n"
         f"Zustand: {lead.vehicle_condition}\n"
+        f"Angemeldet: {lead.get_is_registered_display() if lead.is_registered else '-'}\n"
         f"Preisvorstellung: {lead.expected_price or '-'}\n"
         f"Merkmale: {', '.join(lead.active_vehicle_features()) or '-'}\n"
         f"Extras: {', '.join(lead.selected_vehicle_extras()) or '-'}\n"
@@ -320,6 +331,10 @@ def dashboard_lead_detail(request, pk: int):
             "prev_lead_pk": prev_pk,
             "next_lead_pk": next_pk,
             "image_urls": image_urls,
+            "has_purchase_template": get_active_template(DealerDocumentTemplate.TYPE_PURCHASE_CONTRACT)
+            is not None,
+            "has_invoice_template": get_active_template(DealerDocumentTemplate.TYPE_INVOICE_EMAIL)
+            is not None,
         },
     )
 
@@ -357,6 +372,7 @@ def dashboard_lead_package_download(request, pk: int):
             f"Erstzulassung: {lead.first_registration_display}\n"
             f"Kilometerstand: {lead.mileage}\n"
             f"Zustand: {lead.get_vehicle_condition_display()}\n"
+            f"Angemeldet: {lead.get_is_registered_display() if lead.is_registered else '-'}\n"
             f"Preisvorstellung: {lead.expected_price or '-'}\n"
             f"\nInterne Notizen\n{lead.internal_notes or '-'}\n"
             f"\nNachricht\n{lead.message or '-'}\n"
@@ -377,5 +393,107 @@ def dashboard_lead_package_download(request, pk: int):
     buffer.seek(0)
     filename = f"lead-{lead.pk}-{slugify(lead.customer_name) or 'kunde'}.zip"
     response = HttpResponse(buffer.getvalue(), content_type="application/zip")
+    response["Content-Disposition"] = f"attachment; filename*=UTF-8''{quote(filename)}"
+    return response
+
+
+def _document_templates_context():
+    purchase = get_active_template(DealerDocumentTemplate.TYPE_PURCHASE_CONTRACT)
+    invoice = get_active_template(DealerDocumentTemplate.TYPE_INVOICE_EMAIL)
+    return {
+        "purchase_template": purchase,
+        "invoice_template": invoice,
+        "purchase_form": DealerTemplateUploadForm(),
+        "invoice_form": DealerTemplateUploadForm(),
+        "placeholder_help": PLACEHOLDER_HELP_DETAILS,
+        "placeholder_help_contract": PLACEHOLDER_HELP_CONTRACT,
+    }
+
+
+@login_required
+def dashboard_document_templates(request):
+    context = _document_templates_context()
+
+    if request.method == "POST":
+        action = (request.POST.get("action") or "").strip()
+        if action == "upload_purchase":
+            form = DealerTemplateUploadForm(request.POST, request.FILES)
+            context["purchase_form"] = form
+            if form.is_valid():
+                save_dealer_template(
+                    DealerDocumentTemplate.TYPE_PURCHASE_CONTRACT,
+                    form.cleaned_data["file"],
+                    request.user,
+                )
+                messages.success(request, "Kaufvertrag-Vorlage wurde gespeichert.")
+                return redirect("leads:dashboard_document_templates")
+        elif action == "upload_invoice":
+            form = DealerTemplateUploadForm(request.POST, request.FILES)
+            context["invoice_form"] = form
+            if form.is_valid():
+                save_dealer_template(
+                    DealerDocumentTemplate.TYPE_INVOICE_EMAIL,
+                    form.cleaned_data["file"],
+                    request.user,
+                )
+                messages.success(request, "Rechnung/E-Mail-Vorlage wurde gespeichert.")
+                return redirect("leads:dashboard_document_templates")
+        elif action == "delete_purchase":
+            template = get_active_template(DealerDocumentTemplate.TYPE_PURCHASE_CONTRACT)
+            if template:
+                template.file.delete(save=False)
+                template.delete()
+                messages.success(request, "Kaufvertrag-Vorlage wurde entfernt.")
+            return redirect("leads:dashboard_document_templates")
+        elif action == "delete_invoice":
+            template = get_active_template(DealerDocumentTemplate.TYPE_INVOICE_EMAIL)
+            if template:
+                template.file.delete(save=False)
+                template.delete()
+                messages.success(request, "Rechnung/E-Mail-Vorlage wurde entfernt.")
+            return redirect("leads:dashboard_document_templates")
+
+    return render(request, "dashboard/document_templates.html", context)
+
+
+@login_required
+def dashboard_download_starter_template(request, template_type: str):
+    allowed = {
+        DealerDocumentTemplate.TYPE_PURCHASE_CONTRACT,
+        DealerDocumentTemplate.TYPE_INVOICE_EMAIL,
+    }
+    if template_type not in allowed:
+        messages.error(request, "Unbekannter Vorlagentyp.")
+        return redirect("leads:dashboard_document_templates")
+
+    try:
+        content, filename = build_starter_template_docx(template_type)
+    except ValidationError as exc:
+        messages.error(request, str(exc))
+        return redirect("leads:dashboard_document_templates")
+
+    response = HttpResponse(content, content_type=DOCX_CONTENT_TYPE)
+    response["Content-Disposition"] = f"attachment; filename*=UTF-8''{quote(filename)}"
+    return response
+
+
+@login_required
+def dashboard_lead_generate_document(request, pk: int, template_type: str):
+    allowed = {
+        DealerDocumentTemplate.TYPE_PURCHASE_CONTRACT,
+        DealerDocumentTemplate.TYPE_INVOICE_EMAIL,
+    }
+    if template_type not in allowed:
+        messages.error(request, "Unbekannter Dokumenttyp.")
+        return redirect("leads:dashboard_lead_detail", pk=pk)
+
+    lead = get_object_or_404(CarLead, pk=pk)
+    try:
+        content, filename = render_lead_document(lead, template_type)
+    except ValidationError as exc:
+        messages.error(request, str(exc))
+        return redirect("leads:dashboard_lead_detail", pk=pk)
+
+    response = HttpResponse(content, content_type=DOCX_CONTENT_TYPE)
     response["Content-Disposition"] = f"attachment; filename*=UTF-8''{quote(filename)}"
     return response

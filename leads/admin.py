@@ -8,7 +8,7 @@ from django.urls import path, reverse
 from django.utils.html import format_html
 from django.utils.text import slugify
 
-from .models import CarLead, CarLeadImage
+from .models import CarLead, CarLeadImage, DealerDocumentTemplate
 
 
 class CarLeadImageInline(admin.TabularInline):
@@ -77,6 +77,7 @@ class CarLeadAdmin(admin.ModelAdmin):
                     "tuv_until",
                     "mileage",
                     "vehicle_condition",
+                    "is_registered",
                     "expected_price",
                     "feature_maintenance",
                     "feature_roadworthy",
@@ -151,6 +152,7 @@ class CarLeadAdmin(admin.ModelAdmin):
                 f"TÜV bis: {lead.tuv_until_display}\n"
                 f"Kilometerstand: {lead.mileage}\n"
                 f"Zustand: {lead.get_vehicle_condition_display()}\n"
+                f"Angemeldet: {lead.get_is_registered_display() if lead.is_registered else '-'}\n"
                 f"Preisvorstellung: {lead.expected_price or '-'}\n"
                 f"Merkmale: {', '.join(lead.active_vehicle_features()) or '-'}\n"
                 f"Extras: {', '.join(lead.selected_vehicle_extras()) or '-'}\n"
@@ -174,3 +176,9 @@ class CarLeadAdmin(admin.ModelAdmin):
         response = HttpResponse(buffer.getvalue(), content_type="application/zip")
         response["Content-Disposition"] = f"attachment; filename*=UTF-8''{quote(filename)}"
         return response
+
+
+@admin.register(DealerDocumentTemplate)
+class DealerDocumentTemplateAdmin(admin.ModelAdmin):
+    list_display = ("template_type", "original_filename", "uploaded_at", "uploaded_by")
+    readonly_fields = ("uploaded_at", "uploaded_by")

@@ -53,6 +53,7 @@ def build_lead_notification_text(lead: CarLead) -> str:
             f"<b>Farbe:</b> {html.escape(lead.get_vehicle_color_display() if lead.vehicle_color else '–')}",
             f"<b>Kilometerstand:</b> {html.escape(mileage)} km",
             f"<b>Zustand:</b> {html.escape(condition)}",
+            f"<b>Angemeldet:</b> {html.escape(lead.get_is_registered_display() if lead.is_registered else '–')}",
             f"<b>Preisvorstellung:</b> {html.escape(price)}",
             f"<b>Telefon:</b> {html.escape(lead.phone)}",
             f"<b>E-Mail:</b> {html.escape(lead.email)}",

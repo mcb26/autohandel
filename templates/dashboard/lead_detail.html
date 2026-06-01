@@ -129,6 +129,10 @@
                             <div class="text-muted small">Zustand</div>
                             <div class="fw-semibold">{{ lead.get_vehicle_condition_display }}</div>
                         </div>
+                        <div class="col-12 col-md-6">
+                            <div class="text-muted small">Angemeldet</div>
+                            <div class="fw-semibold">{% if lead.is_registered %}{{ lead.get_is_registered_display }}{% else %}–{% endif %}</div>
+                        </div>
                         {% if lead.active_vehicle_features %}
                         <div class="col-12">
                             <div class="text-muted small mb-1">Fahrzeugmerkmale</div>
@@ -271,10 +275,28 @@
                     <hr class="my-3">
                     <h2 class="h6 mb-3">Dokumente</h2>
                     <div class="d-grid gap-2">
+                        {% if has_purchase_template %}
+                            <a class="btn btn-success" href="{% url 'leads:dashboard_lead_generate_document' lead.pk 'purchase_contract' %}">Kaufvertrag generieren (.docx)</a>
+                        {% else %}
+                            <span class="btn btn-success disabled" title="Zuerst Vorlage hochladen">Kaufvertrag generieren (.docx)</span>
+                        {% endif %}
+                        {% if has_invoice_template %}
+                            <a class="btn btn-success" href="{% url 'leads:dashboard_lead_generate_document' lead.pk 'invoice_email' %}">Rechnung / E-Mail generieren (.docx)</a>
+                        {% else %}
+                            <span class="btn btn-success disabled" title="Zuerst Vorlage hochladen">Rechnung / E-Mail generieren (.docx)</span>
+                        {% endif %}
+                        <a class="btn btn-outline-secondary btn-sm" href="{% url 'leads:dashboard_document_templates' %}">Vorlagen verwalten</a>
+                        <hr class="my-1">
                         <a class="btn btn-outline-dark" href="{% url 'leads:dashboard_lead_print' lead.pk %}?images=0" target="_blank">Angebot drucken (ohne Bilder)</a>
                         <a class="btn btn-outline-dark" href="{% url 'leads:dashboard_lead_print' lead.pk %}?images=1" target="_blank">Angebot drucken (mit Bildern)</a>
                         <a class="btn btn-dark" href="{% url 'leads:dashboard_lead_package_download' lead.pk %}">Komplettpaket herunterladen</a>
                     </div>
+                    {% if not has_purchase_template or not has_invoice_template %}
+                        <p class="small text-muted mb-0 mt-2">
+                            Für Word-Dokumente zuerst
+                            <a href="{% url 'leads:dashboard_document_templates' %}">Vorlagen im Dashboard hochladen</a>.
+                        </p>
+                    {% endif %}
                 </div>
             </div>
         </div>

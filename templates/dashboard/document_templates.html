@@ -1,0 +1,158 @@
+{% extends "dashboard/base.html" %}
+
+{% block title %}Dokumentenvorlagen | Dashboard{% endblock %}
+
+{% block content %}
+<div class="dashboard-page" style="max-width: 1100px;">
+    <div class="d-flex flex-wrap align-items-center justify-content-between gap-2 mb-3">
+        <div>
+            <a class="small text-muted text-decoration-none d-inline-block mb-1" href="{% url 'leads:dashboard_home' %}">&larr; Zurück zur Übersicht</a>
+            <h1 class="h4 mb-0">Dokumentenvorlagen</h1>
+            <p class="text-muted small mb-0 mt-1">
+                Beim Generieren pro Lead werden automatisch <strong>Vertragspartner</strong> (Kunde &amp; Ihre Firma)
+                und das <strong>Fahrzeug</strong> eingetragen. Nutzen Sie die Platzhalter in Ihrer Word-Datei
+                oder starten Sie mit einer Beispiel-Vorlage.
+            </p>
+        </div>
+    </div>
+
+    <div class="card shadow-sm dashboard-card mb-4">
+        <div class="card-body">
+            <h2 class="h6 mb-2">Beispiel-Vorlagen (mit Platzhaltern)</h2>
+            <p class="small text-muted mb-3">
+                Enthalten bereits Verkäufer, Käufer und Fahrzeugbeschreibung. Herunterladen, bei Bedarf anpassen und oben hochladen.
+            </p>
+            <div class="d-flex flex-wrap gap-2">
+                <a class="btn btn-outline-dark btn-sm" href="{% url 'leads:dashboard_starter_template_download' 'purchase_contract' %}">Beispiel Kaufvertrag</a>
+                <a class="btn btn-outline-dark btn-sm" href="{% url 'leads:dashboard_starter_template_download' 'invoice_email' %}">Beispiel Rechnung / E-Mail</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="row g-3 mb-4">
+        <div class="col-12 col-lg-6">
+            <div class="card shadow-sm dashboard-card h-100">
+                <div class="card-body">
+                    <h2 class="h6 mb-3">Kaufvertrag</h2>
+                    {% if purchase_template %}
+                        <p class="small mb-2">
+                            <strong>Aktuelle Vorlage:</strong>
+                            {{ purchase_template.original_filename|default:purchase_template.file.name }}
+                        </p>
+                        <p class="small text-muted mb-3">
+                            Hochgeladen am {{ purchase_template.uploaded_at|date:"d.m.Y H:i" }}
+                            {% if purchase_template.uploaded_by %}von {{ purchase_template.uploaded_by.get_username }}{% endif %}
+                        </p>
+                        <form method="post" class="mb-2" onsubmit="return confirm('Kaufvertrag-Vorlage wirklich löschen?');">
+                            {% csrf_token %}
+                            <input type="hidden" name="action" value="delete_purchase">
+                            <button type="submit" class="btn btn-outline-danger btn-sm">Vorlage entfernen</button>
+                        </form>
+                        <hr>
+                    {% else %}
+                        <p class="small text-muted">Noch keine Vorlage hochgeladen.</p>
+                    {% endif %}
+                    <form method="post" enctype="multipart/form-data">
+                        {% csrf_token %}
+                        <input type="hidden" name="action" value="upload_purchase">
+                        <div class="mb-3">
+                            <label class="form-label" for="id_purchase_file">Neue .docx-Vorlage</label>
+                            <input type="file" name="file" accept=".docx,application/vnd.openxmlformats-officedocument.wordprocessingml.document" class="form-control" id="id_purchase_file" required>
+                            {% if purchase_form.file.errors %}
+                                <div class="text-danger small mt-1">{{ purchase_form.file.errors.0 }}</div>
+                            {% endif %}
+                        </div>
+                        <button type="submit" class="btn btn-dark">Kaufvertrag-Vorlage speichern</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-12 col-lg-6">
+            <div class="card shadow-sm dashboard-card h-100">
+                <div class="card-body">
+                    <h2 class="h6 mb-3">Rechnung &amp; E-Mail</h2>
+                    {% if invoice_template %}
+                        <p class="small mb-2">
+                            <strong>Aktuelle Vorlage:</strong>
+                            {{ invoice_template.original_filename|default:invoice_template.file.name }}
+                        </p>
+                        <p class="small text-muted mb-3">
+                            Hochgeladen am {{ invoice_template.uploaded_at|date:"d.m.Y H:i" }}
+                            {% if invoice_template.uploaded_by %}von {{ invoice_template.uploaded_by.get_username }}{% endif %}
+                        </p>
+                        <form method="post" class="mb-2" onsubmit="return confirm('Rechnung/E-Mail-Vorlage wirklich löschen?');">
+                            {% csrf_token %}
+                            <input type="hidden" name="action" value="delete_invoice">
+                            <button type="submit" class="btn btn-outline-danger btn-sm">Vorlage entfernen</button>
+                        </form>
+                        <hr>
+                    {% else %}
+                        <p class="small text-muted">Noch keine Vorlage hochgeladen.</p>
+                    {% endif %}
+                    <form method="post" enctype="multipart/form-data">
+                        {% csrf_token %}
+                        <input type="hidden" name="action" value="upload_invoice">
+                        <div class="mb-3">
+                            <label class="form-label" for="id_invoice_file">Neue .docx-Vorlage</label>
+                            <input type="file" name="file" accept=".docx,application/vnd.openxmlformats-officedocument.wordprocessingml.document" class="form-control" id="id_invoice_file" required>
+                            {% if invoice_form.file.errors %}
+                                <div class="text-danger small mt-1">{{ invoice_form.file.errors.0 }}</div>
+                            {% endif %}
+                        </div>
+                        <button type="submit" class="btn btn-dark">Rechnung/E-Mail-Vorlage speichern</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="card shadow-sm dashboard-card">
+        <div class="card-body">
+            <h2 class="h6 mb-3">Platzhalter in Word</h2>
+            <p class="small text-muted">
+                In Word Platzhalter einfügen, z.&nbsp;B. <code>{% templatetag openvariable %} verkaeufer_name {% templatetag closevariable %}</code>
+                – beim Generieren werden Kunde, Firma und Fahrzeug aus dem Lead eingesetzt.
+            </p>
+            <h3 class="h6 mt-3 mb-2">Vertragspartner &amp; Fahrzeug (empfohlen)</h3>
+            <div class="table-responsive mb-4">
+                <table class="table table-sm align-middle mb-0">
+                    <thead>
+                        <tr>
+                            <th>Platzhalter</th>
+                            <th>Bedeutung</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for token, description in placeholder_help_contract %}
+                            <tr>
+                                <td><code>{{ token }}</code></td>
+                                <td class="text-muted small">{{ description }}</td>
+                            </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+            <h3 class="h6 mb-2">Alle weiteren Felder</h3>
+            <div class="table-responsive">
+                <table class="table table-sm align-middle mb-0">
+                    <thead>
+                        <tr>
+                            <th>Platzhalter</th>
+                            <th>Bedeutung</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for token, description in placeholder_help %}
+                            <tr>
+                                <td><code>{{ token }}</code></td>
+                                <td class="text-muted small">{{ description }}</td>
+                            </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

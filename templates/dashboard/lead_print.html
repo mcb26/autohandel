@@ -50,6 +50,7 @@
             <div><strong>Farbe:</strong> {% if lead.vehicle_color %}{{ lead.get_vehicle_color_display }}{% else %}–{% endif %}</div>
             <div><strong>Kilometerstand:</strong> {{ lead.mileage }} km</div>
             <div><strong>Zustand:</strong> {{ lead.get_vehicle_condition_display }}</div>
+            <div><strong>Angemeldet:</strong> {% if lead.is_registered %}{{ lead.get_is_registered_display }}{% else %}–{% endif %}</div>
             {% if lead.active_vehicle_features %}
                 <div><strong>Merkmale:</strong> {{ lead.active_vehicle_features|join:", " }}</div>
             {% endif %}

@@ -31,6 +31,11 @@ class CarLead(models.Model):
         ("other", "Sonstiges"),
     ]
 
+    REGISTERED_CHOICES = [
+        ("yes", "Ja"),
+        ("no", "Nein"),
+    ]
+
     COLOR_CHOICES = [
         ("schwarz", "Schwarz"),
         ("weiss", "Weiß"),
@@ -73,6 +78,7 @@ class CarLead(models.Model):
     mileage = models.PositiveIntegerField()
     vehicle_color = models.CharField(max_length=30, choices=COLOR_CHOICES, blank=True, default="")
     vehicle_condition = models.CharField(max_length=100, choices=CONDITION_CHOICES)
+    is_registered = models.CharField(max_length=3, choices=REGISTERED_CHOICES, blank=True, default="")
     expected_price = models.DecimalField(max_digits=12, decimal_places=2, blank=True, null=True)
 
     feature_maintenance = models.BooleanField(default=False)
@@ -171,3 +177,33 @@ class CarLeadImage(models.Model):
 
     def __str__(self) -> str:
         return f"Bild zu Lead #{self.lead_id}"
+
+
+class DealerDocumentTemplate(models.Model):
+    TYPE_PURCHASE_CONTRACT = "purchase_contract"
+    TYPE_INVOICE_EMAIL = "invoice_email"
+
+    TYPE_CHOICES = [
+        (TYPE_PURCHASE_CONTRACT, "Kaufvertrag"),
+        (TYPE_INVOICE_EMAIL, "Rechnung & E-Mail"),
+    ]
+
+    template_type = models.CharField(max_length=32, choices=TYPE_CHOICES, unique=True)
+    file = models.FileField(upload_to="dealer_templates/")
+    original_filename = models.CharField(max_length=255, blank=True, default="")
+    uploaded_at = models.DateTimeField(auto_now=True)
+    uploaded_by = models.ForeignKey(
+        "auth.User",
+        on_delete=models.SET_NULL,
+        null=True,
+        blank=True,
+        related_name="uploaded_dealer_templates",
+    )
+
+    class Meta:
+        verbose_name = "Dokumentenvorlage"
+        verbose_name_plural = "Dokumentenvorlagen"
+        ordering = ["template_type"]
+
+    def __str__(self) -> str:
+        return self.get_template_type_display()

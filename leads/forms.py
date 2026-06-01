@@ -194,6 +194,7 @@ class CarLeadForm(forms.ModelForm):
             "vehicle_color",
             "mileage",
             "vehicle_condition",
+            "is_registered",
             "expected_price",
             "feature_maintenance",
             "feature_roadworthy",
@@ -220,6 +221,7 @@ class CarLeadForm(forms.ModelForm):
             "vehicle_color": "Farbe",
             "mileage": "Kilometerstand",
             "vehicle_condition": "Fahrzeugzustand",
+            "is_registered": "Fahrzeug angemeldet",
             "expected_price": "Preisvorstellung (EUR)",
             "feature_maintenance": "Wartung",
             "feature_roadworthy": "Fahrtauglich",
@@ -252,6 +254,7 @@ class CarLeadForm(forms.ModelForm):
                 "vehicle_color",
                 "mileage",
                 "vehicle_condition",
+                "is_registered",
                 "expected_price",
                 "feature_maintenance",
                 "feature_roadworthy",
@@ -277,10 +280,13 @@ class CarLeadForm(forms.ModelForm):
             "series",
             "engine_choice",
             "first_registration",
+            "tuv_until",
             "fuel_type",
             "vehicle_color",
             "mileage",
             "vehicle_condition",
+            "is_registered",
+            "expected_price",
             "customer_name",
             "email",
             "phone",
@@ -309,6 +315,7 @@ class CarLeadForm(forms.ModelForm):
                 "tuv_until",
                 "fuel_type",
                 "vehicle_color",
+                "is_registered",
                 "customer_name",
                 "email",
                 "phone",
@@ -344,6 +351,7 @@ class CarLeadForm(forms.ModelForm):
         self.fields["vehicle_condition"].choices = [("", "Bitte Zustand auswählen")] + list(
             CarLead.CONDITION_CHOICES
         )
+        self.fields["is_registered"].choices = [("", "Bitte auswählen")] + list(CarLead.REGISTERED_CHOICES)
         self.fields["vehicle_color"].choices = [("", "Bitte Farbe wählen")] + list(CarLead.COLOR_CHOICES)
 
         if self.instance.pk and self.instance.vehicle_extras:
