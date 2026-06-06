@@ -110,9 +110,67 @@ h6 {
 }
 
 .site-header-bar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
     padding-top: 0.35rem;
-    padding-bottom: 0.15rem;
-    line-height: 0;
+    padding-bottom: 0.35rem;
+    line-height: normal;
+}
+
+.site-header-phone {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.65rem;
+    text-decoration: none;
+    color: #ffffff;
+    flex-shrink: 0;
+    padding: 0.35rem 0.5rem;
+    border-radius: 0.5rem;
+    transition: color 0.15s ease, background-color 0.15s ease;
+}
+
+.site-header-phone:hover,
+.site-header-phone:focus-visible {
+    color: var(--brand-green);
+    background-color: rgba(255, 255, 255, 0.06);
+}
+
+.site-header-phone-icon {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--brand-green);
+    flex-shrink: 0;
+}
+
+.site-header-phone-text {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    line-height: 1.15;
+}
+
+.site-header-phone-label {
+    font-size: 0.72rem;
+    font-weight: 600;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: rgba(255, 255, 255, 0.72);
+}
+
+.site-header-phone-number {
+    font-family: var(--font-heading);
+    font-size: clamp(1.15rem, 2.4vw, 1.65rem);
+    font-weight: 800;
+    letter-spacing: 0.01em;
+    white-space: nowrap;
+}
+
+.site-header-phone:hover .site-header-phone-label,
+.site-header-phone:focus-visible .site-header-phone-label {
+    color: rgba(102, 187, 70, 0.85);
 }
 
 .site-header-nav {
@@ -1584,9 +1642,36 @@ body.dashboard-lightbox-open {
 
 /* ===== Mobile & Touch (Kunden + Händler) ===== */
 @media (max-width: 767px) {
+    .site-header-bar {
+        align-items: center;
+        gap: 0.5rem;
+    }
+
     .site-header .brand-logo-header {
         height: 58px;
-        max-width: min(280px, 72vw);
+        max-width: min(280px, 52vw);
+    }
+
+    .site-header-phone {
+        gap: 0.45rem;
+        padding: 0.2rem 0;
+    }
+
+    .site-header-phone-label {
+        font-size: 0.62rem;
+    }
+
+    .site-header-phone-number {
+        font-size: clamp(1rem, 4.8vw, 1.25rem);
+    }
+
+    .site-header-phone-icon svg {
+        width: 18px;
+        height: 18px;
+    }
+
+    .dashboard-header-actions .site-header-phone {
+        order: -1;
     }
 
     .site-main {

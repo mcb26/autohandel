@@ -18,13 +18,15 @@
 
     <div class="card shadow-sm dashboard-card mb-4">
         <div class="card-body">
-            <h2 class="h6 mb-2">Beispiel-Vorlagen (mit Platzhaltern)</h2>
+            <h2 class="h6 mb-2">Fertige Vorlagen (Corporate Design &amp; deutsches Recht)</h2>
             <p class="small text-muted mb-3">
-                Enthalten bereits Verkäufer, Käufer und Fahrzeugbeschreibung. Herunterladen, bei Bedarf anpassen und oben hochladen.
+                Professionell gestaltete Word-Vorlagen in AutoPark-Grün-Optik mit Vertragsparteien,
+                Fahrzeugdaten und rechtlichen Standardklauseln. Herunterladen und direkt hochladen –
+                oder vorher in Word anpassen.
             </p>
             <div class="d-flex flex-wrap gap-2">
-                <a class="btn btn-outline-dark btn-sm" href="{% url 'leads:dashboard_starter_template_download' 'purchase_contract' %}">Beispiel Kaufvertrag</a>
-                <a class="btn btn-outline-dark btn-sm" href="{% url 'leads:dashboard_starter_template_download' 'invoice_email' %}">Beispiel Rechnung / E-Mail</a>
+                <a class="btn btn-success btn-sm" href="{% url 'leads:dashboard_starter_template_download' 'purchase_contract' %}">Kaufvertrag-Vorlage (.docx)</a>
+                <a class="btn btn-success btn-sm" href="{% url 'leads:dashboard_starter_template_download' 'invoice_email' %}">Rechnung / E-Mail-Vorlage (.docx)</a>
             </div>
         </div>
     </div>

@@ -27,6 +27,8 @@ PLACEHOLDER_HELP_CONTRACT = [
     ("{{ auto_beschreibung }}", "Fahrzeug in einem Satz (Marke, EZ, km, …)"),
     ("{{ auto_beschreibung_lang }}", "Fahrzeug ausführlich (mehrzeilig)"),
     ("{{ vertragsgegenstand }}", "Vertragsgegenstand fertig formuliert"),
+    ("{{ angebots_nummer }}", "Angebotsnummer (z. B. APG-42)"),
+    ("{{ rechnungsnummer }}", "Rechnungsnummer mit Datum"),
 ]
 
 PLACEHOLDER_HELP_DETAILS = [
@@ -154,6 +156,8 @@ def build_lead_document_context(lead: CarLead) -> dict:
         "nachricht": lead.message or "",
         "interne_notizen": lead.internal_notes or "",
         "datum_heute": timezone.localdate().strftime("%d.%m.%Y"),
+        "angebots_nummer": f"APG-{lead.pk}",
+        "rechnungsnummer": f"APG-{lead.pk}-{timezone.localdate().strftime('%Y%m%d')}",
         "firma_name": settings.SITE_COMPANY_NAME,
         "firma_adresse": settings.SITE_ADDRESS,
         "firma_telefon": settings.SITE_PHONE,
@@ -221,66 +225,7 @@ def render_lead_document(lead: CarLead, template_type: str) -> tuple[bytes, str]
 
 def build_starter_template_docx(template_type: str) -> tuple[bytes, str]:
     try:
-        from docx import Document
+        from .docx_template_builder import build_starter_template_docx as _build
     except ImportError as exc:
         raise ValidationError("python-docx ist nicht installiert.") from exc
-
-    doc = Document()
-
-    if template_type == DealerDocumentTemplate.TYPE_PURCHASE_CONTRACT:
-        doc.add_heading("Kaufvertrag", level=1)
-        doc.add_paragraph(
-            "Zwischen dem Verkäufer {{ verkaeufer_name }} (PLZ {{ verkaeufer_plz }}) "
-            "und dem Käufer {{ kaeufer_name }}, {{ kaeufer_adresse }}, "
-            "wird folgender Kaufvertrag geschlossen."
-        )
-        doc.add_paragraph("")
-        doc.add_paragraph("§ 1 Vertragsgegenstand")
-        doc.add_paragraph("{{ vertragsgegenstand }}")
-        doc.add_paragraph("")
-        doc.add_paragraph("Fahrzeug im Detail:")
-        doc.add_paragraph("{{ auto_beschreibung_lang }}")
-        doc.add_paragraph("")
-        doc.add_paragraph("§ 2 Kaufpreis")
-        doc.add_paragraph(
-            "Der vereinbarte Kaufpreis beträgt {{ preisvorstellung }} EUR "
-            "(Preisvorstellung des Verkäufers)."
-        )
-        doc.add_paragraph("")
-        doc.add_paragraph("§ 3 Sonstiges")
-        doc.add_paragraph("Ort, Datum: _________________________ , {{ datum_heute }}")
-        doc.add_paragraph("")
-        doc.add_paragraph("_________________________          _________________________")
-        doc.add_paragraph("{{ verkaeufer_name }} (Verkäufer)   {{ kaeufer_name }} (Käufer)")
-        filename = "Beispiel_Kaufvertrag_Vorlage.docx"
-    else:
-        doc.add_heading("Rechnung / E-Mail-Vorlage", level=1)
-        doc.add_paragraph("An: {{ kunde_name }}")
-        doc.add_paragraph("PLZ: {{ kunde_plz }} · E-Mail: {{ kunde_email }} · Telefon: {{ kunde_telefon }}")
-        doc.add_paragraph("")
-        doc.add_paragraph("Betreff: Ihr Fahrzeug {{ auto }}")
-        doc.add_paragraph("")
-        doc.add_paragraph(
-            "Sehr geehrte/r {{ kunde_name }},"
-        )
-        doc.add_paragraph("")
-        doc.add_paragraph(
-            "bezugnehmend auf Ihre Anfrage zum Fahrzeug {{ auto_beschreibung }} "
-            "möchten wir Ihnen folgendes Angebot unterbreiten:"
-        )
-        doc.add_paragraph("")
-        doc.add_paragraph("{{ auto_beschreibung_lang }}")
-        doc.add_paragraph("")
-        doc.add_paragraph("Unser Angebot: {{ preisvorstellung }} EUR")
-        doc.add_paragraph("")
-        doc.add_paragraph("Mit freundlichen Grüßen")
-        doc.add_paragraph("{{ firma_name }}")
-        doc.add_paragraph("{{ firma_adresse }}")
-        doc.add_paragraph("Tel. {{ firma_telefon }} · {{ firma_email }}")
-        doc.add_paragraph("")
-        doc.add_paragraph("Datum: {{ datum_heute }}")
-        filename = "Beispiel_Rechnung_Email_Vorlage.docx"
-
-    buffer = io.BytesIO()
-    doc.save(buffer)
-    return buffer.getvalue(), filename
+    return _build(template_type)
