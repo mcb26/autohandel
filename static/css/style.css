@@ -1360,6 +1360,16 @@ h6 {
     max-width: 1100px;
 }
 
+.btn.is-loading {
+    opacity: 0.85;
+    pointer-events: none;
+}
+
+.btn.is-download-done {
+    background-color: var(--brand-green-dark);
+    border-color: var(--brand-green-dark);
+}
+
 .dashboard-meta-pill {
     display: inline-flex;
     align-items: center;

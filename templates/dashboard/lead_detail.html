@@ -276,12 +276,12 @@
                     <h2 class="h6 mb-3">Dokumente</h2>
                     <div class="d-grid gap-2">
                         {% if has_purchase_template %}
-                            <a class="btn btn-success" href="{% url 'leads:dashboard_lead_generate_document' lead.pk 'purchase_contract' %}">Kaufvertrag generieren (.docx)</a>
+                            <a class="btn btn-success" href="{% url 'leads:dashboard_lead_generate_document' lead.pk 'purchase_contract' %}" data-document-download data-label-default="Kaufvertrag generieren (.docx)" data-label-loading="Kaufvertrag wird erstellt …">Kaufvertrag generieren (.docx)</a>
                         {% else %}
                             <span class="btn btn-success disabled" title="Zuerst Vorlage hochladen">Kaufvertrag generieren (.docx)</span>
                         {% endif %}
                         {% if has_invoice_template %}
-                            <a class="btn btn-success" href="{% url 'leads:dashboard_lead_generate_document' lead.pk 'invoice_email' %}">Rechnung / E-Mail generieren (.docx)</a>
+                            <a class="btn btn-success" href="{% url 'leads:dashboard_lead_generate_document' lead.pk 'invoice_email' %}" data-document-download data-label-default="Rechnung / E-Mail generieren (.docx)" data-label-loading="Dokument wird erstellt …">Rechnung / E-Mail generieren (.docx)</a>
                         {% else %}
                             <span class="btn btn-success disabled" title="Zuerst Vorlage hochladen">Rechnung / E-Mail generieren (.docx)</span>
                         {% endif %}
@@ -320,5 +320,6 @@
 {% block extra_scripts %}
 {% load static %}
 <script src="{% static 'js/dashboard-lightbox.js' %}"></script>
+<script src="{% static 'js/dashboard-document-download.js' %}"></script>
 {% endblock %}
 
