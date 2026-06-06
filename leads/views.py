@@ -477,6 +477,13 @@ def dashboard_download_starter_template(request, template_type: str):
     return response
 
 
+def _document_download_error_response(request, message: str, *, pk: int | None = None):
+    if request.GET.get("dl") == "1":
+        return HttpResponse(message, status=400, content_type="text/plain; charset=utf-8")
+    messages.error(request, message)
+    return redirect("leads:dashboard_lead_detail", pk=pk)
+
+
 @login_required
 def dashboard_lead_generate_document(request, pk: int, template_type: str):
     allowed = {
@@ -484,15 +491,17 @@ def dashboard_lead_generate_document(request, pk: int, template_type: str):
         DealerDocumentTemplate.TYPE_INVOICE_EMAIL,
     }
     if template_type not in allowed:
-        messages.error(request, "Unbekannter Dokumenttyp.")
-        return redirect("leads:dashboard_lead_detail", pk=pk)
+        return _document_download_error_response(
+            request,
+            "Unbekannter Dokumenttyp.",
+            pk=pk,
+        )
 
     lead = get_object_or_404(CarLead, pk=pk)
     try:
         content, filename = render_lead_document(lead, template_type)
     except ValidationError as exc:
-        messages.error(request, str(exc))
-        return redirect("leads:dashboard_lead_detail", pk=pk)
+        return _document_download_error_response(request, str(exc), pk=pk)
 
     response = HttpResponse(content, content_type=DOCX_CONTENT_TYPE)
     response["Content-Disposition"] = f"attachment; filename*=UTF-8''{quote(filename)}"

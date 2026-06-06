@@ -1370,6 +1370,13 @@ h6 {
     border-color: var(--brand-green-dark);
 }
 
+.dashboard-document-download-frame {
+    display: none;
+    width: 0;
+    height: 0;
+    border: 0;
+}
+
 .dashboard-meta-pill {
     display: inline-flex;
     align-items: center;
