@@ -7,6 +7,30 @@ def _digits(value: str) -> str:
     return re.sub(r"\D", "", value or "")
 
 
+def _format_phone_display(phone: str) -> str:
+    raw = (phone or "").strip()
+    digits = _digits(raw)
+    if not digits:
+        return raw
+
+    if raw.startswith("+"):
+        if digits.startswith("49") and len(digits) >= 11:
+            local = digits[2:]
+            if len(local) == 10:
+                return f"+49 {local[:3]} {local[3:6]} {local[6:]}"
+            if len(local) == 11:
+                return f"+49 {local[:4]} {local[4:7]} {local[7:]}"
+        return raw
+
+    if digits.startswith("0") and len(digits) == 11:
+        return f"{digits[:4]} {digits[4:7]} {digits[7:]}"
+
+    if digits.startswith("0") and len(digits) == 12:
+        return f"{digits[:4]} {digits[4:8]} {digits[8:]}"
+
+    return raw
+
+
 def _telegram_url(value: str) -> str:
     value = (value or "").strip()
     if not value:
@@ -34,6 +58,7 @@ def site_brand(request):
     return {
         "site_brand_name": getattr(settings, "SITE_BRAND_NAME", "AutoPark Grün"),
         "site_logo_path": getattr(settings, "SITE_LOGO_PATH", "img/logo.png"),
+        "static_asset_version": getattr(settings, "STATIC_ASSET_VERSION", "1"),
     }
 
 
@@ -51,6 +76,7 @@ def site_contact(request):
         "site_company_name": getattr(settings, "SITE_COMPANY_NAME", ""),
         "site_address": getattr(settings, "SITE_ADDRESS", ""),
         "site_phone": phone,
+        "site_phone_display": _format_phone_display(phone),
         "site_phone_url": f"tel:{phone_digits}" if phone_digits else "",
         "site_email": email,
         "site_email_url": f"mailto:{email}" if email else "",

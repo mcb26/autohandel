@@ -197,20 +197,39 @@ document.addEventListener("DOMContentLoaded", function () {
             }
         }
 
+        var catalogErrorEl = document.getElementById("catalog-error");
+
+        function showCatalogError(message) {
+            if (!catalogErrorEl) {
+                return;
+            }
+            catalogErrorEl.textContent = message;
+            catalogErrorEl.classList.remove("d-none");
+        }
+
+        function hideCatalogError() {
+            if (catalogErrorEl) {
+                catalogErrorEl.classList.add("d-none");
+            }
+        }
+
         function fetchBrandCatalog(brandKey, showLoader) {
             if (!brandKey) {
                 return Promise.resolve(null);
             }
             if (catalogCache[brandKey]) {
+                hideCatalogError();
                 return Promise.resolve(catalogCache[brandKey]);
             }
             var url = brandDetailUrl.replace("__SLUG__", encodeURIComponent(brandKey));
             if (showLoader) {
                 setCatalogLoading(true);
             }
+            hideCatalogError();
             return fetch(url, { headers: { Accept: "application/json" } })
                 .then(function (response) {
                     if (!response.ok) {
+                        showCatalogError("Fahrzeugdaten konnten nicht geladen werden. Bitte Seite neu laden.");
                         return null;
                     }
                     return response.json();
@@ -218,10 +237,14 @@ document.addEventListener("DOMContentLoaded", function () {
                 .then(function (data) {
                     if (data) {
                         catalogCache[brandKey] = data;
+                        hideCatalogError();
+                    } else if (brandKey) {
+                        showCatalogError("Für diese Marke sind keine Modelle verfügbar.");
                     }
                     return data;
                 })
                 .catch(function () {
+                    showCatalogError("Verbindungsfehler beim Laden der Fahrzeugdaten. Bitte erneut versuchen.");
                     return null;
                 })
                 .finally(function () {
@@ -446,7 +469,14 @@ document.addEventListener("DOMContentLoaded", function () {
                         item.lastModified === file.lastModified
                     );
                 });
-                if (exists || selectedFiles.length >= maxFiles) {
+                if (selectedFiles.length >= maxFiles) {
+                    dropzone.classList.add("is-limit-reached");
+                    window.setTimeout(function () {
+                        dropzone.classList.remove("is-limit-reached");
+                    }, 2500);
+                    return;
+                }
+                if (exists) {
                     return;
                 }
                 selectedFiles.push(file);
@@ -501,13 +531,26 @@ document.addEventListener("DOMContentLoaded", function () {
         input.dispatchEvent(new Event("change", { bubbles: true }));
     }
 
+    function scrollToFirstFormError() {
+        var firstError = document.querySelector(".lead-form .is-field-invalid, .lead-form .alert-danger");
+        if (firstError) {
+            firstError.scrollIntoView({ behavior: "smooth", block: "center" });
+        }
+    }
+
     function initLeadFormSubmit() {
         var leadForm = document.querySelector(".lead-form");
         if (!leadForm) {
             return;
         }
 
+        var submitBtn = document.getElementById("lead-form-submit-btn");
+        var submitLabel = submitBtn && submitBtn.querySelector(".btn-submit-label");
         var contactNames = ["customer_name", "email", "phone", "postal_code"];
+
+        if (leadForm.querySelector(".is-field-invalid, .alert-danger")) {
+            scrollToFirstFormError();
+        }
 
         leadForm.addEventListener(
             "submit",
@@ -523,6 +566,14 @@ document.addEventListener("DOMContentLoaded", function () {
                 var privacy = document.getElementById("id_privacy_accepted");
                 if (privacy && privacy.checked) {
                     privacy.checked = true;
+                }
+
+                if (submitBtn && !submitBtn.disabled) {
+                    submitBtn.disabled = true;
+                    submitBtn.classList.add("is-loading");
+                    if (submitLabel) {
+                        submitLabel.textContent = "Wird gesendet …";
+                    }
                 }
             },
             true

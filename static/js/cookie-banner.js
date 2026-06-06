@@ -8,13 +8,18 @@ document.addEventListener("DOMContentLoaded", function () {
         return;
     }
 
+    function setBannerVisible(visible) {
+        banner.classList.toggle("d-none", !visible);
+        document.body.classList.toggle("cookie-banner-visible", visible);
+    }
+
     var consentRaw = localStorage.getItem(storageKey);
     if (consentRaw) {
-        banner.classList.add("d-none");
+        setBannerVisible(false);
         return;
     }
 
-    banner.classList.remove("d-none");
+    setBannerVisible(true);
 
     function storeConsent(marketingAllowed) {
         var payload = {
@@ -24,7 +29,7 @@ document.addEventListener("DOMContentLoaded", function () {
             ts: new Date().toISOString(),
         };
         localStorage.setItem(storageKey, JSON.stringify(payload));
-        banner.classList.add("d-none");
+        setBannerVisible(false);
     }
 
     acceptBtn.addEventListener("click", function () {

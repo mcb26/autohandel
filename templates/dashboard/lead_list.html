@@ -8,11 +8,11 @@
     <div class="dashboard-page-header d-flex flex-wrap align-items-center justify-content-between gap-3 mb-3">
         <div class="min-w-0">
             <h1 class="h4 mb-1">Fahrzeuganfragen</h1>
-            <div class="text-muted small d-none d-md-block">Spaltenköpfe zum Sortieren · eine Suchzeile für alle Textfelder</div>
+            <div class="text-muted small">Suche, filtern und sortieren – auf dem Handy als Kartenliste</div>
         </div>
         <div class="d-flex flex-wrap gap-2 dashboard-page-header-actions">
             <span class="dashboard-meta-pill">{{ paginator.count }} Treffer</span>
-            <a class="btn btn-outline-dark btn-sm" href="{% url 'leads:dashboard_home' %}">Zurücksetzen</a>
+            <a class="btn btn-outline-dark btn-sm d-none d-md-inline-flex" href="{% url 'leads:dashboard_home' %}">Zurücksetzen</a>
         </div>
     </div>
 
@@ -250,8 +250,9 @@
                             </div>
                         </div>
                     </details>
-                    <div class="col-12 d-grid">
+                    <div class="col-12 d-grid gap-2">
                         <button type="submit" class="btn btn-success">Filter anwenden</button>
+                        <a class="btn btn-outline-dark" href="{% url 'leads:dashboard_home' %}">Zurücksetzen</a>
                     </div>
                 </div>
             </div>

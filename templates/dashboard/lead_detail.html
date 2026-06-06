@@ -13,12 +13,12 @@
                 {% if prev_lead_pk %}
                     <a class="btn btn-outline-dark flex-fill" href="{% url 'leads:dashboard_lead_detail' prev_lead_pk %}{{ list_query }}">← Vorherige</a>
                 {% else %}
-                    <span class="btn btn-outline-dark flex-fill disabled">← Vorherige</span>
+                    <button type="button" class="btn btn-outline-dark flex-fill" disabled>← Vorherige</button>
                 {% endif %}
                 {% if next_lead_pk %}
                     <a class="btn btn-outline-dark flex-fill" href="{% url 'leads:dashboard_lead_detail' next_lead_pk %}{{ list_query }}">Nächste →</a>
                 {% else %}
-                    <span class="btn btn-outline-dark flex-fill disabled">Nächste →</span>
+                    <button type="button" class="btn btn-outline-dark flex-fill" disabled>Nächste →</button>
                 {% endif %}
             </div>
         </div>
@@ -263,7 +263,11 @@
                         <a class="btn btn-outline-success" href="tel:{{ lead.phone }}">Telefon anrufen</a>
                         <a class="btn btn-outline-primary" href="mailto:{{ lead.email }}">E-Mail schreiben</a>
                         {% with wa_text="Hallo "|add:lead.customer_name|add:", wir haben Ihre Anfrage zum Fahrzeug "|add:lead.vehicle_summary|add:" erhalten. Wann passt Ihnen ein kurzes Telefonat?" %}
-                            <a class="btn btn-outline-dark" href="https://wa.me/?text={{ wa_text|urlencode }}" target="_blank" rel="noopener">WhatsApp öffnen</a>
+                            {% with wa_url=lead.phone|whatsapp_phone_url %}
+                                {% if wa_url %}
+                                    <a class="btn btn-outline-dark" href="{{ wa_url }}?text={{ wa_text|urlencode }}" target="_blank" rel="noopener">WhatsApp an Kunde</a>
+                                {% endif %}
+                            {% endwith %}
                         {% endwith %}
                         {% with tg_url=lead.phone|telegram_phone_url %}
                             {% if tg_url %}
@@ -278,18 +282,18 @@
                         {% if has_purchase_template %}
                             <a class="btn btn-success" href="{% url 'leads:dashboard_lead_generate_document' lead.pk 'purchase_contract' %}" data-document-download data-label-default="Kaufvertrag generieren (.docx)" data-label-loading="Kaufvertrag wird erstellt …">Kaufvertrag generieren (.docx)</a>
                         {% else %}
-                            <span class="btn btn-success disabled" title="Zuerst Vorlage hochladen">Kaufvertrag generieren (.docx)</span>
+                            <button type="button" class="btn btn-success" disabled title="Zuerst Vorlage hochladen">Kaufvertrag generieren (.docx)</button>
                         {% endif %}
                         {% if has_invoice_template %}
-                            <a class="btn btn-success" href="{% url 'leads:dashboard_lead_generate_document' lead.pk 'invoice_email' %}" data-document-download data-label-default="Rechnung / E-Mail generieren (.docx)" data-label-loading="Dokument wird erstellt …">Rechnung / E-Mail generieren (.docx)</a>
+                            <a class="btn btn-outline-success" href="{% url 'leads:dashboard_lead_generate_document' lead.pk 'invoice_email' %}" data-document-download data-label-default="Rechnung / E-Mail generieren (.docx)" data-label-loading="Dokument wird erstellt …">Rechnung / E-Mail generieren (.docx)</a>
                         {% else %}
-                            <span class="btn btn-success disabled" title="Zuerst Vorlage hochladen">Rechnung / E-Mail generieren (.docx)</span>
+                            <button type="button" class="btn btn-outline-success" disabled title="Zuerst Vorlage hochladen">Rechnung / E-Mail generieren (.docx)</button>
                         {% endif %}
                         <a class="btn btn-outline-secondary btn-sm" href="{% url 'leads:dashboard_document_templates' %}">Vorlagen verwalten</a>
                         <hr class="my-1">
-                        <a class="btn btn-outline-dark" href="{% url 'leads:dashboard_lead_print' lead.pk %}?images=0" target="_blank">Angebot drucken (ohne Bilder)</a>
-                        <a class="btn btn-outline-dark" href="{% url 'leads:dashboard_lead_print' lead.pk %}?images=1" target="_blank">Angebot drucken (mit Bildern)</a>
-                        <a class="btn btn-dark" href="{% url 'leads:dashboard_lead_package_download' lead.pk %}">Komplettpaket herunterladen</a>
+                        <a class="btn btn-outline-dark btn-sm" href="{% url 'leads:dashboard_lead_print' lead.pk %}?images=0" target="_blank">Angebot drucken (ohne Bilder)</a>
+                        <a class="btn btn-outline-dark btn-sm" href="{% url 'leads:dashboard_lead_print' lead.pk %}?images=1" target="_blank">Angebot drucken (mit Bildern)</a>
+                        <a class="btn btn-dark btn-sm" href="{% url 'leads:dashboard_lead_package_download' lead.pk %}">Komplettpaket herunterladen</a>
                     </div>
                     {% if not has_purchase_template or not has_invoice_template %}
                         <p class="small text-muted mb-0 mt-2">

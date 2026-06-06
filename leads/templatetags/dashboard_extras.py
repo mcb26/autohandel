@@ -8,6 +8,15 @@ register = template.Library()
 
 
 @register.filter
+def whatsapp_phone_url(phone: str) -> str:
+    """WhatsApp-Chat zu einer Telefonnummer (wa.me/…)."""
+    digits = re.sub(r"\D", "", phone or "")
+    if digits.startswith("0"):
+        digits = "49" + digits[1:]
+    return f"https://wa.me/{digits}" if digits else ""
+
+
+@register.filter
 def telegram_phone_url(phone: str) -> str:
     """Telegram-Chat zu einer Telefonnummer (t.me/+…)."""
     digits = re.sub(r"\D", "", phone or "")

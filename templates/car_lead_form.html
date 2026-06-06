@@ -1,4 +1,4 @@
-<div class="lead-form-panel">
+<div class="lead-form-panel" id="angebot-form">
     <div class="form-header text-center text-md-start mb-4">
         <h2 class="form-header-title font-heading mb-0">
             <span class="text-brand">KOSTENLOSES</span> ANGEBOT ANFORDERN
@@ -8,9 +8,8 @@
     <form method="post" enctype="multipart/form-data" novalidate class="lead-form">
         {% csrf_token %}
         {% if form.errors %}
-            <div class="alert alert-warning lead-form-validation-hint" role="status">
-                Bitte prüfen Sie die markierten Felder. Bei Kontaktdaten: Feld einmal anklicken oder
-                Vorschlag aus der Liste wählen, dann erneut absenden.
+            <div class="alert alert-warning lead-form-validation-hint" role="alert">
+                Bitte die rot markierten Felder ausfüllen. Die Seite springt automatisch zum ersten Fehler.
             </div>
         {% endif %}
         {% if form.non_field_errors %}
@@ -32,6 +31,7 @@
                 <span class="catalog-loading-spinner" aria-hidden="true"></span>
                 <span>Modelle werden geladen …</span>
             </div>
+            <div id="catalog-error" class="alert alert-danger catalog-error d-none" role="alert"></div>
             <div class="row g-3 vehicle-catalog-row">
                 {% include "includes/form_field.html" with field=form.brand col_class="col-12 col-md-6 col-lg-3" %}
                 {% include "includes/form_field.html" with field=form.model col_class="col-12 col-md-6 col-lg-3" %}
@@ -94,7 +94,7 @@
 
         <fieldset class="form-section form-section-legal">
             <div class="row g-3">
-                {% include "includes/form_field.html" with field=form.privacy_accepted %}
+                {% include "includes/form_privacy_field.html" with field=form.privacy_accepted %}
                 {% include "includes/form_field.html" with field=form.marketing_consent %}
             </div>
         </fieldset>
@@ -107,9 +107,9 @@
         </fieldset>
 
         <div class="lead-form-submit-wrap">
-            <button type="submit" class="btn btn-success btn-lg w-100 btn-submit-offer">
+            <button type="submit" class="btn btn-success btn-lg w-100 btn-submit-offer" id="lead-form-submit-btn">
                 <span class="btn-submit-icon" aria-hidden="true">&#9992;</span>
-                Angebot anfordern
+                <span class="btn-submit-label">Angebot anfordern</span>
             </button>
             <p class="form-trust-note text-center text-muted small mt-2 mb-0">
                 <span class="form-trust-icon" aria-hidden="true">&#128737;</span>

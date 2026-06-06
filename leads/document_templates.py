@@ -196,7 +196,11 @@ def render_lead_document(lead: CarLead, template_type: str) -> tuple[bytes, str]
     try:
         from docxtpl import DocxTemplate
     except ImportError as exc:
-        raise ValidationError("docxtpl ist nicht installiert. Bitte requirements.txt installieren.") from exc
+        raise ValidationError(
+            "docxtpl ist nicht installiert. Bitte den Server mit venv starten: "
+            "source venv/bin/activate && pip install -r requirements.txt "
+            "oder: ./scripts/dev-server.sh"
+        ) from exc
 
     template.file.open("rb")
     try:

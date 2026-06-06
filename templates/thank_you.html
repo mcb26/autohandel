@@ -9,11 +9,16 @@
             <div class="card-body p-4 p-md-5 text-center">
                 <div class="thank-you-icon mb-3" aria-hidden="true">&#10003;</div>
                 <h1 class="h3 mb-3">Vielen Dank für Ihre Anfrage.</h1>
-                <p class="mb-3">Wir haben Ihre Fahrzeugdaten erhalten und melden uns zeitnah bei Ihnen.</p>
+                <p class="mb-3">Wir haben Ihre Fahrzeugdaten erhalten und melden uns in der Regel innerhalb von 24 Stunden.</p>
                 {% if summary %}
                     <p class="thank-you-summary mb-4">{{ summary }}</p>
                 {% endif %}
-                <a href="{% url 'leads:home' %}" class="btn btn-success">Zurück zur Startseite</a>
+                <div class="d-flex flex-column flex-sm-row gap-2 justify-content-center">
+                    <a href="{% url 'leads:home' %}" class="btn btn-outline-dark">Zurück zur Startseite</a>
+                    {% if site_phone_url %}
+                        <a href="{{ site_phone_url }}" class="btn btn-success">Jetzt anrufen: {{ site_phone }}</a>
+                    {% endif %}
+                </div>
             </div>
         </div>
     </div>
